@@ -47,11 +47,11 @@ jobs:
         if: steps.get-version.outputs.skip != 'true'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'chore(global): bump global version to ${{ needs.determine-version.outputs.version }}'
-          body: '* Version: ${{ needs.determine-version.outputs.version }}'
-          branch: chore/bump-global-version-${{ needs.determine-version.outputs.version }}
+          title: 'chore(global): bump global version to ${{ steps.get-version.outputs.version }}'
+          body: '* Version: ${{ steps.get-version.outputs.version }}'
+          branch: chore/bump-global-version-${{ steps.get-version.outputs.version }}
           labels: needs-review
-          commit-message: 'chore(global): bump global version to ${{ needs.determine-version.outputs.version }}'
+          commit-message: 'chore(global): bump global version to ${{ steps.get-version.outputs.version }}'
 
   upload-assets:
     needs: determine-version
@@ -61,7 +61,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          branch: global
+          ref: global
           fetch-depth: 0
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -75,7 +75,11 @@ jobs:
             ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
             ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Download assets
-        run: go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s global -o ./tmp -f "**/TableBundles/**"
+        run: |
+          git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
+          go env -w GOPRIVATE="github.com/arisu-archive"
+          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s global -o ./tmp -f "**/TableBundles/**"
+          git config --global --remove-section url."git@github.com:arisu-archive"
       - name: Decrypt assets
         run: |
           # Start the decryption process for Preload/TableBundles
@@ -84,9 +88,6 @@ jobs:
           done
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/ConquestMap.zip -o .
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/HexaMap.zip -o .
-          # Move ConquestMap,HexaMap to root
-          mv ./Others/ConquestMap ./
-          mv ./Others/HexaMap ./
           rm -rf ./tmp
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
