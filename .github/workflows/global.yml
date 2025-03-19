@@ -1,0 +1,97 @@
+name: Update Global Version
+
+on:
+  schedule:
+    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every Tuesday
+    # As this is the only time the global version is updated
+    - cron: "0 1-14/2 * * 2"
+  workflow_dispatch:
+    inputs:
+      force_update:
+        type: boolean
+        required: false
+        description: 'Force update the game version'
+      package_name:
+        type: string
+        required: true
+        description: 'The package name of the APK'
+        default: 'com.nexon.bluearchive'
+
+jobs:
+  determine-version:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.get-version.outputs.skip }}
+      version: ${{ steps.get-version.outputs.version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/actions
+            global.txt
+          sparse-checkout-cone-mode: false
+          fetch-depth: 0
+
+      - name: Get version
+        id: get-version
+        uses: ./.github/actions/get-version/
+        with:
+          package_name: ${{ inputs.package_name }}
+          force_update: ${{ inputs.force_update }}
+          version_file: global.txt
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: 'chore(global): bump global version to ${{ needs.determine-version.outputs.version }}'
+          body: '* Version: ${{ needs.determine-version.outputs.version }}'
+          branch: chore/bump-global-version-${{ needs.determine-version.outputs.version }}
+          labels: needs-review
+          commit-message: 'chore(global): bump global version to ${{ needs.determine-version.outputs.version }}'
+
+  upload-assets:
+    needs: determine-version
+    if: needs.determine-version.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          branch: global
+          fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '^1.24'
+      - name: Setup SSH agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: |
+            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
+            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
+            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
+      - name: Download assets
+        run: go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s global -o ./tmp -f "**/TableBundles/**"
+      - name: Decrypt assets
+        run: |
+          # Start the decryption process for Preload/TableBundles
+          for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip"; do
+            go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/Preload/TableBundles/$file -o .
+          done
+          go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/ConquestMap.zip -o .
+          go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/HexaMap.zip -o .
+          # Move ConquestMap,HexaMap to root
+          mv ./Others/ConquestMap ./
+          mv ./Others/HexaMap ./
+          rm -rf ./tmp
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: 'chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}'
+          body: '* Version: ${{ needs.determine-version.outputs.version }}'
+          branch: chore/bump-global-assets-${{ needs.determine-version.outputs.version }}
+          labels: needs-review
+          commit-message: 'chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}'
