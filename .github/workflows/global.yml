@@ -29,6 +29,7 @@ jobs:
         with:
           sparse-checkout: |
             .github/actions
+            scripts/
             global.txt
           sparse-checkout-cone-mode: false
           fetch-depth: 0
