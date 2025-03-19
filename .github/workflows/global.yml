@@ -44,6 +44,7 @@ jobs:
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
+        if: steps.get-version.outputs.skip != 'true'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           title: 'chore(global): bump global version to ${{ needs.determine-version.outputs.version }}'
