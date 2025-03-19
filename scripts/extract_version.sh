@@ -1,7 +1,7 @@
 #!/bin/bash
 
 package_name=$1
-skip=$2
+forced_update=$2
 version_file=$3
 
 latest_version=$(curl -s https://ba.pokeguy.dev/$package_name/version.txt)
@@ -14,9 +14,9 @@ if [ -z "$latest_version" ]; then
     exit 0
 fi
 
-if [ "$skip" = "true" ]; then
-    echo "Skipping update..."
-    echo "skip=true" >> $GITHUB_OUTPUT
+if [ "$forced_update" = "true" ]; then
+    echo "Forced update. Skipping..."
+    echo "skip=false" >> $GITHUB_OUTPUT
     exit 0
 fi
 
