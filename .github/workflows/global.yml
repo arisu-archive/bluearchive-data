@@ -88,6 +88,7 @@ jobs:
           done
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/ConquestMap.zip -o .
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/HexaMap.zip -o .
+          zip -r assets.zip .
           # Split large assets (> 100MB) into multiple JSON files to avoid using Git LFS.
           # Split large JSON files into smaller chunks
           for file in $(find . -type f -name "*.json" -size +100M); do
@@ -113,10 +114,9 @@ jobs:
           mc alias set target ${{ vars.S3_ENDPOINT }} ${{ secrets.S3_ACCESS_KEY }} ${{ secrets.S3_SECRET_KEY }}
       - name: Upload Assets
         run: |
-          zip -r assets.zip .
           sha256sum assets.zip | cut -f1 -d' ' > assets.zip.sha256
           mc cp ./assets.zip target/bluearchive/${{ inputs.package_name }}/assets.zip
-          mc cp ./assets.sha256 target/bluearchive/${{ inputs.package_name }}/assets.sha256
+          mc cp ./assets.zip.sha256 target/bluearchive/${{ inputs.package_name }}/assets.zip.sha256
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
         with:
