@@ -89,7 +89,7 @@ jobs:
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/ConquestMap.zip -o .
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/HexaMap.zip -o .
           rm -rf ./tmp
-          zip -r assets.zip .
+          { git ls-files; git ls-files --others --exclude-standard; } | zip -r assets.zip -@
           # Split large assets (> 100MB) into multiple JSON files to avoid using Git LFS.
           # Split large JSON files into smaller chunks
           for file in $(find . -type f -name "*.json" -size +100M); do
