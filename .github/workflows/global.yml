@@ -61,14 +61,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: global
           fetch-depth: 0
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
           go-version: '^1.24'
       - name: Setup SSH agent
-        uses: webfactory/ssh-agent@v0.9.0
+        uses: webfactory/ssh-agent@v0.9.1
         with:
           ssh-private-key: |
             ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
@@ -109,6 +108,7 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
         with:
+          base: global
           token: ${{ secrets.GITHUB_TOKEN }}
           title: 'chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}'
           body: '* Version: ${{ needs.determine-version.outputs.version }}'
