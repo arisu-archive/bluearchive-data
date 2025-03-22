@@ -90,21 +90,10 @@ jobs:
           go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/HexaMap.zip -o .
           rm -rf ./tmp
           { git ls-files; git ls-files --others --exclude-standard; } | zip -r assets.zip -@
-          # Split large assets (> 100MB) into multiple JSON files to avoid using Git LFS.
-          # Split large JSON files into smaller chunks
+          # Split the large json files into smaller chunks
           for file in $(find . -type f -name "*.json" -size +100M); do
-            echo "Splitting large file: $file"
-            # Get the base filename without extension
-            base_name="${file%.*}"
-            # Create a directory for the split files
-            mkdir -p "${base_name}_split"
-            # Use jq to split array into chunks of approximately 50MB each
-            # Ensure each chunk is a valid JSON array
-            jq -c '.[]' "$file" | split -l 1000 --filter='echo "[" && cat && echo "]"' - "${base_name}_split/chunk_"
-            # Remove the original large file
-            rm "$file"
+            ./scripts/split_json.sh "$file" 100
           done
-          rm -rf ./tmp
       - name: Upload Assets
         run: |
           curl https://dl.min.io/client/mc/release/linux-amd64/mc \
