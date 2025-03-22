@@ -1,0 +1,36 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "localize_code_id": 2701768717,
+      "mail_type": 13,
+      "mail_send_period_from": "2021-06-23 14:01:00",
+      "mail_send_period_to": "2021-12-14 12:00:00",
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_parcel_amount": [
+        1200
+      ]
+    },
+    {
+      "id": 2,
+      "localize_code_id": 2701768717,
+      "mail_type": 13,
+      "mail_send_period_from": "2021-12-14 12:00:01",
+      "mail_send_period_to": "2099-12-31 12:00:00",
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_parcel_amount": [
+        1200
+      ]
+    }
+  ]
+}

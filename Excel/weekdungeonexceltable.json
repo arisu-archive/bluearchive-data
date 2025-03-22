@@ -1,0 +1,1976 @@
+{
+  "data_list": [
+    {
+      "stage_id": 30101,
+      "week_dungeon_type": 1,
+      "difficulty": 1,
+      "battle_duration": 300000,
+      "prev_stage_id": 0,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000001,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 10,
+      "stage_reward_id": 30101,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30102,
+      "week_dungeon_type": 1,
+      "difficulty": 2,
+      "battle_duration": 300000,
+      "prev_stage_id": 30101,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000002,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 15,
+      "stage_reward_id": 30102,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30103,
+      "week_dungeon_type": 1,
+      "difficulty": 3,
+      "battle_duration": 300000,
+      "prev_stage_id": 30102,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000003,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 20,
+      "stage_reward_id": 30103,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30104,
+      "week_dungeon_type": 1,
+      "difficulty": 4,
+      "battle_duration": 300000,
+      "prev_stage_id": 30103,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000004,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 30,
+      "stage_reward_id": 30104,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30105,
+      "week_dungeon_type": 1,
+      "difficulty": 5,
+      "battle_duration": 300000,
+      "prev_stage_id": 30104,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000005,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 40,
+      "stage_reward_id": 30105,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30106,
+      "week_dungeon_type": 1,
+      "difficulty": 6,
+      "battle_duration": 300000,
+      "prev_stage_id": 30105,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000006,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 50,
+      "stage_reward_id": 30106,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30107,
+      "week_dungeon_type": 1,
+      "difficulty": 7,
+      "battle_duration": 300000,
+      "prev_stage_id": 30106,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000007,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 60,
+      "stage_reward_id": 30107,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30108,
+      "week_dungeon_type": 1,
+      "difficulty": 8,
+      "battle_duration": 300000,
+      "prev_stage_id": 30107,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000008,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 70,
+      "stage_reward_id": 30108,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30109,
+      "week_dungeon_type": 1,
+      "difficulty": 9,
+      "battle_duration": 300000,
+      "prev_stage_id": 30108,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 301000009,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 0,
+      "recommand_level": 73,
+      "stage_reward_id": 30109,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        6,
+        8,
+        10
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30201,
+      "week_dungeon_type": 2,
+      "difficulty": 1,
+      "battle_duration": 300000,
+      "prev_stage_id": 0,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000001,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 10,
+      "stage_reward_id": 30201,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30202,
+      "week_dungeon_type": 2,
+      "difficulty": 2,
+      "battle_duration": 300000,
+      "prev_stage_id": 30201,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000002,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 15,
+      "stage_reward_id": 30202,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30203,
+      "week_dungeon_type": 2,
+      "difficulty": 3,
+      "battle_duration": 300000,
+      "prev_stage_id": 30202,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000003,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 20,
+      "stage_reward_id": 30203,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30204,
+      "week_dungeon_type": 2,
+      "difficulty": 4,
+      "battle_duration": 300000,
+      "prev_stage_id": 30203,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000004,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 30,
+      "stage_reward_id": 30204,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30205,
+      "week_dungeon_type": 2,
+      "difficulty": 5,
+      "battle_duration": 300000,
+      "prev_stage_id": 30204,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000005,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 40,
+      "stage_reward_id": 30205,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30206,
+      "week_dungeon_type": 2,
+      "difficulty": 6,
+      "battle_duration": 300000,
+      "prev_stage_id": 30205,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000006,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 50,
+      "stage_reward_id": 30206,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30207,
+      "week_dungeon_type": 2,
+      "difficulty": 7,
+      "battle_duration": 300000,
+      "prev_stage_id": 30206,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000007,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 60,
+      "stage_reward_id": 30207,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30208,
+      "week_dungeon_type": 2,
+      "difficulty": 8,
+      "battle_duration": 300000,
+      "prev_stage_id": 30207,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000008,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 70,
+      "stage_reward_id": 30208,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30209,
+      "week_dungeon_type": 2,
+      "difficulty": 9,
+      "battle_duration": 300000,
+      "prev_stage_id": 30208,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 302000009,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 1,
+      "recommand_level": 73,
+      "stage_reward_id": 30209,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        2,
+        4,
+        9,
+        11
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30301,
+      "week_dungeon_type": 3,
+      "difficulty": 1,
+      "battle_duration": 300000,
+      "prev_stage_id": 0,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000001,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 10,
+      "stage_reward_id": 30301,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30302,
+      "week_dungeon_type": 3,
+      "difficulty": 2,
+      "battle_duration": 300000,
+      "prev_stage_id": 30301,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000002,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 15,
+      "stage_reward_id": 30302,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30303,
+      "week_dungeon_type": 3,
+      "difficulty": 3,
+      "battle_duration": 300000,
+      "prev_stage_id": 30302,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000003,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 20,
+      "stage_reward_id": 30303,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30304,
+      "week_dungeon_type": 3,
+      "difficulty": 4,
+      "battle_duration": 300000,
+      "prev_stage_id": 30303,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000004,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 30,
+      "stage_reward_id": 30304,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30305,
+      "week_dungeon_type": 3,
+      "difficulty": 5,
+      "battle_duration": 300000,
+      "prev_stage_id": 30304,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000005,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 40,
+      "stage_reward_id": 30305,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30306,
+      "week_dungeon_type": 3,
+      "difficulty": 6,
+      "battle_duration": 300000,
+      "prev_stage_id": 30305,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000006,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 50,
+      "stage_reward_id": 30306,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30307,
+      "week_dungeon_type": 3,
+      "difficulty": 7,
+      "battle_duration": 300000,
+      "prev_stage_id": 30306,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000007,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 60,
+      "stage_reward_id": 30307,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30308,
+      "week_dungeon_type": 3,
+      "difficulty": 8,
+      "battle_duration": 300000,
+      "prev_stage_id": 30307,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000008,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 70,
+      "stage_reward_id": 30308,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 30309,
+      "week_dungeon_type": 3,
+      "difficulty": 9,
+      "battle_duration": 300000,
+      "prev_stage_id": 30308,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        22
+      ],
+      "stage_enter_cost_amount": [
+        1
+      ],
+      "ground_id": 303000009,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        150
+      ],
+      "stage_topography": 2,
+      "recommand_level": 73,
+      "stage_reward_id": 30309,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [
+        1,
+        7,
+        3
+      ],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31101,
+      "week_dungeon_type": 4,
+      "difficulty": 1,
+      "battle_duration": 180000,
+      "prev_stage_id": 0,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        5
+      ],
+      "ground_id": 311000001,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 5,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31102,
+      "week_dungeon_type": 4,
+      "difficulty": 2,
+      "battle_duration": 180000,
+      "prev_stage_id": 31101,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        10
+      ],
+      "ground_id": 311000002,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 20,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31103,
+      "week_dungeon_type": 4,
+      "difficulty": 3,
+      "battle_duration": 180000,
+      "prev_stage_id": 31102,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        15
+      ],
+      "ground_id": 311000003,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 30,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31104,
+      "week_dungeon_type": 4,
+      "difficulty": 4,
+      "battle_duration": 180000,
+      "prev_stage_id": 31103,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        20
+      ],
+      "ground_id": 311000004,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 40,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31105,
+      "week_dungeon_type": 4,
+      "difficulty": 5,
+      "battle_duration": 180000,
+      "prev_stage_id": 31104,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        25
+      ],
+      "ground_id": 311000005,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 50,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31106,
+      "week_dungeon_type": 4,
+      "difficulty": 6,
+      "battle_duration": 180000,
+      "prev_stage_id": 31105,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        30
+      ],
+      "ground_id": 311000006,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 55,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31107,
+      "week_dungeon_type": 4,
+      "difficulty": 7,
+      "battle_duration": 180000,
+      "prev_stage_id": 31106,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        35
+      ],
+      "ground_id": 311000007,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 60,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31108,
+      "week_dungeon_type": 4,
+      "difficulty": 8,
+      "battle_duration": 180000,
+      "prev_stage_id": 31107,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000008,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 65,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31109,
+      "week_dungeon_type": 4,
+      "difficulty": 9,
+      "battle_duration": 180000,
+      "prev_stage_id": 31108,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000009,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 73,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31110,
+      "week_dungeon_type": 4,
+      "difficulty": 10,
+      "battle_duration": 180000,
+      "prev_stage_id": 31109,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000010,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 78,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31111,
+      "week_dungeon_type": 4,
+      "difficulty": 11,
+      "battle_duration": 180000,
+      "prev_stage_id": 31110,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000011,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 80,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31112,
+      "week_dungeon_type": 4,
+      "difficulty": 12,
+      "battle_duration": 180000,
+      "prev_stage_id": 31111,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000012,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 85,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 31113,
+      "week_dungeon_type": 4,
+      "difficulty": 13,
+      "battle_duration": 180000,
+      "prev_stage_id": 31112,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 311000013,
+      "star_goal": [
+        3,
+        3,
+        3
+      ],
+      "star_goal_amount": [
+        1,
+        4,
+        5
+      ],
+      "stage_topography": 0,
+      "recommand_level": 86,
+      "stage_reward_id": 0,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32101,
+      "week_dungeon_type": 5,
+      "difficulty": 1,
+      "battle_duration": 180000,
+      "prev_stage_id": 0,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        5
+      ],
+      "ground_id": 321000001,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 5,
+      "stage_reward_id": 32101,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32102,
+      "week_dungeon_type": 5,
+      "difficulty": 2,
+      "battle_duration": 180000,
+      "prev_stage_id": 32101,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        10
+      ],
+      "ground_id": 321000002,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 20,
+      "stage_reward_id": 32102,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32103,
+      "week_dungeon_type": 5,
+      "difficulty": 3,
+      "battle_duration": 180000,
+      "prev_stage_id": 32102,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        15
+      ],
+      "ground_id": 321000003,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 30,
+      "stage_reward_id": 32103,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32104,
+      "week_dungeon_type": 5,
+      "difficulty": 4,
+      "battle_duration": 180000,
+      "prev_stage_id": 32103,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        20
+      ],
+      "ground_id": 321000004,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 40,
+      "stage_reward_id": 32104,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32105,
+      "week_dungeon_type": 5,
+      "difficulty": 5,
+      "battle_duration": 180000,
+      "prev_stage_id": 32104,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        25
+      ],
+      "ground_id": 321000005,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 50,
+      "stage_reward_id": 32105,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32106,
+      "week_dungeon_type": 5,
+      "difficulty": 6,
+      "battle_duration": 180000,
+      "prev_stage_id": 32105,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        30
+      ],
+      "ground_id": 321000006,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 55,
+      "stage_reward_id": 32106,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32107,
+      "week_dungeon_type": 5,
+      "difficulty": 7,
+      "battle_duration": 180000,
+      "prev_stage_id": 32106,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        35
+      ],
+      "ground_id": 321000007,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 60,
+      "stage_reward_id": 32107,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32108,
+      "week_dungeon_type": 5,
+      "difficulty": 8,
+      "battle_duration": 180000,
+      "prev_stage_id": 32107,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000008,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 65,
+      "stage_reward_id": 32108,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32109,
+      "week_dungeon_type": 5,
+      "difficulty": 9,
+      "battle_duration": 180000,
+      "prev_stage_id": 32108,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000009,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 73,
+      "stage_reward_id": 32109,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32110,
+      "week_dungeon_type": 5,
+      "difficulty": 10,
+      "battle_duration": 180000,
+      "prev_stage_id": 32109,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000010,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 78,
+      "stage_reward_id": 32110,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32111,
+      "week_dungeon_type": 5,
+      "difficulty": 11,
+      "battle_duration": 180000,
+      "prev_stage_id": 32110,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000011,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 80,
+      "stage_reward_id": 32111,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32112,
+      "week_dungeon_type": 5,
+      "difficulty": 12,
+      "battle_duration": 180000,
+      "prev_stage_id": 32111,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000012,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 85,
+      "stage_reward_id": 32112,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    },
+    {
+      "stage_id": 32113,
+      "week_dungeon_type": 5,
+      "difficulty": 13,
+      "battle_duration": 180000,
+      "prev_stage_id": 32112,
+      "stage_enter_cost_type": [
+        2
+      ],
+      "stage_enter_cost_id": [
+        5
+      ],
+      "stage_enter_cost_amount": [
+        40
+      ],
+      "ground_id": 321000013,
+      "star_goal": [
+        2,
+        1,
+        4
+      ],
+      "star_goal_amount": [
+        1,
+        1,
+        120
+      ],
+      "stage_topography": 2,
+      "recommand_level": 86,
+      "stage_reward_id": 32113,
+      "play_time_limit_in_seconds": 86400,
+      "battle_reward_exp": 0,
+      "battle_reward_player_exp": 0,
+      "group_buff_id": [],
+      "echelon_extension_type": 0
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "data_list": [
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 0,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 1,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 2,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 3,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 5,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 0,
+      "damage_rate": 20000,
+      "damage_attribute": 2,
+      "min_damage_rate": 15000,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 1,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 2,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 3,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 5,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 0,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 1,
+      "damage_rate": 20000,
+      "damage_attribute": 2,
+      "min_damage_rate": 15000,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 2,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 3,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 5,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 0,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 1,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 2,
+      "damage_rate": 20000,
+      "damage_attribute": 2,
+      "min_damage_rate": 15000,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 3,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 5,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 0,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 1,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 2,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 3,
+      "damage_rate": 20000,
+      "damage_attribute": 2,
+      "min_damage_rate": 15000,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 5,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 0,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 1,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 2,
+      "damage_rate": 15000,
+      "damage_attribute": 3,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 3,
+      "damage_rate": 5000,
+      "damage_attribute": 0,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 5,
+      "damage_rate": 20000,
+      "damage_attribute": 2,
+      "min_damage_rate": 15000,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": true
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 0,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 1,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 2,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 3,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 5,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 0,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 2,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 1,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 4,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 3,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 6,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    },
+    {
+      "damage_factor_group_id": "default",
+      "bullet_type": 5,
+      "armor_type": 4,
+      "damage_rate": 10000,
+      "damage_attribute": 1,
+      "min_damage_rate": 0,
+      "max_damage_rate": 50000,
+      "show_highlight_floater": false
+    }
+  ]
+}

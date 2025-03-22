@@ -1,0 +1,56 @@
+{
+  "data_list": [
+    {
+      "event_content_id": 818,
+      "dice_cost_goods_id": 130003,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0001",
+      "is_using_fixed_dice": false,
+      "dice_race_event_type": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
+      "event_content_id": 827,
+      "dice_cost_goods_id": 130008,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0002",
+      "is_using_fixed_dice": true,
+      "dice_race_event_type": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceSpecialReward"
+      ]
+    },
+    {
+      "event_content_id": 10818,
+      "dice_cost_goods_id": 130009,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0001",
+      "is_using_fixed_dice": true,
+      "dice_race_event_type": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
+      "event_content_id": 10827,
+      "dice_cost_goods_id": 130017,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0002",
+      "is_using_fixed_dice": true,
+      "dice_race_event_type": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceSpecialReward"
+      ]
+    }
+  ]
+}
