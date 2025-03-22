@@ -1,0 +1,539 @@
+{
+  "data_list": [
+    {
+      "id": 4153742595606662546,
+      "completion_report_event_name": "tutorial_first",
+      "compulsory_tutorial": true,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIScenarioNew",
+        "췃귑倻",
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_02",
+        "Tutorial_03"
+      ]
+    },
+    {
+      "id": 4153742595606662545,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": true,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIScenarioNew",
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_04",
+        "Tutorial_05"
+      ]
+    },
+    {
+      "id": 4153742595606662544,
+      "completion_report_event_name": "Tutorial_gacha",
+      "compulsory_tutorial": true,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UILobby",
+        "UIGacha",
+        "UIPopup_System",
+        "UIGachaResult",
+        "UIGachaResult"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_02"
+      ]
+    },
+    {
+      "id": 4153742595606662551,
+      "completion_report_event_name": "tutorial_complete",
+      "compulsory_tutorial": true,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIStageSelect",
+        "UIPopup_StageInfo_New",
+        "UICampaign",
+        "UIFormation",
+        "UIPopup_Formation_CharEdit",
+        "UIFormation",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UICampaign",
+        "UIRewardPopup"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_02",
+        "Tutorial_02",
+        "Tutorial_03",
+        "Tutorial_04",
+        "Tutorial_05",
+        "Tutorial_06",
+        "Tutorial_07",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662550,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UILobby",
+        "UIAcademyMessanger"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_02",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662549,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662548,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_02",
+        "Tutorial_02"
+      ]
+    },
+    {
+      "id": 4153742595606662555,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": true,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIWork"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662554,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICafe",
+        "췃昑ꀂ踋㸴뚯잋鮪"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662553,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICharacterCollection",
+        "UICharacterDetail",
+        "UIPopup_Skill_LevelUp"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_03",
+        "Tutorial_03",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662552,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIStageSelect",
+        "UIPopup_StageInfo_New",
+        "UICampaign"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_02",
+        "Tutorial_02",
+        "Tutorial_08"
+      ]
+    },
+    {
+      "id": 4153742595606662559,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIRaidLobby"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662558,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIArena",
+        "UIPopup_ArenaFormation"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662557,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UILobby",
+        "UILobbyCharacterSelectPopup",
+        "UILobby"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_03",
+        "Tutorial_01",
+        "Tutorial_04"
+      ]
+    },
+    {
+      "id": 4153742595606662556,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_06"
+      ]
+    },
+    {
+      "id": 4153742595606662531,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICraftDurationList",
+        "UICraftDuration"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662530,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIAcademyLobby",
+        "UIAcademyLocation",
+        "UIAcademyLocationSchedulesPopup"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662529,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UILobby",
+        "UICharacterCollection",
+        "UICharacterDetail"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_05",
+        "Tutorial_04",
+        "Tutorial_04"
+      ]
+    },
+    {
+      "id": 4153742595606662528,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIScenarioMode_ModeSelect"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662535,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIWeekDungeonLobby"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662534,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIWeekDungeonLobby_Chase",
+        "쳃뤠伈츜눐"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_02",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662533,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UILobby",
+        "UIPopup_MenuCollection",
+        "UIPopup_AccountSettings"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_06",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662532,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UICharacterDetail",
+        "UIPopup_WeaponInfo"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_05",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662539,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UITimeAttackLobby"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662538,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "쳃醮ꦊ✂催롃"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662537,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIMultiFloorRaid_Lobby",
+        "UIPopup_MultiFloorRaid_FloorList",
+        "UIMultiFloorRaid_Floor"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_01",
+        "Tutorial_01",
+        "Tutorial_01"
+      ]
+    },
+    {
+      "id": 4153742595606662536,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 0,
+      "ui_name": [
+        "UIStageSelect",
+        "UIPopup_StageInfo_New"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_03",
+        "Tutorial_03"
+      ]
+    },
+    {
+      "id": 4153742595606193142,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606193142,
+      "ui_name": [
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1011301_01",
+        "Tutorial_1011301_02"
+      ]
+    },
+    {
+      "id": 4153742595606193141,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606193141,
+      "ui_name": [
+        "췃귑倻",
+        "췃귑倻",
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1011302_01",
+        "Tutorial_1011302_02",
+        "Tutorial_1011302_03",
+        "Tutorial_1011302_04"
+      ]
+    },
+    {
+      "id": 4153742595606193140,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606193140,
+      "ui_name": [
+        "췃귑倻",
+        "췃귑倻",
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1021303_01",
+        "Tutorial_1021303_02",
+        "Tutorial_1021303_03",
+        "Tutorial_1021303_04"
+      ]
+    },
+    {
+      "id": 4153742595606239467,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606239467,
+      "ui_name": [
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1021304_01",
+        "Tutorial_1021304_02"
+      ]
+    },
+    {
+      "id": 4153742595606245658,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606245658,
+      "ui_name": [
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1031305_01"
+      ]
+    },
+    {
+      "id": 4153742595606245657,
+      "completion_report_event_name": "",
+      "compulsory_tutorial": false,
+      "description_tutorial": false,
+      "tutorial_stage_id": 4153742595606245657,
+      "ui_name": [
+        "췃귑倻",
+        "췃귑倻"
+      ],
+      "tutorial_parent_name": [
+        "Tutorial_1031306_01",
+        "Tutorial_1031306_02"
+      ]
+    }
+  ]
+}

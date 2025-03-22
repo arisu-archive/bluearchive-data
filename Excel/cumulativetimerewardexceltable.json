@@ -1,0 +1,80 @@
+{
+  "data_list": [
+    {
+      "id": 0,
+      "description": "CumulativeTimeReward_First",
+      "start_date": "2019-04-10",
+      "end_date": "2019-04-19",
+      "time_condition": [
+        900,
+        1800,
+        2700,
+        3600,
+        4500,
+        5400
+      ],
+      "reward_parcel_type": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "reward_id": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "reward_amount": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "id": 1,
+      "description": "CumulativeTimeReward_Second",
+      "start_date": "2019-04-20",
+      "end_date": "2020-01-08",
+      "time_condition": [
+        300,
+        900,
+        1500,
+        2100,
+        2700,
+        3600
+      ],
+      "reward_parcel_type": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "reward_id": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "reward_amount": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ]
+    }
+  ]
+}

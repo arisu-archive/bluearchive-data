@@ -1,0 +1,484 @@
+{
+  "data_list": [
+    {
+      "id": 4,
+      "start_date": "2022-10-18 11:00:00",
+      "end_date": "2022-10-25 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        1001,
+        1101,
+        1201,
+        1301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 5,
+      "start_date": "2022-11-15 11:00:00",
+      "end_date": "2022-11-22 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        2001,
+        2101,
+        2201,
+        2301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 6,
+      "start_date": "2022-11-29 11:00:00",
+      "end_date": "2022-12-06 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        3001,
+        3101,
+        3201,
+        3301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 7,
+      "start_date": "2023-01-10 11:00:00",
+      "end_date": "2023-01-17 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        4001,
+        4101,
+        4201,
+        4301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 8,
+      "start_date": "2023-01-24 11:00:00",
+      "end_date": "2023-01-31 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        5001,
+        5101,
+        5201,
+        5301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 9,
+      "start_date": "2023-02-21 11:00:00",
+      "end_date": "2023-02-28 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        6001,
+        6101,
+        6201,
+        6301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 10,
+      "start_date": "2023-03-21 11:00:00",
+      "end_date": "2023-03-28 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        7001,
+        7101,
+        7201,
+        7301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 11,
+      "start_date": "2023-04-04 11:00:00",
+      "end_date": "2023-04-11 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        8001,
+        8101,
+        8201,
+        8301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 12,
+      "start_date": "2023-05-02 11:00:00",
+      "end_date": "2023-05-09 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        9001,
+        9101,
+        9201,
+        9301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 13,
+      "start_date": "2023-06-13 11:00:00",
+      "end_date": "2023-06-20 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        10001,
+        10101,
+        10201,
+        10301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 14,
+      "start_date": "2023-06-27 11:00:00",
+      "end_date": "2023-07-04 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        11001,
+        11101,
+        11201,
+        11301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 15,
+      "start_date": "2023-08-15 11:00:00",
+      "end_date": "2023-08-22 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        12001,
+        12101,
+        12201,
+        12301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 16,
+      "start_date": "2023-09-12 11:00:00",
+      "end_date": "2023-09-19 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        13001,
+        13101,
+        13201,
+        13301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 17,
+      "start_date": "2023-10-10 11:00:00",
+      "end_date": "2023-10-17 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        14001,
+        14101,
+        14201,
+        14301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 18,
+      "start_date": "2023-11-07 11:00:00",
+      "end_date": "2023-11-14 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        15001,
+        15101,
+        15201,
+        15301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 19,
+      "start_date": "2023-12-05 11:00:00",
+      "end_date": "2023-12-12 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        16001,
+        16101,
+        16201,
+        16301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 20,
+      "start_date": "2023-12-19 11:00:00",
+      "end_date": "2023-12-26 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        17001,
+        17101,
+        17201,
+        17301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 21,
+      "start_date": "2024-02-13 11:00:00",
+      "end_date": "2024-02-20 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        18001,
+        18101,
+        18201,
+        18301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 22,
+      "start_date": "2024-03-12 11:00:00",
+      "end_date": "2024-03-19 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        19001,
+        19101,
+        19201,
+        19301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 23,
+      "start_date": "2024-04-16 11:00:00",
+      "end_date": "2024-04-23 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        20001,
+        20101,
+        20201,
+        20301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 24,
+      "start_date": "2024-05-14 11:00:00",
+      "end_date": "2024-05-21 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 4000,
+      "difficulty_geas": [
+        21001,
+        21101,
+        21201,
+        21301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 25,
+      "start_date": "2024-06-11 11:00:00",
+      "end_date": "2024-06-18 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        22001,
+        22101,
+        22201,
+        22301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 26,
+      "start_date": "2024-07-09 11:00:00",
+      "end_date": "2024-07-16 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        23001,
+        23101,
+        23201,
+        23301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 27,
+      "start_date": "2024-08-06 11:00:00",
+      "end_date": "2024-08-13 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        24001,
+        24101,
+        24201,
+        24301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 28,
+      "start_date": "2024-09-03 11:00:00",
+      "end_date": "2024-09-10 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 4000,
+      "difficulty_geas": [
+        25001,
+        25101,
+        25201,
+        25301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 29,
+      "start_date": "2024-10-08 11:00:00",
+      "end_date": "2024-10-15 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        26001,
+        26101,
+        26201,
+        26301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 30,
+      "start_date": "2024-11-05 11:00:00",
+      "end_date": "2024-11-12 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        27001,
+        27101,
+        27201,
+        27301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 31,
+      "start_date": "2024-12-03 11:00:00",
+      "end_date": "2024-12-10 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        28001,
+        28101,
+        28201,
+        28301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 32,
+      "start_date": "2025-01-07 11:00:00",
+      "end_date": "2025-01-14 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 4000,
+      "difficulty_geas": [
+        29001,
+        29101,
+        29201,
+        29301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 33,
+      "start_date": "2025-02-04 11:00:00",
+      "end_date": "2025-02-11 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        30001,
+        30101,
+        30201,
+        30301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 34,
+      "start_date": "2025-03-04 11:00:00",
+      "end_date": "2025-03-11 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        31001,
+        31101,
+        31201,
+        31301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 35,
+      "start_date": "2025-04-01 11:00:00",
+      "end_date": "2025-04-08 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        32001,
+        32101,
+        32201,
+        32301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    }
+  ]
+}

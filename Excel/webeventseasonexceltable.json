@@ -1,0 +1,193 @@
+{
+  "data_list": [
+    {
+      "id": 1000,
+      "enabled": false,
+      "start_date": "2020-10-25 00:00:00",
+      "end_date": "2125-12-31 00:00:00",
+      "lobby_banner_image": "UIs/00_Images/Banner/Lobby_Guide_Banner",
+      "popup_title_localize_key": "test",
+      "event_url": "https://bluearchive.nexon.com/events/2022/03/attendance?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1020,
+      "enabled": true,
+      "start_date": "2025-02-18 12:00:00",
+      "end_date": "2025-03-04 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1020",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1020",
+      "event_url": "https://bluearchive.nexon.com/events/2025/02/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1019,
+      "enabled": true,
+      "start_date": "2025-01-23 11:00:00",
+      "end_date": "2025-03-04 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1019",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1019",
+      "event_url": "https://bluearchive.nexon.com/events/2025/01/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1018,
+      "enabled": true,
+      "start_date": "2024-12-17 12:00:00",
+      "end_date": "2025-01-07 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1018",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1018",
+      "event_url": "https://bluearchive.nexon.com/events/2024/12/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1017,
+      "enabled": true,
+      "start_date": "2024-08-20 12:00:00",
+      "end_date": "2024-09-03 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1017",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1017",
+      "event_url": "https://bluearchive.nexon.com/events/2024/08/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1016,
+      "enabled": true,
+      "start_date": "2024-07-23 12:00:00",
+      "end_date": "2024-08-06 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1016",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1016",
+      "event_url": "https://bluearchive.nexon.com/events/2024/07/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1015,
+      "enabled": true,
+      "start_date": "2024-05-14 12:00:00",
+      "end_date": "2024-05-28 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1015",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1015",
+      "event_url": "https://bluearchive.nexon.com/events/2024/05/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1014,
+      "enabled": true,
+      "start_date": "2024-01-30 12:00:00",
+      "end_date": "2024-02-15 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1014",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1014",
+      "event_url": "https://bluearchive.nexon.com/events/2024/01/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1013,
+      "enabled": true,
+      "start_date": "2023-12-26 12:00:00",
+      "end_date": "2024-01-09 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1013",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1013",
+      "event_url": "https://bluearchive.nexon.com/events/2023/12/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1012,
+      "enabled": true,
+      "start_date": "2023-10-31 12:00:00",
+      "end_date": "2023-11-14 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1012",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1012",
+      "event_url": "https://bluearchive.nexon.com/events/2023/10/orchestra?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1011,
+      "enabled": true,
+      "start_date": "2023-09-26 12:00:00",
+      "end_date": "2023-10-17 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1011",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1011",
+      "event_url": "https://bluearchive.nexon.com/events/2023/09/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1010,
+      "enabled": true,
+      "start_date": "2023-07-25 12:00:00",
+      "end_date": "2023-08-08 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1010",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1010",
+      "event_url": "https://bluearchive.nexon.com/events/2023/07/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1009,
+      "enabled": true,
+      "start_date": "2023-06-13 12:00:00",
+      "end_date": "2023-06-27 10:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1009",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1009",
+      "event_url": "https://bluearchive.nexon.com/events/2023/06/santa?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1008,
+      "enabled": true,
+      "start_date": "2023-04-25 12:00:00",
+      "end_date": "2023-05-16 11:00:00",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1008",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1008",
+      "event_url": "https://bluearchive.nexon.com/events/2023/04/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1007,
+      "enabled": true,
+      "start_date": "2023-03-28 12:00:00",
+      "end_date": "2023-04-14 23:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1007",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1007",
+      "event_url": "https://bluearchive.nexon.com/events/2023/03/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1006,
+      "enabled": true,
+      "start_date": "2023-02-28 12:00:00",
+      "end_date": "2023-03-13 23:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1006",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1006",
+      "event_url": "https://bluearchive.nexon.com/events/2023/02/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1005,
+      "enabled": true,
+      "start_date": "2023-01-17 12:00:00",
+      "end_date": "2023-02-05 23:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1005",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1005",
+      "event_url": "https://bluearchive.nexon.com/events/2023/01/cupshuffle?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1004,
+      "enabled": true,
+      "start_date": "2022-09-08 12:00:00",
+      "end_date": "2022-09-18 12:00:00",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1004",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1004",
+      "event_url": "https://bluearchive.nexon.com/events/2022/09/september?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1003,
+      "enabled": true,
+      "start_date": "2022-04-26 12:00:00",
+      "end_date": "2022-05-03 12:00:00",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1003",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1003",
+      "event_url": "https://bluearchive.nexon.com/events/2022/04/countdown?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1002,
+      "enabled": true,
+      "start_date": "2022-03-18 12:00:00",
+      "end_date": "2022-03-28 23:59:00",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1002",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1002",
+      "event_url": "https://bluearchive.nexon.com/events/2022/03/vtuber?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
+      "id": 1001,
+      "enabled": true,
+      "start_date": "2022-03-08 12:30:00",
+      "end_date": "2022-03-22 12:00:00",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1001",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1001",
+      "event_url": "https://bluearchive.nexon.com/events/2022/03/attendance?game_token={0}\u0026server={1}\u0026language={2}"
+    }
+  ]
+}

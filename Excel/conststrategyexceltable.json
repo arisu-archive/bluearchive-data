@@ -1,0 +1,36 @@
+{
+  "data_list": [
+    {
+      "hexa_map_boundary_offset": -17401.205,
+      "hexa_map_start_camera_offset": -17401.174,
+      "camera_zoom_max": -17396.275,
+      "camera_zoom_min": -17405.68,
+      "camera_zoom_default": -17405.68,
+      "heal_cost_type": 3,
+      "heal_cost_amount": [
+        0,
+        10,
+        40,
+        100
+      ],
+      "can_heal_hp_rate": 8000,
+      "play_time_limit_in_seconds": 86400,
+      "adventure_echelon_count": 4,
+      "raid_echelon_count": 4,
+      "default_echelon_count": 1,
+      "event_content_echelon_count": 4,
+      "time_attack_dungeon_echelon_count": 4,
+      "world_raid_echelon_count": 4,
+      "tactic_skip_clear_time_seconds": 90,
+      "tactic_skip_frame_per_second": 1000,
+      "conquest_echelon_count": 4,
+      "story_echelon_count": 4,
+      "multi_sweep_preset_count": 7,
+      "multi_sweep_preset_name_max_length": 10,
+      "multi_sweep_preset_name_max_length_kr": 10,
+      "multi_sweep_preset_select_stage_max_count": 20,
+      "multi_sweep_preset_max_sweep_count": 99,
+      "multi_sweep_preset_select_parcel_max_count": 3
+    }
+  ]
+}
