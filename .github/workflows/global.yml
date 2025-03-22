@@ -92,6 +92,7 @@ jobs:
           # Split the large json files into smaller chunks
           for file in $(find . -type f -name "*.json" -size +100M); do
             ./scripts/split_json.sh "$file" 100
+            rm "$file"
           done
       - name: Upload Assets
         run: |
