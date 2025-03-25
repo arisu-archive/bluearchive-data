@@ -17,6 +17,10 @@ on:
         description: 'The package name of the APK'
         default: 'com.nexon.bluearchive'
 
+env:
+  PACKAGE_NAME: ${{ inputs.package_name || 'com.nexon.bluearchive' }}
+  FORCE_UPDATE: ${{ inputs.force_update || 'false' }}
+
 jobs:
   determine-version:
     runs-on: ubuntu-latest
@@ -38,8 +42,8 @@ jobs:
         id: get-version
         uses: ./.github/actions/get-version/
         with:
-          package_name: ${{ inputs.package_name }}
-          force_update: ${{ inputs.force_update }}
+          package_name: ${{ env.PACKAGE_NAME }}
+          force_update: ${{ env.FORCE_UPDATE }}
           version_file: global.txt
 
       - name: Create pull request
@@ -103,8 +107,8 @@ jobs:
           export PATH=$PATH:$HOME/minio-binaries/
           mc alias set target ${{ vars.S3_ENDPOINT }} ${{ secrets.S3_ACCESS_KEY }} ${{ secrets.S3_SECRET_KEY }}
           sha256sum assets.zip | cut -f1 -d' ' > assets.zip.sha256
-          mc cp ./assets.zip target/bluearchive/${{ inputs.package_name }}/assets.zip
-          mc cp ./assets.zip.sha256 target/bluearchive/${{ inputs.package_name }}/assets.zip.sha256
+          mc cp ./assets.zip target/bluearchive/${{ env.PACKAGE_NAME }}/assets.zip
+          mc cp ./assets.zip.sha256 target/bluearchive/${{ env.PACKAGE_NAME }}/assets.zip.sha256
           rm assets.zip assets.zip.sha256
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
