@@ -25,6 +25,14 @@ if [ "$forced_update" = "true" ]; then
     exit 0
 fi
 
+# Force update if the version file is not found
+if [ ! -f $version_file ]; then
+    echo "Version file not found. Forcing update..."
+    echo "skip=false" >> $GITHUB_OUTPUT
+    echo -n "$latest_version" > $version_file
+    exit 0
+fi
+
 current_version=$(cat $version_file)
 echo "Current version: $current_version"
 if [ "$current_version" = "$latest_version" ]; then
