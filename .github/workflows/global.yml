@@ -11,14 +11,14 @@ on:
         type: boolean
         required: false
         description: 'Force update the game version'
-      package_name:
+      server  :
         type: string
         required: true
-        description: 'The package name of the APK'
-        default: 'com.nexon.bluearchive'
+        description: 'The server to update the version for'
+        default: 'global'
 
 env:
-  PACKAGE_NAME: ${{ inputs.package_name || 'com.nexon.bluearchive' }}
+  SERVER: ${{ inputs.server || 'global' }}
   FORCE_UPDATE: ${{ inputs.force_update || 'false' }}
 
 jobs:
@@ -42,7 +42,7 @@ jobs:
         id: get-version
         uses: ./.github/actions/get-version/
         with:
-          package_name: ${{ env.PACKAGE_NAME }}
+          server: ${{ env.SERVER }}
           force_update: ${{ env.FORCE_UPDATE }}
           version_file: global.txt
 

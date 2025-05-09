@@ -1,9 +1,9 @@
-name: APK Inspector
-description: Inspect the APK and extract the version
+name: Get Version
+description: Get the version of the server
 
 inputs:
-  package_name:
-    description: The package name of the APK
+  server:
+    description: The server to update the version for
     required: true
   force_update:
     description: Force update the version
@@ -15,10 +15,10 @@ inputs:
 
 outputs:
   skip:
-    description: Whether to skip the APK inspection
+    description: Whether to skip the version check
     value: ${{ steps.get-version.outputs.skip }}
   version:
-    description: The version of the APK
+    description: The version of the server resources
     value: ${{ steps.get-version.outputs.version }}
 
 runs:
@@ -29,7 +29,7 @@ runs:
       with:
         go-version: '^1.24'
 
-    - name: Check the APK version
+    - name: Check the server resources version
       id: get-version
       shell: bash
-      run: ./scripts/extract_version.sh ${{ inputs.package_name }} ${{ inputs.force_update }} ${{ inputs.version_file }}
+      run: ./scripts/extract_version.sh ${{ inputs.server }} ${{ inputs.force_update }} ${{ inputs.version_file }}

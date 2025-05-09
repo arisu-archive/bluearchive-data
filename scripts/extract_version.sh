@@ -1,12 +1,14 @@
 #!/bin/bash
 
-package_name=$1
+server=$1
 forced_update=$2
 version_file=$3
 
-latest_version=$(curl -s https://ba.pokeguy.dev/$package_name/version.txt)
+git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
+go env -w GOPRIVATE="github.com/arisu-archive"
+latest_version=$(go run github.com/arisu-archive/assets-dumper@latest version -s $server)
 echo "version=$latest_version" >> $GITHUB_OUTPUT
-echo "::notice title=Latest APK Version::$latest_version"
+echo "::notice title=Latest Resources Version::$latest_version"
 if [ -z "$latest_version" ]; then
     echo "Latest version not found. Skipping..."
     echo "skip=true" >> $GITHUB_OUTPUT
