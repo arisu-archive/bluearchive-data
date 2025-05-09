@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 server=$1
 forced_update=$2
 version_file=$3
