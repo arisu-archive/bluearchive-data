@@ -102,7 +102,7 @@ jobs:
           { git ls-files; git ls-files --others --exclude-standard; } | zip -r assets.zip -@
           # Split the large json files into smaller chunks
           for file in $(find . -type f -name "*.json" -size +50M); do
-            ./scripts/split_json.sh "$file" 100
+            ./.scripts/split_json.sh "$file" 100
             rm "$file"
             echo "Removed $file"
           done
