@@ -94,10 +94,15 @@ jobs:
       - name: Decrypt assets
         run: |
           # Start the decryption process for Preload/TableBundles
-          for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip" "ConquestMap.zip" "HexaMap.zip"; do
+          for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip"; do
             # Remove the directory if it exists (to avoid leftover chunked files)
             rm -rf $(basename $file .zip)
             go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/Preload/TableBundles/$file -o .
+          done
+          for file in "ConquestMap.zip" "HexaMap.zip"; do
+            # Remove the directory if it exists (to avoid leftover chunked files)
+            rm -rf $(basename $file .zip)
+            go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/GameData/TableBundles/$file -o .
           done
           # Remove the tmp directory
           rm -rf ./tmp
