@@ -9,6 +9,7 @@ version_file=$3
 git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
 go env -w GOPRIVATE="github.com/arisu-archive"
 latest_version=$(go run github.com/arisu-archive/assets-dumper@latest version -s $server)
+git config --global --remove-section url."git@github.com:arisu-archive"
 echo "version=$latest_version" >> $GITHUB_OUTPUT
 echo "::notice title=Latest Resources Version::$latest_version"
 if [ -z "$latest_version" ]; then
