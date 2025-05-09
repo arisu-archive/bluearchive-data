@@ -1,10 +1,10 @@
-name: Update Global Version
+name: Update Japan Version
 
 on:
   schedule:
-    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every Tuesday
-    # As this is the only time the global version is updated
-    - cron: "0 1-14/2 * * 2"
+    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every Wednesday
+    # As this is the only time the japan version is updated
+    - cron: "0 1-14/2 * * 3"
   workflow_dispatch:
     inputs:
       force_update:
@@ -15,11 +15,11 @@ on:
         type: string
         required: true
         description: 'The server to update the version for'
-        default: 'global'
+        default: 'japan'
 
 env:
-  PACKAGE_NAME: com.nexon.bluearchive
-  SERVER: ${{ inputs.server || 'global' }}
+  PACKAGE_NAME: com.YostarJP.BlueArchive
+  SERVER: ${{ inputs.server || 'japan' }}
   FORCE_UPDATE: ${{ inputs.force_update || 'false' }}
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
           sparse-checkout: |
             .github/actions
             scripts/
-            global.txt
+            japan.txt
           sparse-checkout-cone-mode: false
           fetch-depth: 0
       - name: Setup SSH agent
@@ -51,18 +51,18 @@ jobs:
         with:
           server: ${{ env.SERVER }}
           force_update: ${{ env.FORCE_UPDATE }}
-          version_file: global.txt
+          version_file: ${{ env.SERVER }}.txt
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
         if: steps.get-version.outputs.skip != 'true'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'chore(global): bump global version to ${{ steps.get-version.outputs.version }}'
+          title: 'chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}'
           body: '* Version: ${{ steps.get-version.outputs.version }}'
-          branch: chore/bump-global-version-${{ steps.get-version.outputs.version }}
+          branch: chore/bump-japan-version-${{ steps.get-version.outputs.version }}
           labels: needs-review
-          commit-message: 'chore(global): bump global version to ${{ steps.get-version.outputs.version }}'
+          commit-message: 'chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}'
 
   upload-assets:
     needs: determine-version
@@ -73,7 +73,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: global
+          ref: japan
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
@@ -89,7 +89,7 @@ jobs:
         run: |
           git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
           go env -w GOPRIVATE="github.com/arisu-archive"
-          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s global -o ./tmp -f "**/TableBundles/**"
+          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/**"
           git config --global --remove-section url."git@github.com:arisu-archive"
       - name: Decrypt assets
         run: |
@@ -122,10 +122,10 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7.0.8
         with:
-          base: global
+          base: ${{ env.SERVER }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}'
+          title: 'chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}'
           body: '* Version: ${{ needs.determine-version.outputs.version }}'
-          branch: chore/bump-global-assets-${{ needs.determine-version.outputs.version }}
+          branch: chore/bump-${{ env.SERVER }}-assets-${{ needs.determine-version.outputs.version }}
           labels: needs-review
-          commit-message: 'chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}'
+          commit-message: 'chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}'
