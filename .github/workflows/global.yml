@@ -37,7 +37,13 @@ jobs:
             global.txt
           sparse-checkout-cone-mode: false
           fetch-depth: 0
-
+      - name: Setup SSH agent
+        uses: webfactory/ssh-agent@v0.9.1
+        with:
+          ssh-private-key: |
+            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
+            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
+            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Get version
         id: get-version
         uses: ./.github/actions/get-version/
