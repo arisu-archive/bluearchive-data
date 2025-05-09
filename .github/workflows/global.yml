@@ -72,6 +72,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: global
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
@@ -100,9 +101,10 @@ jobs:
           rm -rf ./tmp
           { git ls-files; git ls-files --others --exclude-standard; } | zip -r assets.zip -@
           # Split the large json files into smaller chunks
-          for file in $(find . -type f -name "*.json" -size +100M); do
+          for file in $(find . -type f -name "*.json" -size +50M); do
             ./scripts/split_json.sh "$file" 100
             rm "$file"
+            echo "Removed $file"
           done
       - name: Upload Assets
         run: |
