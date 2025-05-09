@@ -907,6 +907,36 @@
       ],
       "very_hard_campaign_stage_id": [],
       "is_tactic_skip": true
+    },
+    {
+      "id": 127,
+      "name": "CHAPTER_27",
+      "normal_image_path": "UIs/01_Common/13_CampaignImage/Campaign_Image_27_Normal",
+      "hard_image_path": "UIs/01_Common/13_CampaignImage/Campaign_Image_27_Hard",
+      "order": 27,
+      "pre_chapter_id": [
+        126
+      ],
+      "chapter_reward_id": 53,
+      "chapter_hard_reward_id": 54,
+      "chapter_very_hard_reward_id": 0,
+      "normal_campaign_stage_id": [
+        1271101,
+        1271102,
+        1271103,
+        1271104,
+        1271105
+      ],
+      "normal_extra_stage_id": [
+        1271401
+      ],
+      "hard_campaign_stage_id": [
+        1272101,
+        1272102,
+        1272103
+      ],
+      "very_hard_campaign_stage_id": [],
+      "is_tactic_skip": true
     }
   ]
 }

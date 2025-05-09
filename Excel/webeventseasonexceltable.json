@@ -10,6 +10,15 @@
       "event_url": "https://bluearchive.nexon.com/events/2022/03/attendance?game_token={0}\u0026server={1}\u0026language={2}"
     },
     {
+      "id": 1021,
+      "enabled": true,
+      "start_date": "2025-04-11 12:00:00",
+      "end_date": "2025-04-29 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1021",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1021",
+      "event_url": "https://bluearchive.nexon.com/events/2025/04/webview?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
       "id": 1020,
       "enabled": true,
       "start_date": "2025-02-18 12:00:00",
