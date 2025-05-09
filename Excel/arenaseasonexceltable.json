@@ -52,9 +52,16 @@
     {
       "unique_id": 7,
       "season_start_date": "2024-11-05 14:00:01",
-      "season_end_date": "2099-05-31 14:00:01",
+      "season_end_date": "2025-04-29 13:00:00",
       "season_group_limit": 15000,
       "prev_season_id": 6
+    },
+    {
+      "unique_id": 8,
+      "season_start_date": "2025-04-29 13:00:01",
+      "season_end_date": "2099-12-29 15:00:01",
+      "season_group_limit": 15000,
+      "prev_season_id": 7
     }
   ]
 }
