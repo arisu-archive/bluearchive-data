@@ -12031,6 +12031,194 @@
         325,
         1
       ]
+    },
+    {
+      "ranking_reward_group_id": 2030,
+      "id": 2031,
+      "rank_start": 1,
+      "rank_end": 12000,
+      "rank_start_tw": 1,
+      "rank_end_tw": 10000,
+      "rank_start_asia": 1,
+      "rank_end_asia": 10000,
+      "rank_start_na": 1,
+      "rank_end_na": 5000,
+      "rank_start_global": 1,
+      "rank_end_global": 2000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 4,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101103,
+        101102,
+        101101,
+        101100
+      ],
+      "reward_parcel_unique_name": [
+        "Gem_Bonus",
+        "RaidCoin_High",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "reward_parcel_amount": [
+        1200,
+        300,
+        575,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2030,
+      "id": 2032,
+      "rank_start": 12001,
+      "rank_end": 55000,
+      "rank_start_tw": 10001,
+      "rank_end_tw": 50000,
+      "rank_start_asia": 10001,
+      "rank_end_asia": 50000,
+      "rank_start_na": 5001,
+      "rank_end_na": 25000,
+      "rank_start_global": 2001,
+      "rank_end_global": 10000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 3,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101102,
+        101101,
+        101100
+      ],
+      "reward_parcel_unique_name": [
+        "Gem_Bonus",
+        "RaidCoin_High",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "reward_parcel_amount": [
+        1000,
+        250,
+        500,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2030,
+      "id": 2033,
+      "rank_start": 55001,
+      "rank_end": 100000,
+      "rank_start_tw": 50001,
+      "rank_end_tw": 100000,
+      "rank_start_asia": 50001,
+      "rank_end_asia": 100000,
+      "rank_start_na": 25001,
+      "rank_end_na": 50000,
+      "rank_start_global": 10001,
+      "rank_end_global": 20000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 2,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101101,
+        101100
+      ],
+      "reward_parcel_unique_name": [
+        "Gem_Bonus",
+        "RaidCoin_High",
+        "RaidCoin",
+        "Furnitures",
+        "Furnitures"
+      ],
+      "reward_parcel_amount": [
+        800,
+        200,
+        425,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2030,
+      "id": 2034,
+      "rank_start": 100001,
+      "rank_end": 0,
+      "rank_start_tw": 100001,
+      "rank_end_tw": 0,
+      "rank_start_asia": 100001,
+      "rank_end_asia": 0,
+      "rank_start_na": 50001,
+      "rank_end_na": 0,
+      "rank_start_global": 20001,
+      "rank_end_global": 0,
+      "percent_rank_start": 0,
+      "percent_rank_end": 10000,
+      "tier": 1,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101100
+      ],
+      "reward_parcel_unique_name": [
+        "Gem_Bonus",
+        "RaidCoin_High",
+        "RaidCoin",
+        "Furnitures"
+      ],
+      "reward_parcel_amount": [
+        600,
+        150,
+        325,
+        1
+      ]
     }
   ]
 }

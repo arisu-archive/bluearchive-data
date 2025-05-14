@@ -2559,7 +2559,7 @@
       "view_flag": true,
       "limit": false,
       "start_date": "2024-10-22 04:00:00",
-      "end_date": "",
+      "end_date": "2025-05-14 04:00:00",
       "end_day": 0,
       "startable_end_date": "",
       "date_auto_refer": 0,
@@ -2769,12 +2769,11 @@
         1503,
         1504,
         1505,
-        1506,
         1507,
         1508,
         1509,
         1510,
-        1511,
+        1512,
         1600,
         1601,
         1602,
@@ -2799,6 +2798,44 @@
       ],
       "mission_reward_amount": [
         100
+      ]
+    },
+    {
+      "id": 1512,
+      "category": 1,
+      "description": 1907666802,
+      "reset_type": 1,
+      "toast_display_type": 0,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "2025-05-13 04:00:00",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 170,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 69,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        4
+      ],
+      "mission_reward_parcel_id": [
+        40000
+      ],
+      "mission_reward_amount": [
+        4
       ]
     },
     {
@@ -3449,7 +3486,7 @@
       "view_flag": true,
       "limit": false,
       "start_date": "2024-10-28 04:00:00",
-      "end_date": "",
+      "end_date": "2025-05-19 04:00:00",
       "end_day": 0,
       "startable_end_date": "",
       "date_auto_refer": 0,
@@ -3695,12 +3732,12 @@
         2301,
         2302,
         2303,
-        2304,
         2305,
         2306,
         2307,
         2308,
-        2309
+        2309,
+        2400
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -3715,6 +3752,47 @@
       "mission_reward_amount": [
         120,
         300
+      ]
+    },
+    {
+      "id": 2400,
+      "category": 2,
+      "description": 1907666802,
+      "reset_type": 2,
+      "toast_display_type": 0,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "2025-05-13 04:00:00",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 540,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 69,
+      "complete_condition_count": 20,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        40000,
+        40001
+      ],
+      "mission_reward_amount": [
+        10,
+        5
       ]
     },
     {
@@ -77055,7 +77133,8 @@
         1001,
         2011101,
         2011201,
-        2011301
+        2011301,
+        2011401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77099,7 +77178,8 @@
         1002,
         2011102,
         2011202,
-        2011302
+        2011302,
+        2011402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77143,7 +77223,8 @@
         1003,
         2011103,
         2011203,
-        2011303
+        2011303,
+        2011403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77187,7 +77268,8 @@
         1004,
         2011104,
         2011204,
-        2011304
+        2011304,
+        2011404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77231,7 +77313,8 @@
         1005,
         2011105,
         2011205,
-        2011305
+        2011305,
+        2011405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77275,7 +77358,8 @@
         1006,
         2011106,
         2011206,
-        2011306
+        2011306,
+        2011406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -77319,7 +77403,8 @@
         1007,
         2011107,
         2011207,
-        2011307
+        2011307,
+        2011407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80757,7 +80842,8 @@
         81,
         2093101,
         2093201,
-        2093301
+        2093301,
+        2093401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80801,7 +80887,8 @@
         82,
         2093102,
         2093202,
-        2093302
+        2093302,
+        2093402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80845,7 +80932,8 @@
         83,
         2093103,
         2093203,
-        2093303
+        2093303,
+        2093403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80889,7 +80977,8 @@
         84,
         2093104,
         2093204,
-        2093304
+        2093304,
+        2093404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80933,7 +81022,8 @@
         85,
         2093105,
         2093205,
-        2093305
+        2093305,
+        2093405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80977,7 +81067,8 @@
         86,
         2093106,
         2093206,
-        2093306
+        2093306,
+        2093406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -81021,7 +81112,8 @@
         87,
         2093107,
         2093207,
-        2093307
+        2093307,
+        2093407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",

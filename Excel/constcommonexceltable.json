@@ -60,8 +60,8 @@
       "tutorial_gacha_goods_id": 1,
       "equipment_slot_open_level": [
         1,
-        15,
-        35
+        10,
+        20
       ],
       "scenario_auto_delay_millisec": -12102.122,
       "join_or_create_clan_cool_time_from_hour": 24,
@@ -191,7 +191,10 @@
       "call_name_wait_time_gl": -10767.355,
       "assist_stranger_min_level": 80,
       "assist_stranger_max_level": 90,
-      "max_blocked_user_count": 30
+      "max_blocked_user_count": 30,
+      "cafe_random_visit_min_comfort_bonus": 1000,
+      "cafe_random_visit_min_last_login": 10,
+      "cafe_travel_sync_interval_by_millisec": 30000
     }
   ]
 }

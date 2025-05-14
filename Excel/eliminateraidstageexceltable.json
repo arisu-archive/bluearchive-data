@@ -653,7 +653,7 @@
         601120701
       ],
       "difficulty": 6,
-      "is_open": false,
+      "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 180000,
@@ -996,7 +996,7 @@
         601130701
       ],
       "difficulty": 6,
-      "is_open": true,
+      "is_open": false,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 180000,
@@ -1339,7 +1339,7 @@
         601140701
       ],
       "difficulty": 6,
-      "is_open": true,
+      "is_open": false,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 180000,
@@ -20813,7 +20813,7 @@
         609320701
       ],
       "difficulty": 6,
-      "is_open": true,
+      "is_open": false,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
@@ -21156,7 +21156,7 @@
         609330701
       ],
       "difficulty": 6,
-      "is_open": false,
+      "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
@@ -21200,16 +21200,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330101,
+      "raid_character_id": 609340101,
       "boss_character_id": [
-        609330101
+        609340101
       ],
       "difficulty": 0,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093301,
+      "ground_id": 6093401,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21249,16 +21249,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330201,
+      "raid_character_id": 609340201,
       "boss_character_id": [
-        609330201
+        609340201
       ],
       "difficulty": 1,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093302,
+      "ground_id": 6093402,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21298,16 +21298,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330301,
+      "raid_character_id": 609340301,
       "boss_character_id": [
-        609330301
+        609340301
       ],
       "difficulty": 2,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093303,
+      "ground_id": 6093403,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21347,16 +21347,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330401,
+      "raid_character_id": 609340401,
       "boss_character_id": [
-        609330401
+        609340401
       ],
       "difficulty": 3,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093304,
+      "ground_id": 6093404,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21396,16 +21396,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330501,
+      "raid_character_id": 609340501,
       "boss_character_id": [
-        609330501
+        609340501
       ],
       "difficulty": 4,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093305,
+      "ground_id": 6093405,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21445,16 +21445,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Insane_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330601,
+      "raid_character_id": 609340601,
       "boss_character_id": [
-        609330601
+        609340601
       ],
       "difficulty": 5,
       "is_open": true,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093306,
+      "ground_id": 6093406,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
@@ -21494,16 +21494,16 @@
       "boss_spine_path": "UIs/01_Common/42_EliminateRaid/RaidbossSpine/CharacterSpine_Ui_RaidBoss_EN0005",
       "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_Insane_Lobby",
       "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0005_LobbyBG",
-      "raid_character_id": 609330701,
+      "raid_character_id": 609340701,
       "boss_character_id": [
-        609330701
+        609340701
       ],
       "difficulty": 6,
       "is_open": false,
       "max_player_count": 1,
       "raid_room_life_time": 3600000,
       "battle_duration": 240000,
-      "ground_id": 6093307,
+      "ground_id": 6093407,
       "ground_dev_name": "EN0005",
       "enter_time_line": "",
       "tactic_environment": 0,
