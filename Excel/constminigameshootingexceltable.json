@@ -1,0 +1,23 @@
+{
+  "data_list": [
+    {
+      "normal_stage_id": 1000,
+      "normal_section_count": 10,
+      "hard_stage_id": 2000,
+      "hard_section_count": 10,
+      "free_stage_id": 3000,
+      "free_section_count": 30,
+      "player_character_id": [
+        1,
+        4,
+        5,
+        2
+      ],
+      "hidden_player_character_id": 3,
+      "camera_smooth_time": 10977.019,
+      "spawn_effect_path": "Effect/FX_MGS_Enemy_Spawn_Variant",
+      "wait_time_after_spawn": 10976.314,
+      "free_gear_interval": 2
+    }
+  ]
+}

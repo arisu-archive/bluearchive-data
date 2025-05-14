@@ -1,0 +1,156 @@
+{
+  "data_list": [
+    {
+      "unique_id": 1,
+      "content_type": 17,
+      "event_content_id": 821,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 82160200,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 102210,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 2,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_volume": 100,
+      "scenario_mode_chapter": 2,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 102200,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 821,
+      "shortcut_ui_name": [
+        "UILobby",
+        "腐稯䭻뚡"
+      ],
+      "localize": "POPUP_WORLDRAID_OPEN_BYSCENARIO"
+    },
+    {
+      "unique_id": 3,
+      "content_type": 11,
+      "event_content_id": 822,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2023-03-08 10:59:59",
+      "condition_content_id": 82241131,
+      "conquest_map_difficulty": 1,
+      "conquest_step_index": 3,
+      "shortcut_content_id": 103160,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 4,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_volume": 100,
+      "scenario_mode_chapter": 3,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 103150,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 822,
+      "shortcut_ui_name": [
+        "UILobby",
+        "腐稯䭻뚡"
+      ],
+      "localize": "POPUP_CONQUEST_OPEN_BYSCENARIO"
+    },
+    {
+      "unique_id": 5,
+      "content_type": 17,
+      "event_content_id": 823,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 82310009,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 104070,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 6,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_volume": 100,
+      "scenario_mode_chapter": 4,
+      "shortcut_open_time": "2022-11-04 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 104060,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 823,
+      "shortcut_ui_name": [
+        "UILobby",
+        "腐稯䭻뚡"
+      ],
+      "localize": "POPUP_WORLDRAID_OPEN_BYSCENARIO"
+    },
+    {
+      "unique_id": 7,
+      "content_type": 11,
+      "event_content_id": 50822,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2023-03-08 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 82241131,
+      "conquest_map_difficulty": 1,
+      "conquest_step_index": 3,
+      "shortcut_content_id": 103160,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 8,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_volume": 100,
+      "scenario_mode_chapter": 3,
+      "shortcut_open_time": "2023-03-08 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 103150,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 50822,
+      "shortcut_ui_name": [
+        "UILobby",
+        "腐稯䭻뚡"
+      ],
+      "localize": "POPUP_CONQUEST_OPEN_BYSCENARIO"
+    }
+  ]
+}

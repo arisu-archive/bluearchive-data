@@ -1,0 +1,92 @@
+{
+  "data_list": [
+    {
+      "unique_id": 1,
+      "event_content_id": 836,
+      "total_parameter_min": 0,
+      "total_parameter_max": 200,
+      "daily_point_coefficient": 100,
+      "daily_point_correction_value": 180
+    },
+    {
+      "unique_id": 2,
+      "event_content_id": 836,
+      "total_parameter_min": 200,
+      "total_parameter_max": 400,
+      "daily_point_coefficient": 150,
+      "daily_point_correction_value": 179
+    },
+    {
+      "unique_id": 3,
+      "event_content_id": 836,
+      "total_parameter_min": 400,
+      "total_parameter_max": 800,
+      "daily_point_coefficient": 150,
+      "daily_point_correction_value": 179
+    },
+    {
+      "unique_id": 4,
+      "event_content_id": 836,
+      "total_parameter_min": 800,
+      "total_parameter_max": 1200,
+      "daily_point_coefficient": 200,
+      "daily_point_correction_value": 175
+    },
+    {
+      "unique_id": 5,
+      "event_content_id": 836,
+      "total_parameter_min": 1200,
+      "total_parameter_max": 1500,
+      "daily_point_coefficient": 250,
+      "daily_point_correction_value": 169
+    },
+    {
+      "unique_id": 6,
+      "event_content_id": 836,
+      "total_parameter_min": 1500,
+      "total_parameter_max": 2000,
+      "daily_point_coefficient": 300,
+      "daily_point_correction_value": 161
+    },
+    {
+      "unique_id": 7,
+      "event_content_id": 836,
+      "total_parameter_min": 2000,
+      "total_parameter_max": 2400,
+      "daily_point_coefficient": 400,
+      "daily_point_correction_value": 141
+    },
+    {
+      "unique_id": 8,
+      "event_content_id": 836,
+      "total_parameter_min": 2400,
+      "total_parameter_max": 3200,
+      "daily_point_coefficient": 500,
+      "daily_point_correction_value": 137
+    },
+    {
+      "unique_id": 9,
+      "event_content_id": 836,
+      "total_parameter_min": 3200,
+      "total_parameter_max": 4000,
+      "daily_point_coefficient": 600,
+      "daily_point_correction_value": 105
+    },
+    {
+      "unique_id": 10,
+      "event_content_id": 836,
+      "total_parameter_min": 4000,
+      "total_parameter_max": 5000,
+      "daily_point_coefficient": 700,
+      "daily_point_correction_value": 65
+    },
+    {
+      "unique_id": 11,
+      "event_content_id": 836,
+      "total_parameter_min": 5000,
+      "total_parameter_max": 6200,
+      "daily_point_coefficient": 800,
+      "daily_point_correction_value": 15
+    }
+  ]
+}

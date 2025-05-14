@@ -1,0 +1,36 @@
+{
+  "data_list": [
+    {
+      "event_content_id": 846,
+      "unique_id": 100,
+      "group_id": 100,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_Straight_001",
+      "rail_tile_type": 1
+    },
+    {
+      "event_content_id": 846,
+      "unique_id": 101,
+      "group_id": 100,
+      "original_tile": false,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_Straight_002",
+      "rail_tile_type": 1
+    },
+    {
+      "event_content_id": 846,
+      "unique_id": 200,
+      "group_id": 200,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_LongCurve",
+      "rail_tile_type": 2
+    },
+    {
+      "event_content_id": 846,
+      "unique_id": 300,
+      "group_id": 300,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_ShortCurve",
+      "rail_tile_type": 3
+    }
+  ]
+}

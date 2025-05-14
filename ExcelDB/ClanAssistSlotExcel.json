@@ -1,0 +1,124 @@
+{
+  "data_list": [
+    {
+      "slot_id": 0,
+      "echelon_type": 2,
+      "slot_number": 0,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 1,
+      "echelon_type": 2,
+      "slot_number": 1,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 2,
+      "echelon_type": 15,
+      "slot_number": 0,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 3,
+      "echelon_type": 15,
+      "slot_number": 1,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 4,
+      "echelon_type": 11,
+      "slot_number": 0,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 5,
+      "echelon_type": 11,
+      "slot_number": 1,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 100,
+      "echelon_type": 2,
+      "slot_number": 2,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 110,
+      "echelon_type": 15,
+      "slot_number": 2,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 120,
+      "echelon_type": 11,
+      "slot_number": 2,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 40000,
+      "assist_rental_fee_amount_stranger": 50000
+    },
+    {
+      "slot_id": 130,
+      "echelon_type": 24,
+      "slot_number": 0,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 0,
+      "assist_rental_fee_amount_stranger": 0
+    },
+    {
+      "slot_id": 131,
+      "echelon_type": 24,
+      "slot_number": 1,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 0,
+      "assist_rental_fee_amount_stranger": 0
+    },
+    {
+      "slot_id": 132,
+      "echelon_type": 24,
+      "slot_number": 2,
+      "assist_term_reward_period_from_sec": 60,
+      "assist_reward_limit": 1000000000,
+      "assist_rent_reward_daily_max_count": 20,
+      "assist_rental_fee_amount": 0,
+      "assist_rental_fee_amount_stranger": 0
+    }
+  ]
+}

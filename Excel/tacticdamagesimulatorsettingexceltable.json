@@ -1,0 +1,52 @@
+{
+  "data_list": [
+    {
+      "order": 1,
+      "repeat": 50,
+      "test_preset": 100112,
+      "test_battle_time": 180000,
+      "striker_squard": 2,
+      "special_squard": 2,
+      "replace_character_cost_regen": true,
+      "replace_cost_regen_value": 1000,
+      "use_auto_skill": true,
+      "override_street_adaptation": 2,
+      "override_outdoor_adaptation": 2,
+      "override_indoor_adaptation": 2,
+      "apply_override_adaptation": true,
+      "override_favor_level": 25,
+      "apply_override_favor_level": true,
+      "ground_id": 11,
+      "fixed_character": [
+        10103,
+        13006,
+        20000,
+        20001
+      ]
+    },
+    {
+      "order": 2,
+      "repeat": 50,
+      "test_preset": 100112,
+      "test_battle_time": 180000,
+      "striker_squard": 2,
+      "special_squard": 2,
+      "replace_character_cost_regen": true,
+      "replace_cost_regen_value": 1000,
+      "use_auto_skill": true,
+      "override_street_adaptation": 2,
+      "override_outdoor_adaptation": 2,
+      "override_indoor_adaptation": 2,
+      "apply_override_adaptation": true,
+      "override_favor_level": 25,
+      "apply_override_favor_level": true,
+      "ground_id": 12,
+      "fixed_character": [
+        10101,
+        13006,
+        20000,
+        20001
+      ]
+    }
+  ]
+}

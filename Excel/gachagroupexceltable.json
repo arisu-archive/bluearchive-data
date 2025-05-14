@@ -1,0 +1,7810 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "name_kr": "제조 가챠",
+      "is_recursive": true,
+      "group_type": 2
+    },
+    {
+      "id": 10,
+      "name_kr": "튜토리얼 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 11,
+      "name_kr": "튜토리얼 가챠 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 12,
+      "name_kr": "튜토리얼 가챠 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 13,
+      "name_kr": "튜토리얼 가챠 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 30,
+      "name_kr": "튜토리얼 선별 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 31,
+      "name_kr": "튜토리얼 선별 가챠 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 32,
+      "name_kr": "튜토리얼 선별 가챠 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 33,
+      "name_kr": "튜토리얼 선별 가챠 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20,
+      "name_kr": "레거시 시즌용 더미 학생모집(스즈미)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 50,
+      "name_kr": "1차 일반 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 51,
+      "name_kr": "1차 일반 가챠 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 52,
+      "name_kr": "1차 일반 가챠 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 53,
+      "name_kr": "1차 일반 가챠 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 59,
+      "name_kr": "1차 일반 가챠 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 60,
+      "name_kr": "2차 일반 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 61,
+      "name_kr": "2차 일반 가챠 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 62,
+      "name_kr": "2차 일반 가챠 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 63,
+      "name_kr": "2차 일반 가챠 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 69,
+      "name_kr": "2차 일반 가챠 SSR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 70,
+      "name_kr": "3차 일반 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 71,
+      "name_kr": "3차 일반 가챠 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 72,
+      "name_kr": "3차 일반 가챠 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 73,
+      "name_kr": "3차 일반 가챠 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 79,
+      "name_kr": "3차 일반 가챠 SSR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 100,
+      "name_kr": "N 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 101,
+      "name_kr": "R 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 102,
+      "name_kr": " SR 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 103,
+      "name_kr": "SSR 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 112,
+      "name_kr": "SR 인연 선물",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120,
+      "name_kr": "N 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 121,
+      "name_kr": "R 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 122,
+      "name_kr": "SR 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 123,
+      "name_kr": "SSR 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 130,
+      "name_kr": "N EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 131,
+      "name_kr": "R EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 132,
+      "name_kr": "SR EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 133,
+      "name_kr": "SSR EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 140,
+      "name_kr": "N 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 141,
+      "name_kr": "R 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 142,
+      "name_kr": "SR 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 143,
+      "name_kr": "SSR 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 151,
+      "name_kr": "R 가구",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 152,
+      "name_kr": "SR 가구",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 153,
+      "name_kr": "SSR 가구",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 160,
+      "name_kr": "N 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 161,
+      "name_kr": "R 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 162,
+      "name_kr": "SR 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 163,
+      "name_kr": "SSR 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 302,
+      "name_kr": "3차 노드용  SR 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 303,
+      "name_kr": "3차 노드용 SSR 활동 보고서",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 312,
+      "name_kr": "3차 노드용 SR 인연 선물",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 313,
+      "name_kr": "3차 노드용 SSR 인연 선물",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 322,
+      "name_kr": "3차 노드용 SR 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 323,
+      "name_kr": "3차 노드용 SSR 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 332,
+      "name_kr": "3차 노드용 SR EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 333,
+      "name_kr": "3차 노드용 SSR EX스킬 CD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 342,
+      "name_kr": "3차 노드용 SR 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 343,
+      "name_kr": "3차 노드용 SSR 스킬 책",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 344,
+      "name_kr": "3차 노드용 스킬 책 (비의서 조각 1개 ~ 3개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 352,
+      "name_kr": "3차 노드용 SR 가구",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 353,
+      "name_kr": "3차 노드용 SSR 가구",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 362,
+      "name_kr": "3차 노드용 SR 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 363,
+      "name_kr": "3차 노드용 SSR 전용무기 강화 재료",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 370,
+      "name_kr": "3차 노드용 신명문자 (3개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 371,
+      "name_kr": "3차 노드용 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 380,
+      "name_kr": "3차 노드용 비의서 조각 (3개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 390,
+      "name_kr": "3차 노드용 크레딧",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1000,
+      "name_kr": "백귀야행",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1001,
+      "name_kr": "붉은겨울",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1002,
+      "name_kr": "트리니티",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1003,
+      "name_kr": "게헨나",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1004,
+      "name_kr": "아비도스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1005,
+      "name_kr": "밀레니엄",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1007,
+      "name_kr": "산해경",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1008,
+      "name_kr": "발키리",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1009,
+      "name_kr": "아리우스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1010,
+      "name_kr": "하이랜더",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1100,
+      "name_kr": "Bedding - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1101,
+      "name_kr": "Sports - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1102,
+      "name_kr": "Electronic - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1103,
+      "name_kr": "Books - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1104,
+      "name_kr": "Cosmetics - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1105,
+      "name_kr": "Dessert - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1106,
+      "name_kr": "Toy - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1107,
+      "name_kr": "Curios - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1108,
+      "name_kr": "Reservation - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1109,
+      "name_kr": "Household - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1110,
+      "name_kr": "Horticulture - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1111,
+      "name_kr": "Fashion - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1112,
+      "name_kr": "Functional - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1113,
+      "name_kr": "WaterPlay - 선물 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2000,
+      "name_kr": "의자 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2001,
+      "name_kr": "클로셋 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2002,
+      "name_kr": "바닥 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2003,
+      "name_kr": "바닥 장식 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2004,
+      "name_kr": "가전 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2005,
+      "name_kr": "프랍 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2006,
+      "name_kr": "테이블 - 가구  타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2007,
+      "name_kr": "벽 장식 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2008,
+      "name_kr": "벽지 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2009,
+      "name_kr": "배경 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2010,
+      "name_kr": "침대 - 가구 타입",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2100,
+      "name_kr": "카페 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2101,
+      "name_kr": "게임센터 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2102,
+      "name_kr": "발렌타인 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2103,
+      "name_kr": "여름 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2104,
+      "name_kr": "할로윈 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2105,
+      "name_kr": "온천장 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2106,
+      "name_kr": "새해 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2107,
+      "name_kr": "밀리터리 캠핑장 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2108,
+      "name_kr": "바다의 집 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2109,
+      "name_kr": "체육제 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2110,
+      "name_kr": "아비도스교실 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2111,
+      "name_kr": "게임개발부 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2112,
+      "name_kr": "선샤인리조트 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2113,
+      "name_kr": "쇼핑몰 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2114,
+      "name_kr": "게헨나 파티 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2115,
+      "name_kr": "트리니티 교실 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2116,
+      "name_kr": "DJ 파티장 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2117,
+      "name_kr": "백귀야행 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2118,
+      "name_kr": "밀레니엄 타워 라운지 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 2119,
+      "name_kr": "하이랜더 열차 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3000,
+      "name_kr": "3차 노드용 백귀야행",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3001,
+      "name_kr": "3차 노드용 붉은겨울",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3002,
+      "name_kr": "3차 노드용 트리니티",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3003,
+      "name_kr": "3차 노드용 게헨나",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3004,
+      "name_kr": "3차 노드용 아비도스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3005,
+      "name_kr": "3차 노드용 밀레니엄",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3006,
+      "name_kr": "3차 노드용 산해경",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3007,
+      "name_kr": "3차 노드용 발키리",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3008,
+      "name_kr": "3차 노드용 아리우스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3009,
+      "name_kr": "3차 노드용 하이랜더",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3100,
+      "name_kr": "백귀야행 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3101,
+      "name_kr": "붉은겨울 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3102,
+      "name_kr": "트리니티 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3103,
+      "name_kr": "게헨나 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3104,
+      "name_kr": "아비도스 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3105,
+      "name_kr": "밀레니엄 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3106,
+      "name_kr": "산해경 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3107,
+      "name_kr": "발키리 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3108,
+      "name_kr": "아리우스 신명문자 (1개 ~ 5개)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10000,
+      "name_kr": "확정지급 가챠그룹 - 추격전1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10001,
+      "name_kr": "확정지급 가챠그룹 - 추격전2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10002,
+      "name_kr": "확정지급 가챠그룹 - 추격전3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10003,
+      "name_kr": "확정지급 가챠그룹 - 추격전4",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10004,
+      "name_kr": "확정지급 가챠그룹 - 추격전5",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10005,
+      "name_kr": "확정지급 가챠그룹 - 추격전6",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10006,
+      "name_kr": "확정지급 가챠그룹 - 추격전7",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10007,
+      "name_kr": "확정지급 가챠그룹 - 추격전8",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10008,
+      "name_kr": "확정지급 가챠그룹 - 추격전9",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10009,
+      "name_kr": "확정지급 가챠그룹 - 추격전10",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10100,
+      "name_kr": "오파츠 가챠그룹_하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10101,
+      "name_kr": "오파츠 가챠그룹_일반",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10102,
+      "name_kr": "오파츠 가챠그룹_상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10103,
+      "name_kr": "오파츠 가챠그룹_최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10110,
+      "name_kr": "오파츠 가챠그룹_하급_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10111,
+      "name_kr": "오파츠 가챠그룹_일반_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10112,
+      "name_kr": "오파츠 가챠그룹_상급_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10113,
+      "name_kr": "오파츠 가챠그룹_최상급_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10114,
+      "name_kr": "오파츠 가챠그룹_하급_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10115,
+      "name_kr": "오파츠 가챠그룹_일반_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10116,
+      "name_kr": "오파츠 가챠그룹_상급_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10117,
+      "name_kr": "오파츠 가챠그룹_최상급_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10118,
+      "name_kr": "오파츠 가챠그룹_하급_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10119,
+      "name_kr": "오파츠 가챠그룹_일반_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10120,
+      "name_kr": "오파츠 가챠그룹_상급_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10121,
+      "name_kr": "오파츠 가챠그룹_최상급_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10200,
+      "name_kr": "스테이지 공통 오파츠 가챠그룹_하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10300,
+      "name_kr": "Cosumable_Chase_ExSkillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10301,
+      "name_kr": "Cosumable_Chase_ExSkillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10302,
+      "name_kr": "Cosumable_Chase_ExSkillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10303,
+      "name_kr": "Cosumable_Chase_ExSkillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10310,
+      "name_kr": "Cosumable_Chase_ExSkillbook_0_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10311,
+      "name_kr": "Cosumable_Chase_ExSkillbook_1_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10312,
+      "name_kr": "Cosumable_Chase_ExSkillbook_2_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10313,
+      "name_kr": "Cosumable_Chase_ExSkillbook_3_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10314,
+      "name_kr": "Cosumable_Chase_ExSkillbook_0_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10315,
+      "name_kr": "Cosumable_Chase_ExSkillbook_1_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10316,
+      "name_kr": "Cosumable_Chase_ExSkillbook_2_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10317,
+      "name_kr": "Cosumable_Chase_ExSkillbook_3_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10318,
+      "name_kr": "Cosumable_Chase_ExSkillbook_0_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10319,
+      "name_kr": "Cosumable_Chase_ExSkillbook_1_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10320,
+      "name_kr": "Cosumable_Chase_ExSkillbook_2_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10321,
+      "name_kr": "Cosumable_Chase_ExSkillbook_3_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10400,
+      "name_kr": "Cosumable_Chase_Skillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10401,
+      "name_kr": "Cosumable_Chase_Skillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10402,
+      "name_kr": "Cosumable_Chase_Skillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10403,
+      "name_kr": "Cosumable_Chase_Skillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10410,
+      "name_kr": "Cosumable_Chase_Skillbook_0_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10411,
+      "name_kr": "Cosumable_Chase_Skillbook_1_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10412,
+      "name_kr": "Cosumable_Chase_Skillbook_2_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10413,
+      "name_kr": "Cosumable_Chase_Skillbook_3_A",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10414,
+      "name_kr": "Cosumable_Chase_Skillbook_0_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10415,
+      "name_kr": "Cosumable_Chase_Skillbook_1_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10416,
+      "name_kr": "Cosumable_Chase_Skillbook_2_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10417,
+      "name_kr": "Cosumable_Chase_Skillbook_3_B",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10418,
+      "name_kr": "Cosumable_Chase_Skillbook_0_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10419,
+      "name_kr": "Cosumable_Chase_Skillbook_1_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10420,
+      "name_kr": "Cosumable_Chase_Skillbook_2_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 10421,
+      "name_kr": "Cosumable_Chase_Skillbook_3_C",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20000,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_ExSkillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20001,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_ExSkillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20002,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_ExSkillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20003,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_ExSkillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20004,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20005,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20006,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 20007,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_ExSkillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21000,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_Skillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21001,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_Skillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21002,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_Skillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21003,
+      "name_kr": "게헨나/산해경/트리니티/발키리/아리우스_Skillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21004,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21005,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21006,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 21007,
+      "name_kr": "아비도스/밀레니엄/백귀야행/붉은겨울_Skillbook_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60000,
+      "name_kr": "스케쥴 - 게헨나 5레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60001,
+      "name_kr": "스케쥴 - 게헨나 6레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60010,
+      "name_kr": "스케쥴 - 아비도스 5레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60011,
+      "name_kr": "스케쥴 - 아비도스 6레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60020,
+      "name_kr": "스케쥴 - 밀레니엄 5레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60021,
+      "name_kr": "스케쥴 - 밀레니엄 6레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60030,
+      "name_kr": "스케쥴 - 트리니티 5레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60031,
+      "name_kr": "스케쥴 - 트리니티 6레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60040,
+      "name_kr": "스케쥴 - 붉은겨울 5레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 60041,
+      "name_kr": "스케쥴 - 붉은겨울 6레벨 일반 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 61000,
+      "name_kr": "제약해제결전_보상용_오파츠_랜덤상자_0",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 61001,
+      "name_kr": "제약해제결전_보상용_오파츠_랜덤상자_1",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 61002,
+      "name_kr": "제약해제결전_보상용_오파츠_랜덤상자_2",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 61003,
+      "name_kr": "제약해제결전_보상용_오파츠_랜덤상자_3",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 90000,
+      "name_kr": "GachaBox_Starategy_Reward",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100010,
+      "name_kr": "1_1차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 100011,
+      "name_kr": "1_1차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100012,
+      "name_kr": "1_1차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100013,
+      "name_kr": "1_1차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100019,
+      "name_kr": "1_1차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 100022,
+      "name_kr": "1_1차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100023,
+      "name_kr": "1_1차 픽업 SSR 한정_히카리",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100030,
+      "name_kr": "1_2차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 100031,
+      "name_kr": "1_2차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100032,
+      "name_kr": "1_2차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100033,
+      "name_kr": "1_2차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100039,
+      "name_kr": "1_2차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 100042,
+      "name_kr": "1_2차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 100043,
+      "name_kr": "1_2차 픽업 SSR 한정_노조미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110010,
+      "name_kr": "2_1차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110011,
+      "name_kr": "2_1차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110012,
+      "name_kr": "2_1차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110013,
+      "name_kr": "2_1차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110019,
+      "name_kr": "2_1차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110022,
+      "name_kr": "2_1차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110023,
+      "name_kr": "2_1차 픽업 SSR 사오리",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110030,
+      "name_kr": "2_2차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110031,
+      "name_kr": "2_2차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110032,
+      "name_kr": "2_2차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110033,
+      "name_kr": "2_2차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110039,
+      "name_kr": "2_2차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110042,
+      "name_kr": "2_2차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110043,
+      "name_kr": "2_2차 픽업 SSR 아츠코",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110050,
+      "name_kr": "2_3차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110051,
+      "name_kr": "2_3차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110052,
+      "name_kr": "2_3차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110053,
+      "name_kr": "2_3차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110059,
+      "name_kr": "2_3차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 110062,
+      "name_kr": "2_3차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 110063,
+      "name_kr": "2_3차 픽업 SSR 히요리",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120010,
+      "name_kr": "3_1차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120011,
+      "name_kr": "3_1차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120012,
+      "name_kr": "3_1차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120013,
+      "name_kr": "3_1차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120019,
+      "name_kr": "3_1차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120022,
+      "name_kr": "3_1차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120023,
+      "name_kr": "3_1차 픽업 SSR 피나(가이드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120030,
+      "name_kr": "3_2차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120031,
+      "name_kr": "3_2차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120032,
+      "name_kr": "3_2차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120033,
+      "name_kr": "3_2차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120039,
+      "name_kr": "3_2차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120042,
+      "name_kr": "3_2차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120043,
+      "name_kr": "3_2차 픽업 SSR 츠바키(가이드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120050,
+      "name_kr": "3_3차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120051,
+      "name_kr": "3_3차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120052,
+      "name_kr": "3_3차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120053,
+      "name_kr": "3_3차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120059,
+      "name_kr": "3_3차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120062,
+      "name_kr": "3_3차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120063,
+      "name_kr": "3_3차 픽업 SSR 우미카",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180000,
+      "name_kr": "신규 유저 전용 가챠",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 180001,
+      "name_kr": "신규 유저 전용 가챠_R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180002,
+      "name_kr": "신규 유저 전용 가챠_SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180003,
+      "name_kr": "신규 유저 전용 가챠_SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180013,
+      "name_kr": "신규 유저 전용 가챠_SSR_10번째",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180100,
+      "name_kr": "신규 유저 전용 가챠_2탄",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 180101,
+      "name_kr": "신규 유저 전용 가챠_2탄_R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180102,
+      "name_kr": "신규 유저 전용 가챠_2탄_SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180103,
+      "name_kr": "신규 유저 전용 가챠_2탄_SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 180113,
+      "name_kr": "신규 유저 전용 가챠_2탄_SSR_10번째",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 200000,
+      "name_kr": "월간 제조 팩 A - 선물 랜덤 상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 201000,
+      "name_kr": "월간 선물 패키지 - 3성 선물 랜덤 상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 210010,
+      "name_kr": "월간 제조 팩 B - 가구 랜덤 상자 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 210011,
+      "name_kr": "월간 제조 팩 B - 가구 랜덤 상자 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 210012,
+      "name_kr": "월간 제조 팩 B - 가구 랜덤 상자 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300000,
+      "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300001,
+      "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300002,
+      "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300003,
+      "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300010,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300011,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300012,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300013,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300014,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300020,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300021,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300022,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300023,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300024,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300031,
+      "name_kr": "새해이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300032,
+      "name_kr": "새해이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300033,
+      "name_kr": "새해이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300034,
+      "name_kr": "새해이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300041,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300042,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300043,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300044,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300051,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300052,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300053,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300054,
+      "name_kr": "인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300060,
+      "name_kr": "점령전 1Step 지역 하급 오파츠 랜덤 드랍",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300061,
+      "name_kr": "점령전 1Step 지역 중급 오파츠 랜덤 드랍",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300062,
+      "name_kr": "점령전 1Step 지역 하급 오파츠 랜덤 드랍",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300063,
+      "name_kr": "점령전 1Step 지역 중급 오파츠 랜덤 드랍",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300064,
+      "name_kr": "점령전 1슬롯 2Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300065,
+      "name_kr": "점령전 1슬롯 3Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300066,
+      "name_kr": "점령전 1슬롯 4Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300067,
+      "name_kr": "점령전 1슬롯 5Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300068,
+      "name_kr": "점령전 2슬롯 2Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300069,
+      "name_kr": "점령전 2슬롯 3Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300070,
+      "name_kr": "점령전 2슬롯 4Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300071,
+      "name_kr": "점령전 2슬롯 5Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300072,
+      "name_kr": "점령전 3슬롯 2Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300073,
+      "name_kr": "점령전 3슬롯 3Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300074,
+      "name_kr": "점령전 3슬롯 4Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300075,
+      "name_kr": "점령전 3슬롯 5Tier 장비 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300081,
+      "name_kr": "스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300082,
+      "name_kr": "스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300083,
+      "name_kr": "스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300084,
+      "name_kr": "스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300085,
+      "name_kr": "스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300091,
+      "name_kr": "크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300092,
+      "name_kr": "크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300093,
+      "name_kr": "크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300094,
+      "name_kr": "크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300095,
+      "name_kr": "크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300101,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300102,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300103,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300104,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300105,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300106,
+      "name_kr": "비나 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300107,
+      "name_kr": "헤세드 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300108,
+      "name_kr": "시로쿠로 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300109,
+      "name_kr": "예로니무스 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300110,
+      "name_kr": "호드 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300111,
+      "name_kr": "페로로지라 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300112,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300113,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300114,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300115,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300116,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300117,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300118,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300119,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300120,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300121,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300122,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300123,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300124,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300125,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300126,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300127,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300128,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300129,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300130,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300131,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300132,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300133,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300134,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300135,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300136,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300137,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300138,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300139,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300140,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300141,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300142,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300143,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300144,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300145,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300146,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300147,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300148,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300149,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300150,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300151,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300152,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300153,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300154,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300155,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300156,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300157,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300158,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300159,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300160,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300161,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300162,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300163,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300164,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300165,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300166,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300167,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300168,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300169,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300170,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300171,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300172,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300173,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300174,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300175,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300176,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300177,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300178,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300179,
+      "name_kr": "비나 GachaGroup (게헨나/아비도스) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300180,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300181,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300182,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300183,
+      "name_kr": "비나 GachaGroup (로혼치 사본/네브라 디스크) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300184,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300185,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300186,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300187,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300188,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300189,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300190,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300191,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300192,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300193,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300194,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300195,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300196,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300197,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300198,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300199,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300200,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300201,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300202,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300203,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300204,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300205,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300206,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300207,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300208,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300209,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300210,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300211,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300212,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300213,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300214,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300215,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300216,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300217,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300218,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300219,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300220,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300221,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300222,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300223,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300224,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300225,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300226,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300227,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300228,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300229,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300230,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300231,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300232,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300233,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300234,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300235,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300236,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300237,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300238,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300239,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300240,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300241,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300242,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300243,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300244,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300245,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300246,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300247,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300248,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300249,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300250,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300251,
+      "name_kr": "헤세드 GachaGroup (밀레니엄/붉은겨울) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300252,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300253,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300254,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300255,
+      "name_kr": "헤세드 GachaGroup (안티키테라 장치/에테르) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300256,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300257,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300258,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300259,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300260,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300261,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300262,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300263,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300264,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300265,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300266,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300267,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300268,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300269,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300270,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300271,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300272,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300273,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300274,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300275,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300276,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300277,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300278,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300279,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300280,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300281,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300282,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300283,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300284,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300285,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300286,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300287,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300288,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300289,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300290,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300291,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300292,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300293,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300294,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300295,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300296,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300297,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300298,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300299,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300300,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300301,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300302,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300303,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300304,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300305,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300306,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300307,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300308,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300309,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300310,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300311,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300312,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300313,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300314,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300315,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300316,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300317,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300318,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300319,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300320,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300321,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300322,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300323,
+      "name_kr": "시로쿠로 GachaGroup (게헨나/발키리) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300324,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300325,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300326,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300327,
+      "name_kr": "시로쿠로 GachaGroup (보이니치 사본/볼프세크 철광석) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300328,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300329,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300330,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300331,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300332,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300333,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300334,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300335,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300336,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300337,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300338,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300339,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300340,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300341,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300342,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300343,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300344,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300345,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300346,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300347,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300348,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300349,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300350,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300351,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300352,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300353,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300354,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300355,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300356,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300357,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300358,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300359,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300360,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300361,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300362,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300363,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300364,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300365,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300366,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300367,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300368,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300369,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300370,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300371,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300372,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300373,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300374,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300375,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300376,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300377,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300378,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300379,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300380,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300381,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300382,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300383,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300384,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300385,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300386,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300387,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300388,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300389,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300390,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300391,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300392,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300393,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300394,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300395,
+      "name_kr": "예로니무스 GachaGroup (트리니티/아리우스) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300396,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300397,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300398,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300399,
+      "name_kr": "예로니무스 GachaGroup (파에스토스 원반/크리스탈 하니와) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300400,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300401,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300402,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300403,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300404,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300405,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300406,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300407,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300408,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300409,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300410,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300411,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300412,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300413,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300414,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300415,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300416,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300417,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300418,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300419,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300420,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300421,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300422,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300423,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300424,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300425,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300426,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300427,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300428,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300429,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300430,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300431,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300432,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300433,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300434,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300435,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300436,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300437,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300438,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300439,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300440,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300441,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300442,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300443,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300444,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300445,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300446,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300447,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300448,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300449,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300450,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300451,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300452,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300453,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300454,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300455,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300456,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300457,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300458,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300459,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300460,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300461,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300462,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300463,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300464,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300465,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300466,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300467,
+      "name_kr": "호드 GachaGroup (밀레니엄/산해경) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300468,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300469,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300470,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300471,
+      "name_kr": "호드 GachaGroup (만드라고라/님루드 렌즈) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300472,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300473,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300474,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300475,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300476,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300477,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300478,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300479,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Normal - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300480,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Normal - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300481,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Normal - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300482,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Normal - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300483,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Normal - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300484,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300485,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300486,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300487,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300488,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300489,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300490,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300491,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300492,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300493,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300494,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300495,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300496,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300497,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300498,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300499,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300500,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300501,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300502,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300503,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) VeryHard - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300504,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) VeryHard - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300505,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) VeryHard - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300506,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) VeryHard - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300507,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) VeryHard - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300508,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300509,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300510,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300511,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300512,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300513,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300514,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300515,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Hardcore - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300516,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hardcore - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300517,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hardcore - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300518,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hardcore - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300519,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Hardcore - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300520,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300521,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300522,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300523,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300524,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300525,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300526,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300527,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Extreme - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300528,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Extreme - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300529,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Extreme - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300530,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Extreme - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300531,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Extreme - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300532,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300533,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300534,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300535,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300536,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300537,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300538,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300539,
+      "name_kr": "페로로지라 GachaGroup (백귀야행/트리니티) Insane - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300540,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Insane - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300541,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Insane - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300542,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Insane - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300543,
+      "name_kr": "페로로지라 GachaGroup (로혼치 사본/에테르) Insane - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300551,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300552,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300553,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300554,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300555,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300556,
+      "name_kr": "테러 시로코 학생 엘레프 GachaGroup",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300557,
+      "name_kr": "테러 시로코 GachaGroup - 하급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300558,
+      "name_kr": "테러 시로코 GachaGroup - 중급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300559,
+      "name_kr": "테러 시로코 GachaGroup - 상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300560,
+      "name_kr": "테러 시로코 GachaGroup - 최상급 스킬북",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300561,
+      "name_kr": "테러 시로코 GachaGroup - 하급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300562,
+      "name_kr": "테러 시로코 GachaGroup - 중급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300563,
+      "name_kr": "테러 시로코 GachaGroup - 상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300564,
+      "name_kr": "테러 시로코 GachaGroup - 최상급 EX BD",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300565,
+      "name_kr": "테러 시로코 GachaGroup - 하급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300566,
+      "name_kr": "테러 시로코 GachaGroup - 중급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300567,
+      "name_kr": "테러 시로코 GachaGroup - 상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300568,
+      "name_kr": "테러 시로코 GachaGroup - 최상급",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300571,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300572,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300573,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300574,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300575,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300581,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300582,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300583,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300584,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300585,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300591,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300592,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300593,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300594,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300595,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300596,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300600,
+      "name_kr": "R57_여름SRT이벤트_확정주사위상자 - 1~6 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300610,
+      "name_kr": "10818 R59 복각 체육제 후반 이벤트_확정주사위상자 - 1~6 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300621,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300622,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300623,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300624,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300625,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300626,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300630,
+      "name_kr": "R61_초전자포콜라보이벤트_하급스킬북랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300631,
+      "name_kr": "R61_초전자포콜라보이벤트_중급스킬북랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300632,
+      "name_kr": "R61_초전자포콜라보이벤트_상급스킬북랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300640,
+      "name_kr": "R63_베리타스캠핑이벤트_하급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300641,
+      "name_kr": "R63_베리타스캠핑이벤트_중급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300642,
+      "name_kr": "R63_베리타스캠핑이벤트_상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300643,
+      "name_kr": "R63_베리타스캠핑이벤트_최상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300651,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300652,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300653,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300654,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300655,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300656,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300660,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300661,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300662,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300663,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300664,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300665,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300666,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300667,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300668,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300669,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300670,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300671,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300672,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300673,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300674,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300675,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300676,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300677,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300678,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300679,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300680,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300681,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300682,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300683,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300684,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300685,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300686,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300687,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300688,
+      "name_kr": "R64_게헨나파티_필드이벤트_하급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300689,
+      "name_kr": "R64_게헨나파티_필드이벤트_중급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300690,
+      "name_kr": "R64_게헨나파티_필드이벤트_상급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300691,
+      "name_kr": "R64_게헨나파티_필드이벤트_최상급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300701,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300702,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300703,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300704,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300705,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300706,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300711,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300712,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300713,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300714,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300715,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300716,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300721,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300722,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300723,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300724,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300725,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300726,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300731,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300732,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300733,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300734,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300735,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300736,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300737,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300740,
+      "name_kr": "10827_복각_R57_여름SRT이벤트_확정주사위상자 - 1~6 랜덤",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300751,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300752,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300753,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300754,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300755,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300756,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300757,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300761,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300762,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300763,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300764,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300765,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300766,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300767,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300644,
+      "name_kr": "R76_복각_베리타스캠핑이벤트_하급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300645,
+      "name_kr": "R76_복각_베리타스캠핑이벤트_중급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300646,
+      "name_kr": "R76_복각_베리타스캠핑이벤트_상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300647,
+      "name_kr": "R76_복각_베리타스캠핑이벤트_최상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300770,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300771,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300772,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300773,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급스킬북 (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300774,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300775,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300776,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300777,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급스킬북 (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300778,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300779,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300780,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300781,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급스킬북 (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300782,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300783,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300784,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300785,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급스킬북 (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300786,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300787,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300788,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300789,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급EXBD (게헨나, 붉은겨울)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300790,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300791,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300792,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300793,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급EXBD (트리니티, 아리우스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300794,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300795,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300796,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300797,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급EXBD (밀레니엄, 아비도스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300798,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_하급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300799,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_중급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300800,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_상급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300801,
+      "name_kr": "R76_C\u0026C교복_필드이벤트_최상급EXBD (산해경, 백귀야행, 발키리)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300811,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300812,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300813,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300814,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300815,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300816,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300817,
+      "name_kr": "R77_게헨나_급양부_이벤트_박스가챠_랜덤장비상자_8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300820,
+      "name_kr": "R78_밀레니엄야구부이벤트_하급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300821,
+      "name_kr": "R78_밀레니엄야구부이벤트_중급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300822,
+      "name_kr": "R78_밀레니엄야구부이벤트_상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300823,
+      "name_kr": "R78_밀레니엄야구부이벤트_최상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 310000,
+      "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310010,
+      "name_kr": "여름이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310020,
+      "name_kr": "바니걸이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310030,
+      "name_kr": "새해이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310040,
+      "name_kr": "인법연구부이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310050,
+      "name_kr": "여름1부_월드레이드_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310080,
+      "name_kr": "스위츠부 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310090,
+      "name_kr": "크리스마스 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310100,
+      "name_kr": "R52 거짓된 성소 연합 작전 이벤트 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310110,
+      "name_kr": "R53 프레나파테스 결전 연합 작전 이벤트 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310120,
+      "name_kr": "R55게임개발부이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310130,
+      "name_kr": "R56_산해경이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310140,
+      "name_kr": "R59_붉은겨울이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310150,
+      "name_kr": "R61_초전자포콜라보_이벤트 박스 가챠_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310160,
+      "name_kr": "R64_게헨나파티_필드이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310170,
+      "name_kr": "R65_게헨나파티2_이벤트 박스 가챠_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310180,
+      "name_kr": "R66_백귀야행관광이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310190,
+      "name_kr": "R67_방디부육성이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310200,
+      "name_kr": "R69_발키리수영복_이벤트 박스 가챠_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310210,
+      "name_kr": "R70_아리우스수영복_이벤트 박스 가챠_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310220,
+      "name_kr": "R71_산해경잠입_이벤트 박스 가챠_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310230,
+      "name_kr": "R77_게헨나_급양부_박스가챠_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 350001,
+      "name_kr": "복각_붉은겨울_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 350002,
+      "name_kr": "복각_붉은겨울_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 350003,
+      "name_kr": "복각_붉은겨울_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 350004,
+      "name_kr": "복각_붉은겨울_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360000,
+      "name_kr": "복각_붉은겨울_이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360011,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360012,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360013,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360014,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360015,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360016,
+      "name_kr": "복각_여름바다_이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360021,
+      "name_kr": "복각_바니걸_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360022,
+      "name_kr": "복각_바니걸_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360023,
+      "name_kr": "복각_바니걸_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360024,
+      "name_kr": "복각_바니걸_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360025,
+      "name_kr": "복각_바니걸_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360026,
+      "name_kr": "복각_바니걸 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360031,
+      "name_kr": "복각_정월흥신소_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360032,
+      "name_kr": "복각_정월흥신소_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360033,
+      "name_kr": "복각_정월흥신소_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360034,
+      "name_kr": "복각_정월흥신소_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360035,
+      "name_kr": "복각_정월흥신소_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360036,
+      "name_kr": "복각_정월흥신소 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360041,
+      "name_kr": "복각_인법연구부_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360042,
+      "name_kr": "복각_인법연구부_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360043,
+      "name_kr": "복각_인법연구부_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360044,
+      "name_kr": "복각_인법연구부_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360045,
+      "name_kr": "복각_인법연구부_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360046,
+      "name_kr": "복각_인법연구부 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360051,
+      "name_kr": "복각_스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360052,
+      "name_kr": "복각_스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360053,
+      "name_kr": "복각_스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360054,
+      "name_kr": "복각_스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360055,
+      "name_kr": "복각_스위츠부_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360056,
+      "name_kr": "복각_스위츠부 이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360061,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360062,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360063,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360064,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360065,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360066,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360067,
+      "name_kr": "R57_복각_여름1부_아비도스_이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360068,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 스킬 노트(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360069,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 스킬 노트(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360070,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 스킬 노트 (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360071,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 스킬 노트 (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360072,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 스킬 노트(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360073,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 스킬 노트(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360074,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 스킬 노트 (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360075,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 스킬 노트 (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360076,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 스킬 노트(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360077,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 스킬 노트(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360078,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 스킬 노트 (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360079,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 스킬 노트 (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360080,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 스킬 노트(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360081,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 스킬 노트(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360082,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 스킬 노트 (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360083,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 스킬 노트 (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360084,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 EX BD(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360085,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 EX BD(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360086,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 EX BD (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360087,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 하급 EX BD (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360088,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 EX BD(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360089,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 EX BD(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360090,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 EX BD (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360091,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 일반 EX BD (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360092,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 EX BD(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360093,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 EX BD(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360094,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 EX BD (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360095,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 상급 EX BD (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360096,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 EX BD(백귀, 아리, 발키)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360097,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 EX BD(밀레, 산해)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360098,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 EX BD (트리, 아비)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360099,
+      "name_kr": "R57_복각_아비도스_스테이지 드랍 가챠 - 최상급 EX BD (게헨, 레드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360101,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360102,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360103,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360104,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360105,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360106,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360107,
+      "name_kr": "R58_복각_체육제_후반_이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360111,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360112,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360113,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360114,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360115,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360116,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠_랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360117,
+      "name_kr": "R64_복각_트리니티_크리스마스_이벤트 박스 가챠 - 랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360121,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360122,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360123,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360124,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360125,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360126,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360127,
+      "name_kr": "R67_복각_산해경이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360131,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360132,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360133,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360134,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360135,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360136,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360137,
+      "name_kr": "R68_복각_게임개발부이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360141,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360142,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360143,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360144,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360145,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360146,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360147,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360148,
+      "name_kr": "R70_복각_붉은겨울이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360151,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360152,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360153,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360154,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360155,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360156,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360157,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360158,
+      "name_kr": "R74_복각_게헨나파티_필드이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360161,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360162,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360163,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360164,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360165,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360166,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360167,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360168,
+      "name_kr": "R78_복각_게헨나_파티2_이벤트_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 360171,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360172,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360173,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360174,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360175,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360176,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360177,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 360178,
+      "name_kr": "R79_복각_백귀야행관광_이벤트_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 400001,
+      "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400002,
+      "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400003,
+      "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400004,
+      "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400005,
+      "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400010,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400011,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400012,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400013,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400014,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400015,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400016,
+      "name_kr": "R62_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400020,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400021,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400022,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400023,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400024,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400025,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400026,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400027,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400031,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400032,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400033,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400034,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400035,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400036,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400037,
+      "name_kr": "R75_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400041,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400042,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400043,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400044,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400045,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400046,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400047,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 410000,
+      "name_kr": "R56_미니이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 410010,
+      "name_kr": "R62_미니이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 410020,
+      "name_kr": "R73_특수작전_미니이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 410030,
+      "name_kr": "R75_미니이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 410040,
+      "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 500000,
+      "name_kr": "스테이지 통합 가챠 박스 - 크레딧",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500001,
+      "name_kr": "스테이지 통합 가챠 박스 - 크레딧(하드)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500100,
+      "name_kr": "스테이지 통합 가챠 박스 - 아이템(묶음)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 500101,
+      "name_kr": "스테이지 통합 가챠 박스 - 아이템",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500102,
+      "name_kr": "스테이지 통합 가챠 박스 - 아이템",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500103,
+      "name_kr": "스테이지 통합 가챠 박스 - 아이템",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 510000,
+      "name_kr": "스테이지용 최상급 공통재료 가챠 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 511000,
+      "name_kr": "스테이지용 최상급 한계해방 재료 가챠 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 519999,
+      "name_kr": "TR 스테이지용 10크레딧 가챠 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601000,
+      "name_kr": "스테이지용Hat장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601001,
+      "name_kr": "스테이지용 Hat 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601002,
+      "name_kr": "스테이지용 Hat 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602000,
+      "name_kr": "스테이지용Gloves장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602001,
+      "name_kr": "스테이지용 Gloves 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602002,
+      "name_kr": "스테이지용 Gloves 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603000,
+      "name_kr": "스테이지용Shoes장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603001,
+      "name_kr": "스테이지용 Shoes 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603002,
+      "name_kr": "스테이지용 Shoes 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604000,
+      "name_kr": "스테이지용Bag장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604001,
+      "name_kr": "스테이지용 Bag 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604002,
+      "name_kr": "스테이지용 Bag 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605000,
+      "name_kr": "스테이지용Badge장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605001,
+      "name_kr": "스테이지용 Badge 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605002,
+      "name_kr": "스테이지용 Badge 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606000,
+      "name_kr": "스테이지용Hairpin장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606001,
+      "name_kr": "스테이지용 Hairpin 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606002,
+      "name_kr": "스테이지용 Hairpin 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607000,
+      "name_kr": "스테이지용Charm장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607001,
+      "name_kr": "스테이지용 Charm 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607002,
+      "name_kr": "스테이지용 Charm 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608000,
+      "name_kr": "스테이지용Watch장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608001,
+      "name_kr": "스테이지용 Watch 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608002,
+      "name_kr": "스테이지용 Watch 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609000,
+      "name_kr": "스테이지용Necklace장비1티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609001,
+      "name_kr": "스테이지용 Necklace 장비 1티어~2티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609002,
+      "name_kr": "스테이지용 Necklace 장비 2티어~3티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601003,
+      "name_kr": "스테이지용 Hat 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602003,
+      "name_kr": "스테이지용 Gloves 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603003,
+      "name_kr": "스테이지용 Shoes 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604003,
+      "name_kr": "스테이지용 Bag 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605003,
+      "name_kr": "스테이지용 Badge 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606003,
+      "name_kr": "스테이지용 Hairpin 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607003,
+      "name_kr": "스테이지용 Charm 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608003,
+      "name_kr": "스테이지용 Watch 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609003,
+      "name_kr": "스테이지용 Necklace 장비 3티어~4티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601004,
+      "name_kr": "스테이지용 Hat 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602004,
+      "name_kr": "스테이지용 Gloves 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603004,
+      "name_kr": "스테이지용 Shoes 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604004,
+      "name_kr": "스테이지용 Bag 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605004,
+      "name_kr": "스테이지용 Badge 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606004,
+      "name_kr": "스테이지용 Hairpin 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607004,
+      "name_kr": "스테이지용 Charm 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608004,
+      "name_kr": "스테이지용 Watch 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609004,
+      "name_kr": "스테이지용 Necklace 장비 4티어~5티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601005,
+      "name_kr": "스테이지용 Hat 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602005,
+      "name_kr": "스테이지용 Gloves 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603005,
+      "name_kr": "스테이지용 Shoes 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604005,
+      "name_kr": "스테이지용 Bag 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605005,
+      "name_kr": "스테이지용 Badge 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606005,
+      "name_kr": "스테이지용 Hairpin 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607005,
+      "name_kr": "스테이지용 Charm 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608005,
+      "name_kr": "스테이지용 Watch 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609005,
+      "name_kr": "스테이지용 Necklace 장비 5티어~6티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601006,
+      "name_kr": "스테이지용 Hat 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602006,
+      "name_kr": "스테이지용 Gloves 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603006,
+      "name_kr": "스테이지용 Shoes 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604006,
+      "name_kr": "스테이지용 Bag 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605006,
+      "name_kr": "스테이지용 Badge 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606006,
+      "name_kr": "스테이지용 Hairpin 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607006,
+      "name_kr": "스테이지용 Charm 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608006,
+      "name_kr": "스테이지용 Watch 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609006,
+      "name_kr": "스테이지용 Necklace 장비 6티어~7티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 601007,
+      "name_kr": "스테이지용 Hat 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 602007,
+      "name_kr": "스테이지용 Gloves 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 603007,
+      "name_kr": "스테이지용 Shoes 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 604007,
+      "name_kr": "스테이지용 Bag 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 605007,
+      "name_kr": "스테이지용 Badge 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 606007,
+      "name_kr": "스테이지용 Hairpin 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 607007,
+      "name_kr": "스테이지용 Charm 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 608007,
+      "name_kr": "스테이지용 Watch 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 609007,
+      "name_kr": "스테이지용 Necklace 장비 7티어~8티어 박스",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700010,
+      "name_kr": "1차_3성 모집 상점 기본",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 700011,
+      "name_kr": "1차_3성 모집 상점 기본 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700012,
+      "name_kr": "1차_3성 모집 상점 기본 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700013,
+      "name_kr": "1차_3성 모집 상점 기본 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700021,
+      "name_kr": "1차_3성 모집 상점 확정 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700030,
+      "name_kr": "2차_3성 모집 상점 기본",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 700031,
+      "name_kr": "2차_3성 모집 상점 기본 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700032,
+      "name_kr": "2차_3성 모집 상점 기본 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700033,
+      "name_kr": "2차_3성 모집 상점 기본 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700041,
+      "name_kr": "2차_3성 모집 상점 확정 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700050,
+      "name_kr": "3차_3성 모집 상점 기본",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 700051,
+      "name_kr": "3차_3성 모집 상점 기본 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700052,
+      "name_kr": "3차_3성 모집 상점 기본 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700053,
+      "name_kr": "3차_3성 모집 상점 기본 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 700061,
+      "name_kr": "3차_3성 모집 상점 확정 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800000,
+      "name_kr": "제조2호기 투입용 - 기초 기술 노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800001,
+      "name_kr": "제조2호기 투입용 - 일반 기술 노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800002,
+      "name_kr": "제조2호기 투입용 - 상급 기술 노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800003,
+      "name_kr": "제조2호기 투입용 - 최상급 기술 노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800010,
+      "name_kr": "제조2호기 투입용 - 기초 전술 교육 CD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800011,
+      "name_kr": "제조2호기 투입용 - 일반 전술 교육 CD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800012,
+      "name_kr": "제조2호기 투입용 - 상급 전술 교육 CD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800013,
+      "name_kr": "제조2호기 투입용 - 최상급 전술 교육 CD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800020,
+      "name_kr": "제조2호기 투입용 - 기초 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800021,
+      "name_kr": "제조2호기 투입용 - 일반 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800022,
+      "name_kr": "제조2호기 투입용 - 상급 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 800023,
+      "name_kr": "제조2호기 투입용 - 최상급 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801000,
+      "name_kr": "제조2호기 투입용 - 기초 가구 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801001,
+      "name_kr": "제조2호기 투입용 - 가구 (모모프렌즈) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801002,
+      "name_kr": "제조2호기 투입용 - 가구 (젤리즈 오락실) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801003,
+      "name_kr": "제조2호기 투입용 - 가구 (발렌타인) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801004,
+      "name_kr": "제조2호기 투입용 - 가구 (여름 리조트) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801005,
+      "name_kr": "제조2호기 투입용 - 가구 (할로윈) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801006,
+      "name_kr": "제조2호기 투입용 - 가구 (전통 온천장) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801007,
+      "name_kr": "제조2호기 투입용 - 가구 (새해) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801008,
+      "name_kr": "제조2호기 투입용 - 가구 (밀리터리 캠핑장) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801009,
+      "name_kr": "제조2호기 투입용 - 가구 (바다의 집) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801010,
+      "name_kr": "제조2호기 투입용 - 가구 (체육제) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801011,
+      "name_kr": "제조2호기 투입용 - 가구 (아비도스교실) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801012,
+      "name_kr": "제조2호기 투입용 - 가구 (게임개발부) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801013,
+      "name_kr": "제조2호기 투입용 - 가구 (선샤인리조트) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801014,
+      "name_kr": "제조2호기 투입용 - 가구 (쇼핑몰) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801015,
+      "name_kr": "제조2호기 투입용 - 가구 (게헨나 파티) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801016,
+      "name_kr": "제조2호기 투입용 - 가구 (트리니티 교실) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801017,
+      "name_kr": "제조2호기 투입용 - 가구 (DJ 파티장) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801018,
+      "name_kr": "제조2호기 투입용 - 가구 (백귀야행 백화요란) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801019,
+      "name_kr": "제조2호기 투입용 - 가구 (밀레니엄 타워 라운지) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801020,
+      "name_kr": "제조2호기 투입용 - 가구 (하이랜더 열차) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801991,
+      "name_kr": "제조2호기 투입용 - 가구 1성 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801992,
+      "name_kr": "제조2호기 투입용 - 가구 2성 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801993,
+      "name_kr": "제조2호기 투입용 - 가구 3성 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 801999,
+      "name_kr": "제조2호기 투입용 - 가구 (기타 테마) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 1000000,
+      "name_kr": "메인 스토리 1부 최종편 보상용 꾸러미 보상",
+      "is_recursive": false,
+      "group_type": 3
+    }
+  ]
+}

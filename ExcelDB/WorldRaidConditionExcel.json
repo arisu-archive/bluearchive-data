@@ -1,0 +1,73 @@
+{
+  "data_list": [
+    {
+      "id": 99999997,
+      "lock_ui": [],
+      "hide_when_locked": false,
+      "account_level": 0,
+      "scenario_mode_id": [
+        11030
+      ],
+      "campaign_stage_id": [],
+      "multiple_condition_check_type": 0,
+      "after_when_date": "",
+      "world_raid_boss_kill": []
+    },
+    {
+      "id": 99999998,
+      "lock_ui": [],
+      "hide_when_locked": false,
+      "account_level": 0,
+      "scenario_mode_id": [],
+      "campaign_stage_id": [],
+      "multiple_condition_check_type": 0,
+      "after_when_date": "",
+      "world_raid_boss_kill": [
+        814000
+      ]
+    },
+    {
+      "id": 814,
+      "lock_ui": [],
+      "hide_when_locked": false,
+      "account_level": 0,
+      "scenario_mode_id": [],
+      "campaign_stage_id": [
+        1021103
+      ],
+      "multiple_condition_check_type": 0,
+      "after_when_date": "",
+      "world_raid_boss_kill": []
+    },
+    {
+      "id": 821001,
+      "lock_ui": [],
+      "hide_when_locked": false,
+      "account_level": 0,
+      "scenario_mode_id": [],
+      "campaign_stage_id": [],
+      "multiple_condition_check_type": 0,
+      "after_when_date": "",
+      "world_raid_boss_kill": [
+        821000,
+        821100,
+        821200,
+        821300,
+        821400
+      ]
+    },
+    {
+      "id": 823001,
+      "lock_ui": [],
+      "hide_when_locked": false,
+      "account_level": 0,
+      "scenario_mode_id": [
+        104060
+      ],
+      "campaign_stage_id": [],
+      "multiple_condition_check_type": 0,
+      "after_when_date": "",
+      "world_raid_boss_kill": []
+    }
+  ]
+}
