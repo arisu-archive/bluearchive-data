@@ -1,0 +1,168 @@
+{
+  "data_list": [
+    {
+      "id": 10000,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90000080
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_01",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_01",
+      "full_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Collection_Portrait_Kether",
+      "localize_etc_id": 2539375741,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Kether"
+    },
+    {
+      "id": 10001,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90001090
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_02",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_02",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Chokmah_Lobby",
+      "localize_etc_id": 1769839732,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Chokmah"
+    },
+    {
+      "id": 10002,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90000030
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_03",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_03",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "localize_etc_id": 537637411,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Binah"
+    },
+    {
+      "id": 10003,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90000050
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_04",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_04",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Chesed_Lobby",
+      "localize_etc_id": 1367499131,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Chesed"
+    },
+    {
+      "id": 10004,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90000150
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_05",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_05",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Geburah_Lobby",
+      "localize_etc_id": 3284843262,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Geburah"
+    },
+    {
+      "id": 10005,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90001280
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_06",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_06",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Tiphareth_Lobby",
+      "localize_etc_id": 2166637992,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Tiphareth"
+    },
+    {
+      "id": 10006,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_07",
+      "thumb_resource": "",
+      "full_resource": "",
+      "localize_etc_id": 0,
+      "sub_name_localize_code_id": ""
+    },
+    {
+      "id": 10007,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90000120
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_08",
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_08",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hod_Lobby",
+      "localize_etc_id": 3359469350,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Hod"
+    },
+    {
+      "id": 10008,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_09",
+      "thumb_resource": "",
+      "full_resource": "",
+      "localize_etc_id": 0,
+      "sub_name_localize_code_id": ""
+    },
+    {
+      "id": 10009,
+      "group_id": 1,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "Special_Operation_Icon_Sephira_10",
+      "thumb_resource": "",
+      "full_resource": "",
+      "localize_etc_id": 0,
+      "sub_name_localize_code_id": ""
+    }
+  ]
+}

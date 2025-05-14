@@ -1,0 +1,823 @@
+{
+  "data_list": [
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Talk",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "주변이 소란스럽네요…",
+      "localize_jp": "周りが騒がしいですね…。"
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Think",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "(게헨나 파티라…)",
+      "localize_jp": "（ゲヘナのパーティーか…）"
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Angry",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Bulb",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Dot",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Evidence",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Exclaim",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Heart",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Keyword",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Momotalk",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Music",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Phone",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Question",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Surprise",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 0,
+      "dialog_type": "Sweat",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 1,
+      "target_index": 1,
+      "dialog_type": "Upset",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 2,
+      "target_index": 0,
+      "dialog_type": "Momotalk",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 3,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "이제 환풍구로 들어갈 수 있겠어요",
+      "localize_jp": "이제 환풍구로 진입할 수 있겠어"
+    },
+    {
+      "group_id": 3,
+      "target_index": 1,
+      "dialog_type": "Exclaim",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 3,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1000,
+      "hide_ui": true,
+      "localize_kr": "서둘러서 이동해야겠어요",
+      "localize_jp": "이런 서둘러서 이동해야겠어요"
+    },
+    {
+      "group_id": 4,
+      "target_index": 0,
+      "dialog_type": "Question",
+      "duration": 1000,
+      "hide_ui": false,
+      "localize_kr": "",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 5,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1500,
+      "hide_ui": true,
+      "localize_kr": "여기가 비밀 입구군요.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 5,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1500,
+      "hide_ui": true,
+      "localize_kr": "환풍기를 꺼야 들어갈 수 있겠어요",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 5,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1500,
+      "hide_ui": true,
+      "localize_kr": "배전반을 찾아야겠네요.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 6,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 1500,
+      "hide_ui": true,
+      "localize_kr": "드디어 도착했어요.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(움직이지 않을 땐 들키지 않을 거예요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(타이밍을 잘 봐가며… 움직이죠.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001001,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "...는 ...",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001001,
+      "target_index": 2,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "...가...",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(조금 더…)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001002,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "...다음은...",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001002,
+      "target_index": 2,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "...거기서...",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001002,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(조금만 더...)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001003,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "곧 있으면 접선 시간이야.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001003,
+      "target_index": 2,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "빨리 거래 끝내고 돌아가자.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430001003,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(……이쯤이면 되겠죠.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(꽤나 튼실하게 대비해 놨네.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(가다 보면 데이터 장치가 있다고 했지?)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(마음 같아선 다 때려 부수며 가고 싶지만...)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…하여간 잠입은 취향이 아니라니까.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저소음 탄을 써야겠어.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(드론… 밀레니엄답네요. 트리니티와는 많이 달라요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(이 통로 끝까지 가면… 문이 나오겠군요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(강아지 로봇…)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006001,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "세이아, 이쪽이야.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006001,
+      "target_index": 0,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "리오.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "강아지 로봇에 통신기를 달았어.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "필요하다면 중간중간 연락해 줘.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006002,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…이건 혼자서 지나갈 수 없겠어요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006002,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(리오에게 연락해야겠군요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006003,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "그러잖아도 이쪽에서 비밀 통로를 만들고 있었어.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8430006003,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "배전반을 조작해서 환풍기를 끄고 환풍구로 가면 돼.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431001000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저건……?)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431001000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(이곳에도 있었네요. 요긴하겠어요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431001001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(이쯤에서 써 보면 되려나요……)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431001001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저거로군요. 성능 확실하네요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(일단 오기는 했는데……)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(조금 더 들어가 볼까.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(들키지 않고 접근하긴 어렵겠는데.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…리오가 준 신발이 있었지.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002001,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(마침 좋은 타이밍이네.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002002,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "이번 건만 성공하면 드디어 우리도 회식 한 번 하자고!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002002,
+      "target_index": 2,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "2차도 갈 수 있겠지!? 모처럼이니까!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002002,
+      "target_index": 3,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "저는 철판요리가 먹고 싶어요!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002003,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(소리를 내면 도망갈 수도 있는데….)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002003,
+      "target_index": 0,
+      "dialog_type": "Bulb",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "[전구]",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002003,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…맞다, 개머리판.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431002003,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(하여간 철두철미한 녀석이라니까.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(으음… 곤란해졌군요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…무전기로 네루에게 연락할 수 있다 했었죠.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(어디 한 번 해볼까요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003001,
+      "target_index": 0,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "어. 대충 상황은 알았어. 이쪽에서 뭔가 해볼게.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003001,
+      "target_index": 0,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "…배전반? 오케이. 내가 찾아볼게.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003002,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(……? 응?)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003002,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저 사람들은……?)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003002,
+      "target_index": 1,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "……헉!!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431003002,
+      "target_index": 2,
+      "dialog_type": "Talk",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "들켰다아아-!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431004000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(세이아 쪽은…)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431004000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(…애도 아니고, 알아서 잘 하겠지.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431005000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(……잘은 모르지만 반드시 빠져 나가야 해요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431005000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저의 직감이 말하고 있어요. 잡히면 끝이라고!)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "……뭔가 이상한데요.",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(오늘은 왠지 잠입이 쉬웠어요.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(경비 드론이 많지도 않았고……)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(보통은 점점 경비가 강화될 텐데 말이죠.)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Exclaim",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "[!]",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "이건……!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431006000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "함정이에요, 처음부터 이걸 노린 거군요!",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431007000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(이대로는 따라잡히고 말아요…)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431007000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(뭔가… 진로를 방해할 수 있는 게…!)",
+      "localize_jp": ""
+    },
+    {
+      "group_id": 8431007000,
+      "target_index": 0,
+      "dialog_type": "Think",
+      "duration": 2000,
+      "hide_ui": true,
+      "localize_kr": "(저 배전반을 작동하면, 스크린 도어가 닫힐 터…!)",
+      "localize_jp": ""
+    }
+  ]
+}

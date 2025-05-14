@@ -1,0 +1,48 @@
+{
+  "data_list": [
+    {
+      "id": 100,
+      "event_content_id": 836,
+      "parameter_type": 1,
+      "localize_etc_id": 96992560,
+      "icon_path": "Dreammaker_Parameter_Icon_01",
+      "parameter_base": 100,
+      "parameter_base_max": 900,
+      "parameter_min": 20,
+      "parameter_max": 2000
+    },
+    {
+      "id": 200,
+      "event_content_id": 836,
+      "parameter_type": 2,
+      "localize_etc_id": 3717443816,
+      "icon_path": "Dreammaker_Parameter_Icon_02",
+      "parameter_base": 100,
+      "parameter_base_max": 900,
+      "parameter_min": 20,
+      "parameter_max": 2000
+    },
+    {
+      "id": 300,
+      "event_content_id": 836,
+      "parameter_type": 3,
+      "localize_etc_id": 1571564573,
+      "icon_path": "Dreammaker_Parameter_Icon_03",
+      "parameter_base": 100,
+      "parameter_base_max": 900,
+      "parameter_min": 20,
+      "parameter_max": 2000
+    },
+    {
+      "id": 400,
+      "event_content_id": 836,
+      "parameter_type": 4,
+      "localize_etc_id": 1685627228,
+      "icon_path": "Dreammaker_Parameter_Icon_04",
+      "parameter_base": 100,
+      "parameter_base_max": 125,
+      "parameter_min": 1,
+      "parameter_max": 200
+    }
+  ]
+}
