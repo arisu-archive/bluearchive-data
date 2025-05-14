@@ -40,6 +40,7 @@ jobs:
           ssh-private-key: |
             ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
             ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
+            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
             ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Get version
         id: get-version
@@ -80,6 +81,7 @@ jobs:
           ssh-private-key: |
             ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
             ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
+            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
             ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Download assets
         run: |
@@ -93,7 +95,7 @@ jobs:
           for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip" "ConquestMap.zip" "HexaMap.zip"; do
             # Remove the directory if it exists (to avoid leftover chunked files)
             rm -rf "${file%.*}"
-            go run github.com/arisu-archive/assets-dumper@latest x -i ./tmp/TableBundles/$file -o .
+            go run github.com/arisu-archive/assets-dumper@latest x -s ${{ env.SERVER }} -i ./tmp/TableBundles/$file -o .
           done
           # Remove the tmp directory
           rm -rf ./tmp
