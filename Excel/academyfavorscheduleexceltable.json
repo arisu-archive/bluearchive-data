@@ -17139,6 +17139,192 @@
       "reward_amount": [
         80
       ]
+    },
+    {
+      "id": 200402,
+      "character_id": 20040,
+      "schedule_group_id": 20040,
+      "order_in_group": 1,
+      "location": "샬레",
+      "localize_scenario_id": 2926157779,
+      "favor_rank": 2,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2004002,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        20
+      ]
+    },
+    {
+      "id": 200403,
+      "character_id": 20040,
+      "schedule_group_id": 20040,
+      "order_in_group": 2,
+      "location": "샬레",
+      "localize_scenario_id": 2537055559,
+      "favor_rank": 3,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2004003,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        40
+      ]
+    },
+    {
+      "id": 200405,
+      "character_id": 20040,
+      "schedule_group_id": 20040,
+      "order_in_group": 3,
+      "location": "샬레",
+      "localize_scenario_id": 281454214,
+      "favor_rank": 5,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2004005,
+      "reward_parcel_type": [
+        2,
+        8
+      ],
+      "reward_parcel_id": [
+        3,
+        20040
+      ],
+      "reward_amount": [
+        60,
+        1
+      ]
+    },
+    {
+      "id": 200406,
+      "character_id": 20040,
+      "schedule_group_id": 20040,
+      "order_in_group": 4,
+      "location": "샬레",
+      "localize_scenario_id": 3009929652,
+      "favor_rank": 6,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2004006,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        80
+      ]
+    },
+    {
+      "id": 200408,
+      "character_id": 20040,
+      "schedule_group_id": 20040,
+      "order_in_group": 5,
+      "location": "샬레",
+      "localize_scenario_id": 796751500,
+      "favor_rank": 8,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2004008,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101072,
+      "character_id": 10107,
+      "schedule_group_id": 10107,
+      "order_in_group": 1,
+      "location": "샬레",
+      "localize_scenario_id": 1716752779,
+      "favor_rank": 2,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1010702,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        20
+      ]
+    },
+    {
+      "id": 101073,
+      "character_id": 10107,
+      "schedule_group_id": 10107,
+      "order_in_group": 2,
+      "location": "샬레",
+      "localize_scenario_id": 3705330933,
+      "favor_rank": 3,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1010703,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        40
+      ]
+    },
+    {
+      "id": 101075,
+      "character_id": 10107,
+      "schedule_group_id": 10107,
+      "order_in_group": 3,
+      "location": "샬레",
+      "localize_scenario_id": 2692250003,
+      "favor_rank": 5,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1010705,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        60
+      ]
+    },
+    {
+      "id": 101076,
+      "character_id": 10107,
+      "schedule_group_id": 10107,
+      "order_in_group": 4,
+      "location": "샬레",
+      "localize_scenario_id": 2097502551,
+      "favor_rank": 6,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1010706,
+      "reward_parcel_type": [
+        2,
+        8
+      ],
+      "reward_parcel_id": [
+        3,
+        10107
+      ],
+      "reward_amount": [
+        80,
+        1
+      ]
     }
   ]
 }

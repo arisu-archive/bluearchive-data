@@ -1,0 +1,814 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "level": 1,
+      "exp": 8,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 24,
+      "need_report_event": false
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "exp": 10,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 28,
+      "need_report_event": false
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "exp": 15,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 32,
+      "need_report_event": false
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "exp": 21,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 36,
+      "need_report_event": false
+    },
+    {
+      "id": 5,
+      "level": 5,
+      "exp": 28,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 40,
+      "need_report_event": true
+    },
+    {
+      "id": 6,
+      "level": 6,
+      "exp": 36,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 44,
+      "need_report_event": false
+    },
+    {
+      "id": 7,
+      "level": 7,
+      "exp": 45,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 48,
+      "need_report_event": false
+    },
+    {
+      "id": 8,
+      "level": 8,
+      "exp": 55,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 52,
+      "need_report_event": false
+    },
+    {
+      "id": 9,
+      "level": 9,
+      "exp": 66,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 56,
+      "need_report_event": false
+    },
+    {
+      "id": 10,
+      "level": 10,
+      "exp": 79,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 60,
+      "need_report_event": true
+    },
+    {
+      "id": 11,
+      "level": 11,
+      "exp": 93,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 64,
+      "need_report_event": false
+    },
+    {
+      "id": 12,
+      "level": 12,
+      "exp": 108,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 68,
+      "need_report_event": false
+    },
+    {
+      "id": 13,
+      "level": 13,
+      "exp": 124,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 72,
+      "need_report_event": false
+    },
+    {
+      "id": 14,
+      "level": 14,
+      "exp": 141,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 76,
+      "need_report_event": false
+    },
+    {
+      "id": 15,
+      "level": 15,
+      "exp": 159,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 80,
+      "need_report_event": false
+    },
+    {
+      "id": 16,
+      "level": 16,
+      "exp": 178,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 84,
+      "need_report_event": false
+    },
+    {
+      "id": 17,
+      "level": 17,
+      "exp": 198,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 88,
+      "need_report_event": false
+    },
+    {
+      "id": 18,
+      "level": 18,
+      "exp": 219,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 92,
+      "need_report_event": false
+    },
+    {
+      "id": 19,
+      "level": 19,
+      "exp": 241,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 96,
+      "need_report_event": false
+    },
+    {
+      "id": 20,
+      "level": 20,
+      "exp": 265,
+      "newbie_exp_ratio": 20000,
+      "close_interval": 20,
+      "ap_auto_charge_max": 100,
+      "need_report_event": true
+    },
+    {
+      "id": 21,
+      "level": 21,
+      "exp": 288,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 102,
+      "need_report_event": false
+    },
+    {
+      "id": 22,
+      "level": 22,
+      "exp": 312,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 104,
+      "need_report_event": false
+    },
+    {
+      "id": 23,
+      "level": 23,
+      "exp": 337,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 106,
+      "need_report_event": false
+    },
+    {
+      "id": 24,
+      "level": 24,
+      "exp": 363,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 108,
+      "need_report_event": false
+    },
+    {
+      "id": 25,
+      "level": 25,
+      "exp": 390,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 110,
+      "need_report_event": false
+    },
+    {
+      "id": 26,
+      "level": 26,
+      "exp": 418,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 112,
+      "need_report_event": false
+    },
+    {
+      "id": 27,
+      "level": 27,
+      "exp": 447,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 114,
+      "need_report_event": false
+    },
+    {
+      "id": 28,
+      "level": 28,
+      "exp": 477,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 116,
+      "need_report_event": false
+    },
+    {
+      "id": 29,
+      "level": 29,
+      "exp": 508,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 118,
+      "need_report_event": false
+    },
+    {
+      "id": 30,
+      "level": 30,
+      "exp": 581,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 120,
+      "need_report_event": true
+    },
+    {
+      "id": 31,
+      "level": 31,
+      "exp": 656,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 122,
+      "need_report_event": false
+    },
+    {
+      "id": 32,
+      "level": 32,
+      "exp": 734,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 124,
+      "need_report_event": false
+    },
+    {
+      "id": 33,
+      "level": 33,
+      "exp": 814,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 126,
+      "need_report_event": false
+    },
+    {
+      "id": 34,
+      "level": 34,
+      "exp": 897,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 128,
+      "need_report_event": false
+    },
+    {
+      "id": 35,
+      "level": 35,
+      "exp": 982,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 130,
+      "need_report_event": false
+    },
+    {
+      "id": 36,
+      "level": 36,
+      "exp": 1069,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 132,
+      "need_report_event": false
+    },
+    {
+      "id": 37,
+      "level": 37,
+      "exp": 1159,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 134,
+      "need_report_event": false
+    },
+    {
+      "id": 38,
+      "level": 38,
+      "exp": 1251,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 136,
+      "need_report_event": false
+    },
+    {
+      "id": 39,
+      "level": 39,
+      "exp": 1346,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 138,
+      "need_report_event": false
+    },
+    {
+      "id": 40,
+      "level": 40,
+      "exp": 1443,
+      "newbie_exp_ratio": 15000,
+      "close_interval": 40,
+      "ap_auto_charge_max": 140,
+      "need_report_event": true
+    },
+    {
+      "id": 41,
+      "level": 41,
+      "exp": 1543,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 142,
+      "need_report_event": false
+    },
+    {
+      "id": 42,
+      "level": 42,
+      "exp": 1645,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 144,
+      "need_report_event": false
+    },
+    {
+      "id": 43,
+      "level": 43,
+      "exp": 1750,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 146,
+      "need_report_event": false
+    },
+    {
+      "id": 44,
+      "level": 44,
+      "exp": 1857,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 148,
+      "need_report_event": false
+    },
+    {
+      "id": 45,
+      "level": 45,
+      "exp": 1966,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 150,
+      "need_report_event": false
+    },
+    {
+      "id": 46,
+      "level": 46,
+      "exp": 2078,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 152,
+      "need_report_event": false
+    },
+    {
+      "id": 47,
+      "level": 47,
+      "exp": 2192,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 154,
+      "need_report_event": false
+    },
+    {
+      "id": 48,
+      "level": 48,
+      "exp": 2309,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 156,
+      "need_report_event": false
+    },
+    {
+      "id": 49,
+      "level": 49,
+      "exp": 2428,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 158,
+      "need_report_event": false
+    },
+    {
+      "id": 50,
+      "level": 50,
+      "exp": 2550,
+      "newbie_exp_ratio": 12500,
+      "close_interval": 50,
+      "ap_auto_charge_max": 160,
+      "need_report_event": true
+    },
+    {
+      "id": 51,
+      "level": 51,
+      "exp": 2674,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 162,
+      "need_report_event": false
+    },
+    {
+      "id": 52,
+      "level": 52,
+      "exp": 2800,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 164,
+      "need_report_event": false
+    },
+    {
+      "id": 53,
+      "level": 53,
+      "exp": 2929,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 166,
+      "need_report_event": false
+    },
+    {
+      "id": 54,
+      "level": 54,
+      "exp": 3060,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 168,
+      "need_report_event": false
+    },
+    {
+      "id": 55,
+      "level": 55,
+      "exp": 3194,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 170,
+      "need_report_event": false
+    },
+    {
+      "id": 56,
+      "level": 56,
+      "exp": 3330,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 172,
+      "need_report_event": false
+    },
+    {
+      "id": 57,
+      "level": 57,
+      "exp": 3469,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 174,
+      "need_report_event": false
+    },
+    {
+      "id": 58,
+      "level": 58,
+      "exp": 3610,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 176,
+      "need_report_event": false
+    },
+    {
+      "id": 59,
+      "level": 59,
+      "exp": 3754,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 178,
+      "need_report_event": false
+    },
+    {
+      "id": 60,
+      "level": 60,
+      "exp": 3900,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 180,
+      "need_report_event": true
+    },
+    {
+      "id": 61,
+      "level": 61,
+      "exp": 4048,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 182,
+      "need_report_event": false
+    },
+    {
+      "id": 62,
+      "level": 62,
+      "exp": 4199,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 184,
+      "need_report_event": false
+    },
+    {
+      "id": 63,
+      "level": 63,
+      "exp": 4352,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 186,
+      "need_report_event": false
+    },
+    {
+      "id": 64,
+      "level": 64,
+      "exp": 4508,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 188,
+      "need_report_event": false
+    },
+    {
+      "id": 65,
+      "level": 65,
+      "exp": 4666,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 190,
+      "need_report_event": false
+    },
+    {
+      "id": 66,
+      "level": 66,
+      "exp": 4831,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 192,
+      "need_report_event": false
+    },
+    {
+      "id": 67,
+      "level": 67,
+      "exp": 5007,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 194,
+      "need_report_event": false
+    },
+    {
+      "id": 68,
+      "level": 68,
+      "exp": 5186,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 196,
+      "need_report_event": false
+    },
+    {
+      "id": 69,
+      "level": 69,
+      "exp": 5369,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 198,
+      "need_report_event": false
+    },
+    {
+      "id": 70,
+      "level": 70,
+      "exp": 5556,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 200,
+      "need_report_event": true
+    },
+    {
+      "id": 71,
+      "level": 71,
+      "exp": 5747,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 202,
+      "need_report_event": false
+    },
+    {
+      "id": 72,
+      "level": 72,
+      "exp": 5942,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 204,
+      "need_report_event": false
+    },
+    {
+      "id": 73,
+      "level": 73,
+      "exp": 6141,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 206,
+      "need_report_event": true
+    },
+    {
+      "id": 74,
+      "level": 74,
+      "exp": 6344,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 208,
+      "need_report_event": true
+    },
+    {
+      "id": 75,
+      "level": 75,
+      "exp": 6552,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 210,
+      "need_report_event": true
+    },
+    {
+      "id": 76,
+      "level": 76,
+      "exp": 6768,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 212,
+      "need_report_event": false
+    },
+    {
+      "id": 77,
+      "level": 77,
+      "exp": 6989,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 214,
+      "need_report_event": false
+    },
+    {
+      "id": 78,
+      "level": 78,
+      "exp": 7216,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 216,
+      "need_report_event": false
+    },
+    {
+      "id": 79,
+      "level": 79,
+      "exp": 7449,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 218,
+      "need_report_event": true
+    },
+    {
+      "id": 80,
+      "level": 80,
+      "exp": 7682,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 220,
+      "need_report_event": true
+    },
+    {
+      "id": 81,
+      "level": 81,
+      "exp": 7915,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 222,
+      "need_report_event": false
+    },
+    {
+      "id": 82,
+      "level": 82,
+      "exp": 8148,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 224,
+      "need_report_event": false
+    },
+    {
+      "id": 83,
+      "level": 83,
+      "exp": 8381,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 226,
+      "need_report_event": true
+    },
+    {
+      "id": 84,
+      "level": 84,
+      "exp": 8883,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 228,
+      "need_report_event": true
+    },
+    {
+      "id": 85,
+      "level": 85,
+      "exp": 9460,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 230,
+      "need_report_event": true
+    },
+    {
+      "id": 86,
+      "level": 86,
+      "exp": 10614,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 232,
+      "need_report_event": false
+    },
+    {
+      "id": 87,
+      "level": 87,
+      "exp": 12922,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 234,
+      "need_report_event": true
+    },
+    {
+      "id": 88,
+      "level": 88,
+      "exp": 17538,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 236,
+      "need_report_event": true
+    },
+    {
+      "id": 89,
+      "level": 89,
+      "exp": 26770,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 238,
+      "need_report_event": true
+    },
+    {
+      "id": 90,
+      "level": 90,
+      "exp": 1,
+      "newbie_exp_ratio": 0,
+      "close_interval": 0,
+      "ap_auto_charge_max": 240,
+      "need_report_event": true
+    }
+  ]
+}
