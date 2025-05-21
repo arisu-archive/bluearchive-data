@@ -2580,6 +2580,48 @@
       ]
     },
     {
+      "character_id": 10119,
+      "ignore_if_unobtained": true,
+      "ignore_if_unobtained_start_date": "2025-05-20 11:00:00",
+      "ignore_if_unobtained_end_date": "2025-05-21 10:59:59",
+      "bubble_type": [
+        2,
+        3,
+        4
+      ],
+      "bubble_duration": [
+        2500,
+        2500,
+        2500
+      ],
+      "favor_emoticon_reward_parcel_type": 11,
+      "favor_emoticon_reward_id": 0,
+      "favor_emoticon_reward_amount": 15,
+      "cafe_character_state": [
+        "R1_18109"
+      ]
+    },
+    {
+      "character_id": 10120,
+      "ignore_if_unobtained": true,
+      "ignore_if_unobtained_start_date": "2025-05-20 11:00:00",
+      "ignore_if_unobtained_end_date": "2025-06-04 10:59:59",
+      "bubble_type": [
+        2,
+        3,
+        4
+      ],
+      "bubble_duration": [
+        2500,
+        2500,
+        2500
+      ],
+      "favor_emoticon_reward_parcel_type": 11,
+      "favor_emoticon_reward_id": 0,
+      "favor_emoticon_reward_amount": 15,
+      "cafe_character_state": []
+    },
+    {
       "character_id": 13000,
       "ignore_if_unobtained": true,
       "ignore_if_unobtained_start_date": "2021-02-13 11:00:00",
@@ -4255,6 +4297,28 @@
       "favor_emoticon_reward_amount": 15,
       "cafe_character_state": [
         "R1_210368"
+      ]
+    },
+    {
+      "character_id": 20046,
+      "ignore_if_unobtained": true,
+      "ignore_if_unobtained_start_date": "2025-05-20 11:00:00",
+      "ignore_if_unobtained_end_date": "2025-05-21 10:59:59",
+      "bubble_type": [
+        2,
+        3,
+        4
+      ],
+      "bubble_duration": [
+        2500,
+        2500,
+        2500
+      ],
+      "favor_emoticon_reward_parcel_type": 11,
+      "favor_emoticon_reward_id": 0,
+      "favor_emoticon_reward_amount": 15,
+      "cafe_character_state": [
+        "R1_210369"
       ]
     },
     {

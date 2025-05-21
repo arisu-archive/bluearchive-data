@@ -14123,6 +14123,388 @@
     },
     "Offset": {
       "x": 0.0,
+      "y": -8.940697E-08
+    },
+    "Size": {
+      "x": 0.959737241,
+      "y": 0.435359657
+    },
+    "DestroyDuration": 1.66666675,
+    "RetreatDuration": 1.666667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Hyakkiyakonorthtown_Bench_Standard",
+    "NameHash": 3713830611,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.337,
+        "y": -0.378
+      },
+      {
+        "x": -0.338,
+        "y": 0.424
+      },
+      {
+        "x": -0.654,
+        "y": -0.069
+      },
+      {
+        "x": 0.65,
+        "y": 0.11
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.337,
+        "y": -0.378
+      },
+      {
+        "x": -0.338,
+        "y": 0.424
+      },
+      {
+        "x": -0.6539999,
+        "y": -0.0690000057
+      },
+      {
+        "x": 0.65,
+        "y": 0.11
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -5.96046448E-08
+    },
+    "Size": {
+      "x": 1.32412446,
+      "y": 1.98487151
+    },
+    "DestroyDuration": 1.66666675,
+    "RetreatDuration": 1.666667,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hyakkiyakonorthtown_CarWhite_Standard",
+    "NameHash": 2987530205,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.365,
+        "y": -1.174
+      },
+      {
+        "x": -0.349,
+        "y": 1.472
+      },
+      {
+        "x": -0.721,
+        "y": -0.751
+      },
+      {
+        "x": 0.814,
+        "y": 1.028
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.365,
+        "y": -1.174
+      },
+      {
+        "x": -0.349,
+        "y": 1.472
+      },
+      {
+        "x": -0.721,
+        "y": -0.751
+      },
+      {
+        "x": 0.814,
+        "y": 1.028
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -1.78813934E-07,
+      "y": 7.4505806E-08
+    },
+    "Size": {
+      "x": 0.3348419,
+      "y": 0.349256665
+    },
+    "DestroyDuration": 2.6,
+    "RetreatDuration": 2.6,
+    "RemainTime": 4.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hyakkiyakonorthtown_Fireplug_Standard",
+    "NameHash": 3854148754,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.045,
+        "y": -0.338
+      },
+      {
+        "x": -0.049999997,
+        "y": 0.354
+      },
+      {
+        "x": -0.331,
+        "y": -0.058
+      },
+      {
+        "x": 0.336,
+        "y": 0.0540000051
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.045,
+        "y": -0.338
+      },
+      {
+        "x": -0.05,
+        "y": 0.354
+      },
+      {
+        "x": -0.331,
+        "y": -0.058
+      },
+      {
+        "x": 0.336,
+        "y": 0.054
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -1.49011612E-07,
+      "y": -3.7252903E-08
+    },
+    "Size": {
+      "x": 0.711114645,
+      "y": 0.161520585
+    },
+    "DestroyDuration": 1.66666663,
+    "RetreatDuration": 1.666667,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hyakkiyakonorthtown_Signboard01_Standard",
+    "NameHash": 2900052945,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.206999987,
+        "y": -0.253
+      },
+      {
+        "x": -0.209,
+        "y": 0.267
+      },
+      {
+        "x": -0.5339999,
+        "y": -0.0009999992
+      },
+      {
+        "x": 0.524,
+        "y": 0.004
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.207,
+        "y": -0.253
+      },
+      {
+        "x": -0.209,
+        "y": 0.267
+      },
+      {
+        "x": -0.534,
+        "y": -0.001
+      },
+      {
+        "x": 0.524,
+        "y": 0.00400000066
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -2.38418579E-07,
+      "y": -1.04308128E-07
+    },
+    "Size": {
+      "x": 0.661481738,
+      "y": 0.200790465
+    },
+    "DestroyDuration": 1.33333337,
+    "RetreatDuration": 1.333333,
+    "CrashByTSS": true,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hyakkiyakonorthtown_Signboard02_Standard",
+    "NameHash": 924401401,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.194,
+        "y": -0.299
+      },
+      {
+        "x": -0.196,
+        "y": 0.275
+      },
+      {
+        "x": -0.5,
+        "y": -0.0209999979
+      },
+      {
+        "x": 0.506,
+        "y": -0.01
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.194,
+        "y": -0.299
+      },
+      {
+        "x": -0.196,
+        "y": 0.275
+      },
+      {
+        "x": -0.5,
+        "y": -0.021
+      },
+      {
+        "x": 0.506,
+        "y": -0.009999998
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 1.02817214,
+      "y": 0.8234064
+    },
+    "DestroyDuration": 3.33333325,
+    "RetreatDuration": 3.333333,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Hyakkiyakonorthtown_Vendingmachine_Standard",
+    "NameHash": 2222598325,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.416,
+        "y": -0.6
+      },
+      {
+        "x": -0.359,
+        "y": 0.623
+      },
+      {
+        "x": -0.704,
+        "y": -0.279
+      },
+      {
+        "x": 0.747,
+        "y": 0.223
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.416,
+        "y": -0.6
+      },
+      {
+        "x": -0.359,
+        "y": 0.623
+      },
+      {
+        "x": -0.704,
+        "y": -0.279
+      },
+      {
+        "x": 0.747,
+        "y": 0.223
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
       "y": -2.23517418E-08
     },
     "Size": {
@@ -25155,6 +25537,488 @@
       {
         "x": 1.039,
         "y": -2.5
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.817248,
+      "y": 0.9559932
+    },
+    "DestroyDuration": 1.83333337,
+    "RetreatDuration": 1.833333,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "UniqueName": "Tatamiroom_Cabinet_Standard",
+    "NameHash": 2677562689,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.141000018,
+        "y": -0.36
+      },
+      {
+        "x": -0.131,
+        "y": 0.866
+      },
+      {
+        "x": -0.506,
+        "y": 0.033
+      },
+      {
+        "x": 0.411,
+        "y": 0.404
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.141,
+        "y": -0.359999985
+      },
+      {
+        "x": -0.130999982,
+        "y": 0.866000056
+      },
+      {
+        "x": -0.506,
+        "y": 0.033
+      },
+      {
+        "x": 0.411,
+        "y": 0.404
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.4147428,
+      "y": 0.3487328
+    },
+    "DestroyDuration": 1.16666663,
+    "RetreatDuration": 1.166667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Lamp_Standard",
+    "NameHash": 3145792006,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.059,
+        "y": -0.336
+      },
+      {
+        "x": -0.05,
+        "y": 0.367
+      },
+      {
+        "x": -0.35,
+        "y": -0.018
+      },
+      {
+        "x": 0.384,
+        "y": 0.066
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.059,
+        "y": -0.336
+      },
+      {
+        "x": -0.05,
+        "y": 0.367
+      },
+      {
+        "x": -0.35,
+        "y": -0.018
+      },
+      {
+        "x": 0.384,
+        "y": 0.066
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.569275,
+      "y": 0.2547886
+    },
+    "DestroyDuration": 1.66666663,
+    "RetreatDuration": 1.666667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Partition_Standard",
+    "NameHash": 3856850640,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.148,
+        "y": -0.281
+      },
+      {
+        "x": -0.148,
+        "y": 0.279
+      },
+      {
+        "x": -0.438,
+        "y": -0.019
+      },
+      {
+        "x": 0.433,
+        "y": 0.024
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.148,
+        "y": -0.281
+      },
+      {
+        "x": -0.148,
+        "y": 0.279
+      },
+      {
+        "x": -0.438,
+        "y": -0.019
+      },
+      {
+        "x": 0.433,
+        "y": 0.024
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.8517762,
+      "y": 0.5258684
+    },
+    "DestroyDuration": 1.33333337,
+    "RetreatDuration": 1.333333,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Shelf_Standard",
+    "NameHash": 2525523910,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.253,
+        "y": -0.406
+      },
+      {
+        "x": -0.259,
+        "y": 0.417
+      },
+      {
+        "x": -0.552,
+        "y": -0.117
+      },
+      {
+        "x": 0.556,
+        "y": 0.114
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.253,
+        "y": -0.406
+      },
+      {
+        "x": -0.259,
+        "y": 0.417
+      },
+      {
+        "x": -0.552,
+        "y": -0.117
+      },
+      {
+        "x": 0.556,
+        "y": 0.114
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.5092722,
+      "y": 0.4134516
+    },
+    "DestroyDuration": 2.0,
+    "RetreatDuration": 2.0,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Tatamiroom_Stone_Standard",
+    "NameHash": 2142971131,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.104,
+        "y": -0.315
+      },
+      {
+        "x": -0.118,
+        "y": 0.393
+      },
+      {
+        "x": -0.403,
+        "y": -0.023
+      },
+      {
+        "x": 0.4,
+        "y": 0.05
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.104,
+        "y": -0.315
+      },
+      {
+        "x": -0.118,
+        "y": 0.393
+      },
+      {
+        "x": -0.403,
+        "y": -0.023
+      },
+      {
+        "x": 0.4,
+        "y": 0.05
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.8974996,
+      "y": 0.2002996
+    },
+    "DestroyDuration": 1.66666663,
+    "RetreatDuration": 1.666667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Swordholder_Standard",
+    "NameHash": 2868101928,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.178,
+        "y": -0.248
+      },
+      {
+        "x": -0.207,
+        "y": 0.267
+      },
+      {
+        "x": -0.575,
+        "y": -0.001
+      },
+      {
+        "x": 0.601,
+        "y": 0.031
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.178,
+        "y": -0.248
+      },
+      {
+        "x": -0.207,
+        "y": 0.267
+      },
+      {
+        "x": -0.575,
+        "y": -0.00100000016
+      },
+      {
+        "x": 0.601,
+        "y": 0.031
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 2.773718,
+      "y": 1.64329517
+    },
+    "DestroyDuration": 2.66666675,
+    "RetreatDuration": 2.666667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Table01_Standard",
+    "NameHash": 1048735229,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.997,
+        "y": -0.821
+      },
+      {
+        "x": -0.992,
+        "y": 0.949
+      },
+      {
+        "x": -1.396,
+        "y": -0.428
+      },
+      {
+        "x": 1.391,
+        "y": 0.395
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.997,
+        "y": -0.821
+      },
+      {
+        "x": -0.992,
+        "y": 0.949
+      },
+      {
+        "x": -1.396,
+        "y": -0.428
+      },
+      {
+        "x": 1.391,
+        "y": 0.395
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Size": {
+      "x": 0.8374514,
+      "y": 0.7244678
+    },
+    "DestroyDuration": 1.36666667,
+    "RetreatDuration": 1.366667,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "UniqueName": "Tatamiroom_Table02_Standard",
+    "NameHash": 2984053210,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.249,
+        "y": -0.437
+      },
+      {
+        "x": -0.234,
+        "y": 0.158
+      },
+      {
+        "x": -0.57,
+        "y": -0.187
+      },
+      {
+        "x": 0.524,
+        "y": -0.093
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.249,
+        "y": -0.437
+      },
+      {
+        "x": -0.234,
+        "y": 0.158
+      },
+      {
+        "x": -0.57,
+        "y": -0.187
+      },
+      {
+        "x": 0.524,
+        "y": -0.093
       }
     ]
   },

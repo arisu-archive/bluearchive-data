@@ -7736,6 +7736,136 @@
       ]
     },
     {
+      "character_id": 10119,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [
+        10119000,
+        10119001,
+        10119002,
+        10119003
+      ],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 10120,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [
+        10120000,
+        10120001,
+        10120002,
+        10120003
+      ],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
       "character_id": 13000,
       "max_favor_level": [
         10,
@@ -14115,6 +14245,71 @@
         20045001,
         20045002,
         20045003
+      ],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 20046,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [
+        20046000,
+        20046001,
+        20046002,
+        20046003
       ],
       "skill_slot_a": [
         "ExSkill01",
@@ -36042,6 +36237,306 @@
         "None"
       ],
       "maxlevel_star": []
+    },
+    {
+      "character_id": 9010065,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 9010119,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 9116009,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 9110040,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
+    },
+    {
+      "character_id": 9110014,
+      "max_favor_level": [
+        10,
+        10,
+        20,
+        20,
+        100
+      ],
+      "stat_bonus_rate_attack": [
+        0,
+        1000,
+        1200,
+        1400,
+        1700
+      ],
+      "stat_bonus_rate_hp": [
+        0,
+        500,
+        700,
+        900,
+        1400
+      ],
+      "stat_bonus_rate_heal": [
+        0,
+        750,
+        1000,
+        1200,
+        1500
+      ],
+      "recipe_id": [],
+      "skill_slot_a": [
+        "ExSkill01",
+        "Passive01",
+        "ExtraPassive01",
+        "None",
+        "None"
+      ],
+      "skill_slot_b": [
+        "PublicSkill01",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "skill_slot_c": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+      ],
+      "maxlevel_star": [
+        70,
+        70,
+        70,
+        70,
+        70
+      ]
     },
     {
       "character_id": 7611013,

@@ -27,6 +27,34 @@
       "scenario_group_id": 11434010,
       "ending_condition": [],
       "ending_condition_value": []
+    },
+    {
+      "event_content_id": 10836,
+      "ending_id": 10100,
+      "dream_maker_ending_type": 2,
+      "order": 1,
+      "scenario_group_id": 11434020,
+      "ending_condition": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "ending_condition_value": [
+        1650,
+        1650,
+        1650,
+        100
+      ]
+    },
+    {
+      "event_content_id": 10836,
+      "ending_id": 10200,
+      "dream_maker_ending_type": 1,
+      "order": 9999,
+      "scenario_group_id": 11434010,
+      "ending_condition": [],
+      "ending_condition_value": []
     }
   ]
 }

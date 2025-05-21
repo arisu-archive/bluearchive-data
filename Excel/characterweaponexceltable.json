@@ -6308,6 +6308,112 @@
       ]
     },
     {
+      "id": 10119,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0222",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 134,
+      "attack_power100": 1338,
+      "max_hp": 554,
+      "max_hp100": 5543,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "recipe_id": [
+        10119300,
+        10119301,
+        10119302,
+        10119303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "None",
+        "Passive01",
+        "None",
+        "None",
+        "None"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        0,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 10120,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_10029",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 73,
+      "attack_power100": 733,
+      "max_hp": 968,
+      "max_hp100": 9675,
+      "heal_power": 252,
+      "heal_power100": 2515,
+      "unlock": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "recipe_id": [
+        10120300,
+        10120301,
+        10120302,
+        10120303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "None",
+        "Passive01",
+        "None",
+        "None",
+        "None"
+      ],
+      "stat_type": [
+        0,
+        0,
+        21,
+        0,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
       "id": 13000,
       "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_13000",
       "set_recipe": 0,
@@ -10430,6 +10536,59 @@
         0,
         0,
         21,
+        0,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 20046,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0109",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 137,
+      "attack_power100": 1365,
+      "max_hp": 419,
+      "max_hp100": 4188,
+      "heal_power": 196,
+      "heal_power100": 1962,
+      "unlock": [
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "recipe_id": [
+        20046300,
+        20046301,
+        20046302,
+        20046303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "None",
+        "Passive01",
+        "None",
+        "None",
+        "None"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
         0,
         0
       ],
