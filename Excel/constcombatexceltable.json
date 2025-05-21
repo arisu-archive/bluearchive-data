@@ -51,8 +51,8 @@
       "ui_display_delay_after_skill_cut_in": 500,
       "use_initial_range_for_cover_move": true,
       "slow_time_scale": 10000,
-      "aim_ik_min_degree": 9005.382,
-      "aim_ik_max_degree": -9005.382,
+      "aim_ik_min_degree": -60,
+      "aim_ik_max_degree": -1800000,
       "minimum_clear_time": 0,
       "minimum_clear_level_gap": 0,
       "check_cheater_max_use_cost_non_arena": 0,
@@ -69,7 +69,7 @@
       "world_raid_boss_hp_decrease_term": 3,
       "world_raid_boss_parcel_reaction_delay": 1000,
       "raid_ranking_jump_minimum_waiting_time": 2000,
-      "effect_teleport_distance": -9011.274,
+      "effect_teleport_distance": -30000,
       "aura_exit_threshold_margin": 5,
       "tsa_interaction_damage_factor": 10000,
       "victory_interaction_rate": 10000,
@@ -80,8 +80,9 @@
       "echelon_extension_echelon_init_common_cost": 0,
       "echelon_extension_cost_regen_ratio": 10000,
       "check_cheater_max_use_cost_multi_floor_raid": 0,
-      "excessive_touch_check_time": -9011.274,
-      "excessive_touch_check_count": 10
+      "excessive_touch_check_time": -30000,
+      "excessive_touch_check_count": 10,
+      "campaign_alert_popup_level_gap": 15
     }
   ]
 }
