@@ -1460,7 +1460,7 @@
     },
     {
       "id": 100023,
-      "name_kr": "1_1차 픽업 마리(아이돌)",
+      "name_kr": "1_1차 픽업 메구",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1502,7 +1502,7 @@
     },
     {
       "id": 100043,
-      "name_kr": "1_1차 픽업 사쿠라코(아이돌)",
+      "name_kr": "1_1차 픽업 우타하(응원복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1538,13 +1538,13 @@
     },
     {
       "id": 100062,
-      "name_kr": "2_1차 픽업 SR 모미지",
+      "name_kr": "2_1차 픽업 SR 더미",
       "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 100063,
-      "name_kr": "1_2차 픽업 히나타",
+      "name_kr": "1_2차 픽업 코토리(응원복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1586,7 +1586,7 @@
     },
     {
       "id": 100083,
-      "name_kr": "1_3차 픽업 사오리",
+      "name_kr": "1_3차 픽업 노아",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1628,7 +1628,7 @@
     },
     {
       "id": 100103,
-      "name_kr": "1_4차 픽업 히나(수영복)",
+      "name_kr": "1_4차 픽업 유우카(체육복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1670,7 +1670,7 @@
     },
     {
       "id": 110023,
-      "name_kr": "1_5차 픽업 이오리(수영복)",
+      "name_kr": "1_5차 픽업 마리(체육복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1712,7 +1712,7 @@
     },
     {
       "id": 110043,
-      "name_kr": "3_2차 픽업 시로코(라이딩)",
+      "name_kr": "3_2차 픽업 하루나(운동복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1922,7 +1922,91 @@
     },
     {
       "id": 120043,
-      "name_kr": "3_2차 픽업 키쿄",
+      "name_kr": "3_2차 픽업 카스미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120050,
+      "name_kr": "3_3차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120051,
+      "name_kr": "3_3차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120052,
+      "name_kr": "3_3차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120053,
+      "name_kr": "3_3차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120059,
+      "name_kr": "3_3차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120062,
+      "name_kr": "3_3차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120063,
+      "name_kr": "3_3차 픽업 SSR 이치카",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120070,
+      "name_kr": "3_4차 픽업",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120071,
+      "name_kr": "3_4차 픽업 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120072,
+      "name_kr": "3_4차 픽업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120073,
+      "name_kr": "3_4차 픽업 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120079,
+      "name_kr": "3_4차 픽업 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 120082,
+      "name_kr": "3_4차 픽업 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 120083,
+      "name_kr": "3_4차 픽업 SSR 이오리",
       "is_recursive": false,
       "group_type": 1
     },
