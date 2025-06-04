@@ -48687,6 +48687,270 @@
       "separate": false,
       "localize_kr": "어, 음, 선생님? 저기…… 아니, 아무것도 아닙니다, 냐하핫~!",
       "localize_jp": "せ……先生……その……な、なんでもないですよぉ？\nにゃははっ〜！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Buffed_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "접수!",
+      "localize_jp": "もらった！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Covered_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "잠깐 쉬었다 갈까~",
+      "localize_jp": "少し休もうか。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Defense_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "컷!",
+      "localize_jp": "カット！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_In_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "우리의 리듬을 보여줄 시간!",
+      "localize_jp": "ビートを刻んでいこう！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_In_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "셈라를 향해!",
+      "localize_jp": "セムラのために！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Move_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "간다!",
+      "localize_jp": "次の小節へ！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Move_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "더 빠르게!",
+      "localize_jp": "テンポを上げよう！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Recovery_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "좋았어!",
+      "localize_jp": "よっしゃ！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_TacticalAction_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "하압!",
+      "localize_jp": "はあっ！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Victory_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "자 선생님, 박수 쳐도 좋아.",
+      "localize_jp": "拍手の準備はいいかな？"
+    },
+    {
+      "localize_cv_group": "CVGroup_Battle_Victory_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "연주, 끝!",
+      "localize_jp": "やりきった……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_CommonSkill",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "달다……!",
+      "localize_jp": "あまーい！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "연주, 시작!",
+      "localize_jp": "わんつーすりーふぉー！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "드럼, 발진!",
+      "localize_jp": "私に合わせて！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_3",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "가자……!",
+      "localize_jp": "ゆこう……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_Level_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "이것이…… 록이다……!",
+      "localize_jp": "これが……ロック……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_Level_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "나의 연주를…… 보아라……!",
+      "localize_jp": "私のリズムに溺れるがいい……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_ExSkill_Level_3",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "힘차게 가자!",
+      "localize_jp": "楽しんでいこう！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Formation_In_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "필요한가? 나의 그루브가?",
+      "localize_jp": "やはり必要かな？私のグルーヴが。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Formation_In_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "탁월한 선택!",
+      "localize_jp": "ナイス選択ぅ！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Formation_Select",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "무대에 오른 기분인걸?",
+      "localize_jp": "ステージに上がった気分だよ。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Growup_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "후후, 응원 고마워, 선생님.",
+      "localize_jp": "ふふ、応援ありがとう、先生。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Growup_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "환호하라, 갈채하라……!",
+      "localize_jp": "喝采を……！さらなる喝采を……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Growup_3",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "성장할수록 보이는 것은, 더 높은 봉우리뿐……!",
+      "localize_jp": "私は恐ろしい……まだまだ成長し続けることが……！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Growup_4",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "어때, 나의 연주는? \n선생님 덕에 여기까지 왔다고?",
+      "localize_jp": "……どうかな、上達したと思うんだけど。\n先生のおかげで、ここまで来れたんだ。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Relationship_Up_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "후후, 드럼, 가르쳐줄까?",
+      "localize_jp": "ふふ、ドラムの深淵に触れてみるかい？"
+    },
+    {
+      "localize_cv_group": "CVGroup_Relationship_Up_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "오늘은…… 음악의 달콤함에 대해 이야기해 볼까?",
+      "localize_jp": "時に……甘い音楽は知っているかな？"
+    },
+    {
+      "localize_cv_group": "CVGroup_Relationship_Up_3",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "가끔은, 이렇게 조용히 함께 있는 것도 좋네.",
+      "localize_jp": "たまには、一緒にボーっと過ごすのも悪くないね。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Relationship_Up_4",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "선생님도 함께 연주할 수 있으면 좋을 텐데.\n……둘이서 말이야.",
+      "localize_jp": "先生と一緒にセッションができたらなぁ……。\nリズムは任せてよ。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Tactic_In_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "적들은 어디에 있는가!",
+      "localize_jp": "敵はどこだー！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Tactic_In_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "연주를 시작해 볼까?",
+      "localize_jp": "ミュージックスタート！"
+    },
+    {
+      "localize_cv_group": "CVGroup_Tactic_Victory_1",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "훌륭한 합주였어.",
+      "localize_jp": "素晴らしいセッションだった。"
+    },
+    {
+      "localize_cv_group": "CVGroup_Tactic_Victory_2",
+      "character_voice_group_id": 10120,
+      "duration": 0,
+      "separate": false,
+      "localize_kr": "연습은 배신하지 않지.",
+      "localize_jp": "練習は、裏切らない。"
     }
   ]
 }

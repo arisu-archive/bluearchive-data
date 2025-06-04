@@ -4962,6 +4962,17 @@
       "small_portrait": "UIs/01_Common/01_Character/Student_Portrait_CH0289"
     },
     {
+      "character_name": 2818219658,
+      "production_step": 3,
+      "name_kr": "???",
+      "nickname_kr": "",
+      "name_jp": "？？？",
+      "nickname_jp": "",
+      "shape": 0,
+      "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_CH0166",
+      "small_portrait": "UIs/01_Common/01_Character/Student_Portrait_CH0166"
+    },
+    {
       "character_name": 3261875659,
       "production_step": 3,
       "name_kr": "아즈사",
@@ -7732,6 +7743,17 @@
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_CH0283",
       "small_portrait": "UIs/01_Common/01_Character/Student_Portrait_CH0283"
+    },
+    {
+      "character_name": 2313173664,
+      "production_step": 3,
+      "name_kr": "아라타",
+      "nickname_kr": "길거리 망량즈",
+      "name_jp": "アラタ",
+      "nickname_jp": "魑魅一座・路上流",
+      "shape": 0,
+      "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_NP0266",
+      "small_portrait": "UIs/01_Common/01_Character/NPC_Portrait_NP0266"
     },
     {
       "character_name": 3627168694,
@@ -22456,7 +22478,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "왁자지껄 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "喧騒流のリーダー",
       "nickname_jp": "魑魅一座・喧騒流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
@@ -22467,7 +22489,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "위기일발 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "瀬戸際流のリーダー",
       "nickname_jp": "魑魅一座・瀬戸際流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
@@ -22478,7 +22500,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "오락가락 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "変転流のリーダー",
       "nickname_jp": "魑魅一座・変転流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
@@ -22489,7 +22511,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "갈팡질팡 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "彷徨い流のリーダー",
       "nickname_jp": "魑魅一座・彷徨い流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
@@ -22500,7 +22522,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "초지일관 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "初志貫徹流のリーダー",
       "nickname_jp": "魑魅一座・初志貫徹流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_MG",
@@ -22610,7 +22632,7 @@
       "production_step": 3,
       "name_kr": "망량즈 리더",
       "nickname_kr": "우당탕탕 망량즈",
-      "name_jp": "魑魅一座のリーダー",
+      "name_jp": "右往左往流のリーダー",
       "nickname_jp": "魑魅一座・右往左往流",
       "shape": 0,
       "spine_prefab_name": "UIs/03_Scenario/02_Character/CharacterSpine_Yukata_StreetGhostes_RL",
@@ -22648,6 +22670,17 @@
       "shape": 0,
       "spine_prefab_name": "",
       "small_portrait": "UIs/01_Common/01_Character/NPC_Portrait_Null"
+    },
+    {
+      "character_name": 3204645558,
+      "production_step": 3,
+      "name_kr": "망량즈들",
+      "nickname_kr": "",
+      "name_jp": "魑魅一座",
+      "nickname_jp": "",
+      "shape": 0,
+      "spine_prefab_name": "",
+      "small_portrait": ""
     }
   ]
 }
