@@ -1657,6 +1657,129 @@
       "icon": "UIs/01_Common/40_Gear/Gear_Icon_23008",
       "localize_etc_id": 4052244851,
       "tags": []
+    },
+    {
+      "id": 204100,
+      "character_id": 10062,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 204101,
+      "recipe_id": 10062400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        36
+      ],
+      "min_stat_value": [
+        200
+      ],
+      "max_stat_value": [
+        200
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10062",
+      "localize_etc_id": 526288530,
+      "tags": []
+    },
+    {
+      "id": 204101,
+      "character_id": 10062,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10062",
+      "localize_etc_id": 526288530,
+      "tags": []
+    },
+    {
+      "id": 204200,
+      "character_id": 20003,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 204201,
+      "recipe_id": 20003400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        3,
+        9
+      ],
+      "min_stat_value": [
+        200,
+        300
+      ],
+      "max_stat_value": [
+        200,
+        300
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_20003",
+      "localize_etc_id": 3126054698,
+      "tags": []
+    },
+    {
+      "id": 204201,
+      "character_id": 20003,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_20003",
+      "localize_etc_id": 3126054698,
+      "tags": []
+    },
+    {
+      "id": 204300,
+      "character_id": 16002,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 204301,
+      "recipe_id": 16002400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        7
+      ],
+      "min_stat_value": [
+        1000
+      ],
+      "max_stat_value": [
+        1000
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_16002",
+      "localize_etc_id": 1977526069,
+      "tags": []
+    },
+    {
+      "id": 204301,
+      "character_id": 16002,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_16002",
+      "localize_etc_id": 1977526069,
+      "tags": []
     }
   ]
 }
