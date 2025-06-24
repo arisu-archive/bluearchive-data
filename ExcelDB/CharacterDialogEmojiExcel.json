@@ -724,9 +724,9 @@
       "hide_ui": false,
       "localize_kr": "(수집한 데이터를 저장했어요.)",
       "localize_jp": "（集めたデータを保存した)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(บันทึกข้อมูลที่รวบรวมได้\nเรียบร้อยแล้วค่ะ)",
+      "localize_tw": "（收集的資料已儲存完畢）",
+      "localize_en": "(Collected data have been saved.)"
     },
     {
       "group_id": 8431999017,
@@ -737,9 +737,9 @@
       "hide_ui": false,
       "localize_kr": "(수집한 데이터를 저장했어.)",
       "localize_jp": "（収集データ、保存したぞ）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(บันทึกข้อมูล\nที่รวบรวมได้เรียบร้อย)",
+      "localize_tw": "（收集的資料儲存好了）",
+      "localize_en": "(Saved the collected data.)"
     },
     {
       "group_id": 8431999018,
@@ -750,9 +750,9 @@
       "hide_ui": false,
       "localize_kr": "(네루도 데이터를 가져와야 해요.)",
       "localize_jp": "（ネルにもデータを持ってきてもらわねば）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เนรุต้องได้รับข้อมูลนี้ด้วยค่ะ)",
+      "localize_tw": "（寧瑠也得把資料帶來才行）",
+      "localize_en": "(I need the data from Neru.)"
     },
     {
       "group_id": 8431999019,
@@ -763,9 +763,9 @@
       "hide_ui": false,
       "localize_kr": "(세이아도 데이터를 가져와야 해.)",
       "localize_jp": "（セイアのデータも必要だな）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เซอาต้องได้ข้อมูลนี้ด้วย)",
+      "localize_tw": "（聖亞也得把資料拿來）",
+      "localize_en": "(I need the data from Seia.)"
     },
     {
       "group_id": 8430001000,
@@ -776,9 +776,9 @@
       "hide_ui": true,
       "localize_kr": "(박스를 쓰면 움직이지 않을 땐 들키지 않을 거예요.)",
       "localize_jp": "（動かなければ気付かれないはずだ）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ถ้าเอากล่องมาสวมไว้\nตอนอยู่นิ่งๆ ก็จะ\nไม่โดนจับได้ค่ะ)",
+      "localize_tw": "（戴上箱子的話，只要靜止不動就不會被發現了）",
+      "localize_en": "(If I stay still in this box, I won't get caught.)"
     },
     {
       "group_id": 8430001000,
@@ -789,9 +789,9 @@
       "hide_ui": true,
       "localize_kr": "(타이밍을 잘 봐가며… 움직이죠.)",
       "localize_jp": "（タイミングを見て進もう）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ดูจังหวะให้ดี... แล้วค่อยขยับ)",
+      "localize_tw": "（抓準時機…行動吧！）",
+      "localize_en": "(Let's be wary of the timing...and get moving.)"
     },
     {
       "group_id": 8430001010,
@@ -802,9 +802,9 @@
       "hide_ui": true,
       "localize_kr": "…는 …",
       "localize_jp": "…は…。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ค่อยๆ...",
+      "localize_tw": "…是…",
+      "localize_en": "...is..."
     },
     {
       "group_id": 8430001010,
@@ -815,9 +815,9 @@
       "hide_ui": true,
       "localize_kr": "…가…",
       "localize_jp": "…が…で…。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ขยับ...",
+      "localize_tw": "…我…",
+      "localize_en": "...has..."
     },
     {
       "group_id": 8430001010,
@@ -828,9 +828,9 @@
       "hide_ui": true,
       "localize_kr": "(조금 더…)",
       "localize_jp": "（まだ遠いな…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(อีกนิดหนึ่ง...)",
+      "localize_tw": "（還有點距離…）",
+      "localize_en": "(Just a bit more...)"
     },
     {
       "group_id": 8430001030,
@@ -841,9 +841,9 @@
       "hide_ui": true,
       "localize_kr": "곧 있으면 접선 시간이야.",
       "localize_jp": "そろそろ時間だ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "อีกเดี๋ยวก็จะถึงเวลาติดต่อกันแล้ว",
+      "localize_tw": "交接時間快到了。",
+      "localize_en": "It'll all be done soon."
     },
     {
       "group_id": 8430001030,
@@ -854,9 +854,9 @@
       "hide_ui": true,
       "localize_kr": "빨리 거래 끝내고 돌아가자.",
       "localize_jp": "早く渡して帰ろうぜ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "รีบๆ จัดการให้จบแล้วกลับดีกว่า",
+      "localize_tw": "趕快完成交易回去吧！",
+      "localize_en": "Let's wrap up here and get back."
     },
     {
       "group_id": 8430001030,
@@ -867,9 +867,9 @@
       "hide_ui": true,
       "localize_kr": "(……이쯤이면 되겠죠.)",
       "localize_jp": "（…なるほど）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เท่านี้น่าจะพอแล้วนะคะ...)",
+      "localize_tw": "（……到這裡應該可以了）",
+      "localize_en": "(...This spot should be fine.)"
     },
     {
       "group_id": 8430001040,
@@ -880,9 +880,9 @@
       "hide_ui": true,
       "localize_kr": "(아직 할 일이 있어요.)",
       "localize_jp": "（まだやることがある)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ยังมีเรื่องที่ต้องทำอยู่ค่ะ)",
+      "localize_tw": "（還有需要完成的事情）",
+      "localize_en": "(There are still things to do.)"
     },
     {
       "group_id": 8430001050,
@@ -893,9 +893,9 @@
       "hide_ui": true,
       "localize_kr": "(잠시 기다려보죠.)",
       "localize_jp": "（少し待つとしよう)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(รออีกแป๊บหนึ่งแล้วกันนะคะ)",
+      "localize_tw": "（先等等看吧）",
+      "localize_en": "(Let's wait a bit.)"
     },
     {
       "group_id": 8430003000,
@@ -906,9 +906,9 @@
       "hide_ui": true,
       "localize_kr": "(가다 보면 데이터 장치가 있다고 했지?)",
       "localize_jp": "（この先のロックされた部屋にはセキュリティキーがあるんだっけか）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(น่าจะมีอุปกรณ์เก็บข้อมูล\nอยู่ระหว่างทางสินะ?)",
+      "localize_tw": "（剛剛是說…過去就會有個數據裝置是吧？）",
+      "localize_en": "(There should be a data device along the way, right?)"
     },
     {
       "group_id": 8430003000,
@@ -919,9 +919,9 @@
       "hide_ui": true,
       "localize_kr": "(마음 같아선 다 때려 부수며 가고 싶지만…)",
       "localize_jp": "（もう全部ぶっ壊して進みてぇ…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(อยากจะทุบทุกอย่างทิ้ง\nให้หมดจริงๆ เลยเชียว...)",
+      "localize_tw": "（真想一鼓作氣衝過去…）",
+      "localize_en": "(I'd love to destroy everything in the way if I could...)"
     },
     {
       "group_id": 8430003000,
@@ -932,9 +932,9 @@
       "hide_ui": true,
       "localize_kr": "(…하여간 잠입은 취향이 아니라니까.)",
       "localize_jp": "（潜入って性に合わねぇんだよな）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ภารกิจแฝงตัวนี่\nไม่ใช่งานถนัดฉันเลยจริงๆ...)",
+      "localize_tw": "（…果然我還是不喜歡潛入行動）",
+      "localize_en": "(...Seriously, infiltration is not my style at all.)"
     },
     {
       "group_id": 8430003000,
@@ -945,9 +945,9 @@
       "hide_ui": true,
       "localize_kr": "(체력이 떨어지면... 회복약을 먹으면 된다고 했었지.)",
       "localize_jp": "（体力が減ってきたら……回復薬を飲めばいいんだっけか）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(บอกว่าถ้าเริ่มหมดแรง...\nก็ให้กินยาฟื้นฟูกำลังนี่สินะ)",
+      "localize_tw": "（體力下降的話…好像可以喝提神藥）",
+      "localize_en": "(If my HP drops...I should take some Recovery Medicine.)"
     },
     {
       "group_id": 8430003010,
@@ -958,9 +958,9 @@
       "hide_ui": true,
       "localize_kr": "(아직 할 일이 있어.)",
       "localize_jp": "（まだやることがあってな)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ยังมีงานที่ต้องทำอยู่)",
+      "localize_tw": "（還有事情得做）",
+      "localize_en": "(There are still things to do.)"
     },
     {
       "group_id": 8430006000,
@@ -971,9 +971,9 @@
       "hide_ui": true,
       "localize_kr": "(드론… 밀레니엄답네요. 트리니티와는 많이 달라요.)",
       "localize_jp": "（ドローン…トリニティでは想像できない光景だね）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(โดรน... สมกับเป็นมิลเลเนียมจริงๆ\nเลยนะ ต่างจากทรีนิตี้จริงๆ\nด้วยค่ะ)",
+      "localize_tw": "（無人機…不愧是千年，跟三一截然不同呢）",
+      "localize_en": "(Drones...as expected of Millennium. Very different from Trinity.)"
     },
     {
       "group_id": 8430006000,
@@ -984,9 +984,9 @@
       "hide_ui": true,
       "localize_kr": "(이 통로 끝까지 가면… 문이 나오겠군요.)",
       "localize_jp": "（通路の突きあたりまで行けばドアがあるはずだが）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ถ้าเดินไปจนสุดทางนี้...\nก็จะเจอประตูสินะคะ)",
+      "localize_tw": "（沿著這條通道走到底…就會有扇門吧）",
+      "localize_en": "(Once I reach the end of this hallway...there should be a door.)"
     },
     {
       "group_id": 8430006010,
@@ -997,9 +997,9 @@
       "hide_ui": true,
       "localize_kr": "(강아지 로봇…)",
       "localize_jp": "（犬型ロボット…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(หุ่นยนต์น้องหมา...)",
+      "localize_tw": "（機器狗…）",
+      "localize_en": "(Puppy Robot...)"
     },
     {
       "group_id": 8430006010,
@@ -1010,9 +1010,9 @@
       "hide_ui": true,
       "localize_kr": "세이아, 이쪽이야.",
       "localize_jp": "セイア、こっちよ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "เซอา ทางนี้",
+      "localize_tw": "聖亞，這邊。",
+      "localize_en": "This way, Seia."
     },
     {
       "group_id": 8430006010,
@@ -1023,9 +1023,9 @@
       "hide_ui": true,
       "localize_kr": "리오.",
       "localize_jp": "…リオか？",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ริโอะ",
+      "localize_tw": "莉央。",
+      "localize_en": "Rio."
     },
     {
       "group_id": 8430006010,
@@ -1036,9 +1036,9 @@
       "hide_ui": true,
       "localize_kr": "강아지 로봇에 통신기를 달았어.",
       "localize_jp": "通信機を取りつけてあるわ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ฉันติดอุปกรณ์สื่อสาร\nไว้กับหุ่นยนต์น้องหมาแล้ว",
+      "localize_tw": "我在機器狗上裝了通訊器。",
+      "localize_en": "I hooked a communicator up to the puppy robot."
     },
     {
       "group_id": 8430006010,
@@ -1049,9 +1049,9 @@
       "hide_ui": true,
       "localize_kr": "중간중간 수집한 데이터를 저장할 수 있어.",
       "localize_jp": "途中で収集したデータを保存できるようになっているの。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ระหว่างทางจะได้บันทึก\nข้อมูลที่รวบรวมมาได้",
+      "localize_tw": "現在可以隨時儲存收集到的資料。",
+      "localize_en": "You can save the data you've collected along the way."
     },
     {
       "group_id": 8430006020,
@@ -1062,9 +1062,9 @@
       "hide_ui": true,
       "localize_kr": "(…이건 혼자서 지나갈 수 없겠어요.)",
       "localize_jp": "（ここは一人で通れそうにない）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เรื่องนี้... ทำคนเดียว\nคงไม่สำเร็จแน่เลย)",
+      "localize_tw": "（…這邊無法自行通過）",
+      "localize_en": "(...I don't think I can get across by myself.)"
     },
     {
       "group_id": 8430006020,
@@ -1075,9 +1075,9 @@
       "hide_ui": true,
       "localize_kr": "(리오에게 연락해야겠군요.)",
       "localize_jp": "（リオに連絡しなくては）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ติดต่อไปหาริโอะน่าจะดีกว่า)",
+      "localize_tw": "（看來得聯絡莉央了）",
+      "localize_en": "(I should call Rio.)"
     },
     {
       "group_id": 8430006030,
@@ -1088,9 +1088,9 @@
       "hide_ui": true,
       "localize_kr": "그러잖아도 이쪽에서 비밀 통로를 만들고 있었어.",
       "localize_jp": "ちょうど進路を確保していたところよ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "พวกเขาสร้างทางลับไว้ตรงนี้ด้วย",
+      "localize_tw": "我們也正在建造祕密通道。",
+      "localize_en": "I was charting your way in."
     },
     {
       "group_id": 8430006030,
@@ -1101,9 +1101,9 @@
       "hide_ui": true,
       "localize_kr": "배전반을 조작해서 환풍기를 끄고 환풍구로 가면 돼.",
       "localize_jp": "換気扇を止めてもらえるかしら。そのままダクトを通れるはずよ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ปิดพัดลมระบายอากาศได้\nโดยกดสวิตช์ที่ตู้ไฟฟ้า\nและไปที่ช่องระบายอากาศ",
+      "localize_tw": "操作配電盤關閉排風扇之後，就能前往排風口了。",
+      "localize_en": "Control the switchboard to turn off the ventilation fan and head toward the vent."
     },
     {
       "group_id": 8430006040,
@@ -1114,9 +1114,9 @@
       "hide_ui": true,
       "localize_kr": "(이건… 배전반…?)",
       "localize_jp": "（これは…配電盤…？)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(นี่คือ... ตู้ไฟฟ้า...?)",
+      "localize_tw": "（這是… 配電盤…？）",
+      "localize_en": "(Is this...the switchboard...?)"
     },
     {
       "group_id": 8430006050,
@@ -1127,9 +1127,9 @@
       "hide_ui": true,
       "localize_kr": "(이제 환풍구로 들어갈 수 있겠어요.)",
       "localize_jp": "（これでダクトを通れそうだ)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ตอนนี้เดินเข้าไปใน\nช่องระบายอากาศได้แล้ว)",
+      "localize_tw": "（現在應該可以進入排風口了）",
+      "localize_en": "(I should be able to go inside the vent now.)"
     },
     {
       "group_id": 8430006050,
@@ -1140,9 +1140,9 @@
       "hide_ui": true,
       "localize_kr": "(서둘러서 이동해야겠네요.)",
       "localize_jp": "（急いで移動しよう)",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ต้องรีบไปแล้วละ)",
+      "localize_tw": "（趕緊移動吧）",
+      "localize_en": "(Let's hurry.)"
     },
     {
       "group_id": 8431001000,
@@ -1153,9 +1153,9 @@
       "hide_ui": true,
       "localize_kr": "(저건……?)",
       "localize_jp": "（あれは…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(นั่นมัน...?)",
+      "localize_tw": "（那是……？）",
+      "localize_en": "(Is that...?)"
     },
     {
       "group_id": 8431001000,
@@ -1166,9 +1166,9 @@
       "hide_ui": true,
       "localize_kr": "(이곳에도 있었네요. 요긴하겠어요.)",
       "localize_jp": "（ほかとは違う手掛かりのようだね）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(มีอยู่ที่นี่ด้วยสินะ...\nมีประโยชน์จริงๆ เลย)",
+      "localize_tw": "（原來這裡也有啊。應該能派上用場）",
+      "localize_en": "(So there's one here too. Good.)"
     },
     {
       "group_id": 8431001010,
@@ -1179,9 +1179,9 @@
       "hide_ui": true,
       "localize_kr": "(이쯤에서 써 보면 되려나요……)",
       "localize_jp": "（このあたりに…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(มาถึงตอนนี้แล้ว\nลองใช้ดูหน่อยดีมั้ยนะ...)",
+      "localize_tw": "（現在可以用用看了嗎……）",
+      "localize_en": "(I suppose I can use it here...)"
     },
     {
       "group_id": 8431001011,
@@ -1192,9 +1192,9 @@
       "hide_ui": true,
       "localize_kr": "(저거로군요. 성능 확실하네요.)",
       "localize_jp": "（…あれか。探知機があって助かった）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(อย่างนั้นเองสินะคะ\nมีประโยชน์จริงๆ ด้วย)",
+      "localize_tw": "（原來是那個啊。性能真是不錯）",
+      "localize_en": "(So that's it. It really is useful.)"
     },
     {
       "group_id": 8431002000,
@@ -1205,9 +1205,9 @@
       "hide_ui": true,
       "localize_kr": "(일단 오기는 했는데……)",
       "localize_jp": "（到着…っと）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ตอนนี้ก็มาถึงแล้ว...)",
+      "localize_tw": "（成功抵達了……）",
+      "localize_en": "(Well, I've come this far...)"
     },
     {
       "group_id": 8431002000,
@@ -1218,9 +1218,9 @@
       "hide_ui": true,
       "localize_kr": "(조금 더 들어가 볼까.)",
       "localize_jp": "（…もう少し奥まで行くか）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เข้าไปอีกหน่อยดีมั้ยนะ)",
+      "localize_tw": "（再前進一點吧）",
+      "localize_en": "(Maybe I should go in a little further.)"
     },
     {
       "group_id": 8431002010,
@@ -1231,9 +1231,9 @@
       "hide_ui": true,
       "localize_kr": "(들키지 않고 접근하긴 어렵겠는데.)",
       "localize_jp": "（バレずに近づくのは厳しそうだな）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เข้าไปให้ไม่โดนจับ\nน่าจะยากแฮะ)",
+      "localize_tw": "（要在不被發現的情況下接近有點困難）",
+      "localize_en": "(It'd be hard to get close without getting caught.)"
     },
     {
       "group_id": 8431002010,
@@ -1244,9 +1244,9 @@
       "hide_ui": true,
       "localize_kr": "(…리오가 준 무릎 보호대가 있었지.)",
       "localize_jp": "（ああ、そういえばニーパッドがあったな）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(มีแผ่นป้องกันเข่า\nที่ริโอะให้มาด้วยนี่นา)",
+      "localize_tw": "（…話說莉央有給我一對護膝）",
+      "localize_en": "(...Rio did give me those knee pads.)"
     },
     {
       "group_id": 8431002010,
@@ -1257,9 +1257,9 @@
       "hide_ui": true,
       "localize_kr": "(마침 좋은 타이밍이네.)",
       "localize_jp": "（ちょうどよかった）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ได้จังหวะพอดีเลยนะ)",
+      "localize_tw": "（正好能派上用場）",
+      "localize_en": "(Perfect timing.)"
     },
     {
       "group_id": 8431002020,
@@ -1270,9 +1270,9 @@
       "hide_ui": true,
       "localize_kr": "이번 건만 성공하면 드디어 우리도 회식 한 번 하자고!",
       "localize_jp": "これが終わったらパアっとやろうぜ！",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "เสร็จงานนี้แล้ว\nไปหาอะไรอร่อยๆ\nกินฉลองกันเถอะ!",
+      "localize_tw": "只要這次可以成功，我們就終於能吃上一次慶功宴了！",
+      "localize_en": "After this, let's go have a nice dinner to celebrate!"
     },
     {
       "group_id": 8431002020,
@@ -1283,9 +1283,9 @@
       "hide_ui": true,
       "localize_kr": "2차도 갈 수 있겠지!? 모처럼이니까!",
       "localize_jp": "二次会もやっちゃお！",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "กินเสร็จแล้วไปฉลองต่อ\nรอบ 2 ได้ด้วยนี่นา?!\nนานๆ ทีนี่นะ!",
+      "localize_tw": "就算要續攤也可以吧！？畢竟那麼難得！",
+      "localize_en": "Ooh, we could even get seconds for the occasion!"
     },
     {
       "group_id": 8431002020,
@@ -1296,9 +1296,9 @@
       "hide_ui": true,
       "localize_kr": "저는 철판요리가 먹고 싶어요!",
       "localize_jp": "鉄板焼き！鉄板焼き食べたいっす！",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ฉันอยากกินเทปันยากิค่ะ!",
+      "localize_tw": "我想吃鐵板料理！",
+      "localize_en": "I want Teppanyaki!"
     },
     {
       "group_id": 8431002030,
@@ -1309,9 +1309,9 @@
       "hide_ui": true,
       "localize_kr": "(소리를 내면 도망갈 수도 있는데….)",
       "localize_jp": "（銃は撃つなって言われてるしな…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(พวกมันอาจหนีไปก็ได้\nถ้าฉันส่งเสียงออกไป...)",
+      "localize_tw": "（要是發出聲音的話，可能會被他們逃跑…）",
+      "localize_en": "(They might run away if I make a sound...)"
     },
     {
       "group_id": 8431002030,
@@ -1322,9 +1322,9 @@
       "hide_ui": true,
       "localize_kr": "[전구]",
       "localize_jp": "[전구]",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "[전구]",
+      "localize_tw": "[전구]",
+      "localize_en": "[전구]"
     },
     {
       "group_id": 8431002030,
@@ -1335,9 +1335,9 @@
       "hide_ui": true,
       "localize_kr": "(…맞다, 패드.)",
       "localize_jp": "（そういえば消音ストックがあったな）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ใช่แล้ว... แผ่นรอง)",
+      "localize_tw": "（…對了，墊子）",
+      "localize_en": "(...Right, knee pads.)"
     },
     {
       "group_id": 8431002030,
@@ -1348,9 +1348,9 @@
       "hide_ui": true,
       "localize_kr": "(하여간 철두철미한 녀석이라니까.)",
       "localize_jp": "（…本当、隙のねぇヤツ）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(เป็นคนละเอียดรอบคอบ\nจริงๆ เลยนะ)",
+      "localize_tw": "（那傢伙準備得還真徹底）",
+      "localize_en": "(Seriously, she's really thorough.)"
     },
     {
       "group_id": 8431003000,
@@ -1361,9 +1361,9 @@
       "hide_ui": true,
       "localize_kr": "(으음… 곤란해졌군요.)",
       "localize_jp": "（参ったな…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(อืม... ชักจะยุ่งยากแล้วนะคะ)",
+      "localize_tw": "（唔嗯…這下麻煩了）",
+      "localize_en": "(Mmm... This is a problem.)"
     },
     {
       "group_id": 8431003000,
@@ -1374,9 +1374,9 @@
       "hide_ui": true,
       "localize_kr": "(…무전기로 네루에게 연락할 수 있다 했었죠.)",
       "localize_jp": "（確かこれで連絡を取れるのだったか）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ใช้เครื่องสื่อสารไร้สาย\nติดต่อเนรุได้สินะคะ...)",
+      "localize_tw": "（…是說可以用無線電連絡寧瑠對吧）",
+      "localize_en": "(...Right, I can contact Neru with the walkie talkie.)"
     },
     {
       "group_id": 8431003000,
@@ -1387,9 +1387,9 @@
       "hide_ui": true,
       "localize_kr": "(어디 한 번 해볼까요.)",
       "localize_jp": "（繋がるといいのだが…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ไหนลองดูหน่อยซิ)",
+      "localize_tw": "（來試試看吧）",
+      "localize_en": "(Let's give it a try.)"
     },
     {
       "group_id": 8431003010,
@@ -1400,9 +1400,9 @@
       "hide_ui": true,
       "localize_kr": "어. 대충 상황은 알았어. 이쪽에서 뭔가 해볼게.",
       "localize_jp": "…ああ、大体分かった。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "อ่า ฉันเข้าใจสถานการณ์แล้วละ\nจะลองทำอะไรสักอย่าง\nจากทางนี้ก็แล้วกัน",
+      "localize_tw": "嗯，我大致了解了。我們這邊會嘗試著做些什麼的。",
+      "localize_en": "Yeah. I have a rough grasp of the situation. I'll try to do something about it from this side."
     },
     {
       "group_id": 8431003010,
@@ -1413,9 +1413,9 @@
       "hide_ui": true,
       "localize_kr": "…배전반? 오케이. 내가 찾아볼게.",
       "localize_jp": "換気扇？了解、探してみる。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ตู้ไฟฟ้า? โอเค\nฉันจะลองหาดู",
+      "localize_tw": "…配電盤？了解，我找找看。",
+      "localize_en": "...Switchoard? Okay. I'll look for it."
     },
     {
       "group_id": 8431004000,
@@ -1426,9 +1426,9 @@
       "hide_ui": true,
       "localize_kr": "(세이아 쪽은…)",
       "localize_jp": "（セイアの方は…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ทางด้านเซอา...)",
+      "localize_tw": "（聖亞那邊…）",
+      "localize_en": "(And Seia...)"
     },
     {
       "group_id": 8431004000,
@@ -1439,9 +1439,9 @@
       "hide_ui": true,
       "localize_kr": "(…애도 아니고, 알아서 잘 하겠지.)",
       "localize_jp": "（…まぁ、適当にうまくやるだろ）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ไม่ใช่เด็กๆ สักหน่อย\nคงจะหาทางเองได้ละมั้ง)",
+      "localize_tw": "（…他也不是小孩子了，應該能處理好吧）",
+      "localize_en": "(...She's not a kid, I'm sure she'd do fine.)"
     },
     {
       "group_id": 8431004010,
@@ -1452,9 +1452,9 @@
       "hide_ui": true,
       "localize_kr": "(…저쪽에서 뭔가 해줘야겠는걸.)",
       "localize_jp": "（これは……あっちに頼もうぜ）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(คงต้องทำอะไรสักอย่าง\nจากทางนั้นอยู่ละมั้ง)",
+      "localize_tw": "（…看來需要那邊的幫忙）",
+      "localize_en": "(...I'm going to need something to happen from the other side.)"
     },
     {
       "group_id": 8431005000,
@@ -1465,9 +1465,9 @@
       "hide_ui": true,
       "localize_kr": "(……잘은 모르지만 반드시 빠져 나가야 해요.)",
       "localize_jp": "（ここから離れなくては）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ถึงจะไม่ค่อยเข้าใจเท่าไร\nแต่คงต้องหาทางหนีออกไป\nให้ได้แล้วละ)",
+      "localize_tw": "（……雖然不是很懂，但一定要逃出去才行）",
+      "localize_en": "(...I don't really get it, but I need to get out of here.)"
     },
     {
       "group_id": 8431005000,
@@ -1478,9 +1478,9 @@
       "hide_ui": true,
       "localize_kr": "(저의 직감이 말하고 있어요. 잡히면 끝이라고!)",
       "localize_jp": "（捕まってはならない…勘がそう告げている）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ลางสังหรณ์ของฉันบอกว่า\nถ้าโดนจับได้คงจบเท่านี้แน่ๆ!)",
+      "localize_tw": "（我的直覺告訴我，要是被抓到就完蛋了！）",
+      "localize_en": "(My instincts say if I get caught, it's over!)"
     },
     {
       "group_id": 8431006000,
@@ -1491,9 +1491,9 @@
       "hide_ui": true,
       "localize_kr": "……뭔가 이상한데요.",
       "localize_jp": "おかしい…",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "มันแปลกๆ นะคะ...",
+      "localize_tw": "……好像有點奇怪。",
+      "localize_en": "...Something is off."
     },
     {
       "group_id": 8431006000,
@@ -1504,9 +1504,9 @@
       "hide_ui": true,
       "localize_kr": "(보통은 점점 경비가 강화될 텐데 말이죠.)",
       "localize_jp": "（この違和感は…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ปกติน่าจะมีการเสริม\nการรักษาความปลอดภัย\nให้แน่นหนาขึ้นนี่นา)",
+      "localize_tw": "（照理來說，警備應該逐漸增強才對）",
+      "localize_en": "(Normally, the security should get tighter.)"
     },
     {
       "group_id": 8431006000,
@@ -1517,9 +1517,9 @@
       "hide_ui": true,
       "localize_kr": "[…]",
       "localize_jp": "[…]",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "[…]",
+      "localize_tw": "[…]",
+      "localize_en": "[…]"
     },
     {
       "group_id": 8431006000,
@@ -1530,9 +1530,9 @@
       "hide_ui": true,
       "localize_kr": "[!]",
       "localize_jp": "[!]",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "[!]",
+      "localize_tw": "[!]",
+      "localize_en": "[!]"
     },
     {
       "group_id": 8431006000,
@@ -1543,9 +1543,9 @@
       "hide_ui": true,
       "localize_kr": "함정이에요, 처음부터 이걸 노린 거군요!",
       "localize_jp": "罠か…っ！",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "มันเป็นกับดักค่ะ\nวางแผนแบบนี้ไว้\nตั้งแต่แรกแล้วสินะคะ!",
+      "localize_tw": "是陷阱！對方的目的從一開始就是這個！",
+      "localize_en": "It's a trap! So this is what they were going for in the first place!"
     },
     {
       "group_id": 8431006000,
@@ -1556,9 +1556,9 @@
       "hide_ui": true,
       "localize_kr": "네루의 도움이 필요해요!",
       "localize_jp": "力を貸してほしい、ネル。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "ต้องให้เนรุช่วยแล้วค่ะ!",
+      "localize_tw": "需要寧瑠的幫忙！",
+      "localize_en": "I need Neru's help!"
     },
     {
       "group_id": 8431006010,
@@ -1569,9 +1569,9 @@
       "hide_ui": false,
       "localize_kr": "[!]",
       "localize_jp": "[!]",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "[!]",
+      "localize_tw": "[!]",
+      "localize_en": "[!]"
     },
     {
       "group_id": 8431006010,
@@ -1582,9 +1582,9 @@
       "hide_ui": false,
       "localize_kr": "이번엔 네루가 위험해요!",
       "localize_jp": "……ネルの身が危険だ。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "เนรุกำลังตกอยู่ในอันตรายค่ะ!",
+      "localize_tw": "這次寧瑠危險了！",
+      "localize_en": "Neru is in danger this time!"
     },
     {
       "group_id": 8431006020,
@@ -1595,9 +1595,9 @@
       "hide_ui": false,
       "localize_kr": "세이아가 열어줘야겠는걸.",
       "localize_jp": "セイアに開けてもらわねぇとな。",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "เซอาคงจะมาเปิดให้ละมั้ง",
+      "localize_tw": "看來需要由聖亞打開才行。",
+      "localize_en": "I'm going to need Seia to open it."
     },
     {
       "group_id": 8431007000,
@@ -1608,9 +1608,9 @@
       "hide_ui": true,
       "localize_kr": "(이대로는 따라잡히고 말아요…)",
       "localize_jp": "（このままでは追いつかれる）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(ขืนเเป็นแบบนี้\nต้องโดนจับแน่ๆ...)",
+      "localize_tw": "（這樣下去會被抓到的…）",
+      "localize_en": "(I'll be caught at this rate...)"
     },
     {
       "group_id": 8431007000,
@@ -1621,9 +1621,9 @@
       "hide_ui": false,
       "localize_kr": "(뭔가… 진로를 방해할 수 있는 게…!)",
       "localize_jp": "（何か進路を妨げられるものは…）",
-      "localize_th": "",
-      "localize_tw": "",
-      "localize_en": ""
+      "localize_th": "(อะไรบางอย่าง...\nที่จะเอามาขวางทางได้...!)",
+      "localize_tw": "（有沒有什麼…能阻擋他前進路線的東西…！)",
+      "localize_en": "(Something...to get in their way...!)"
     }
   ]
 }
