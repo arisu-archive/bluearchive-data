@@ -97599,6 +97599,1572 @@
       "condition_reward_parcel_type": [],
       "condition_reward_parcel_id": [],
       "condition_reward_amount": []
+    },
+    {
+      "id": 847001,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 538150987,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 1,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 131,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 27,
+      "complete_condition_parameter": [
+        8471301,
+        8471302,
+        8471303,
+        8471304,
+        8471305,
+        8471306,
+        8471307,
+        8471308,
+        8471309,
+        8471310,
+        8471311,
+        8471312,
+        8472301,
+        8472302,
+        8472303,
+        8472304,
+        8472305,
+        8472306,
+        8472307,
+        8472308,
+        8472309,
+        8472310,
+        8472311,
+        8472312,
+        8473301,
+        8473302,
+        8473303
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        20
+      ],
+      "mission_reward_parcel_id": [
+        3000847
+      ],
+      "mission_reward_amount": [
+        1
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847002,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 3922463371,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 2,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 74,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        847,
+        8471312
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        400000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847003,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 3,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847004,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 4,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 60,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847005,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 5,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 95,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847006,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 6,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 124,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847007,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 7,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 155,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847008,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 2310329077,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 8,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 148,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 186,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        600000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847009,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 9,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 11,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847010,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 10,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 19,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847011,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 11,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 28,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847012,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 12,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 39,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847013,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 13,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 46,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847014,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 352610148,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 14,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 149,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 55,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        600000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847015,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 15,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847016,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 16,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847017,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 17,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847018,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 18,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847019,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 19,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847020,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4219847115,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 20,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventTreasure|847"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 150,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 6,
+      "complete_condition_parameter": [
+        847
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        600000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847021,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 21,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472301"
+      ],
+      "challenge_stage_shortcut": 8472301,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472301
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847022,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 22,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472302"
+      ],
+      "challenge_stage_shortcut": 8472302,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472302
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847023,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 23,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472303"
+      ],
+      "challenge_stage_shortcut": 8472303,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472303
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847024,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 24,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472304"
+      ],
+      "challenge_stage_shortcut": 8472304,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472304
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847025,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 25,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472305"
+      ],
+      "challenge_stage_shortcut": 8472305,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472305
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847026,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 26,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472306"
+      ],
+      "challenge_stage_shortcut": 8472306,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472306
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847027,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 27,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472307"
+      ],
+      "challenge_stage_shortcut": 8472307,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472307
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847028,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 28,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472308"
+      ],
+      "challenge_stage_shortcut": 8472308,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472308
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847029,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 29,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472309"
+      ],
+      "challenge_stage_shortcut": 8472309,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472309
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847030,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 30,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472310"
+      ],
+      "challenge_stage_shortcut": 8472310,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472310
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847031,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 31,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472311"
+      ],
+      "challenge_stage_shortcut": 8472311,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472311
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847032,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 32,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8472312"
+      ],
+      "challenge_stage_shortcut": 8472312,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 75,
+      "complete_condition_parameter": [
+        847,
+        8472312
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        200000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847033,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 33,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8473301"
+      ],
+      "challenge_stage_shortcut": 8473301,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 120,
+      "complete_condition_parameter": [
+        847,
+        8473301
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        800000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847034,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 34,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8473302"
+      ],
+      "challenge_stage_shortcut": 8473302,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 100,
+      "complete_condition_parameter": [
+        847,
+        8473302
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        800000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847035,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 4026331692,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 35,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [
+        "UIEventLobby|8473303"
+      ],
+      "challenge_stage_shortcut": 8473303,
+      "complete_condition_type": 83,
+      "is_complete_extension_time": false,
+      "complete_condition_count": 100,
+      "complete_condition_parameter": [
+        847,
+        8473303
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        800000
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
+    },
+    {
+      "id": 847036,
+      "event_content_id": 847,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 68024019,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 36,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 3,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 14,
+      "complete_condition_parameter": [
+        847021,
+        847022,
+        847023,
+        847024,
+        847025,
+        847026,
+        847027,
+        847028,
+        847029,
+        847030,
+        847031,
+        847032,
+        847033,
+        847034,
+        847035
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        4
+      ],
+      "mission_reward_parcel_id": [
+        9999
+      ],
+      "mission_reward_amount": [
+        1
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
     }
   ]
 }

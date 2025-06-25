@@ -184,7 +184,14 @@
       "max_blocked_user_count": 30,
       "cafe_random_visit_min_comfort_bonus": 1000,
       "cafe_random_visit_min_last_login": 10,
-      "cafe_travel_sync_interval_by_millisec": 30000
+      "cafe_travel_sync_interval_by_millisec": 30000,
+      "rank_bracket_percentage1": 10,
+      "rank_bracket_percentage2": 25,
+      "rank_bracket_percentage3": 40,
+      "rank_bracket_percentage4": 50,
+      "rank_bracket_percentage5": 65,
+      "rank_bracket_percentage6": 70,
+      "rank_bracket_percentage7": 90
     }
   ]
 }

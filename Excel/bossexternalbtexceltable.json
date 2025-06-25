@@ -30805,8 +30805,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404100,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -30816,26 +30826,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404100,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404100,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -31045,8 +31045,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404200,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -31056,26 +31066,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404200,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404200,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -31285,8 +31285,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404300,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -31296,26 +31306,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404300,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404300,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -31525,8 +31525,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404400,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -31536,26 +31546,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404400,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404400,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -31765,8 +31765,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404500,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -31776,26 +31786,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404500,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404500,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -32015,8 +32015,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7404600,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -32026,26 +32036,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7404600,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 7404600,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -42395,7 +42395,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -42425,7 +42425,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -42438,24 +42438,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308100,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308100,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -42472,43 +42462,33 @@
     },
     {
       "external_bt_id": 7308100,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308100,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308100,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
-      "trigger_argument": "0",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308100,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308100,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
+      "trigger_argument": "1",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308100,
@@ -42536,7 +42516,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -42556,13 +42536,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308100,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308100,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -42585,7 +42815,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -42615,7 +42845,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -42628,24 +42858,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308200,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308200,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -42662,13 +42882,23 @@
     },
     {
       "external_bt_id": 7308200,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308200,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "15"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308200,
@@ -42676,29 +42906,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308200,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308200,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308200,
@@ -42726,7 +42936,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -42746,13 +42956,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308200,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308200,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -42775,7 +43235,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -42805,7 +43265,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -42818,24 +43278,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308300,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308300,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -42852,13 +43302,23 @@
     },
     {
       "external_bt_id": 7308300,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308300,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308300,
@@ -42866,29 +43326,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308300,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308300,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308300,
@@ -42916,7 +43356,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -42936,13 +43376,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308300,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308300,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -42965,7 +43655,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -42995,7 +43685,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -43008,24 +43698,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308400,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308400,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -43042,13 +43722,23 @@
     },
     {
       "external_bt_id": 7308400,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308400,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308400,
@@ -43056,29 +43746,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308400,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308400,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308400,
@@ -43106,7 +43776,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -43126,13 +43796,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308400,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308400,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -43155,7 +44075,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -43185,7 +44105,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -43198,24 +44118,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308500,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308500,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -43232,13 +44142,23 @@
     },
     {
       "external_bt_id": 7308500,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308500,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308500,
@@ -43246,29 +44166,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308500,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308500,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308500,
@@ -43296,7 +44196,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -43316,13 +44216,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308500,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308500,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -43345,7 +44495,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -43375,7 +44525,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -43388,24 +44538,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308600,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308600,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -43422,13 +44562,23 @@
     },
     {
       "external_bt_id": 7308600,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308600,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308600,
@@ -43436,29 +44586,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308600,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308600,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308600,
@@ -43486,7 +44616,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -43506,13 +44636,263 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
     {
       "external_bt_id": 7308600,
       "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308600,
+      "ai_phase": 6,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
       "trigger_argument": "2",
@@ -43535,7 +44915,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 5000,
       "external_behavior": 4,
       "behavior_argument": "5"
@@ -43565,7 +44945,7 @@
       "ai_phase": 0,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "4",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "1"
@@ -43578,24 +44958,14 @@
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308700,
       "ai_phase": 1,
-      "external_bt_node_type": 1,
+      "external_bt_node_type": 2,
       "external_bt_trigger": 16,
       "trigger_argument": "0",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308700,
-      "ai_phase": 1,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
@@ -43612,13 +44982,23 @@
     },
     {
       "external_bt_id": 7308700,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308700,
       "ai_phase": 2,
       "external_bt_node_type": 1,
       "external_bt_trigger": 7,
       "trigger_argument": "1000",
       "behavior_rate": 10000,
       "external_behavior": 3,
-      "behavior_argument": "20"
+      "behavior_argument": "16"
     },
     {
       "external_bt_id": 7308700,
@@ -43626,29 +45006,9 @@
       "external_bt_node_type": 1,
       "external_bt_trigger": 16,
       "trigger_argument": "1",
-      "behavior_rate": 3000,
-      "external_behavior": 4,
-      "behavior_argument": "0"
-    },
-    {
-      "external_bt_id": 7308700,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 5000,
-      "external_behavior": 4,
-      "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 7308700,
-      "ai_phase": 2,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
       "behavior_rate": 10000,
-      "external_behavior": 4,
-      "behavior_argument": "2"
+      "external_behavior": 1,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7308700,
@@ -43676,7 +45036,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 3333,
       "external_behavior": 4,
       "behavior_argument": "5"
     },
@@ -43696,7 +45056,7 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 5000,
+      "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "7"
     },
@@ -43709,6 +45069,756 @@
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "16"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308700,
+      "ai_phase": 6,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "150000000",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 0,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 0,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 1,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 1,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 2,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 3,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 3,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 4,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 5,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 5,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 5,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "30"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "4"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 3333,
+      "external_behavior": 4,
+      "behavior_argument": "5"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "6"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 6,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 7,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 7,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 5000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 7,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 7,
+      "external_bt_node_type": 0,
+      "external_bt_trigger": 15,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "8"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 7,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 16,
+      "trigger_argument": "0",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 8,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "1000",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "140"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 8,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 16,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "7"
+    },
+    {
+      "external_bt_id": 7308800,
+      "ai_phase": 8,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "900",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "3"
     },
     {
       "external_bt_id": 7310100,
@@ -64635,8 +66745,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -64646,26 +66766,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -64875,8 +66985,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -64886,26 +67006,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -65115,8 +67225,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -65126,26 +67246,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -65355,8 +67465,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -65366,26 +67486,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -65595,8 +67705,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -65606,26 +67726,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -65845,8 +67955,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605110601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -65856,26 +67976,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605110601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605110601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -66335,8 +68445,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -66346,26 +68466,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -66575,8 +68685,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -66586,26 +68706,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -66815,8 +68925,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -66826,26 +68946,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -67055,8 +69165,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -67066,26 +69186,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -67295,8 +69405,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -67306,26 +69426,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -67545,8 +69655,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605120601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -67556,26 +69676,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605120601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605120601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -68035,8 +70145,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -68046,26 +70166,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -68275,8 +70385,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -68286,26 +70406,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -68515,8 +70625,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -68526,26 +70646,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -68755,8 +70865,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -68766,26 +70886,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -68995,8 +71105,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -69006,26 +71126,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -69245,8 +71355,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605130601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -69256,26 +71376,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605130601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605130601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -69735,8 +71845,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -69746,26 +71866,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -69975,8 +72085,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -69986,26 +72106,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -70215,8 +72325,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -70226,26 +72346,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -70455,8 +72565,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -70466,26 +72586,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -70695,8 +72805,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -70706,26 +72826,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -70945,8 +73055,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605140601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -70956,26 +73076,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605140601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605140601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -71435,8 +73545,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -71446,26 +73566,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -71675,8 +73785,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -71686,26 +73806,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -71915,8 +74025,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -71926,26 +74046,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -72155,8 +74265,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -72166,26 +74286,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -72395,8 +74505,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -72406,26 +74526,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -72645,8 +74755,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605210601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -72656,26 +74776,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605210601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605210601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -73135,8 +75245,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -73146,26 +75266,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -73375,8 +75485,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -73386,26 +75506,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -73615,8 +75725,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -73626,26 +75746,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -73855,8 +75965,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -73866,26 +75986,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -74095,8 +76205,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -74106,26 +76226,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -74345,8 +76455,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605220601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -74356,26 +76476,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605220601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605220601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -74835,8 +76945,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -74846,26 +76966,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -75075,8 +77185,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -75086,26 +77206,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -75315,8 +77425,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -75326,26 +77446,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -75555,8 +77665,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -75566,26 +77686,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -75795,8 +77905,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -75806,26 +77926,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -76045,8 +78155,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605230601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -76056,26 +78176,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605230601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605230601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -76535,8 +78645,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240101,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -76546,26 +78666,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240101,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240101,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -76775,8 +78885,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240201,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -76786,26 +78906,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240201,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240201,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -77015,8 +79125,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240301,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -77026,26 +79146,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240301,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240301,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -77255,8 +79365,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240401,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -77266,26 +79386,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240401,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240401,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -77495,8 +79605,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240501,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -77506,26 +79626,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240501,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240501,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
@@ -77745,8 +79855,18 @@
       "ai_phase": 1,
       "external_bt_node_type": 1,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
-      "behavior_rate": 3500,
+      "trigger_argument": "3",
+      "behavior_rate": 10000,
+      "external_behavior": 12,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 605240601,
+      "ai_phase": 0,
+      "external_bt_node_type": 3,
+      "external_bt_trigger": 0,
+      "trigger_argument": "",
+      "behavior_rate": 10000,
       "external_behavior": 12,
       "behavior_argument": "0"
     },
@@ -77756,26 +79876,16 @@
       "external_bt_node_type": 3,
       "external_bt_trigger": 0,
       "trigger_argument": "",
-      "behavior_rate": 3500,
+      "behavior_rate": 20000,
       "external_behavior": 12,
       "behavior_argument": "1"
-    },
-    {
-      "external_bt_id": 605240601,
-      "ai_phase": 0,
-      "external_bt_node_type": 3,
-      "external_bt_trigger": 0,
-      "trigger_argument": "",
-      "behavior_rate": 3000,
-      "external_behavior": 12,
-      "behavior_argument": "2"
     },
     {
       "external_bt_id": 605240601,
       "ai_phase": 1,
       "external_bt_node_type": 0,
       "external_bt_trigger": 4,
-      "trigger_argument": "2",
+      "trigger_argument": "3",
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
