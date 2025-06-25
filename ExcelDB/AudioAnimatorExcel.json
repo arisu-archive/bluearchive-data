@@ -18208,11 +18208,12 @@
       "random_pitch_max": 0,
       "audio_priority": 100,
       "audio_clip_path": [
-        "SFX_Common_SR_Reload_Bolt_Action_01",
-        "SFX_Common_SR_Reload_Bolt_Action_02",
-        "SFX_Common_SR_Reload_Bolt_Action_03",
-        "SFX_Common_SR_Reload_Bolt_Action_04",
-        "SFX_Common_SR_Reload_Bolt_Action_05"
+        "SFX_Common_SR_Reload_Bolt_01",
+        "SFX_Common_SR_Reload_Bolt_02",
+        "SFX_Common_SR_Reload_Bolt_03",
+        "SFX_Common_SR_Reload_Bolt_04",
+        "SFX_Common_SR_Reload_Bolt_05",
+        "SFX_Common_SR_Reload_Bolt_06"
       ],
       "voice_hash": []
     },
@@ -18465,11 +18466,12 @@
       "random_pitch_max": 0,
       "audio_priority": 100,
       "audio_clip_path": [
-        "SFX_Common_SR_Reload_Bolt_Action_01",
-        "SFX_Common_SR_Reload_Bolt_Action_02",
-        "SFX_Common_SR_Reload_Bolt_Action_03",
-        "SFX_Common_SR_Reload_Bolt_Action_04",
-        "SFX_Common_SR_Reload_Bolt_Action_05"
+        "SFX_Common_SR_Reload_Bolt_01",
+        "SFX_Common_SR_Reload_Bolt_02",
+        "SFX_Common_SR_Reload_Bolt_03",
+        "SFX_Common_SR_Reload_Bolt_04",
+        "SFX_Common_SR_Reload_Bolt_05",
+        "SFX_Common_SR_Reload_Bolt_06"
       ],
       "voice_hash": []
     },
@@ -18551,11 +18553,159 @@
       "random_pitch_max": 0,
       "audio_priority": 100,
       "audio_clip_path": [
-        "SFX_Common_SR_Reload_Bolt_Action_01",
-        "SFX_Common_SR_Reload_Bolt_Action_02",
-        "SFX_Common_SR_Reload_Bolt_Action_03",
-        "SFX_Common_SR_Reload_Bolt_Action_04",
-        "SFX_Common_SR_Reload_Bolt_Action_05"
+        "SFX_Common_SR_Reload_Bolt_01",
+        "SFX_Common_SR_Reload_Bolt_02",
+        "SFX_Common_SR_Reload_Bolt_03",
+        "SFX_Common_SR_Reload_Bolt_04",
+        "SFX_Common_SR_Reload_Bolt_05",
+        "SFX_Common_SR_Reload_Bolt_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 1047306432,
+      "state_name": "Base Layer.VitalDyingIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 30,
+      "audio_clip_path": [],
+      "voice_hash": [
+        3436375298
+      ]
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 4198288525,
+      "state_name": "Base Layer.Normal.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.8,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_01",
+        "SFX_Common_SR_02",
+        "SFX_Common_SR_03",
+        "SFX_Common_SR_04",
+        "SFX_Common_SR_05"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 2495071527,
+      "state_name": "Base Layer.Normal.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.9,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 1,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_CH0224_Reload_01",
+        "SFX_Common_SR_CH0224_Reload_02",
+        "SFX_Common_SR_CH0224_Reload_03",
+        "SFX_Common_SR_CH0224_Reload_04",
+        "SFX_Common_SR_CH0224_Reload_05",
+        "SFX_Common_SR_CH0224_Reload_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 3790790505,
+      "state_name": "Base Layer.Normal.AttackDelay",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.7,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 1,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_Reload_Bolt_01",
+        "SFX_Common_SR_Reload_Bolt_02",
+        "SFX_Common_SR_Reload_Bolt_03",
+        "SFX_Common_SR_Reload_Bolt_04",
+        "SFX_Common_SR_Reload_Bolt_05",
+        "SFX_Common_SR_Reload_Bolt_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 199563541,
+      "state_name": "Base Layer.Kneel.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.8,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_01",
+        "SFX_Common_SR_02",
+        "SFX_Common_SR_03",
+        "SFX_Common_SR_04",
+        "SFX_Common_SR_05"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 3226339727,
+      "state_name": "Base Layer.Kneel.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.8,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 1,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_CH0224_Reload_01",
+        "SFX_Common_SR_CH0224_Reload_02",
+        "SFX_Common_SR_CH0224_Reload_03",
+        "SFX_Common_SR_CH0224_Reload_04",
+        "SFX_Common_SR_CH0224_Reload_05",
+        "SFX_Common_SR_CH0224_Reload_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2469610907,
+      "voice_name_prefix": "CH0302",
+      "state_name_hash": 372783027,
+      "state_name": "Base Layer.Kneel.AttackDelay",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0.6,
+      "delay": 0.2,
+      "random_pitch_min": -1,
+      "random_pitch_max": 1,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SR_Reload_Bolt_01",
+        "SFX_Common_SR_Reload_Bolt_02",
+        "SFX_Common_SR_Reload_Bolt_03",
+        "SFX_Common_SR_Reload_Bolt_04",
+        "SFX_Common_SR_Reload_Bolt_05",
+        "SFX_Common_SR_Reload_Bolt_06"
       ],
       "voice_hash": []
     },
