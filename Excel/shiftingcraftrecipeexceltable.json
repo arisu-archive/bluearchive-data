@@ -512,6 +512,22 @@
       "ingredient_exp": 200
     },
     {
+      "id": 81,
+      "display_order": 50,
+      "notification_id": 10,
+      "result_parcel": 4,
+      "result_id": 191019,
+      "result_amount": 1,
+      "require_item_id": 83,
+      "require_item_amount": 1,
+      "require_gold": 24000,
+      "ingredient_tag": [
+        307,
+        15
+      ],
+      "ingredient_exp": 200
+    },
+    {
       "id": 60,
       "display_order": 49,
       "notification_id": 0,
@@ -1061,6 +1077,22 @@
       "notification_id": 9,
       "result_parcel": 4,
       "result_id": 151018,
+      "result_amount": 1,
+      "require_item_id": 83,
+      "require_item_amount": 3,
+      "require_gold": 24000,
+      "ingredient_tag": [
+        307,
+        15
+      ],
+      "ingredient_exp": 400
+    },
+    {
+      "id": 82,
+      "display_order": 14,
+      "notification_id": 10,
+      "result_parcel": 4,
+      "result_id": 151019,
       "result_amount": 1,
       "require_item_id": 83,
       "require_item_amount": 3,

@@ -750,7 +750,7 @@
       "hide_ui": false,
       "localize_kr": "(네루도 데이터를 가져와야 해요.)",
       "localize_jp": "（ネルにもデータを持ってきてもらわねば）",
-      "localize_th": "(เนรุต้องได้รับข้อมูลนี้ด้วยค่ะ)",
+      "localize_th": "(เนรุต้องได้รับข้อมูลนี้\nด้วยค่ะ)",
       "localize_tw": "（寧瑠也得把資料帶來才行）",
       "localize_en": "(I need the data from Neru.)"
     },
@@ -764,7 +764,7 @@
       "localize_kr": "(세이아도 데이터를 가져와야 해.)",
       "localize_jp": "（セイアのデータも必要だな）",
       "localize_th": "(เซอาต้องได้ข้อมูลนี้ด้วย)",
-      "localize_tw": "（聖亞也得把資料拿來）",
+      "localize_tw": "（聖亞也得把資料拿來才行）",
       "localize_en": "(I need the data from Seia.)"
     },
     {
@@ -789,7 +789,7 @@
       "hide_ui": true,
       "localize_kr": "(타이밍을 잘 봐가며… 움직이죠.)",
       "localize_jp": "（タイミングを見て進もう）",
-      "localize_th": "(ดูจังหวะให้ดี... แล้วค่อยขยับ)",
+      "localize_th": "(ดูจังหวะให้ดี...\nแล้วค่อยๆ ขยับ)",
       "localize_tw": "（抓準時機…行動吧！）",
       "localize_en": "(Let's be wary of the timing...and get moving.)"
     },
@@ -802,7 +802,7 @@
       "hide_ui": true,
       "localize_kr": "…는 …",
       "localize_jp": "…は…。",
-      "localize_th": "ค่อยๆ...",
+      "localize_th": "อ่า...",
       "localize_tw": "…是…",
       "localize_en": "...is..."
     },
@@ -815,7 +815,7 @@
       "hide_ui": true,
       "localize_kr": "…가…",
       "localize_jp": "…が…で…。",
-      "localize_th": "ขยับ...",
+      "localize_th": "คือ...",
       "localize_tw": "…我…",
       "localize_en": "...has..."
     },
@@ -841,7 +841,7 @@
       "hide_ui": true,
       "localize_kr": "곧 있으면 접선 시간이야.",
       "localize_jp": "そろそろ時間だ。",
-      "localize_th": "อีกเดี๋ยวก็จะถึงเวลาติดต่อกันแล้ว",
+      "localize_th": "อีกเดี๋ยวก็จะ\nถึงเวลาติดต่อกันแล้ว",
       "localize_tw": "交接時間快到了。",
       "localize_en": "It'll all be done soon."
     },
@@ -854,7 +854,7 @@
       "hide_ui": true,
       "localize_kr": "빨리 거래 끝내고 돌아가자.",
       "localize_jp": "早く渡して帰ろうぜ。",
-      "localize_th": "รีบๆ จัดการให้จบแล้วกลับดีกว่า",
+      "localize_th": "รีบๆ จัดการให้จบ\nแล้วกลับดีกว่า",
       "localize_tw": "趕快完成交易回去吧！",
       "localize_en": "Let's wrap up here and get back."
     },
@@ -932,7 +932,7 @@
       "hide_ui": true,
       "localize_kr": "(…하여간 잠입은 취향이 아니라니까.)",
       "localize_jp": "（潜入って性に合わねぇんだよな）",
-      "localize_th": "(ภารกิจแฝงตัวนี่\nไม่ใช่งานถนัดฉันเลยจริงๆ...)",
+      "localize_th": "(ภารกิจแฝงตัวนี่\nไม่ใช่งานถนัดฉันเลยจริงๆ)",
       "localize_tw": "（…果然我還是不喜歡潛入行動）",
       "localize_en": "(...Seriously, infiltration is not my style at all.)"
     },
@@ -945,8 +945,8 @@
       "hide_ui": true,
       "localize_kr": "(체력이 떨어지면... 회복약을 먹으면 된다고 했었지.)",
       "localize_jp": "（体力が減ってきたら……回復薬を飲めばいいんだっけか）",
-      "localize_th": "(บอกว่าถ้าเริ่มหมดแรง...\nก็ให้กินยาฟื้นฟูกำลังนี่สินะ)",
-      "localize_tw": "（體力下降的話…好像可以喝提神藥）",
+      "localize_th": "(เห็นบอกว่าถ้าเริ่ม\nหมดแรง... ก็ให้กิน\nยาฟื้นฟูกำลังนี่สินะ)",
+      "localize_tw": "（體力下降的話…好像可以喝恢復藥）",
       "localize_en": "(If my HP drops...I should take some Recovery Medicine.)"
     },
     {
@@ -971,7 +971,7 @@
       "hide_ui": true,
       "localize_kr": "(드론… 밀레니엄답네요. 트리니티와는 많이 달라요.)",
       "localize_jp": "（ドローン…トリニティでは想像できない光景だね）",
-      "localize_th": "(โดรน... สมกับเป็นมิลเลเนียมจริงๆ\nเลยนะ ต่างจากทรีนิตี้จริงๆ\nด้วยค่ะ)",
+      "localize_th": "(โดรน... สมกับเป็นมิลเลเนียม\nจริงๆ เลยนะ ต่างจากทรีนิตี้\nจริงๆ ด้วยค่ะ)",
       "localize_tw": "（無人機…不愧是千年，跟三一截然不同呢）",
       "localize_en": "(Drones...as expected of Millennium. Very different from Trinity.)"
     },
@@ -1075,7 +1075,7 @@
       "hide_ui": true,
       "localize_kr": "(리오에게 연락해야겠군요.)",
       "localize_jp": "（リオに連絡しなくては）",
-      "localize_th": "(ติดต่อไปหาริโอะน่าจะดีกว่า)",
+      "localize_th": "(ติดต่อไปหาริโอะ\nน่าจะดีกว่า)",
       "localize_tw": "（看來得聯絡莉央了）",
       "localize_en": "(I should call Rio.)"
     },
@@ -1088,8 +1088,8 @@
       "hide_ui": true,
       "localize_kr": "그러잖아도 이쪽에서 비밀 통로를 만들고 있었어.",
       "localize_jp": "ちょうど進路を確保していたところよ。",
-      "localize_th": "พวกเขาสร้างทางลับไว้ตรงนี้ด้วย",
-      "localize_tw": "我們也正在建造祕密通道。",
+      "localize_th": "พวกเขาสร้างทางลับ\nไว้ตรงนี้ด้วย",
+      "localize_tw": "我也正在準備祕密通道。",
       "localize_en": "I was charting your way in."
     },
     {
@@ -1102,7 +1102,7 @@
       "localize_kr": "배전반을 조작해서 환풍기를 끄고 환풍구로 가면 돼.",
       "localize_jp": "換気扇を止めてもらえるかしら。そのままダクトを通れるはずよ。",
       "localize_th": "ปิดพัดลมระบายอากาศได้\nโดยกดสวิตช์ที่ตู้ไฟฟ้า\nและไปที่ช่องระบายอากาศ",
-      "localize_tw": "操作配電盤關閉排風扇之後，就能前往排風口了。",
+      "localize_tw": "操作配電盤關閉排風扇之後，就能通過排風口了。",
       "localize_en": "Control the switchboard to turn off the ventilation fan and head toward the vent."
     },
     {
@@ -1115,7 +1115,7 @@
       "localize_kr": "(이건… 배전반…?)",
       "localize_jp": "（これは…配電盤…？)",
       "localize_th": "(นี่คือ... ตู้ไฟฟ้า...?)",
-      "localize_tw": "（這是… 配電盤…？）",
+      "localize_tw": "（這是…配電盤…？）",
       "localize_en": "(Is this...the switchboard...?)"
     },
     {
@@ -1401,7 +1401,7 @@
       "localize_kr": "어. 대충 상황은 알았어. 이쪽에서 뭔가 해볼게.",
       "localize_jp": "…ああ、大体分かった。",
       "localize_th": "อ่า ฉันเข้าใจสถานการณ์แล้วละ\nจะลองทำอะไรสักอย่าง\nจากทางนี้ก็แล้วกัน",
-      "localize_tw": "嗯，我大致了解了。我們這邊會嘗試著做些什麼的。",
+      "localize_tw": "嗯，大致了解了。我從這邊想想辦法。",
       "localize_en": "Yeah. I have a rough grasp of the situation. I'll try to do something about it from this side."
     },
     {
@@ -1414,7 +1414,7 @@
       "localize_kr": "…배전반? 오케이. 내가 찾아볼게.",
       "localize_jp": "換気扇？了解、探してみる。",
       "localize_th": "ตู้ไฟฟ้า? โอเค\nฉันจะลองหาดู",
-      "localize_tw": "…配電盤？了解，我找找看。",
+      "localize_tw": "…配電盤？好，我找找看。",
       "localize_en": "...Switchoard? Okay. I'll look for it."
     },
     {
@@ -1583,7 +1583,7 @@
       "localize_kr": "이번엔 네루가 위험해요!",
       "localize_jp": "……ネルの身が危険だ。",
       "localize_th": "เนรุกำลังตกอยู่ในอันตรายค่ะ!",
-      "localize_tw": "這次寧瑠危險了！",
+      "localize_tw": "這次換寧瑠有危險了！",
       "localize_en": "Neru is in danger this time!"
     },
     {
@@ -1622,7 +1622,7 @@
       "localize_kr": "(뭔가… 진로를 방해할 수 있는 게…!)",
       "localize_jp": "（何か進路を妨げられるものは…）",
       "localize_th": "(อะไรบางอย่าง...\nที่จะเอามาขวางทางได้...!)",
-      "localize_tw": "（有沒有什麼…能阻擋他前進路線的東西…！)",
+      "localize_tw": "（有沒有什麼…能阻擋它前進路線的東西…！)",
       "localize_en": "(Something...to get in their way...!)"
     }
   ]
