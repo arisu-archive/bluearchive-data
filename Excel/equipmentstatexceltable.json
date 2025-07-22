@@ -657,6 +657,31 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 1009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        4,
+        12
+      ],
+      "min_stat": [
+        4900,
+        2000
+      ],
+      "max_stat": [
+        5000,
+        2000
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 2000,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -885,6 +910,34 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 2009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        4,
+        9,
+        36
+      ],
+      "min_stat": [
+        4700,
+        450,
+        220
+      ],
+      "max_stat": [
+        5000,
+        500,
+        220
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 3000,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -1097,6 +1150,31 @@
       "equipment_category": 0,
       "level_up_feed_add_exp": 0,
       "default_max_level": 65,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 3009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        4,
+        2
+      ],
+      "min_stat": [
+        4300,
+        1750
+      ],
+      "max_stat": [
+        4600,
+        2000
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
       "transcendence_max": 1,
       "damage_factor_group_id": ""
     },
@@ -1316,6 +1394,34 @@
       "equipment_category": 0,
       "level_up_feed_add_exp": 0,
       "default_max_level": 65,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 4009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        1,
+        5,
+        2
+      ],
+      "min_stat": [
+        12500,
+        1600,
+        500
+      ],
+      "max_stat": [
+        14000,
+        1700,
+        500
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
       "transcendence_max": 1,
       "damage_factor_group_id": ""
     },
@@ -1560,6 +1666,37 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 5009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        1,
+        23,
+        2,
+        38
+      ],
+      "min_stat": [
+        14500,
+        3500,
+        2500,
+        450
+      ],
+      "max_stat": [
+        16000,
+        3500,
+        2500,
+        450
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 6000,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -1775,6 +1912,34 @@
       "equipment_category": 0,
       "level_up_feed_add_exp": 0,
       "default_max_level": 65,
+      "transcendence_max": 1,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 6009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        1,
+        33,
+        9
+      ],
+      "min_stat": [
+        11500,
+        3500,
+        150
+      ],
+      "max_stat": [
+        13000,
+        3600,
+        150
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 10,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 70,
       "transcendence_max": 1,
       "damage_factor_group_id": ""
     },
@@ -2657,6 +2822,28 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 101009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 102001,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -2824,6 +3011,28 @@
       ],
       "level_up_insert_limit": 20,
       "level_up_feed_exp": 175,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 102009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
       "level_up_feed_cost_currency": 1,
       "level_up_feed_cost_amount": 50,
       "equipment_category": 0,
@@ -3009,6 +3218,28 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 103009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 104001,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -3176,6 +3407,28 @@
       ],
       "level_up_insert_limit": 20,
       "level_up_feed_exp": 175,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 104009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
       "level_up_feed_cost_currency": 1,
       "level_up_feed_cost_amount": 50,
       "equipment_category": 0,
@@ -3361,6 +3614,28 @@
       "damage_factor_group_id": ""
     },
     {
+      "equipment_id": 105009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
       "equipment_id": 106001,
       "stat_level_up_type": 0,
       "stat_type": [
@@ -3528,6 +3803,28 @@
       ],
       "level_up_insert_limit": 20,
       "level_up_feed_exp": 175,
+      "level_up_feed_cost_currency": 1,
+      "level_up_feed_cost_amount": 50,
+      "equipment_category": 0,
+      "level_up_feed_add_exp": 0,
+      "default_max_level": 1,
+      "transcendence_max": 5,
+      "damage_factor_group_id": ""
+    },
+    {
+      "equipment_id": 106009,
+      "stat_level_up_type": 0,
+      "stat_type": [
+        3
+      ],
+      "min_stat": [
+        1
+      ],
+      "max_stat": [
+        1
+      ],
+      "level_up_insert_limit": 20,
+      "level_up_feed_exp": 200,
       "level_up_feed_cost_currency": 1,
       "level_up_feed_cost_amount": 50,
       "equipment_category": 0,
