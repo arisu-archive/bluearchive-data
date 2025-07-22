@@ -2107,6 +2107,57 @@
       "swith_id": 0,
       "buff_id": 0,
       "disposable": true
+    },
+    {
+      "id": 1282101,
+      "key": 3417393760,
+      "name": "28-1 (H) 1회성 보상",
+      "prefab_name": "RewardObject_OneTime_01_Mesh",
+      "strategy_object_type": 6,
+      "strategy_reward_parcel_type": 2,
+      "strategy_reward_id": 3,
+      "strategy_reward_name": "GEM_BONUS",
+      "strategy_reward_amount": 50,
+      "strategy_sight_range": 0,
+      "portal_id": 0,
+      "heal_value": 0,
+      "swith_id": 0,
+      "buff_id": 0,
+      "disposable": true
+    },
+    {
+      "id": 1282102,
+      "key": 3417393760,
+      "name": "28-2 (H) 1회성 보상",
+      "prefab_name": "RewardObject_OneTime_01_Mesh",
+      "strategy_object_type": 6,
+      "strategy_reward_parcel_type": 2,
+      "strategy_reward_id": 3,
+      "strategy_reward_name": "GEM_BONUS",
+      "strategy_reward_amount": 50,
+      "strategy_sight_range": 0,
+      "portal_id": 0,
+      "heal_value": 0,
+      "swith_id": 0,
+      "buff_id": 0,
+      "disposable": true
+    },
+    {
+      "id": 1282103,
+      "key": 3417393760,
+      "name": "28-3 (H) 1회성 보상",
+      "prefab_name": "RewardObject_OneTime_01_Mesh",
+      "strategy_object_type": 6,
+      "strategy_reward_parcel_type": 2,
+      "strategy_reward_id": 3,
+      "strategy_reward_name": "GEM_BONUS",
+      "strategy_reward_amount": 50,
+      "strategy_sight_range": 0,
+      "portal_id": 0,
+      "heal_value": 0,
+      "swith_id": 0,
+      "buff_id": 0,
+      "disposable": true
     }
   ]
 }
