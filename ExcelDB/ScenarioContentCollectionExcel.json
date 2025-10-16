@@ -88,22 +88,24 @@
     {
       "id": 10005,
       "group_id": 1,
-      "unlock_condition_type": 0,
-      "unlock_condition_parameter": [],
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90001280
+      ],
       "multiple_condition_check_type": 1,
       "unlock_condition_count": 1,
       "is_object": true,
       "is_horizon": false,
       "emblem_resource": "Special_Operation_Icon_Sephira_06",
-      "thumb_resource": "",
-      "full_resource": "",
-      "localize_etc_id": 0,
-      "sub_name_localize_code_id": ""
+      "thumb_resource": "UIs/01_Common/36_SpecialOperation/Portrait/Portrait_Sephira_06",
+      "full_resource": "UIs/02_Tactics/06_Raid/Boss_Portrait_Tiphareth_Lobby",
+      "localize_etc_id": 2166637992,
+      "sub_name_localize_code_id": "UI_SpecialOperation_Collection_Sephira_SubName_Tiphareth"
     },
     {
       "id": 10006,
       "group_id": 1,
-      "unlock_condition_type": 0,
+      "unlock_condition_type": 10,
       "unlock_condition_parameter": [],
       "multiple_condition_check_type": 1,
       "unlock_condition_count": 1,
@@ -135,7 +137,7 @@
     {
       "id": 10008,
       "group_id": 1,
-      "unlock_condition_type": 0,
+      "unlock_condition_type": 10,
       "unlock_condition_parameter": [],
       "multiple_condition_check_type": 1,
       "unlock_condition_count": 1,
@@ -150,7 +152,7 @@
     {
       "id": 10009,
       "group_id": 1,
-      "unlock_condition_type": 0,
+      "unlock_condition_type": 10,
       "unlock_condition_parameter": [],
       "multiple_condition_check_type": 1,
       "unlock_condition_count": 1,

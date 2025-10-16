@@ -80,6 +80,17 @@
     {
       "id": 8,
       "detail_show_stats": [
+        81,
+        82
+      ],
+      "is_stats_percent": [
+        true,
+        false
+      ]
+    },
+    {
+      "id": 9,
+      "detail_show_stats": [
         27,
         28
       ],
@@ -89,12 +100,11 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "detail_show_stats": [
         29
       ],
       "is_stats_percent": [
-        false,
         false
       ]
     }

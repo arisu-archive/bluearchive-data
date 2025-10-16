@@ -350,6 +350,33 @@
       "reward_parcel_probability": 4000,
       "is_displayed": true,
       "drop_item_model_prefab_path": "Effect/Common/FX_Common_DropItem_Blue"
+    },
+    {
+      "group_id": 2502086614,
+      "reward_parcel_type": 2,
+      "reward_parcel_id": 1,
+      "reward_parcel_amount": 50090,
+      "reward_parcel_probability": 1000,
+      "is_displayed": true,
+      "drop_item_model_prefab_path": "Effect/Common/FX_Common_DropItem_Yellow"
+    },
+    {
+      "group_id": 2502086614,
+      "reward_parcel_type": 2,
+      "reward_parcel_id": 1,
+      "reward_parcel_amount": 33760,
+      "reward_parcel_probability": 5000,
+      "is_displayed": true,
+      "drop_item_model_prefab_path": "Effect/Common/FX_Common_DropItem_Purple"
+    },
+    {
+      "group_id": 2502086614,
+      "reward_parcel_type": 2,
+      "reward_parcel_id": 1,
+      "reward_parcel_amount": 25180,
+      "reward_parcel_probability": 4000,
+      "is_displayed": true,
+      "drop_item_model_prefab_path": "Effect/Common/FX_Common_DropItem_Blue"
     }
   ]
 }
