@@ -833,6 +833,19 @@
       "use_rail_point_compensation": true
     },
     {
+      "unique_id": 65,
+      "min_distance": 35,
+      "max_distance": 35,
+      "rotation_x": 25.25313,
+      "rotation_y": -62.66855,
+      "move_instantly": false,
+      "move_instantly_rotation_save": false,
+      "left_margin": 0.07,
+      "bottom_margin": 0.05,
+      "ignore_enemies": false,
+      "use_rail_point_compensation": false
+    },
+    {
       "unique_id": 101,
       "min_distance": 42,
       "max_distance": 42,
@@ -984,6 +997,45 @@
       "move_instantly": true,
       "move_instantly_rotation_save": true,
       "left_margin": 0.07,
+      "bottom_margin": 0.05,
+      "ignore_enemies": true,
+      "use_rail_point_compensation": true
+    },
+    {
+      "unique_id": 113,
+      "min_distance": 30,
+      "max_distance": 60,
+      "rotation_x": 25.25313,
+      "rotation_y": -62.66855,
+      "move_instantly": false,
+      "move_instantly_rotation_save": true,
+      "left_margin": 0.1,
+      "bottom_margin": 0.05,
+      "ignore_enemies": false,
+      "use_rail_point_compensation": true
+    },
+    {
+      "unique_id": 114,
+      "min_distance": 30,
+      "max_distance": 60,
+      "rotation_x": 25.25313,
+      "rotation_y": -62.66855,
+      "move_instantly": true,
+      "move_instantly_rotation_save": true,
+      "left_margin": 0.1,
+      "bottom_margin": 0.05,
+      "ignore_enemies": true,
+      "use_rail_point_compensation": true
+    },
+    {
+      "unique_id": 115,
+      "min_distance": 30,
+      "max_distance": 60,
+      "rotation_x": 25.25313,
+      "rotation_y": -62.66855,
+      "move_instantly": false,
+      "move_instantly_rotation_save": true,
+      "left_margin": 0.1,
       "bottom_margin": 0.05,
       "ignore_enemies": true,
       "use_rail_point_compensation": true

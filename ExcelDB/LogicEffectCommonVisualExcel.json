@@ -1,0 +1,3594 @@
+{
+  "data_list": [
+    {
+      "string_id": 3659979920,
+      "icon_sprite_name": "Combat_Icon_Buff_ATK",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2901313264,
+      "icon_sprite_name": "Combat_Icon_Buff_DEF",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1879638,
+      "icon_sprite_name": "Combat_Icon_Buff_HIT",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1063124417,
+      "icon_sprite_name": "Combat_Icon_Buff_Dodge",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2918162076,
+      "icon_sprite_name": "Combat_Icon_Buff_CriticalChance",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3729856231,
+      "icon_sprite_name": "Combat_Icon_Buff_CriticalDamage",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 893752000,
+      "icon_sprite_name": "Combat_Icon_Buff_View",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2878943974,
+      "icon_sprite_name": "Combat_Icon_Buff_MoveSpeed",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 219420186,
+      "icon_sprite_name": "Combat_Icon_Buff_Range",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2240433966,
+      "icon_sprite_name": "Combat_Icon_Buff_AttackSpeed",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2744704006,
+      "icon_sprite_name": "Combat_Icon_Buff_MAXHP",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2730804290,
+      "icon_sprite_name": "Combat_Icon_Buff_AmmoCount",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2017606013,
+      "icon_sprite_name": "Combat_Icon_Buff_HealEffectiveness",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1654039521,
+      "icon_sprite_name": "Combat_Icon_Buff_HealPower",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1120194450,
+      "icon_sprite_name": "Combat_Icon_Buff_CriticalChanceResistPoint",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2614070894,
+      "icon_sprite_name": "Combat_Icon_Buff_DamagedRatio",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 466971287,
+      "icon_sprite_name": "Combat_Icon_Buff_DamageRatio",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 492466405,
+      "icon_sprite_name": "Combat_Icon_Buff_DamageRatio",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2222104281,
+      "icon_sprite_name": "Combat_Icon_Buff_DamagedRatio",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1945596997,
+      "icon_sprite_name": "Combat_Icon_Buff_OppressionPower",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 984747699,
+      "icon_sprite_name": "Combat_Icon_Buff_OppressionResist",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2226940592,
+      "icon_sprite_name": "Combat_Icon_Buff_BulletTypeDamage",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2098196733,
+      "icon_sprite_name": "Combat_Icon_Special_SkillBulletTypeChange",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3236345739,
+      "icon_sprite_name": "Combat_Icon_Buff_BlockRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2464144566,
+      "icon_sprite_name": "Combat_Icon_Buff_CostRegen",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3404149854,
+      "icon_sprite_name": "Combat_Icon_Buff_Stability",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3335491848,
+      "icon_sprite_name": "Combat_Icon_Buff_Penetration",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2402212689,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceExplosionRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1197635562,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhancePierceRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 432324717,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceMysticRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1385659425,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceSonicRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1542221352,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceLightArmorRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1836667183,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceHeavyArmorRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2498062119,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceUnarmedRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2009714009,
+      "icon_sprite_name": "Combat_Icon_Buff_ExtendBuffDuration",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2398824037,
+      "icon_sprite_name": "Combat_Icon_Buff_ExtendDebuffDuration",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1629380771,
+      "icon_sprite_name": "Combat_Icon_Buff_ExtendCrowdControlDuration",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3006478383,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhanceExDamageRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 801292375,
+      "icon_sprite_name": "Combat_Icon_Buff_ReduceExDamagedRate",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3975398267,
+      "icon_sprite_name": "Combat_Icon_Debuff_ATK",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2908221647,
+      "icon_sprite_name": "Combat_Icon_Debuff_DEF",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3626979433,
+      "icon_sprite_name": "Combat_Icon_Debuff_HIT",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2329998669,
+      "icon_sprite_name": "Combat_Icon_Debuff_Dodge",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2690784199,
+      "icon_sprite_name": "Combat_Icon_Debuff_CriticalChance",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3368561749,
+      "icon_sprite_name": "Combat_Icon_Debuff_CriticalDamage",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2795767498,
+      "icon_sprite_name": "Combat_Icon_Debuff_View",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2914769656,
+      "icon_sprite_name": "Combat_Icon_Debuff_MoveSpeed",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2527665448,
+      "icon_sprite_name": "Combat_Icon_Debuff_Mind",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3097404873,
+      "icon_sprite_name": "Combat_Icon_Debuff_Range",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3553727518,
+      "icon_sprite_name": "Combat_Icon_Debuff_AttackSpeed",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2504974704,
+      "icon_sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3632978795,
+      "icon_sprite_name": "Combat_Icon_Debuff_AmmoCount",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 703601786,
+      "icon_sprite_name": "Combat_Icon_Debuff_HealEffectiveness",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 842791874,
+      "icon_sprite_name": "Combat_Icon_Debuff_HealPower",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1433939538,
+      "icon_sprite_name": "Combat_Icon_Debuff_CriticalChanceResistPoint",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 500357266,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamagedRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2156571916,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamageRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 190965654,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamageRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2406964730,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamagedRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3612220451,
+      "icon_sprite_name": "Combat_Icon_Debuff_OppressionPower",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3340931356,
+      "icon_sprite_name": "Combat_Icon_Debuff_OppressionResist",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 450845847,
+      "icon_sprite_name": "Combat_Icon_Debuff_BulletTypeDamage",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2074384028,
+      "icon_sprite_name": "Combat_Icon_Debuff_CostRegen",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3881165515,
+      "icon_sprite_name": "Combat_Icon_Debuff_Stability",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2311074612,
+      "icon_sprite_name": "Combat_Icon_Debuff_Penetration",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1681981958,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhanceExplosionRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3173925164,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhancePierceRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 508514549,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhanceMysticRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2411165953,
+      "icon_sprite_name": "Combat_Icon_Debuff_EnhanceSonicRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4158764653,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhanceLightArmorRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3855236231,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhanceHeavyArmorRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1653310702,
+      "icon_sprite_name": "Combat_Icon_DeBuff_EnhanceUnarmedRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3954315639,
+      "icon_sprite_name": "Combat_Icon_Debuff_EnhanceExDamageRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3898593874,
+      "icon_sprite_name": "Combat_Icon_Debuff_ReduceExDamagedRate",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2439885638,
+      "icon_sprite_name": "Combat_Icon_Special_Fury",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3802407019,
+      "icon_sprite_name": "Combat_Icon_Debuff_ConcentratedTarget",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2075725760,
+      "icon_sprite_name": "Combat_Icon_Buff_ConcentratedTarget",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_ConcentratedTarget_Apply_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3486816427,
+      "icon_sprite_name": "Combat_Icon_Special_Immortal",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3152018902,
+      "icon_sprite_name": "Combat_Icon_Special_ImmuneDamage",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Immune_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Immune_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2598604334,
+      "icon_sprite_name": "Combat_Icon_Debuff_Poison",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
+      "particle_apply_socket": 2,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3501082059,
+      "icon_sprite_name": "Combat_Icon_Debuff_Bleed",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_Poison_Apply_Variant",
+      "particle_apply_socket": 2,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 576268658,
+      "icon_sprite_name": "Combat_Icon_Debuff_Burn",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Burnning_Variant",
+      "particle_apply_socket": 2,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2614330369,
+      "icon_sprite_name": "Combat_Icon_Debuff_Chill",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Chill_Variant",
+      "particle_apply_socket": 3,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1531222510,
+      "icon_sprite_name": "Combat_Icon_Debuff_ElectricShock",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_ElectricShock_Variant",
+      "particle_apply_socket": 3,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4023648526,
+      "icon_sprite_name": "Combat_Icon_Debuff_Cheerleading",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/FX_CH0181_Burnning_Variant",
+      "particle_apply_socket": 3,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1747413669,
+      "icon_sprite_name": "Combat_Icon_Debuff_Dot",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1081101121,
+      "icon_sprite_name": "Combat_Icon_Buff_DotHeal",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_DotHeal_Variant",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1176542071,
+      "icon_sprite_name": "Combat_Icon_CC_Stunned",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common/FX_Common_Effect_Stun",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2841571640,
+      "icon_sprite_name": "Combat_Icon_CC_Inoperative",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1886856702,
+      "icon_sprite_name": "Combat_Icon_CC_MindControl",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2305213079,
+      "icon_sprite_name": "Combat_Icon_CC_Confusion",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Confusion_Start_Variant",
+      "particle_enter_socket": 2,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Confusion_Ing_Variant",
+      "particle_loop_socket": 2,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2592645500,
+      "icon_sprite_name": "Combat_Icon_CC_Provoke",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Provoke_Start_Variant",
+      "particle_enter_socket": 2,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Provoke_Ing_Variant",
+      "particle_loop_socket": 2,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2849390100,
+      "icon_sprite_name": "Combat_Icon_CC_Silence",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 720513377,
+      "icon_sprite_name": "Combat_Icon_CC_Blind",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4102806804,
+      "icon_sprite_name": "Combat_Icon_CC_Charmed",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Charm_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Charm_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2018822638,
+      "icon_sprite_name": "Combat_Icon_CC_Fear",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Panic_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Panic_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 484744461,
+      "icon_sprite_name": "Combat_Icon_CC_Paralysis",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2543710472,
+      "icon_sprite_name": "Combat_Icon_CC_Purify",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Purify_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Purify_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1096377425,
+      "icon_sprite_name": "Combat_Icon_CC_Emp",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_EMP_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_EMP_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3727671672,
+      "icon_sprite_name": "Combat_Icon_Buff_Shield",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Shield_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Shield_Ing_Variant",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3913311100,
+      "icon_sprite_name": "",
+      "icon_dispel_color": [],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1417371326,
+      "icon_sprite_name": "",
+      "icon_dispel_color": [],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Heal_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2362021517,
+      "icon_sprite_name": "",
+      "icon_dispel_color": [],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_ReloadAmmo_Apply_Variant",
+      "particle_enter_socket": 3,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2522635607,
+      "icon_sprite_name": "Combat_Icon_Special_FormChange",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 110289588,
+      "icon_sprite_name": "Combat_Icon_Special_Misdeed",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1293438670,
+      "icon_sprite_name": "Combat_Icon_Special_LittleDevil",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1543393246,
+      "icon_sprite_name": "Combat_Icon_Special_EnergyBatteryEmpty",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3165523278,
+      "icon_sprite_name": "Combat_Icon_Special_EnergyBatteryHalf",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3176826282,
+      "icon_sprite_name": "Combat_Icon_Special_EnergyBatteryFull",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4246034849,
+      "icon_sprite_name": "Combat_Icon_Debuff_Hieronymus",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2698135020,
+      "icon_sprite_name": "Combat_Icon_Special_ImmuneDamage",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 924697133,
+      "icon_sprite_name": "Combat_Icon_Special_ImmuneCC",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3799219249,
+      "icon_sprite_name": "Combat_Icon_Buff_CriticalDamageRateResist",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3839318889,
+      "icon_sprite_name": "Combat_Icon_Debuff_CriticalDamageRateResist",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2056221508,
+      "icon_sprite_name": "Combat_Icon_Special_CostRegenBan",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1203487688,
+      "icon_sprite_name": "Combat_Icon_Special_Accumulation",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4273626343,
+      "icon_sprite_name": "Combat_Icon_Debuff_CostRegen",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2692789625,
+      "icon_sprite_name": "Combat_Icon_Debuff_CostRegen",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3347062940,
+      "icon_sprite_name": "Combat_Icon_Buff_CostChange",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2243944633,
+      "icon_sprite_name": "Combat_Icon_Debuff_CostChange",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1820008632,
+      "icon_sprite_name": "Combat_Icon_Buff_ExtraCostChange",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 388966326,
+      "icon_sprite_name": "Combat_Icon_Buff_CostOverload",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2017608780,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamageByHit_Damaged",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 143890364,
+      "icon_sprite_name": "Combat_Icon_Buff_HealByHit_Damaged",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_DotHeal_02_Variant",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3953182883,
+      "icon_sprite_name": "Combat_Icon_Special_SuddenDeath",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 107942001,
+      "icon_sprite_name": "Combat_Icon_Buff_DamagedLimit",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4177475698,
+      "icon_sprite_name": "Combat_Icon_Debuff_HealedLimit",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3748913782,
+      "icon_sprite_name": "Combat_Icon_Special_Stamp",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4163415064,
+      "icon_sprite_name": "",
+      "icon_dispel_color": [],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "Effect/Common/FX_Common_Effect_Stun",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4171795992,
+      "icon_sprite_name": "Combat_Icon_Special_Holiday",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2505637886,
+      "icon_sprite_name": "Combat_Icon_Buff_AidAttitude",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_DotHeal_Variant",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4060516079,
+      "icon_sprite_name": "Combat_Icon_Special_AllMiss",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1984301438,
+      "icon_sprite_name": "Combat_Icon_Special_Zest",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3597933452,
+      "icon_sprite_name": "Combat_Icon_Special_SilverBullet",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1764390228,
+      "icon_sprite_name": "Combat_Icon_Special_CH0187Mod",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 879124467,
+      "icon_sprite_name": "Combat_Icon_Special_Omamori",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1309985029,
+      "icon_sprite_name": "Combat_Icon_Special_Dado",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3331160154,
+      "icon_sprite_name": "Combat_Icon_Special_DebuffCountRed",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2218742589,
+      "icon_sprite_name": "Combat_Icon_Special_DebuffCountYellow",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 223578584,
+      "icon_sprite_name": "Combat_Icon_Special_DebuffCountGreen",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1714969618,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamagedRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3633952030,
+      "icon_sprite_name": "Combat_Icon_Special_OldBook",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 255612199,
+      "icon_sprite_name": "Combat_Icon_Special_CH0089_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 555460675,
+      "icon_sprite_name": "",
+      "icon_dispel_color": [],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Provoke_Start_Variant",
+      "particle_enter_socket": 2,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Provoke_Ing_Variant",
+      "particle_loop_socket": 2,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4029312677,
+      "icon_sprite_name": "Combat_Icon_Special_Pray",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1795818930,
+      "icon_sprite_name": "Combat_Icon_CC_Frozen",
+      "icon_dispel_color": [
+        0.686,
+        0.411,
+        0.964
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Frozen_Start_Variant",
+      "particle_enter_socket": 2,
+      "particle_loop_path": "Effect/Common_Variant/FX_Common_Effect_Frozen_Ing_Variant",
+      "particle_loop_socket": 2,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2365431611,
+      "icon_sprite_name": "Combat_Icon_Special_CH0224_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2697729134,
+      "icon_sprite_name": "Combat_Icon_Special_CH0225_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1688107602,
+      "icon_sprite_name": "Combat_Icon_Special_CH0233_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2626444233,
+      "icon_sprite_name": "Combat_Icon_Special_CH0231_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 389596686,
+      "icon_sprite_name": "Combat_Icon_Special_ImmuneCC",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1174503121,
+      "icon_sprite_name": "Combat_Icon_Special_CH0239_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 486544782,
+      "icon_sprite_name": "Combat_Icon_Special_EN0008_Obelisk",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/FX_EN0008_obelisk_Passive_01_Start_Variant",
+      "particle_enter_socket": 1,
+      "particle_loop_path": "Effect/FX_EN0008_obelisk_Passive_01_Loop_Variant",
+      "particle_loop_socket": 1,
+      "particle_end_path": "Effect/FX_EN0008_obelisk_Passive_01_End_Variant",
+      "particle_end_socket": 1,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/FX_EN0008_obelisk_Passive_01_End_Variant",
+      "particle_removed_socket": 1
+    },
+    {
+      "string_id": 2996483653,
+      "icon_sprite_name": "Combat_Icon_Special_CH0220_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4110291909,
+      "icon_sprite_name": "Combat_Icon_Special_CH0220_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3407310089,
+      "icon_sprite_name": "Combat_Icon_Special_CH0258_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4120498863,
+      "icon_sprite_name": "Combat_Icon_Special_CH0258_01_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1479828511,
+      "icon_sprite_name": "Combat_Icon_Special_CH0263_ExtraPassive_01",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4055041496,
+      "icon_sprite_name": "Combat_Icon_Special_CH0263_ExtraPassive_02",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2994265691,
+      "icon_sprite_name": "Combat_Icon_Debuff_ChillDamagedIncrease",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1113525169,
+      "icon_sprite_name": "Combat_Icon_Debuff_PoisonDamagedIncrease",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 829463972,
+      "icon_sprite_name": "Combat_Icon_Debuff_BurnDamagedIncrease",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2139799346,
+      "icon_sprite_name": "Combat_Icon_Debuff_ElectricShockDamagedIncrease",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2473367365,
+      "icon_sprite_name": "Combat_Icon_Special_CH0271_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1558413239,
+      "icon_sprite_name": "Combat_Icon_Special_AmplifyDoTReducePeriod_Chill",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 148105998,
+      "icon_sprite_name": "Combat_Icon_Special_AmplifyDoTAdditionalTick_Poison",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Debuff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3005422857,
+      "icon_sprite_name": "Combat_Icon_Special_EN0009_Object_B_Energy",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "Effect/Common_Variant/FX_Common_Effect_Buff_Start_Variant",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "Effect/Common_Variant/FX_Common_Effect_Buff_End_Variant",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2898560826,
+      "icon_sprite_name": "Combat_Icon_Special_EN0009_UnstableFlame",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 476467461,
+      "icon_sprite_name": "Combat_Icon_Debuff_DamagedRatio",
+      "icon_dispel_color": [
+        0.247,
+        0.619,
+        0.93
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4208843343,
+      "icon_sprite_name": "Combat_Icon_Special_CH0273_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4067280937,
+      "icon_sprite_name": "Combat_Icon_Special_CH0275_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1912550387,
+      "icon_sprite_name": "Combat_Icon_Special_CH0285_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1820124411,
+      "icon_sprite_name": "Combat_Icon_Special_ExSkillCardRedrawStackDummy",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2145429086,
+      "icon_sprite_name": "Combat_Icon_Special_Mashiro_default_GearPublic",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 653738187,
+      "icon_sprite_name": "Combat_Icon_Special_CH0280_Ex_01",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1096852934,
+      "icon_sprite_name": "Combat_Icon_Special_CH0280_Ex_02",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2453659090,
+      "icon_sprite_name": "Combat_Icon_Special_CH0280_Ex_03",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2227296549,
+      "icon_sprite_name": "Combat_Icon_Special_ChangeSkillCardToCopiedCard",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2890320249,
+      "icon_sprite_name": "Combat_Icon_Special_CH0245_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2294886261,
+      "icon_sprite_name": "Combat_Icon_Special_CH0259_ExtraPassive_01",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 462249261,
+      "icon_sprite_name": "Combat_Icon_Special_CH0259_ExtraPassive_02",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3027590414,
+      "icon_sprite_name": "Combat_Icon_Special_CH0257_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 78865591,
+      "icon_sprite_name": "Combat_Icon_Special_CH0242_ExtraPassive_01",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 289267551,
+      "icon_sprite_name": "Combat_Icon_Special_CH0242_ExtraPassive_02",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 26177633,
+      "icon_sprite_name": "Combat_Icon_Special_CH0242_ExtraPassive_03",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1092375960,
+      "icon_sprite_name": "Combat_Icon_Special_CH0221_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 28331125,
+      "icon_sprite_name": "Combat_Icon_Special_CH0301_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2812918118,
+      "icon_sprite_name": "Combat_Icon_Special_CH0302_Public",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2663678634,
+      "icon_sprite_name": "Combat_Icon_Special_CH0294_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 378279204,
+      "icon_sprite_name": "Combat_Icon_Special_CH0291_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    }
+  ]
+}

@@ -512,6 +512,20 @@
       "mail": false
     },
     {
+      "protocol": "Campaign_EnterMainStageStrategySkip",
+      "open_condition_content": 28,
+      "currency": false,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "Campaign_MainStageStrategySkipResult",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Mail_List",
       "open_condition_content": 21,
       "currency": false,
@@ -699,6 +713,13 @@
       "currency": false,
       "inventory": false,
       "mail": false
+    },
+    {
+      "protocol": "Shop_PickupSelectionGachaBuy",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
     },
     {
       "protocol": "Recipe_Craft",
@@ -2941,20 +2962,6 @@
       "mail": false
     },
     {
-      "protocol": "Campaign_EnterMainStageStrategySkip",
-      "open_condition_content": 28,
-      "currency": false,
-      "inventory": true,
-      "mail": true
-    },
-    {
-      "protocol": "Campaign_MainStageStrategySkipResult",
-      "open_condition_content": 21,
-      "currency": false,
-      "inventory": false,
-      "mail": false
-    },
-    {
       "protocol": "MiniGame_DefenseGetInfo",
       "open_condition_content": 29,
       "currency": false,
@@ -2973,6 +2980,20 @@
       "open_condition_content": 29,
       "currency": false,
       "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_CCGLobby",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "BattlePass_ReceiveReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
       "mail": true
     }
   ]

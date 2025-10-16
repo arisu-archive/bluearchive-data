@@ -93,9 +93,17 @@
       "echelon_extension_engage_with_supporter_timeline_path": "Timeline/Timeline_Battleready_Engage_Extension_V2",
       "echelon_extension_victory_timeline_path": "Timeline/Timeline_Victory_Extension",
       "echelon_extension_echelon_max_common_cost": 20,
+      "echelon_max_overload_cost": 5,
+      "echelon_extension_max_overload_cost": 5,
       "echelon_extension_echelon_init_common_cost": 0,
       "echelon_extension_cost_regen_ratio": 10000,
-      "check_cheater_max_use_cost_multi_floor_raid": 0
+      "echelon_overload_cost_regen_ratio": 10000,
+      "echelon_extension_overload_cost_regen_ratio": 10000,
+      "check_cheater_max_use_cost_multi_floor_raid": 0,
+      "excessive_touch_check_time": -30000,
+      "excessive_touch_check_count": 20,
+      "campaign_alert_popup_level_gap": 15,
+      "move_correction_skip_ratio": 1500
     }
   ]
 }

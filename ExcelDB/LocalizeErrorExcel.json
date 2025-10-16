@@ -2788,7 +2788,7 @@
       "jp": "カフェのマイセットに登録されている家具が含まれているため、素材として投入することができませんでした。",
       "th": "มีเฟอร์นิเจอร์ที่ถูกตั้งในพรีเซ็ตคาเฟ่รวมอยู่ด้วย ไม่สามารถใช้เป็นวัตถุดิบในการสร้างได้",
       "tw": "包含咖啡廳預設登錄的家具，無法當作製造原料使用。",
-      "en": "Furniture registered in the cafe layout is included, so it cannot be used as crafting material."
+      "en": "Furniture registered in a cafe preset is included, so it cannot be used as crafting material."
     },
     {
       "key": 658573648,
@@ -3130,7 +3130,7 @@
       "jp": "★3生徒招集チケットがありません。\nチケットを購入したあと、生徒を招集することができます。",
       "th": "ไม่มีตั๋วเลือกนักเรียน ★3\nกรุณาซื้อตั๋วเลือกและเลือกนักเรียน",
       "tw": "無★3學生選擇券。\n購買選擇券後即可選擇學生。",
-      "en": "There's no 3★ student Choice Ticket.\nPurchase a Choice Ticket to select a student."
+      "en": "There's no 3★ Student Choice Ticket.\nPurchase a Choice Ticket to select a student."
     },
     {
       "key": 1703914045,
@@ -3707,6 +3707,15 @@
       "th": "เกมจะปิดตัวลงเนื่องจากต้องอัปเดตตัวเกม",
       "tw": "需要更新，即將結束遊戲。",
       "en": "A new update is available! Closing game..."
+    },
+    {
+      "key": 1146450388,
+      "error_level": 1,
+      "kr": "배틀패스가 종료되었습니다.",
+      "jp": "バトルパスは終了いたしました。",
+      "th": "แบตเทิลพาสสิ้นสุดแล้ว",
+      "tw": "戰鬥通行證已結束。",
+      "en": "The Battle Pass has ended."
     }
   ]
 }
