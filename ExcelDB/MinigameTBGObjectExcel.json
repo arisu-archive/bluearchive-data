@@ -1,3 +1,235 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "unique_id": 82800,
+      "key": "828_Start_01",
+      "prefab_name": "MG_TBG_Object_Start_01",
+      "object_type": 6,
+      "object_cost_type": 0,
+      "object_cost_id": 0,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 82810,
+      "key": "828_EnemyBoss_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Boss_01",
+      "object_type": 1,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 82820,
+      "key": "828_EnemyMinion_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Minion_01",
+      "object_type": 2,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 82830,
+      "key": "828_Random_01",
+      "prefab_name": "MG_TBG_Object_Random_01",
+      "object_type": 3,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 82840,
+      "key": "828_Facility_01",
+      "prefab_name": "MG_TBG_Object_Facility_01",
+      "object_type": 4,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 82850,
+      "key": "828_TreasureBox_01",
+      "prefab_name": "MG_TBG_Object_TreasureBox_Lock_01",
+      "object_type": 5,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 250,
+      "disposable": false,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 82860,
+      "key": "828_Portal_01",
+      "prefab_name": "MG_TBG_Object_Portal_01",
+      "object_type": 7,
+      "object_cost_type": 4,
+      "object_cost_id": 80290,
+      "object_cost_amount": 0,
+      "disposable": false,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082800,
+      "key": "828_Start_01",
+      "prefab_name": "MG_TBG_Object_Start_01",
+      "object_type": 6,
+      "object_cost_type": 0,
+      "object_cost_id": 0,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082801,
+      "key": "828_Start_01",
+      "prefab_name": "MG_TBG_Object_Start_01",
+      "object_type": 6,
+      "object_cost_type": 0,
+      "object_cost_id": 0,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082810,
+      "key": "828_EnemyBoss_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Boss_01",
+      "object_type": 1,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 1082811,
+      "key": "828_EnemyBoss_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Boss_01",
+      "object_type": 1,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 1082820,
+      "key": "828_EnemyMinion_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Minion_01",
+      "object_type": 2,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 1082821,
+      "key": "828_EnemyMinion_01",
+      "prefab_name": "MG_TBG_Object_Enemy_Minion_01",
+      "object_type": 2,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": true
+    },
+    {
+      "unique_id": 1082830,
+      "key": "828_Random_01",
+      "prefab_name": "MG_TBG_Object_Random_01",
+      "object_type": 3,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082831,
+      "key": "828_Random_01",
+      "prefab_name": "MG_TBG_Object_Random_01",
+      "object_type": 3,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082840,
+      "key": "828_Facility_01",
+      "prefab_name": "MG_TBG_Object_Facility_01",
+      "object_type": 4,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 250,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082841,
+      "key": "828_Facility_01",
+      "prefab_name": "MG_TBG_Object_Facility_01",
+      "object_type": 4,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": true,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082850,
+      "key": "828_TreasureBox_01",
+      "prefab_name": "MG_TBG_Object_TreasureBox_Lock_01",
+      "object_type": 5,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 250,
+      "disposable": false,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082851,
+      "key": "828_TreasureBox_01",
+      "prefab_name": "MG_TBG_Object_TreasureBox_Lock_01",
+      "object_type": 5,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": false,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082860,
+      "key": "828_Portal_01",
+      "prefab_name": "MG_TBG_Object_Portal_01",
+      "object_type": 7,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": false,
+      "re_encounter_cost": false
+    },
+    {
+      "unique_id": 1082861,
+      "key": "828_Portal_01",
+      "prefab_name": "MG_TBG_Object_Portal_01",
+      "object_type": 7,
+      "object_cost_type": 4,
+      "object_cost_id": 85250,
+      "object_cost_amount": 0,
+      "disposable": false,
+      "re_encounter_cost": false
+    }
+  ]
 }

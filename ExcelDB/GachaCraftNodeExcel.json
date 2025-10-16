@@ -1,3 +1,1291 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "id": 0,
+      "tier": 0,
+      "quick_craft_node_display_order": 0,
+      "node_quality": 0,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Base",
+      "localize_key": 820726128,
+      "property": 0
+    },
+    {
+      "id": 1,
+      "tier": 1,
+      "quick_craft_node_display_order": 1,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 3248104371,
+      "property": 283000
+    },
+    {
+      "id": 2,
+      "tier": 1,
+      "quick_craft_node_display_order": 2,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 2025836442,
+      "property": 292500
+    },
+    {
+      "id": 3,
+      "tier": 1,
+      "quick_craft_node_display_order": 3,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1573102664,
+      "property": 482000
+    },
+    {
+      "id": 4,
+      "tier": 1,
+      "quick_craft_node_display_order": 4,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1463859718,
+      "property": 54500
+    },
+    {
+      "id": 5,
+      "tier": 1,
+      "quick_craft_node_display_order": 5,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2711005761,
+      "property": 697000
+    },
+    {
+      "id": 6,
+      "tier": 1,
+      "quick_craft_node_display_order": 6,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 4115722050,
+      "property": 295500
+    },
+    {
+      "id": 7,
+      "tier": 1,
+      "quick_craft_node_display_order": 7,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 103320403,
+      "property": 215500
+    },
+    {
+      "id": 8,
+      "tier": 1,
+      "quick_craft_node_display_order": 8,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2947791233,
+      "property": 162000
+    },
+    {
+      "id": 9,
+      "tier": 1,
+      "quick_craft_node_display_order": 9,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1208342950,
+      "property": 12000
+    },
+    {
+      "id": 127,
+      "tier": 1,
+      "quick_craft_node_display_order": 10,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2190313015,
+      "property": 12000
+    },
+    {
+      "id": 10,
+      "tier": 1,
+      "quick_craft_node_display_order": 11,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2488282958,
+      "property": 300000
+    },
+    {
+      "id": 11,
+      "tier": 1,
+      "quick_craft_node_display_order": 12,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3315258850,
+      "property": 115000
+    },
+    {
+      "id": 12,
+      "tier": 1,
+      "quick_craft_node_display_order": 13,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2320490131,
+      "property": 5227
+    },
+    {
+      "id": 13,
+      "tier": 1,
+      "quick_craft_node_display_order": 14,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 910163805,
+      "property": 5227
+    },
+    {
+      "id": 14,
+      "tier": 1,
+      "quick_craft_node_display_order": 15,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1720914481,
+      "property": 5227
+    },
+    {
+      "id": 117,
+      "tier": 1,
+      "quick_craft_node_display_order": 16,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3233329697,
+      "property": 5227
+    },
+    {
+      "id": 133,
+      "tier": 1,
+      "quick_craft_node_display_order": 17,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 707490797,
+      "property": 5227
+    },
+    {
+      "id": 136,
+      "tier": 1,
+      "quick_craft_node_display_order": 18,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1882974162,
+      "property": 5227
+    },
+    {
+      "id": 139,
+      "tier": 1,
+      "quick_craft_node_display_order": 19,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2972226785,
+      "property": 5227
+    },
+    {
+      "id": 142,
+      "tier": 1,
+      "quick_craft_node_display_order": 20,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2172125438,
+      "property": 5227
+    },
+    {
+      "id": 149,
+      "tier": 1,
+      "quick_craft_node_display_order": 21,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 4111910421,
+      "property": 5227
+    },
+    {
+      "id": 152,
+      "tier": 1,
+      "quick_craft_node_display_order": 22,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3012362625,
+      "property": 5227
+    },
+    {
+      "id": 154,
+      "tier": 1,
+      "quick_craft_node_display_order": 23,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2579008865,
+      "property": 5227
+    },
+    {
+      "id": 156,
+      "tier": 1,
+      "quick_craft_node_display_order": 24,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2535745613,
+      "property": 5227
+    },
+    {
+      "id": 158,
+      "tier": 1,
+      "quick_craft_node_display_order": 25,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2129875350,
+      "property": 5227
+    },
+    {
+      "id": 160,
+      "tier": 1,
+      "quick_craft_node_display_order": 26,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2430611338,
+      "property": 5227
+    },
+    {
+      "id": 162,
+      "tier": 1,
+      "quick_craft_node_display_order": 27,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3613148116,
+      "property": 5227
+    },
+    {
+      "id": 164,
+      "tier": 1,
+      "quick_craft_node_display_order": 28,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 865573635,
+      "property": 5227
+    },
+    {
+      "id": 166,
+      "tier": 1,
+      "quick_craft_node_display_order": 29,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3514350287,
+      "property": 5227
+    },
+    {
+      "id": 168,
+      "tier": 1,
+      "quick_craft_node_display_order": 30,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 781511214,
+      "property": 5227
+    },
+    {
+      "id": 170,
+      "tier": 1,
+      "quick_craft_node_display_order": 31,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1972155099,
+      "property": 5227
+    },
+    {
+      "id": 172,
+      "tier": 1,
+      "quick_craft_node_display_order": 32,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2369869301,
+      "property": 5227
+    },
+    {
+      "id": 175,
+      "tier": 1,
+      "quick_craft_node_display_order": 33,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 299130838,
+      "property": 5227
+    },
+    {
+      "id": 178,
+      "tier": 1,
+      "quick_craft_node_display_order": 34,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2957072884,
+      "property": 5227
+    },
+    {
+      "id": 15,
+      "tier": 1,
+      "quick_craft_node_display_order": 35,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1463859718,
+      "property": 0
+    },
+    {
+      "id": 16,
+      "tier": 1,
+      "quick_craft_node_display_order": 36,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2711005761,
+      "property": 0
+    },
+    {
+      "id": 17,
+      "tier": 1,
+      "quick_craft_node_display_order": 37,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 4115722050,
+      "property": 0
+    },
+    {
+      "id": 18,
+      "tier": 1,
+      "quick_craft_node_display_order": 38,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 103320403,
+      "property": 0
+    },
+    {
+      "id": 19,
+      "tier": 1,
+      "quick_craft_node_display_order": 39,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2947791233,
+      "property": 0
+    },
+    {
+      "id": 20,
+      "tier": 1,
+      "quick_craft_node_display_order": 40,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1208342950,
+      "property": 0
+    },
+    {
+      "id": 21,
+      "tier": 1,
+      "quick_craft_node_display_order": 41,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3315258850,
+      "property": 0
+    },
+    {
+      "id": 128,
+      "tier": 1,
+      "quick_craft_node_display_order": 42,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2190313015,
+      "property": 0
+    },
+    {
+      "id": 22,
+      "tier": 2,
+      "quick_craft_node_display_order": 43,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 2025836442,
+      "property": 968000
+    },
+    {
+      "id": 23,
+      "tier": 2,
+      "quick_craft_node_display_order": 44,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1573102664,
+      "property": 916900
+    },
+    {
+      "id": 24,
+      "tier": 2,
+      "quick_craft_node_display_order": 45,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1463859718,
+      "property": 130400
+    },
+    {
+      "id": 25,
+      "tier": 2,
+      "quick_craft_node_display_order": 46,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2711005761,
+      "property": 925300
+    },
+    {
+      "id": 26,
+      "tier": 2,
+      "quick_craft_node_display_order": 47,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 4115722050,
+      "property": 398400
+    },
+    {
+      "id": 27,
+      "tier": 2,
+      "quick_craft_node_display_order": 48,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 103320403,
+      "property": 265400
+    },
+    {
+      "id": 28,
+      "tier": 2,
+      "quick_craft_node_display_order": 49,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2947791233,
+      "property": 230700
+    },
+    {
+      "id": 29,
+      "tier": 2,
+      "quick_craft_node_display_order": 50,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1208342950,
+      "property": 15400
+    },
+    {
+      "id": 129,
+      "tier": 2,
+      "quick_craft_node_display_order": 51,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2190313015,
+      "property": 15400
+    },
+    {
+      "id": 30,
+      "tier": 2,
+      "quick_craft_node_display_order": 52,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2488282958,
+      "property": 400000
+    },
+    {
+      "id": 31,
+      "tier": 2,
+      "quick_craft_node_display_order": 53,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3315258850,
+      "property": 690000
+    },
+    {
+      "id": 32,
+      "tier": 2,
+      "quick_craft_node_display_order": 54,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2320490131,
+      "property": 31364
+    },
+    {
+      "id": 33,
+      "tier": 2,
+      "quick_craft_node_display_order": 55,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 910163805,
+      "property": 31364
+    },
+    {
+      "id": 34,
+      "tier": 2,
+      "quick_craft_node_display_order": 56,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1720914481,
+      "property": 31364
+    },
+    {
+      "id": 119,
+      "tier": 2,
+      "quick_craft_node_display_order": 57,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3233329697,
+      "property": 31364
+    },
+    {
+      "id": 134,
+      "tier": 2,
+      "quick_craft_node_display_order": 58,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 707490797,
+      "property": 31364
+    },
+    {
+      "id": 137,
+      "tier": 2,
+      "quick_craft_node_display_order": 59,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1882974162,
+      "property": 31364
+    },
+    {
+      "id": 140,
+      "tier": 2,
+      "quick_craft_node_display_order": 60,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2972226785,
+      "property": 31364
+    },
+    {
+      "id": 143,
+      "tier": 2,
+      "quick_craft_node_display_order": 61,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2172125438,
+      "property": 31364
+    },
+    {
+      "id": 150,
+      "tier": 2,
+      "quick_craft_node_display_order": 62,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 4111910421,
+      "property": 31364
+    },
+    {
+      "id": 153,
+      "tier": 2,
+      "quick_craft_node_display_order": 63,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3012362625,
+      "property": 31364
+    },
+    {
+      "id": 155,
+      "tier": 2,
+      "quick_craft_node_display_order": 64,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2579008865,
+      "property": 31364
+    },
+    {
+      "id": 157,
+      "tier": 2,
+      "quick_craft_node_display_order": 65,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2535745613,
+      "property": 31364
+    },
+    {
+      "id": 159,
+      "tier": 2,
+      "quick_craft_node_display_order": 66,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2129875350,
+      "property": 31364
+    },
+    {
+      "id": 161,
+      "tier": 2,
+      "quick_craft_node_display_order": 67,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2430611338,
+      "property": 31364
+    },
+    {
+      "id": 163,
+      "tier": 2,
+      "quick_craft_node_display_order": 68,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3613148116,
+      "property": 31364
+    },
+    {
+      "id": 165,
+      "tier": 2,
+      "quick_craft_node_display_order": 69,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 865573635,
+      "property": 31364
+    },
+    {
+      "id": 167,
+      "tier": 2,
+      "quick_craft_node_display_order": 70,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3514350287,
+      "property": 31364
+    },
+    {
+      "id": 169,
+      "tier": 2,
+      "quick_craft_node_display_order": 71,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 781511214,
+      "property": 31364
+    },
+    {
+      "id": 171,
+      "tier": 2,
+      "quick_craft_node_display_order": 72,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1972155099,
+      "property": 31364
+    },
+    {
+      "id": 173,
+      "tier": 2,
+      "quick_craft_node_display_order": 73,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2369869301,
+      "property": 31364
+    },
+    {
+      "id": 176,
+      "tier": 2,
+      "quick_craft_node_display_order": 74,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 299130838,
+      "property": 31364
+    },
+    {
+      "id": 179,
+      "tier": 2,
+      "quick_craft_node_display_order": 75,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2957072884,
+      "property": 31364
+    },
+    {
+      "id": 35,
+      "tier": 2,
+      "quick_craft_node_display_order": 76,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3480693690,
+      "property": 72588
+    },
+    {
+      "id": 36,
+      "tier": 2,
+      "quick_craft_node_display_order": 77,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1245702701,
+      "property": 36907
+    },
+    {
+      "id": 37,
+      "tier": 2,
+      "quick_craft_node_display_order": 78,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 1000918175,
+      "property": 13495
+    },
+    {
+      "id": 38,
+      "tier": 2,
+      "quick_craft_node_display_order": 79,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 68362163,
+      "property": 73201
+    },
+    {
+      "id": 39,
+      "tier": 2,
+      "quick_craft_node_display_order": 80,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3447278883,
+      "property": 19118
+    },
+    {
+      "id": 40,
+      "tier": 2,
+      "quick_craft_node_display_order": 81,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 682328681,
+      "property": 222468
+    },
+    {
+      "id": 41,
+      "tier": 2,
+      "quick_craft_node_display_order": 82,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 618713211,
+      "property": 85470
+    },
+    {
+      "id": 42,
+      "tier": 2,
+      "quick_craft_node_display_order": 83,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 168274584,
+      "property": 143336
+    },
+    {
+      "id": 43,
+      "tier": 2,
+      "quick_craft_node_display_order": 84,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2952151586,
+      "property": 9917
+    },
+    {
+      "id": 44,
+      "tier": 2,
+      "quick_craft_node_display_order": 85,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3976558267,
+      "property": 9712
+    },
+    {
+      "id": 145,
+      "tier": 2,
+      "quick_craft_node_display_order": 86,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2268377851,
+      "property": 3782
+    },
+    {
+      "id": 45,
+      "tier": 2,
+      "quick_craft_node_display_order": 87,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 980436836,
+      "property": 28571
+    },
+    {
+      "id": 46,
+      "tier": 2,
+      "quick_craft_node_display_order": 88,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 747429703,
+      "property": 28571
+    },
+    {
+      "id": 47,
+      "tier": 2,
+      "quick_craft_node_display_order": 89,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 687642476,
+      "property": 28571
+    },
+    {
+      "id": 48,
+      "tier": 2,
+      "quick_craft_node_display_order": 90,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 598317463,
+      "property": 28571
+    },
+    {
+      "id": 49,
+      "tier": 2,
+      "quick_craft_node_display_order": 91,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 3931425959,
+      "property": 28571
+    },
+    {
+      "id": 50,
+      "tier": 2,
+      "quick_craft_node_display_order": 92,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2301588437,
+      "property": 28571
+    },
+    {
+      "id": 51,
+      "tier": 2,
+      "quick_craft_node_display_order": 93,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 3904678758,
+      "property": 28571
+    },
+    {
+      "id": 52,
+      "tier": 2,
+      "quick_craft_node_display_order": 94,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 1486727254,
+      "property": 28571
+    },
+    {
+      "id": 112,
+      "tier": 2,
+      "quick_craft_node_display_order": 95,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 357079334,
+      "property": 28571
+    },
+    {
+      "id": 113,
+      "tier": 2,
+      "quick_craft_node_display_order": 96,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 3262821034,
+      "property": 28571
+    },
+    {
+      "id": 114,
+      "tier": 2,
+      "quick_craft_node_display_order": 97,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2788662365,
+      "property": 28571
+    },
+    {
+      "id": 115,
+      "tier": 2,
+      "quick_craft_node_display_order": 98,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 3948972387,
+      "property": 28571
+    },
+    {
+      "id": 116,
+      "tier": 2,
+      "quick_craft_node_display_order": 99,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2261766786,
+      "property": 28571
+    },
+    {
+      "id": 151,
+      "tier": 2,
+      "quick_craft_node_display_order": 100,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 2853680747,
+      "property": 28571
+    },
+    {
+      "id": 53,
+      "tier": 2,
+      "quick_craft_node_display_order": 101,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1493375985,
+      "property": 22373
+    },
+    {
+      "id": 110,
+      "tier": 2,
+      "quick_craft_node_display_order": 102,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 154975246,
+      "property": 22373
+    },
+    {
+      "id": 54,
+      "tier": 2,
+      "quick_craft_node_display_order": 103,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2693891212,
+      "property": 22373
+    },
+    {
+      "id": 55,
+      "tier": 2,
+      "quick_craft_node_display_order": 104,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2543888744,
+      "property": 22373
+    },
+    {
+      "id": 56,
+      "tier": 2,
+      "quick_craft_node_display_order": 105,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 4215938583,
+      "property": 22373
+    },
+    {
+      "id": 57,
+      "tier": 2,
+      "quick_craft_node_display_order": 106,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3440486104,
+      "property": 22373
+    },
+    {
+      "id": 58,
+      "tier": 2,
+      "quick_craft_node_display_order": 107,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2353907971,
+      "property": 22373
+    },
+    {
+      "id": 125,
+      "tier": 2,
+      "quick_craft_node_display_order": 108,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2809569277,
+      "property": 22373
+    },
+    {
+      "id": 147,
+      "tier": 2,
+      "quick_craft_node_display_order": 109,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3134605023,
+      "property": 22373
+    },
+    {
+      "id": 174,
+      "tier": 2,
+      "quick_craft_node_display_order": 110,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2040771908,
+      "property": 22373
+    },
+    {
+      "id": 177,
+      "tier": 2,
+      "quick_craft_node_display_order": 111,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1004823412,
+      "property": 22373
+    },
+    {
+      "id": 59,
+      "tier": 2,
+      "quick_craft_node_display_order": 112,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 1463859718,
+      "property": 0
+    },
+    {
+      "id": 60,
+      "tier": 2,
+      "quick_craft_node_display_order": 113,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2711005761,
+      "property": 0
+    },
+    {
+      "id": 61,
+      "tier": 2,
+      "quick_craft_node_display_order": 114,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 4115722050,
+      "property": 0
+    },
+    {
+      "id": 62,
+      "tier": 2,
+      "quick_craft_node_display_order": 115,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 103320403,
+      "property": 0
+    },
+    {
+      "id": 63,
+      "tier": 2,
+      "quick_craft_node_display_order": 116,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2947791233,
+      "property": 0
+    },
+    {
+      "id": 64,
+      "tier": 2,
+      "quick_craft_node_display_order": 117,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1208342950,
+      "property": 0
+    },
+    {
+      "id": 65,
+      "tier": 2,
+      "quick_craft_node_display_order": 118,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 3315258850,
+      "property": 0
+    },
+    {
+      "id": 130,
+      "tier": 2,
+      "quick_craft_node_display_order": 119,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2190313015,
+      "property": 0
+    },
+    {
+      "id": 3000,
+      "tier": 3,
+      "quick_craft_node_display_order": 120,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 3274758309,
+      "property": 1560000
+    },
+    {
+      "id": 3001,
+      "tier": 3,
+      "quick_craft_node_display_order": 121,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Rairty",
+      "localize_key": 323195948,
+      "property": 430000
+    },
+    {
+      "id": 3002,
+      "tier": 3,
+      "quick_craft_node_display_order": 122,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2675345777,
+      "property": 390000
+    },
+    {
+      "id": 3003,
+      "tier": 3,
+      "quick_craft_node_display_order": 123,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 256200118,
+      "property": 260000
+    },
+    {
+      "id": 3004,
+      "tier": 3,
+      "quick_craft_node_display_order": 124,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 66628586,
+      "property": 230000
+    },
+    {
+      "id": 3005,
+      "tier": 3,
+      "quick_craft_node_display_order": 125,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 2339912570,
+      "property": 60000
+    },
+    {
+      "id": 3006,
+      "tier": 3,
+      "quick_craft_node_display_order": 126,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3373914538,
+      "property": 80000
+    },
+    {
+      "id": 3007,
+      "tier": 3,
+      "quick_craft_node_display_order": 127,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Favor",
+      "localize_key": 134253664,
+      "property": 400000
+    },
+    {
+      "id": 3008,
+      "tier": 3,
+      "quick_craft_node_display_order": 128,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+      "localize_key": 2557268547,
+      "property": 540000
+    },
+    {
+      "id": 3009,
+      "tier": 3,
+      "quick_craft_node_display_order": 129,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_SecretStone",
+      "localize_key": 4011844930,
+      "property": 30000
+    },
+    {
+      "id": 3010,
+      "tier": 3,
+      "quick_craft_node_display_order": 130,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_UltimateSkill",
+      "localize_key": 2715884359,
+      "property": 10000
+    },
+    {
+      "id": 3011,
+      "tier": 3,
+      "quick_craft_node_display_order": 131,
+      "node_quality": 2,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Credit",
+      "localize_key": 4229601365,
+      "property": 10000
+    },
+    {
+      "id": 3100,
+      "tier": 3,
+      "quick_craft_node_display_order": 132,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1835596279,
+      "property": 28182
+    },
+    {
+      "id": 3101,
+      "tier": 3,
+      "quick_craft_node_display_order": 133,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1384455690,
+      "property": 28182
+    },
+    {
+      "id": 3102,
+      "tier": 3,
+      "quick_craft_node_display_order": 134,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 279062403,
+      "property": 28182
+    },
+    {
+      "id": 3103,
+      "tier": 3,
+      "quick_craft_node_display_order": 135,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3397674168,
+      "property": 28182
+    },
+    {
+      "id": 3104,
+      "tier": 3,
+      "quick_craft_node_display_order": 136,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 88974004,
+      "property": 28182
+    },
+    {
+      "id": 3105,
+      "tier": 3,
+      "quick_craft_node_display_order": 137,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1315220770,
+      "property": 28182
+    },
+    {
+      "id": 3106,
+      "tier": 3,
+      "quick_craft_node_display_order": 138,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3348630443,
+      "property": 28182
+    },
+    {
+      "id": 3107,
+      "tier": 3,
+      "quick_craft_node_display_order": 139,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 773557141,
+      "property": 28182
+    },
+    {
+      "id": 3108,
+      "tier": 3,
+      "quick_craft_node_display_order": 140,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3255046810,
+      "property": 28182
+    },
+    {
+      "id": 3109,
+      "tier": 3,
+      "quick_craft_node_display_order": 141,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 1556480923,
+      "property": 28182
+    },
+    {
+      "id": 3110,
+      "tier": 3,
+      "quick_craft_node_display_order": 142,
+      "node_quality": 1,
+      "icon": "UIs/01_Common/19_CraftDuration/CraftNode_Item",
+      "localize_key": 3476642171,
+      "property": 28182
+    }
+  ]
 }

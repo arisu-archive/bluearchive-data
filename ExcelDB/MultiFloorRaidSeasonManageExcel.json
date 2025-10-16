@@ -229,14 +229,56 @@
       "lobby_enter_scenario": 0,
       "show_lobby_banner": false,
       "season_start_date": "2025-07-23 11:00:00",
-      "end_note_label_start_date": "2025-08-07 03:59:59",
+      "end_note_label_start_date": "2025-08-09 03:59:59",
       "season_end_date": "2025-08-20 03:59:59",
       "settlement_end_date": "2025-08-21 11:00:00",
-      "open_raid_boss_group_id": "EN0011",
+      "open_raid_boss_group_id": "EN0011_HeavyArmor",
       "enter_scenario_key": 1226332916,
       "lobby_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00003",
       "level_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00003",
       "play_tip": "UI_MultiFloorRaid_FloorList_Tipereth_PlayTipLabel"
+    },
+    {
+      "season_id": 18,
+      "lobby_enter_scenario": 0,
+      "show_lobby_banner": false,
+      "season_start_date": "2025-08-21 11:00:00",
+      "end_note_label_start_date": "2025-09-13 03:59:59",
+      "season_end_date": "2025-09-24 03:59:59",
+      "settlement_end_date": "2025-09-25 11:00:00",
+      "open_raid_boss_group_id": "EN0009",
+      "enter_scenario_key": 242141529,
+      "lobby_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+      "level_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+      "play_tip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel"
+    },
+    {
+      "season_id": 19,
+      "lobby_enter_scenario": 0,
+      "show_lobby_banner": false,
+      "season_start_date": "2025-09-25 11:00:00",
+      "end_note_label_start_date": "2025-10-11 03:59:59",
+      "season_end_date": "2025-10-22 03:59:59",
+      "settlement_end_date": "2025-10-23 11:00:00",
+      "open_raid_boss_group_id": "EN0008",
+      "enter_scenario_key": 121582915,
+      "lobby_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+      "level_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+      "play_tip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel"
+    },
+    {
+      "season_id": 20,
+      "lobby_enter_scenario": 0,
+      "show_lobby_banner": false,
+      "season_start_date": "2025-10-23 11:00:00",
+      "end_note_label_start_date": "2025-11-08 03:59:59",
+      "season_end_date": "2025-11-19 03:59:59",
+      "settlement_end_date": "2025-11-20 11:00:00",
+      "open_raid_boss_group_id": "EN0008",
+      "enter_scenario_key": 121582915,
+      "lobby_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+      "level_img_path": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+      "play_tip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel"
     }
   ]
 }

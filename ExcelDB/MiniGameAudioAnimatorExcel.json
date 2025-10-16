@@ -1,3 +1,157 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "controller_name_hash": 931071453,
+      "voice_name_prefix": "ST0001_Controller",
+      "state_name_hash": 2403091570,
+      "state_name": "AniEvtShot",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_MiniGame_Shot"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 1444819340,
+      "voice_name_prefix": "ST0002_Controller",
+      "state_name_hash": 2403091570,
+      "state_name": "AniEvtShot",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_MiniGame_Shot"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 1817964899,
+      "voice_name_prefix": "ST0003_Controller",
+      "state_name_hash": 2403091570,
+      "state_name": "AniEvtShot",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_MiniGame_Shot"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 185443708,
+      "voice_name_prefix": "ST0004_Controller",
+      "state_name_hash": 2403091570,
+      "state_name": "AniEvtShot",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_MiniGame_Shot"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2715920736,
+      "voice_name_prefix": "ST0005_Controller",
+      "state_name_hash": 2403091570,
+      "state_name": "AniEvtShot",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 1,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_MiniGame_Shot"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 930391890,
+      "voice_name_prefix": "temp_ST0001",
+      "state_name_hash": 4271976436,
+      "state_name": "Base Layer.Attack",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 930391890,
+      "voice_name_prefix": "temp_ST0001",
+      "state_name_hash": 305651710,
+      "state_name": "Base Layer.Delay",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 930391890,
+      "voice_name_prefix": "temp_ST0001",
+      "state_name_hash": 3609925892,
+      "state_name": "Base Layer.PublicSkill1",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 930391890,
+      "voice_name_prefix": "temp_ST0001",
+      "state_name_hash": 671285609,
+      "state_name": "Base Layer.Die",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 1072926509,
+      "voice_name_prefix": "temp_ST0002",
+      "state_name_hash": 671285609,
+      "state_name": "Base Layer.Die",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 3267491504,
+      "voice_name_prefix": "temp_ST0003",
+      "state_name_hash": 671285609,
+      "state_name": "Base Layer.Die",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "volume": 0,
+      "delay": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [],
+      "voice_hash": []
+    }
+  ]
 }

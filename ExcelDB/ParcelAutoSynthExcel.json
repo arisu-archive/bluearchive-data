@@ -1,3 +1,202 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "require_parcel_type": 4,
+      "require_parcel_id": 10,
+      "require_parcel_amount": 10,
+      "synth_start_amount": 990000,
+      "synth_end_amount": 985000,
+      "synth_max_item": false,
+      "result_parcel_type": 4,
+      "result_parcel_id": 11,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 4,
+      "require_parcel_id": 11,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 990000,
+      "synth_end_amount": 985000,
+      "synth_max_item": false,
+      "result_parcel_type": 4,
+      "result_parcel_id": 12,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 4,
+      "require_parcel_id": 12,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 990000,
+      "synth_end_amount": 985000,
+      "synth_max_item": true,
+      "result_parcel_type": 4,
+      "result_parcel_id": 13,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 1,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 2,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 2,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 3,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 3,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": true,
+      "result_parcel_type": 3,
+      "result_parcel_id": 4,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 10,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 11,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 11,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 12,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 12,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": true,
+      "result_parcel_type": 3,
+      "result_parcel_id": 13,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 20,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 21,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 21,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 22,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 22,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": true,
+      "result_parcel_type": 3,
+      "result_parcel_id": 23,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 30,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 31,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 31,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 32,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 32,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": true,
+      "result_parcel_type": 3,
+      "result_parcel_id": 33,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 40,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 41,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 41,
+      "require_parcel_amount": 4,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": false,
+      "result_parcel_type": 3,
+      "result_parcel_id": 42,
+      "result_parcel_amount": 1
+    },
+    {
+      "require_parcel_type": 3,
+      "require_parcel_id": 42,
+      "require_parcel_amount": 5,
+      "synth_start_amount": 90000,
+      "synth_end_amount": 85000,
+      "synth_max_item": true,
+      "result_parcel_type": 3,
+      "result_parcel_id": 43,
+      "result_parcel_amount": 1
+    }
+  ]
 }

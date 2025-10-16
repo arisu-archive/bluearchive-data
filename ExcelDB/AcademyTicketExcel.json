@@ -1,3 +1,24 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "location_rank_sum": 1,
+      "schedule_ticktet_max": 3
+    },
+    {
+      "location_rank_sum": 10,
+      "schedule_ticktet_max": 4
+    },
+    {
+      "location_rank_sum": 25,
+      "schedule_ticktet_max": 5
+    },
+    {
+      "location_rank_sum": 50,
+      "schedule_ticktet_max": 6
+    },
+    {
+      "location_rank_sum": 80,
+      "schedule_ticktet_max": 7
+    }
+  ]
 }

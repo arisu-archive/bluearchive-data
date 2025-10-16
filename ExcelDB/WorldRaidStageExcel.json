@@ -1,3 +1,4700 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "id": 1,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000002,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG",
+      "raid_character_id": 7303100,
+      "boss_character_id": [
+        7303100
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 204300001,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 2,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000002,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG",
+      "raid_character_id": 7303200,
+      "boss_character_id": [
+        7303200
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 204300002,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 3,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000002,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG",
+      "raid_character_id": 7303300,
+      "boss_character_id": [
+        7303300
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 204300003,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 4,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000002,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG",
+      "raid_character_id": 7303400,
+      "boss_character_id": [
+        7303400
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 204300004,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 5,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000002,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG",
+      "raid_character_id": 7303300,
+      "boss_character_id": [
+        7303300
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 204300003,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 6,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000001,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "raid_character_id": 7300100,
+      "boss_character_id": [
+        7300100
+      ],
+      "assist_character_limit_count": 5,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 201200001,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Raid_Binah_Timeline_Intro_V2"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "Timeline/Timeline_PhaseChange_Binah",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3920080884,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 7,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10000001,
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Binah_LobbyBG",
+      "raid_character_id": 7300200,
+      "boss_character_id": [
+        7300200
+      ],
+      "assist_character_limit_count": 5,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 201200002,
+      "raid_battle_end_reward_group_id": 1,
+      "raid_reward_group_id": 2,
+      "battle_ready_timeline_path": [
+        "Timeline/Raid_Binah_Timeline_Intro_V2"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "Timeline/Timeline_PhaseChange_Binah",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3920080884,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81400000,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311000,
+      "boss_character_id": [
+        7311000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300001,
+      "raid_battle_end_reward_group_id": 8140000,
+      "raid_reward_group_id": 8140100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81400001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311100,
+      "boss_character_id": [
+        7311100
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300002,
+      "raid_battle_end_reward_group_id": 8140001,
+      "raid_reward_group_id": 8140101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81400002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311200,
+      "boss_character_id": [
+        7311200
+      ],
+      "assist_character_limit_count": 1,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300003,
+      "raid_battle_end_reward_group_id": 8140002,
+      "raid_reward_group_id": 8140102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81400009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311000,
+      "boss_character_id": [
+        7311000
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8140109,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81410000,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310100,
+      "boss_character_id": [
+        7310100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200001,
+      "raid_battle_end_reward_group_id": 8141000,
+      "raid_reward_group_id": 8141100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81410001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310200,
+      "boss_character_id": [
+        7310200
+      ],
+      "assist_character_limit_count": 2,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200002,
+      "raid_battle_end_reward_group_id": 8141001,
+      "raid_reward_group_id": 8141101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81410002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310300,
+      "boss_character_id": [
+        7310300
+      ],
+      "assist_character_limit_count": 1,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200003,
+      "raid_battle_end_reward_group_id": 8141002,
+      "raid_reward_group_id": 8141102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 81410009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310100,
+      "boss_character_id": [
+        7310100
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8141109,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960000,
+      "boss_character_id": [
+        7960000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200001,
+      "raid_battle_end_reward_group_id": 8210000,
+      "raid_reward_group_id": 8210100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 375000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960100,
+      "boss_character_id": [
+        7960100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200002,
+      "raid_battle_end_reward_group_id": 8210001,
+      "raid_reward_group_id": 8210101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 750000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100003,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960200,
+      "boss_character_id": [
+        7960200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200003,
+      "raid_battle_end_reward_group_id": 8210002,
+      "raid_reward_group_id": 8210102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1500000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100004,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960300,
+      "boss_character_id": [
+        7960300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200004,
+      "raid_battle_end_reward_group_id": 8210003,
+      "raid_reward_group_id": 8210103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 3000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100005,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960400,
+      "boss_character_id": [
+        7960400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200005,
+      "raid_battle_end_reward_group_id": 8210004,
+      "raid_reward_group_id": 8210104,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 6000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960300,
+      "boss_character_id": [
+        7960300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 821130101,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8210203,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 360,
+      "clear_scenario_key": 361,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130101,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963000,
+      "boss_character_id": [
+        7963000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300001,
+      "raid_battle_end_reward_group_id": 8211000,
+      "raid_reward_group_id": 8211100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 212500,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963100,
+      "boss_character_id": [
+        7963100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300002,
+      "raid_battle_end_reward_group_id": 8211001,
+      "raid_reward_group_id": 8211101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 425000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110003,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963200,
+      "boss_character_id": [
+        7963200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300003,
+      "raid_battle_end_reward_group_id": 8211002,
+      "raid_reward_group_id": 8211102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 850000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110004,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963300,
+      "boss_character_id": [
+        7963300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300004,
+      "raid_battle_end_reward_group_id": 8211003,
+      "raid_reward_group_id": 8211103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1700000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110005,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963400,
+      "boss_character_id": [
+        7963400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300005,
+      "raid_battle_end_reward_group_id": 8211004,
+      "raid_reward_group_id": 8211104,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 3400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963300,
+      "boss_character_id": [
+        7963300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130201,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8211203,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 362,
+      "clear_scenario_key": 363,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130201,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120001,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961020,
+      "boss_character_id": [
+        7961000,
+        7961010
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100001,
+      "raid_battle_end_reward_group_id": 8212000,
+      "raid_reward_group_id": 8212100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 656250,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120002,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961120,
+      "boss_character_id": [
+        7961100,
+        7961110
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100002,
+      "raid_battle_end_reward_group_id": 8212001,
+      "raid_reward_group_id": 8212101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1312500,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120003,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961220,
+      "boss_character_id": [
+        7961200,
+        7961210
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100003,
+      "raid_battle_end_reward_group_id": 8212002,
+      "raid_reward_group_id": 8212102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 2625000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120004,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961320,
+      "boss_character_id": [
+        7961300,
+        7961310
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100004,
+      "raid_battle_end_reward_group_id": 8212003,
+      "raid_reward_group_id": 8212103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 5250000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120005,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961420,
+      "boss_character_id": [
+        7961400,
+        7961410
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100005,
+      "raid_battle_end_reward_group_id": 8212004,
+      "raid_reward_group_id": 8212104,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 10500000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120009,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821200,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961320,
+      "boss_character_id": [
+        7961300,
+        7961310
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130301,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8212203,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 364,
+      "clear_scenario_key": 365,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130301,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962000,
+      "boss_character_id": [
+        7962000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300001,
+      "raid_battle_end_reward_group_id": 8213000,
+      "raid_reward_group_id": 8213100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 375000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962100,
+      "boss_character_id": [
+        7962100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300002,
+      "raid_battle_end_reward_group_id": 8213001,
+      "raid_reward_group_id": 8213101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 750000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130003,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962200,
+      "boss_character_id": [
+        7962200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300003,
+      "raid_battle_end_reward_group_id": 8213002,
+      "raid_reward_group_id": 8213102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1500000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130004,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962300,
+      "boss_character_id": [
+        7962300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300004,
+      "raid_battle_end_reward_group_id": 8213003,
+      "raid_reward_group_id": 8213103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 3000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130005,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962400,
+      "boss_character_id": [
+        7962400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300005,
+      "raid_battle_end_reward_group_id": 8213004,
+      "raid_reward_group_id": 8213104,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 6000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821300,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962300,
+      "boss_character_id": [
+        7962300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130401,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8213203,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 366,
+      "clear_scenario_key": 367,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130401,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964001,
+      "boss_character_id": [
+        7964001
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100001,
+      "raid_battle_end_reward_group_id": 8214000,
+      "raid_reward_group_id": 8214100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 100000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964101,
+      "boss_character_id": [
+        7964101
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100002,
+      "raid_battle_end_reward_group_id": 8214001,
+      "raid_reward_group_id": 8214101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 200000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140003,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964201,
+      "boss_character_id": [
+        7964201
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100003,
+      "raid_battle_end_reward_group_id": 8214002,
+      "raid_reward_group_id": 8214102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140004,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964301,
+      "boss_character_id": [
+        7964301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100004,
+      "raid_battle_end_reward_group_id": 8214003,
+      "raid_reward_group_id": 8214103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 800000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140005,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964401,
+      "boss_character_id": [
+        7964401
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100005,
+      "raid_battle_end_reward_group_id": 8214004,
+      "raid_reward_group_id": 8214104,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1600000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821400,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964301,
+      "boss_character_id": [
+        7964301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130701,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8214203,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 368,
+      "clear_scenario_key": 369,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130701,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960000,
+      "boss_character_id": [
+        7960000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200001,
+      "raid_battle_end_reward_group_id": 8210010,
+      "raid_reward_group_id": 8210110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 350000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100102,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960100,
+      "boss_character_id": [
+        7960100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200002,
+      "raid_battle_end_reward_group_id": 8210011,
+      "raid_reward_group_id": 8210111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 700000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100103,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960200,
+      "boss_character_id": [
+        7960200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200003,
+      "raid_battle_end_reward_group_id": 8210012,
+      "raid_reward_group_id": 8210112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100104,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960300,
+      "boss_character_id": [
+        7960300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200004,
+      "raid_battle_end_reward_group_id": 8210013,
+      "raid_reward_group_id": 8210113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 3500000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100105,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960400,
+      "boss_character_id": [
+        7960400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200005,
+      "raid_battle_end_reward_group_id": 8210014,
+      "raid_reward_group_id": 8210114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 5600000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100106,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960500,
+      "boss_character_id": [
+        7960500
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 255200006,
+      "raid_battle_end_reward_group_id": 8210015,
+      "raid_reward_group_id": 8210115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 14000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82100107,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821001,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Binah_Colour_LobbyBG",
+      "raid_character_id": 7960300,
+      "boss_character_id": [
+        7960300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 821130101,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8210213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Binah"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 360,
+      "clear_scenario_key": 361,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130101,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963000,
+      "boss_character_id": [
+        7963000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300001,
+      "raid_battle_end_reward_group_id": 8211010,
+      "raid_reward_group_id": 8211110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 320000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110102,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963100,
+      "boss_character_id": [
+        7963100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300002,
+      "raid_battle_end_reward_group_id": 8211011,
+      "raid_reward_group_id": 8211111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 640000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110103,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963200,
+      "boss_character_id": [
+        7963200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300003,
+      "raid_battle_end_reward_group_id": 8211012,
+      "raid_reward_group_id": 8211112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1280000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110104,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963300,
+      "boss_character_id": [
+        7963300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300004,
+      "raid_battle_end_reward_group_id": 8211013,
+      "raid_reward_group_id": 8211113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 3200000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110105,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963400,
+      "boss_character_id": [
+        7963400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300005,
+      "raid_battle_end_reward_group_id": 8211014,
+      "raid_reward_group_id": 8211114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 5120000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110106,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963500,
+      "boss_character_id": [
+        7963500
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 256300006,
+      "raid_battle_end_reward_group_id": 8211015,
+      "raid_reward_group_id": 8211115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 12800000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82110107,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821101,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Chesed_Colour_LobbyBG",
+      "raid_character_id": 7963300,
+      "boss_character_id": [
+        7963300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130201,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8211213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Chesed"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 362,
+      "clear_scenario_key": 363,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130201,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120101,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961020,
+      "boss_character_id": [
+        7961000,
+        7961010
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100001,
+      "raid_battle_end_reward_group_id": 8212010,
+      "raid_reward_group_id": 8212110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120102,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961120,
+      "boss_character_id": [
+        7961100,
+        7961110
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100002,
+      "raid_battle_end_reward_group_id": 8212011,
+      "raid_reward_group_id": 8212111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 2000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120103,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961220,
+      "boss_character_id": [
+        7961200,
+        7961210
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100003,
+      "raid_battle_end_reward_group_id": 8212012,
+      "raid_reward_group_id": 8212112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 4000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120104,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961320,
+      "boss_character_id": [
+        7961300,
+        7961310
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100004,
+      "raid_battle_end_reward_group_id": 8212013,
+      "raid_reward_group_id": 8212113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 10000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120105,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961420,
+      "boss_character_id": [
+        7961400,
+        7961410
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100005,
+      "raid_battle_end_reward_group_id": 8212014,
+      "raid_reward_group_id": 8212114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 16000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120106,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961520,
+      "boss_character_id": [
+        7961500,
+        7961510
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 253100006,
+      "raid_battle_end_reward_group_id": 8212015,
+      "raid_reward_group_id": 8212115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 40000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82120107,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821201,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_ShiroKuro_Colour_LobbyBG",
+      "raid_character_id": 7961320,
+      "boss_character_id": [
+        7961300,
+        7961310
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130301,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8212213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Shirokuro"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 7,
+      "enter_scenario_key": 364,
+      "clear_scenario_key": 365,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130301,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962000,
+      "boss_character_id": [
+        7962000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300001,
+      "raid_battle_end_reward_group_id": 8213010,
+      "raid_reward_group_id": 8213110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1200000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130102,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962100,
+      "boss_character_id": [
+        7962100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300002,
+      "raid_battle_end_reward_group_id": 8213011,
+      "raid_reward_group_id": 8213111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 2400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130103,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962200,
+      "boss_character_id": [
+        7962200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300003,
+      "raid_battle_end_reward_group_id": 8213012,
+      "raid_reward_group_id": 8213112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 4800000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130104,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962300,
+      "boss_character_id": [
+        7962300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300004,
+      "raid_battle_end_reward_group_id": 8213013,
+      "raid_reward_group_id": 8213113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 12000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130105,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962400,
+      "boss_character_id": [
+        7962400
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300005,
+      "raid_battle_end_reward_group_id": 8213014,
+      "raid_reward_group_id": 8213114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 19200000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130106,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962500,
+      "boss_character_id": [
+        7962500
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 254300006,
+      "raid_battle_end_reward_group_id": 8213015,
+      "raid_reward_group_id": 8213115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 48000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82130107,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821301,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Hieronymus_Colour_LobbyBG",
+      "raid_character_id": 7962300,
+      "boss_character_id": [
+        7962300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130401,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8213213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hieronymus"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 366,
+      "clear_scenario_key": 367,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130401,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964001,
+      "boss_character_id": [
+        7964001
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100001,
+      "raid_battle_end_reward_group_id": 8214010,
+      "raid_reward_group_id": 8214110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 140000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140102,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964101,
+      "boss_character_id": [
+        7964101
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100002,
+      "raid_battle_end_reward_group_id": 8214011,
+      "raid_reward_group_id": 8214111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 280000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140103,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964201,
+      "boss_character_id": [
+        7964201
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100003,
+      "raid_battle_end_reward_group_id": 8214012,
+      "raid_reward_group_id": 8214112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 560000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140104,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964301,
+      "boss_character_id": [
+        7964301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100004,
+      "raid_battle_end_reward_group_id": 8214013,
+      "raid_reward_group_id": 8214113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140105,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964401,
+      "boss_character_id": [
+        7964401
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100005,
+      "raid_battle_end_reward_group_id": 8214014,
+      "raid_reward_group_id": 8214114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 2240000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140106,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964501,
+      "boss_character_id": [
+        7964501
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 257100006,
+      "raid_battle_end_reward_group_id": 8214015,
+      "raid_reward_group_id": 8214115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 5600000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82140107,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 821401,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HOD_Colour_LobbyBG",
+      "raid_character_id": 7964301,
+      "boss_character_id": [
+        7964301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130701,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8214213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Hod"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 368,
+      "clear_scenario_key": 369,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130701,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965001,
+      "boss_character_id": [
+        7965001
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300001,
+      "raid_battle_end_reward_group_id": 8215010,
+      "raid_reward_group_id": 8215110,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 1100000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150102,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965101,
+      "boss_character_id": [
+        7965101
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300002,
+      "raid_battle_end_reward_group_id": 8215011,
+      "raid_reward_group_id": 8215111,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 2200000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150103,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965201,
+      "boss_character_id": [
+        7965201
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300003,
+      "raid_battle_end_reward_group_id": 8215012,
+      "raid_reward_group_id": 8215112,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 4400000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150104,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965301,
+      "boss_character_id": [
+        7965301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300004,
+      "raid_battle_end_reward_group_id": 8215013,
+      "raid_reward_group_id": 8215113,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 11000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150105,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965401,
+      "boss_character_id": [
+        7965401
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300005,
+      "raid_battle_end_reward_group_id": 8215014,
+      "raid_reward_group_id": 8215114,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 17600000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150106,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965501,
+      "boss_character_id": [
+        7965501
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 258300006,
+      "raid_battle_end_reward_group_id": 8215015,
+      "raid_reward_group_id": 8215115,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 44000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82150107,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821501,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_Perorozilla_Colour_LobbyBG",
+      "raid_character_id": 7965301,
+      "boss_character_id": [
+        7965301
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 821130601,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8215213,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Battleready_Engage_ColourRaid_Perorozilla"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 371,
+      "clear_scenario_key": 372,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 821130601,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82160200,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 821602,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0003_Colour_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0003_Colour_LobbyBG",
+      "raid_character_id": 7999001,
+      "boss_character_id": [
+        7999001
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 258100001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8216223,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0003_BattleReady_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 373,
+      "clear_scenario_key": 374,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82300000,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 823000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_LobbyBG",
+      "raid_character_id": 7967000,
+      "boss_character_id": [
+        7967000,
+        7967001
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 259300004,
+      "raid_battle_end_reward_group_id": 8230000,
+      "raid_reward_group_id": 8230100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0001_OP",
+        "Timeline/Timeline_EN0001_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        3
+      ],
+      "battle_ready_timeline_phase_end": [
+        2,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [
+        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffHealPower100Ratio",
+        "FavorBuffMaxHP100Ratio"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82300001,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 823000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_LobbyBG",
+      "raid_character_id": 7967100,
+      "boss_character_id": [
+        7967100,
+        7967101
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 5,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 259300005,
+      "raid_battle_end_reward_group_id": 8230001,
+      "raid_reward_group_id": 8230101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0001_OP",
+        "Timeline/Timeline_EN0001_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        3
+      ],
+      "battle_ready_timeline_phase_end": [
+        2,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [
+        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffHealPower100Ratio",
+        "FavorBuffMaxHP100Ratio"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82300002,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 823000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_LobbyBG",
+      "raid_character_id": 7967200,
+      "boss_character_id": [
+        7967200,
+        7967201
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 6,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 259300006,
+      "raid_battle_end_reward_group_id": 8230002,
+      "raid_reward_group_id": 8230102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0001_OP",
+        "Timeline/Timeline_EN0001_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        3
+      ],
+      "battle_ready_timeline_phase_end": [
+        2,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 46000000,
+      "ally_passive_skill": [
+        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffHealPower100Ratio",
+        "FavorBuffMaxHP100Ratio"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82300009,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 823000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_LobbyBG",
+      "raid_character_id": 7967000,
+      "boss_character_id": [
+        7967000,
+        7967001
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 259300004,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8230103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0001_OP",
+        "Timeline/Timeline_EN0001_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        3
+      ],
+      "battle_ready_timeline_phase_end": [
+        2,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 394,
+      "clear_scenario_key": 395,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [
+        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffHealPower100Ratio",
+        "FavorBuffMaxHP100Ratio"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 82310009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 823100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0001_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_EN0002_LobbyBG",
+      "raid_character_id": 7966300,
+      "boss_character_id": [
+        7966300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 180000,
+      "ground_id": 823130301,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 8231100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0001_Scenario_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_ColourRaid_Transition_OP",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 396,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 823130301,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": false,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 301200101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311000,
+      "boss_character_id": [
+        7311000
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300001,
+      "raid_battle_end_reward_group_id": 108140000,
+      "raid_reward_group_id": 108140100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 301200201,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311100,
+      "boss_character_id": [
+        7311100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300002,
+      "raid_battle_end_reward_group_id": 108140001,
+      "raid_reward_group_id": 108140101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 301200301,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311200,
+      "boss_character_id": [
+        7311200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300003,
+      "raid_battle_end_reward_group_id": 108140002,
+      "raid_reward_group_id": 108140102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 301200001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311000,
+      "boss_character_id": [
+        7311000
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 108140109,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 302200101,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310100,
+      "boss_character_id": [
+        7310100
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200001,
+      "raid_battle_end_reward_group_id": 108141000,
+      "raid_reward_group_id": 108141100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 302200201,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310200,
+      "boss_character_id": [
+        7310200
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200002,
+      "raid_battle_end_reward_group_id": 108141001,
+      "raid_reward_group_id": 108141101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 302200301,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310300,
+      "boss_character_id": [
+        7310300
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200003,
+      "raid_battle_end_reward_group_id": 108141002,
+      "raid_reward_group_id": 108141102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 302200001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 10814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310100,
+      "boss_character_id": [
+        7310100
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 108141109,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 90081401,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 900814000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_WakamoSwimsuit_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7311000,
+      "boss_character_id": [
+        7311000
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 251300001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 90081401,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_Swimsuit_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 90081402,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 900814100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_Lobby",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Boss_Portrait_HoverCraft_LobbyBG",
+      "raid_character_id": 7310100,
+      "boss_character_id": [
+        7310100
+      ],
+      "assist_character_limit_count": 0,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 1,
+      "re_enter_amount": 1,
+      "battle_duration": 240000,
+      "ground_id": 252200001,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 90081402,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Wakamo_HoverCraft_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    }
+  ]
 }

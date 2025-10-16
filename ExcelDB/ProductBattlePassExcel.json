@@ -1,0 +1,106 @@
+{
+  "data_list": [
+    {
+      "id": 10001,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_3000",
+      "store_type": 1,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 101,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 10002,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_premium_3500",
+      "store_type": 1,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 102,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 10003,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_unlock_500",
+      "store_type": 1,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 103,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 50001,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_3000",
+      "store_type": 2,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 101,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 50002,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_premium_3500",
+      "store_type": 2,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 102,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 50003,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_unlock_500",
+      "store_type": 2,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 103,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    }
+  ]
+}
