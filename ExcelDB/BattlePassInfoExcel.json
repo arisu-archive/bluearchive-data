@@ -1,0 +1,27 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "free_reward_group_id": 10,
+      "purchase_reward_group_id": 11,
+      "normal_product_group_id": 101,
+      "premium_product_group_id": 102,
+      "discount_premium_product_group_id": 103,
+      "next_lv_need_exp": 1000,
+      "pass_lv_up_goods_id": 300,
+      "buy_premium_lv_up_amount": 10,
+      "sale_period_from": "2025-07-22 11:00:00",
+      "sale_period_to": "2025-08-20 10:59:59",
+      "video_id": [
+        30000
+      ],
+      "flavor_text_group_id": 1,
+      "exclusive_reward_id": 241,
+      "exclusive_emblem_id": 9100000,
+      "pass_exp_localize_etc_id": 324653115,
+      "lobby_banner_path": "UIs/00_Images/Common_Icon_BattlePass",
+      "main_icon_parcel_path": "UIs/00_Images/BattlePass/BattlePass_Title_1",
+      "purchase_step_product_image_path": "UIs/00_Images/BattlePass/TotalReward_Image_BattlePass_S1"
+    }
+  ]
+}

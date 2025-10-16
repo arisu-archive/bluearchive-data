@@ -119,7 +119,6 @@
       "monthly_product_check_days": 7,
       "weapon_lv_up_coefficient": 180,
       "show_raid_my_list_count": 7,
-      "max_level_exp_master_coin_ratio": 1,
       "raid_enter_cost_type": 2,
       "raid_enter_cost_id": 8,
       "raid_ticket_cost": 1,
@@ -191,7 +190,13 @@
       "rank_bracket_percentage4": 50,
       "rank_bracket_percentage5": 65,
       "rank_bracket_percentage6": 70,
-      "rank_bracket_percentage7": 90
+      "rank_bracket_percentage7": 90,
+      "expiry_battle_pass_item_receive_day": 7,
+      "battle_pass_flavor_text_idle_duration_milli_sec": 4500,
+      "battle_pass_end_imminent_day": 7,
+      "battle_pass_exp_icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Item_1",
+      "cafe_camera_drag_threshold": -9000,
+      "cafe_summon_ticket_buy_limit_for_validate": 1
     }
   ]
 }

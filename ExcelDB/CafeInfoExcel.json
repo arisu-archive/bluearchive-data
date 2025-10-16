@@ -1,3 +1,26 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "cafe_id": 1,
+      "is_default": true,
+      "open_condition_cafe_id": 4,
+      "open_condition_cafe_invite": 38,
+      "summon_parcel_type": 2,
+      "summon_parcel_id": 28,
+      "summon_parcel_amount": 1,
+      "category_type": 38,
+      "summon_ticket_icon_path": "UIs/00_Images/Cafe_Icon_Coupon_1"
+    },
+    {
+      "cafe_id": 2,
+      "is_default": false,
+      "open_condition_cafe_id": 51,
+      "open_condition_cafe_invite": 52,
+      "summon_parcel_type": 2,
+      "summon_parcel_id": 29,
+      "summon_parcel_amount": 1,
+      "category_type": 38,
+      "summon_ticket_icon_path": "UIs/00_Images/Cafe_Icon_Coupon_2"
+    }
+  ]
 }

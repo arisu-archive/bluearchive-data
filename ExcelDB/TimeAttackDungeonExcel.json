@@ -1,3 +1,32 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "id": 1000,
+      "time_attack_dungeon_type": 2,
+      "localize_etc_key": 1223379449,
+      "icon_path": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Boxcat_Terror",
+      "information_group_id": 125002
+    },
+    {
+      "id": 2000,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 546386169,
+      "icon_path": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Decagram_Taser_White",
+      "information_group_id": 125003
+    },
+    {
+      "id": 3000,
+      "time_attack_dungeon_type": 3,
+      "localize_etc_key": 1467902802,
+      "icon_path": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem03_TimeAttack",
+      "information_group_id": 125004
+    },
+    {
+      "id": 4000,
+      "time_attack_dungeon_type": 4,
+      "localize_etc_key": 1161026647,
+      "icon_path": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Avantgardekun_Millenium_AR",
+      "information_group_id": 125005
+    }
+  ]
 }
