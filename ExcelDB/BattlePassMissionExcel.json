@@ -1,3 +1,402 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "battle_pass_id": 1,
+      "id": 2000001,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 2893671424,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 1,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 1,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 100
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2000002,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 383264321,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 2,
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 30,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 200
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2000003,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 254740587,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 4,
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 200
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2000004,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 1907666802,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 5,
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 69,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 200
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2000005,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 3815963787,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 3,
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 38,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 200
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2000006,
+      "category": 1,
+      "pre_mission_id": [],
+      "description": 2612224247,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 6,
+      "shortcut_ui": [
+        "葐蚜▊章쮉뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 97,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 300
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001001,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 1,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 96,
+      "complete_condition_count": 2400,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 800
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001002,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 3264920614,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 2,
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 87,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        38
+      ],
+      "battle_pass_exp_amount": 800
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001003,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 4193814424,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 3,
+      "shortcut_ui": [
+        "UICraftDurationList"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 33,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 800
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001004,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 2075934245,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 4,
+      "shortcut_ui": [
+        "UIShop"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 105,
+      "complete_condition_count": 6,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 800
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001005,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 4264426149,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 6,
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 81,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        183
+      ],
+      "battle_pass_exp_amount": 1000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001006,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 4209844389,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 5,
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 68,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 800
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2001007,
+      "category": 2,
+      "pre_mission_id": [],
+      "description": 1401850234,
+      "reset_type": 2,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 7,
+      "shortcut_ui": [
+        "UIStageSelect",
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 79,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        18
+      ],
+      "battle_pass_exp_amount": 1000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002001,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 1220804414,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 1,
+      "shortcut_ui": [
+        "UIGacha"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 17,
+      "complete_condition_count": 100,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002002,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 2893671424,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 3,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 2,
+      "complete_condition_count": 20,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002003,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 383264321,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 4,
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 30,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002004,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 5,
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 136,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002005,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 1907666802,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 6,
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 133,
+      "complete_condition_count": 40,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    },
+    {
+      "battle_pass_id": 1,
+      "id": 2002006,
+      "category": 3,
+      "pre_mission_id": [],
+      "description": 2893671424,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 2,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 2,
+      "complete_condition_count": 10,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "battle_pass_exp_amount": 2000
+    }
+  ]
 }

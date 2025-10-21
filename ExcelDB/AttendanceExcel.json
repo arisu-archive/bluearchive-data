@@ -529,6 +529,28 @@
       "decoration_garland_image_path": "Uis/01_Common/33_Attendance/Attendance02_Deco_01_01"
     },
     {
+      "id": 90023,
+      "type": 3,
+      "countdown_prefab": "UICountdown_4th",
+      "display_order": 2,
+      "account_type": 1,
+      "account_level_limit": 0,
+      "title": "",
+      "infomation_localize_code": "AttendanceEvent_Info_Text_01",
+      "count_rule": 1,
+      "count_reset": 0,
+      "book_size": 7,
+      "start_date": "2025-11-02 04:00:00",
+      "startable_end_date": "2025-11-09 04:00:00",
+      "end_date": "2025-11-09 04:00:00",
+      "expiry_date": 0,
+      "mail_type": 1,
+      "dialog_category": 0,
+      "title_image_path": "",
+      "decoration_image_path": "",
+      "decoration_garland_image_path": ""
+    },
+    {
       "id": 99000,
       "type": 1,
       "countdown_prefab": "",
