@@ -22476,6 +22476,1398 @@
       ]
     },
     {
+      "season_id": 15,
+      "id": 1001600,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 0,
+      "pre_mission_id": [],
+      "description": 1571451519,
+      "toast_display_type": 0,
+      "toast_image_path": "",
+      "shortcut_ui": [],
+      "complete_condition_type": 57,
+      "complete_condition_count": 100,
+      "complete_condition_parameter": [
+        20000013
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4
+      ],
+      "mission_reward_parcel_id": [
+        6999
+      ],
+      "mission_reward_amount": [
+        1
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001610,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52010"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52010
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4000
+      ],
+      "mission_reward_amount": [
+        6,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001611,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 600,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        220
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001612,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        11
+      ],
+      "mission_reward_amount": [
+        2,
+        40
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001613,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 1216772451,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 11,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        245
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001614,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 3452893853,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 67,
+      "complete_condition_count": 20,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        200
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001615,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 1,
+      "pre_mission_id": [],
+      "description": 1545941897,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon",
+        "UIShop"
+      ],
+      "complete_condition_type": 79,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        17
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3000
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001620,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52020"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52020
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4000
+      ],
+      "mission_reward_amount": [
+        6,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001621,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 1200,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        220
+      ],
+      "mission_reward_amount": [
+        3,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001622,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        11
+      ],
+      "mission_reward_amount": [
+        2,
+        40
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001623,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 1216772451,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 11,
+      "complete_condition_count": 60,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        245
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        3,
+        700000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001624,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 3452893853,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 67,
+      "complete_condition_count": 40,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        200
+      ],
+      "mission_reward_amount": [
+        3,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001625,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 2,
+      "pre_mission_id": [],
+      "description": 4264426149,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 81,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        183
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3000
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001630,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52030"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52030
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4001
+      ],
+      "mission_reward_amount": [
+        7,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001631,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 1800,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        221
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001632,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        11
+      ],
+      "mission_reward_amount": [
+        2,
+        40
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001633,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 2470672949,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 85,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001634,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 3452893853,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 67,
+      "complete_condition_count": 60,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        201
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001635,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 3,
+      "pre_mission_id": [],
+      "description": 863540454,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIStageSelect",
+        "UIShop"
+      ],
+      "complete_condition_type": 79,
+      "complete_condition_count": 40,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        296
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3001
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001640,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52060"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52060
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4001
+      ],
+      "mission_reward_amount": [
+        7,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001641,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 2400,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        221
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001642,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        12
+      ],
+      "mission_reward_amount": [
+        2,
+        50
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001643,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 2470672949,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 85,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        3,
+        650000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001644,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 3452893853,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 67,
+      "complete_condition_count": 80,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        201
+      ],
+      "mission_reward_amount": [
+        3,
+        20
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001645,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 4,
+      "pre_mission_id": [],
+      "description": 4264426149,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 81,
+      "complete_condition_count": 60,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        183
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3001
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001650,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52090"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52090
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4002
+      ],
+      "mission_reward_amount": [
+        7,
+        13
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001651,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 3000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        222
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001652,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        12
+      ],
+      "mission_reward_amount": [
+        2,
+        50
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001653,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 1216772451,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 11,
+      "complete_condition_count": 90,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        245
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        2,
+        750000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001654,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 4209844389,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 68,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        202
+      ],
+      "mission_reward_amount": [
+        3,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001655,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 5,
+      "pre_mission_id": [],
+      "description": 1840375045,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 79,
+      "complete_condition_count": 30,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        297
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3002
+      ],
+      "mission_reward_amount": [
+        3,
+        6
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001660,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52120"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52120
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        4002
+      ],
+      "mission_reward_amount": [
+        8,
+        13
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001661,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 3600,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        222
+      ],
+      "mission_reward_amount": [
+        4,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001662,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 6,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        13
+      ],
+      "mission_reward_amount": [
+        2,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001663,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 2470672949,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 85,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        4,
+        700000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001664,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 4209844389,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 68,
+      "complete_condition_count": 6,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        202
+      ],
+      "mission_reward_amount": [
+        4,
+        15
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001665,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 6,
+      "pre_mission_id": [],
+      "description": 2328685714,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "complete_condition_type": 79,
+      "complete_condition_count": 20,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        734
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        3002
+      ],
+      "mission_reward_amount": [
+        4,
+        6
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001670,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 3711343474,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|52150"
+      ],
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        52150
+      ],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": true,
+      "mission_reward_parcel_type": [
+        4,
+        13
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        18109
+      ],
+      "mission_reward_amount": [
+        8,
+        1
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001671,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 1282336120,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 96,
+      "complete_condition_count": 4200,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        223
+      ],
+      "mission_reward_amount": [
+        4,
+        5
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001672,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 1263457915,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 87,
+      "complete_condition_count": 7,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        34
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        13
+      ],
+      "mission_reward_amount": [
+        2,
+        25
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001673,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 1216772451,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 11,
+      "complete_condition_count": 120,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        245
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        2
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        1
+      ],
+      "mission_reward_amount": [
+        2,
+        700000
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001674,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 4209844389,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIStageSelect"
+      ],
+      "complete_condition_type": 68,
+      "complete_condition_count": 9,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        4
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        203
+      ],
+      "mission_reward_amount": [
+        4,
+        5
+      ]
+    },
+    {
+      "season_id": 15,
+      "id": 1001675,
+      "category": 4,
+      "is_legacy": false,
+      "tab_number": 7,
+      "pre_mission_id": [],
+      "description": 352115803,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser",
+        "UIShop"
+      ],
+      "complete_condition_type": 79,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [
+        733
+      ],
+      "is_auto_clear_for_scenario": false,
+      "mission_reward_parcel_type": [
+        4,
+        13
+      ],
+      "mission_reward_parcel_id": [
+        20000013,
+        210369
+      ],
+      "mission_reward_amount": [
+        4,
+        1
+      ]
+    },
+    {
       "season_id": 1001,
       "id": 1001300,
       "category": 4,
