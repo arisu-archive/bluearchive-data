@@ -6838,6 +6838,112 @@
       ]
     },
     {
+      "id": 10129,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0325",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 123,
+      "attack_power100": 1234,
+      "max_hp": 548,
+      "max_hp100": 5478,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        10129300,
+        10129301,
+        10129302,
+        10129303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        78,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        1000,
+        0
+      ]
+    },
+    {
+      "id": 10130,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0309",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 108,
+      "attack_power100": 1080,
+      "max_hp": 592,
+      "max_hp100": 5923,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        10130300,
+        10130301,
+        10130302,
+        10130303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        54,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        1000,
+        0
+      ]
+    },
+    {
       "id": 13000,
       "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_13000",
       "set_recipe": 0,
@@ -8582,6 +8688,59 @@
         0,
         0,
         2,
+        1000,
+        0
+      ]
+    },
+    {
+      "id": 16018,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0166",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 87,
+      "attack_power100": 867,
+      "max_hp": 865,
+      "max_hp100": 8648,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        16018300,
+        16018301,
+        16018302,
+        16018303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        21,
+        78,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
         1000,
         0
       ]
@@ -11259,6 +11418,59 @@
         20050301,
         20050302,
         20050303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        89,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        5000,
+        0
+      ]
+    },
+    {
+      "id": 20051,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0326",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 108,
+      "attack_power100": 1078,
+      "max_hp": 635,
+      "max_hp100": 6353,
+      "heal_power": 302,
+      "heal_power100": 3024,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        20051300,
+        20051301,
+        20051302,
+        20051303
       ],
       "max_level": [
         30,

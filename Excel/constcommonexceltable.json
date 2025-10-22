@@ -9,7 +9,7 @@
       "base_time_scale": 10000,
       "gacha_percentage": 2000,
       "academy_favor_zone_id": 1,
-      "cafe_preset_slot_count": 5,
+      "cafe_preset_slot_count": 10,
       "cafe_monologue_interval_millisec": 5000,
       "cafe_monologue_default_duration": 4000,
       "cafe_bubble_idle_duration_milli_sec": 5500,
@@ -196,7 +196,9 @@
       "battle_pass_end_imminent_day": 7,
       "battle_pass_exp_icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Item_1",
       "cafe_camera_drag_threshold": -9000,
-      "cafe_summon_ticket_buy_limit_for_validate": 1
+      "cafe_summon_ticket_buy_limit_for_validate": 1,
+      "auto_craft_preset_count_limit": 3,
+      "auto_craft_node_select_count": 5
     }
   ]
 }

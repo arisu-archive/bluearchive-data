@@ -2453,7 +2453,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -2493,7 +2494,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -3514,7 +3516,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -79349,6 +79352,3606 @@
       ]
     },
     {
+      "id": 90038,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90037
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 11000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90039,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90038
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 12000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90040,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90039
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 13000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90041,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90040
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 14000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90042,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90041
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 15000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90043,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90042
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 16000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90044,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90043
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 17000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90045,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90044
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 18000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90046,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90045
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 19000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90047,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90046
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 20000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90048,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90047
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 21000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90049,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90048
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 22000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90050,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90049
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 23000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90051,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90050
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 24000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90052,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90051
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 25000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90053,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90052
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 26000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90054,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90053
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 27000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90055,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90054
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 28000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90056,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90055
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 29000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90057,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90056
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 30000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90058,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90057
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 31000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90059,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90058
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 32000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90060,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90059
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 33000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90061,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90060
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 34000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90062,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90061
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 35000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90063,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90062
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 36000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90064,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90063
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 37000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90065,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90064
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 38000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90066,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90065
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 39000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90067,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90066
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 40000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90068,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90067
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 41000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90069,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90068
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 42000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90070,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90069
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 43000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90071,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90070
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 44000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90072,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90071
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 45000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90073,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90072
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 46000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90074,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90073
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 47000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90075,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90074
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 48000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90076,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90075
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 49000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90077,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90076
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 50000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90078,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90077
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 51000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90079,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90078
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 52000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90080,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90079
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 53000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90081,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90080
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 54000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90082,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90081
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 55000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90083,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90082
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 56000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90084,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90083
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 57000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90085,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90084
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 58000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90086,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90085
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 59000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90087,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90086
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 60000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90088,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90087
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 61000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90089,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90088
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 62000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90090,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90089
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 63000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90091,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90090
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 64000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90092,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90091
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 65000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90093,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90092
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 66000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90094,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90093
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 67000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90095,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90094
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 68000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90096,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90095
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 69000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90097,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90096
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 70000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90098,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90097
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 71000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90099,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90098
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 72000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90100,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90099
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 73000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90101,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90100
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 74000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90102,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90101
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 75000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90103,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90102
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 76000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90104,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90103
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 77000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90105,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90104
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 78000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90106,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90105
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 79000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90107,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90106
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 80000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90108,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90107
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 81000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90109,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90108
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 82000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90110,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90109
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 83000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90111,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90110
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 84000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90112,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90111
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 85000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90113,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90112
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 86000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90114,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90113
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 87000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90115,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90114
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 88000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90116,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90115
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 89000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90117,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90116
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 90000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90118,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90117
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 91000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90119,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90118
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 92000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90120,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90119
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 93000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90121,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90120
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 94000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90122,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90121
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 95000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90123,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90122
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 96000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90124,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90123
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 97000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90125,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90124
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 98000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90126,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90125
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 99000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 90127,
+      "category": 3,
+      "description": 254740587,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 90000,
+      "pre_mission_id": [
+        90126
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 46,
+      "complete_condition_count": 100000,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
       "id": 100000,
       "category": 3,
       "description": 1014385034,
@@ -87310,6 +90913,346 @@
       ]
     },
     {
+      "id": 101226,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131401
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101227,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131402
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101228,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101227
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131403
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101229,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101228
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131404
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101230,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101229
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131405
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101231,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101230
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131406
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101232,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101231
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131407
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
+      "id": 101233,
+      "category": 3,
+      "description": 1072777241,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101232
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131408
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
       "id": 110000,
       "category": 3,
       "description": 415981323,
@@ -87329,7 +91272,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87369,7 +91313,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87409,7 +91354,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87449,7 +91395,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87489,7 +91436,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87529,7 +91477,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87569,7 +91518,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87609,7 +91559,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87649,7 +91600,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87689,7 +91641,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87729,7 +91682,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87769,7 +91723,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87809,7 +91764,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87849,7 +91805,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87889,7 +91846,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87929,7 +91887,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87969,7 +91928,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88009,7 +91969,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88049,7 +92010,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88089,7 +92051,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88129,7 +92092,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88169,7 +92133,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88209,7 +92174,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88249,7 +92215,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88289,7 +92256,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88329,7 +92297,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88369,7 +92338,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88409,7 +92379,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88449,7 +92420,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88489,7 +92461,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88529,7 +92502,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88569,7 +92543,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88609,7 +92584,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88649,7 +92625,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88689,7 +92666,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88729,7 +92707,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88769,7 +92748,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88809,7 +92789,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88849,7 +92830,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88889,7 +92871,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88929,7 +92912,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88969,7 +92953,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89009,7 +92994,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89049,7 +93035,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89089,7 +93076,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89129,7 +93117,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89169,7 +93158,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89209,7 +93199,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89249,7 +93240,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89289,7 +93281,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89329,7 +93322,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89369,7 +93363,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89409,7 +93404,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89449,7 +93445,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89489,7 +93486,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89529,7 +93527,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89569,7 +93568,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89609,7 +93609,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89649,7 +93650,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89689,7 +93691,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89729,7 +93732,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89769,7 +93773,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89809,7 +93814,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89849,7 +93855,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89889,7 +93896,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89929,7 +93937,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89969,7 +93978,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -90009,7 +94019,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -90049,7 +94060,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -90089,7 +94101,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -90129,7 +94142,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -90169,7 +94183,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
