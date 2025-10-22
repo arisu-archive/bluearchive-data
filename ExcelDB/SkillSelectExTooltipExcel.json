@@ -9,6 +9,16 @@
       "group_id": 1012223000,
       "selectable_ex_skill_group_id": "CH0294Ex01",
       "skill_use_condition_localize_id": "UI_SelectExSkill_UseCondition_Self"
+    },
+    {
+      "group_id": 1601822000,
+      "selectable_ex_skill_group_id": "CH0166Ex01",
+      "skill_use_condition_localize_id": "UI_SelectExSkill_UseCondition_Enemy"
+    },
+    {
+      "group_id": 1601822000,
+      "selectable_ex_skill_group_id": "CH0166Ex02",
+      "skill_use_condition_localize_id": "UI_SelectExSkill_UseCondition_Self"
     }
   ]
 }

@@ -8189,6 +8189,132 @@
         325,
         1
       ]
+    },
+    {
+      "ranking_reward_group_id": 2130,
+      "id": 2131,
+      "rank_start": 1,
+      "rank_end": 20000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 4,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101203,
+        101202,
+        101201,
+        101200
+      ],
+      "reward_parcel_amount": [
+        1200,
+        300,
+        575,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2130,
+      "id": 2132,
+      "rank_start": 20001,
+      "rank_end": 120000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 3,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101202,
+        101201,
+        101200
+      ],
+      "reward_parcel_amount": [
+        1000,
+        250,
+        500,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2130,
+      "id": 2133,
+      "rank_start": 120001,
+      "rank_end": 240000,
+      "percent_rank_start": 0,
+      "percent_rank_end": 0,
+      "tier": 2,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101201,
+        101200
+      ],
+      "reward_parcel_amount": [
+        800,
+        200,
+        425,
+        1,
+        1
+      ]
+    },
+    {
+      "ranking_reward_group_id": 2130,
+      "id": 2134,
+      "rank_start": 240001,
+      "rank_end": 0,
+      "percent_rank_start": 0,
+      "percent_rank_end": 10000,
+      "tier": 1,
+      "reward_parcel_type": [
+        2,
+        4,
+        4,
+        13
+      ],
+      "reward_parcel_unique_id": [
+        3,
+        9,
+        7,
+        101200
+      ],
+      "reward_parcel_amount": [
+        600,
+        150,
+        325,
+        1
+      ]
     }
   ]
 }

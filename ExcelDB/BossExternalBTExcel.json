@@ -93891,6 +93891,206 @@
       "behavior_argument": "2"
     },
     {
+      "external_bt_id": 613140101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 16,
+      "behavior_argument": "2,2"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 16,
+      "behavior_argument": "2,2"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "6",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 613140101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "6",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140104,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "999999999",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 613140104,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 613140104,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "400",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 613140104,
+      "ai_phase": 2,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "999999999",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 2,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "999999999",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 2,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "3"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 7,
+      "trigger_argument": "400",
+      "behavior_rate": 10000,
+      "external_behavior": 3,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 613140105,
+      "ai_phase": 3,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 6,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
       "external_bt_id": 771060001,
       "ai_phase": 0,
       "external_bt_node_type": 2,
@@ -97769,6 +97969,136 @@
       "behavior_rate": 10000,
       "external_behavior": 5,
       "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920750,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "56000",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7920750,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "399999",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7920750,
+      "ai_phase": 0,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920750,
+      "ai_phase": 0,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "399999",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "249999",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "99999",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "8",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "10",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "12",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "16",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 7920751,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "18",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
     }
   ]
 }
