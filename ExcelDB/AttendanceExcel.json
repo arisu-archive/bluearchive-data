@@ -571,6 +571,28 @@
       "title_image_path": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event20Days_99000",
       "decoration_image_path": "Uis/01_Common/33_Attendance/Image_Attend_Event20Days_1016",
       "decoration_garland_image_path": ""
+    },
+    {
+      "id": 99001,
+      "type": 1,
+      "countdown_prefab": "",
+      "display_order": 1,
+      "account_type": 1,
+      "account_level_limit": 0,
+      "title": "",
+      "infomation_localize_code": "AttendanceEvent_Info_Text_01",
+      "count_rule": 0,
+      "count_reset": 0,
+      "book_size": 7,
+      "start_date": "2025-11-09 04:00:00",
+      "startable_end_date": "2025-12-02 11:00:00",
+      "end_date": "2025-12-09 11:00:00",
+      "expiry_date": 0,
+      "mail_type": 1,
+      "dialog_category": 59,
+      "title_image_path": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event20Days_1017",
+      "decoration_image_path": "Uis/01_Common/33_Attendance/Image_Attend_Event_9001",
+      "decoration_garland_image_path": ""
     }
   ]
 }
