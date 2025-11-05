@@ -9513,7 +9513,9 @@
         618,
         620,
         622,
-        735
+        735,
+        781,
+        782
       ],
       "craft_quality_tier0": 20,
       "craft_quality_tier1": 20,
@@ -10596,7 +10598,9 @@
         463,
         464,
         574,
-        575
+        575,
+        781,
+        782
       ],
       "craft_quality_tier0": 50,
       "craft_quality_tier1": 50,
@@ -18545,6 +18549,44 @@
       "item_category": 2,
       "quality": 9,
       "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0325",
+      "sprite_name": "",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 0,
+      "expiry_change_parcel_type": 0,
+      "expiry_change_id": 0,
+      "expiry_change_amount": 0,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [
+        18
+      ],
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [
+        1
+      ],
+      "expiration_date_time": "",
+      "expiration_notify_date_in": 0,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0
+    },
+    {
+      "id": 10130,
+      "group_id": 10130,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 1851317887,
+      "item_category": 2,
+      "quality": 9,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0309",
       "sprite_name": "",
       "stackable_max": 999999,
       "stackable_function": 0,

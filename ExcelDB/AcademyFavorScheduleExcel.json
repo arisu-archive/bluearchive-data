@@ -20739,6 +20739,109 @@
         80,
         1
       ]
+    },
+    {
+      "id": 101302,
+      "character_id": 10130,
+      "schedule_group_id": 10130,
+      "order_in_group": 1,
+      "location": "샬레",
+      "localize_scenario_id": 2205914050,
+      "favor_rank": 2,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1013002,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        20
+      ]
+    },
+    {
+      "id": 101303,
+      "character_id": 10130,
+      "schedule_group_id": 10130,
+      "order_in_group": 2,
+      "location": "샬레",
+      "localize_scenario_id": 1122650249,
+      "favor_rank": 3,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1013003,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        40
+      ]
+    },
+    {
+      "id": 101305,
+      "character_id": 10130,
+      "schedule_group_id": 10130,
+      "order_in_group": 3,
+      "location": "샬레",
+      "localize_scenario_id": 3342179099,
+      "favor_rank": 5,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1013005,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        60
+      ]
+    },
+    {
+      "id": 101306,
+      "character_id": 10130,
+      "schedule_group_id": 10130,
+      "order_in_group": 4,
+      "location": "샬레",
+      "localize_scenario_id": 3576703723,
+      "favor_rank": 6,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1013006,
+      "reward_parcel_type": [
+        2,
+        8
+      ],
+      "reward_parcel_id": [
+        3,
+        10130
+      ],
+      "reward_amount": [
+        80,
+        1
+      ]
+    },
+    {
+      "id": 101308,
+      "character_id": 10130,
+      "schedule_group_id": 10130,
+      "order_in_group": 5,
+      "location": "샬레",
+      "localize_scenario_id": 1525996144,
+      "favor_rank": 8,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 1013008,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        100
+      ]
     }
   ]
 }
