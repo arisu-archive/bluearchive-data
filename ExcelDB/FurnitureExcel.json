@@ -46507,7 +46507,8 @@
         339,
         0,
         402,
-        307
+        307,
+        781
       ],
       "craft_quality_tier0": 100,
       "craft_quality_tier1": 100,
@@ -46519,7 +46520,9 @@
       "event_collection_id": 0,
       "furniture_bubble_offset_x": 0,
       "furniture_bubble_offset_y": 0,
-      "cafe_character_state_req": [],
+      "cafe_character_state_req": [
+        "R1_210384"
+      ],
       "cafe_character_state_add": [],
       "cafe_character_state_make": [],
       "cafe_character_state_only": [],
