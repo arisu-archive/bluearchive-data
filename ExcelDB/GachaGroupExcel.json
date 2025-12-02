@@ -1556,7 +1556,7 @@
     },
     {
       "id": 100023,
-      "name_kr": "1_1차 픽업 아츠코",
+      "name_kr": "1_1차 픽업 치세(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1598,7 +1598,7 @@
     },
     {
       "id": 100043,
-      "name_kr": "1_1차 픽업 히요리",
+      "name_kr": "1_1차 픽업 렌게",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1640,7 +1640,7 @@
     },
     {
       "id": 100063,
-      "name_kr": "1_2차 픽업 피나(가이드)",
+      "name_kr": "1_2차 픽업 유카리",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1682,7 +1682,7 @@
     },
     {
       "id": 100083,
-      "name_kr": "1_3차 픽업 츠바키(가이드)",
+      "name_kr": "1_3차 픽업 미야코(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1724,7 +1724,7 @@
     },
     {
       "id": 100103,
-      "name_kr": "1_4차 픽업 우미카",
+      "name_kr": "1_4차 픽업 사키(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1766,7 +1766,7 @@
     },
     {
       "id": 110023,
-      "name_kr": "1_5차 픽업 나구사",
+      "name_kr": "1_5차 픽업 모에(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -2102,7 +2102,7 @@
     },
     {
       "id": 120083,
-      "name_kr": "3_4차 픽업 사오리",
+      "name_kr": "3_4차 픽업 이즈나(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -7669,6 +7669,48 @@
       "group_type": 1
     },
     {
+      "id": 400051,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400052,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400053,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400054,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400055,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400056,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 400057,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 410000,
       "name_kr": "R56_미니이벤트_장비랜덤상자",
       "is_recursive": true,
@@ -7695,6 +7737,12 @@
     {
       "id": 410040,
       "name_kr": "R79_특수작전_미니이벤트_랜덤 장비 상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 410050,
+      "name_kr": "R81_미니이벤트_랜덤 장비 상자",
       "is_recursive": true,
       "group_type": 1
     },
