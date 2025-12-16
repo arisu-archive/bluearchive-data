@@ -115,6 +115,63 @@
       ]
     },
     {
+      "id": 90106,
+      "product_id": "com.nexon.bluearchive_0211",
+      "teen_product_id": "com.nexon.bluearchiveteen_0211",
+      "store_type": 1,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 0,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000106
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90107,
+      "product_id": "com.nexon.bluearchive_0219",
+      "teen_product_id": "com.nexon.bluearchiveteen_0219",
+      "store_type": 1,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000107
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90108,
+      "product_id": "com.nexon.bluearchive_0220",
+      "teen_product_id": "com.nexon.bluearchiveteen_0220",
+      "store_type": 1,
+      "price": 1500,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000108
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
       "id": 91000,
       "product_id": "com.nexon.bluearchive_0001",
       "teen_product_id": "com.nexon.bluearchiveteen_0001",
@@ -5825,6 +5882,476 @@
       ]
     },
     {
+      "id": 91637,
+      "product_id": "com.nexon.bluearchive_0203",
+      "teen_product_id": "com.nexon.bluearchiveteen_0203",
+      "store_type": 1,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        90006109
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        1
+      ]
+    },
+    {
+      "id": 91638,
+      "product_id": "com.nexon.bluearchive_0204",
+      "teen_product_id": "com.nexon.bluearchiveteen_0204",
+      "store_type": 1,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        912000003,
+        90006802
+      ],
+      "parcel_amount": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 91639,
+      "product_id": "com.nexon.bluearchive_0205",
+      "teen_product_id": "com.nexon.bluearchiveteen_0205",
+      "store_type": 1,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        5997,
+        100008
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 91640,
+      "product_id": "com.nexon.bluearchive_0206",
+      "teen_product_id": "com.nexon.bluearchiveteen_0206",
+      "store_type": 1,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "id": 91641,
+      "product_id": "com.nexon.bluearchive_0207",
+      "teen_product_id": "com.nexon.bluearchiveteen_0207",
+      "store_type": 1,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        20000000
+      ]
+    },
+    {
+      "id": 91642,
+      "product_id": "com.nexon.bluearchive_0208",
+      "teen_product_id": "com.nexon.bluearchiveteen_0208",
+      "store_type": 1,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "id": 91643,
+      "product_id": "com.nexon.bluearchive_0209",
+      "teen_product_id": "com.nexon.bluearchiveteen_0209",
+      "store_type": 1,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "id": 91644,
+      "product_id": "com.nexon.bluearchive_0210",
+      "teen_product_id": "com.nexon.bluearchiveteen_0210",
+      "store_type": 1,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "id": 91645,
+      "product_id": "com.nexon.bluearchive_0212",
+      "teen_product_id": "com.nexon.bluearchiveteen_0212",
+      "store_type": 1,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90008200
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 91646,
+      "product_id": "com.nexon.bluearchive_0213",
+      "teen_product_id": "com.nexon.bluearchiveteen_0213",
+      "store_type": 1,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 3,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        2500000,
+        300,
+        150,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 91647,
+      "product_id": "com.nexon.bluearchive_0214",
+      "teen_product_id": "com.nexon.bluearchiveteen_0214",
+      "store_type": 1,
+      "price": 4400,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        176,
+        16,
+        600000,
+        200,
+        50,
+        10,
+        5
+      ]
+    },
+    {
+      "id": 91648,
+      "product_id": "com.nexon.bluearchive_0254",
+      "teen_product_id": "com.nexon.bluearchiveteen_0254",
+      "store_type": 1,
+      "price": 9900,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": 91649,
+      "product_id": "com.nexon.bluearchive_0255",
+      "teen_product_id": "com.nexon.bluearchiveteen_0255",
+      "store_type": 1,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        5999,
+        5997,
+        100000
+      ],
+      "parcel_amount": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 91650,
+      "product_id": "com.nexon.bluearchive_0256",
+      "teen_product_id": "com.nexon.bluearchiveteen_0256",
+      "store_type": 1,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "parcel_id": [
+        90016102,
+        13,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045,
+        150008,
+        150009,
+        150010,
+        150011,
+        43,
+        1
+      ],
+      "parcel_amount": [
+        1,
+        25,
+        15,
+        20,
+        30,
+        35,
+        20,
+        20,
+        20,
+        25,
+        20,
+        12,
+        15,
+        4,
+        10,
+        5000000
+      ]
+    },
+    {
       "id": 90500,
       "product_id": "com.nexon.bluearchive_0024",
       "teen_product_id": "com.nexon.bluearchiveteen_0024",
@@ -5933,6 +6460,63 @@
       ],
       "parcel_id": [
         90000105
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90506,
+      "product_id": "com.nexon.bluearchive_0211",
+      "teen_product_id": "com.nexon.bluearchiveteen_0211",
+      "store_type": 2,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 0,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000506
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90507,
+      "product_id": "com.nexon.bluearchive_0219",
+      "teen_product_id": "com.nexon.bluearchiveteen_0219",
+      "store_type": 2,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000507
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90508,
+      "product_id": "com.nexon.bluearchive_0220",
+      "teen_product_id": "com.nexon.bluearchiveteen_0220",
+      "store_type": 2,
+      "price": 1500,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000508
       ],
       "parcel_amount": [
         1
@@ -11649,6 +12233,476 @@
       ]
     },
     {
+      "id": 95637,
+      "product_id": "com.nexon.bluearchive_0203",
+      "teen_product_id": "com.nexon.bluearchiveteen_0203",
+      "store_type": 2,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        90006109
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        1
+      ]
+    },
+    {
+      "id": 95638,
+      "product_id": "com.nexon.bluearchive_0204",
+      "teen_product_id": "com.nexon.bluearchiveteen_0204",
+      "store_type": 2,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        912000003,
+        90006802
+      ],
+      "parcel_amount": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 95639,
+      "product_id": "com.nexon.bluearchive_0205",
+      "teen_product_id": "com.nexon.bluearchiveteen_0205",
+      "store_type": 2,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        5997,
+        100008
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 95640,
+      "product_id": "com.nexon.bluearchive_0206",
+      "teen_product_id": "com.nexon.bluearchiveteen_0206",
+      "store_type": 2,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "id": 95641,
+      "product_id": "com.nexon.bluearchive_0207",
+      "teen_product_id": "com.nexon.bluearchiveteen_0207",
+      "store_type": 2,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        20000000
+      ]
+    },
+    {
+      "id": 95642,
+      "product_id": "com.nexon.bluearchive_0208",
+      "teen_product_id": "com.nexon.bluearchiveteen_0208",
+      "store_type": 2,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "id": 95643,
+      "product_id": "com.nexon.bluearchive_0209",
+      "teen_product_id": "com.nexon.bluearchiveteen_0209",
+      "store_type": 2,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "id": 95644,
+      "product_id": "com.nexon.bluearchive_0210",
+      "teen_product_id": "com.nexon.bluearchiveteen_0210",
+      "store_type": 2,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "id": 95645,
+      "product_id": "com.nexon.bluearchive_0212",
+      "teen_product_id": "com.nexon.bluearchiveteen_0212",
+      "store_type": 2,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90008200
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 95646,
+      "product_id": "com.nexon.bluearchive_0213",
+      "teen_product_id": "com.nexon.bluearchiveteen_0213",
+      "store_type": 2,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 3,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        2500000,
+        300,
+        150,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 95647,
+      "product_id": "com.nexon.bluearchive_0214",
+      "teen_product_id": "com.nexon.bluearchiveteen_0214",
+      "store_type": 2,
+      "price": 4400,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        176,
+        16,
+        600000,
+        200,
+        50,
+        10,
+        5
+      ]
+    },
+    {
+      "id": 95648,
+      "product_id": "com.nexon.bluearchive_0254",
+      "teen_product_id": "com.nexon.bluearchiveteen_0254",
+      "store_type": 2,
+      "price": 9900,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": 95649,
+      "product_id": "com.nexon.bluearchive_0255",
+      "teen_product_id": "com.nexon.bluearchiveteen_0255",
+      "store_type": 2,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        5999,
+        5997,
+        100000
+      ],
+      "parcel_amount": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 95650,
+      "product_id": "com.nexon.bluearchive_0256",
+      "teen_product_id": "com.nexon.bluearchiveteen_0256",
+      "store_type": 2,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "parcel_id": [
+        90016102,
+        13,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045,
+        150008,
+        150009,
+        150010,
+        150011,
+        43,
+        1
+      ],
+      "parcel_amount": [
+        1,
+        25,
+        15,
+        20,
+        30,
+        35,
+        20,
+        20,
+        20,
+        25,
+        20,
+        12,
+        15,
+        4,
+        10,
+        5000000
+      ]
+    },
+    {
       "id": 90800,
       "product_id": "com.nexon.bluearchive_0024",
       "teen_product_id": "com.nexon.bluearchiveteen_0024",
@@ -11757,6 +12811,63 @@
       ],
       "parcel_id": [
         90000805
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90806,
+      "product_id": "com.nexon.bluearchive_0211",
+      "teen_product_id": "com.nexon.bluearchiveteen_0211",
+      "store_type": 3,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 0,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000806
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90807,
+      "product_id": "com.nexon.bluearchive_0219",
+      "teen_product_id": "com.nexon.bluearchiveteen_0219",
+      "store_type": 3,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000807
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90808,
+      "product_id": "com.nexon.bluearchive_0220",
+      "teen_product_id": "com.nexon.bluearchiveteen_0220",
+      "store_type": 3,
+      "price": 1500,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000808
       ],
       "parcel_amount": [
         1
@@ -17473,6 +18584,476 @@
       ]
     },
     {
+      "id": 98637,
+      "product_id": "com.nexon.bluearchive_0203",
+      "teen_product_id": "com.nexon.bluearchiveteen_0203",
+      "store_type": 3,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        90006109
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        1
+      ]
+    },
+    {
+      "id": 98638,
+      "product_id": "com.nexon.bluearchive_0204",
+      "teen_product_id": "com.nexon.bluearchiveteen_0204",
+      "store_type": 3,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        912000003,
+        90006802
+      ],
+      "parcel_amount": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 98639,
+      "product_id": "com.nexon.bluearchive_0205",
+      "teen_product_id": "com.nexon.bluearchiveteen_0205",
+      "store_type": 3,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        5997,
+        100008
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 98640,
+      "product_id": "com.nexon.bluearchive_0206",
+      "teen_product_id": "com.nexon.bluearchiveteen_0206",
+      "store_type": 3,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "id": 98641,
+      "product_id": "com.nexon.bluearchive_0207",
+      "teen_product_id": "com.nexon.bluearchiveteen_0207",
+      "store_type": 3,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        20000000
+      ]
+    },
+    {
+      "id": 98642,
+      "product_id": "com.nexon.bluearchive_0208",
+      "teen_product_id": "com.nexon.bluearchiveteen_0208",
+      "store_type": 3,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "id": 98643,
+      "product_id": "com.nexon.bluearchive_0209",
+      "teen_product_id": "com.nexon.bluearchiveteen_0209",
+      "store_type": 3,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "id": 98644,
+      "product_id": "com.nexon.bluearchive_0210",
+      "teen_product_id": "com.nexon.bluearchiveteen_0210",
+      "store_type": 3,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "id": 98645,
+      "product_id": "com.nexon.bluearchive_0212",
+      "teen_product_id": "com.nexon.bluearchiveteen_0212",
+      "store_type": 3,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90008200
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 98646,
+      "product_id": "com.nexon.bluearchive_0213",
+      "teen_product_id": "com.nexon.bluearchiveteen_0213",
+      "store_type": 3,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 3,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        2500000,
+        300,
+        150,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 98647,
+      "product_id": "com.nexon.bluearchive_0214",
+      "teen_product_id": "com.nexon.bluearchiveteen_0214",
+      "store_type": 3,
+      "price": 4400,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        176,
+        16,
+        600000,
+        200,
+        50,
+        10,
+        5
+      ]
+    },
+    {
+      "id": 98648,
+      "product_id": "com.nexon.bluearchive_0254",
+      "teen_product_id": "com.nexon.bluearchiveteen_0254",
+      "store_type": 3,
+      "price": 9900,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": 98649,
+      "product_id": "com.nexon.bluearchive_0255",
+      "teen_product_id": "com.nexon.bluearchiveteen_0255",
+      "store_type": 3,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        5999,
+        5997,
+        100000
+      ],
+      "parcel_amount": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 98650,
+      "product_id": "com.nexon.bluearchive_0256",
+      "teen_product_id": "com.nexon.bluearchiveteen_0256",
+      "store_type": 3,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "parcel_id": [
+        90016102,
+        13,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045,
+        150008,
+        150009,
+        150010,
+        150011,
+        43,
+        1
+      ],
+      "parcel_amount": [
+        1,
+        25,
+        15,
+        20,
+        30,
+        35,
+        20,
+        20,
+        20,
+        25,
+        20,
+        12,
+        15,
+        4,
+        10,
+        5000000
+      ]
+    },
+    {
       "id": 90300,
       "product_id": "com.nexon.bluearchive_0024",
       "teen_product_id": "com.nexon.bluearchiveteen_0024",
@@ -17581,6 +19162,63 @@
       ],
       "parcel_id": [
         90000305
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90306,
+      "product_id": "com.nexon.bluearchive_0211",
+      "teen_product_id": "com.nexon.bluearchiveteen_0211",
+      "store_type": 5,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 0,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000306
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90307,
+      "product_id": "com.nexon.bluearchive_0219",
+      "teen_product_id": "com.nexon.bluearchiveteen_0219",
+      "store_type": 5,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000307
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 90308,
+      "product_id": "com.nexon.bluearchive_0220",
+      "teen_product_id": "com.nexon.bluearchiveteen_0220",
+      "store_type": 5,
+      "price": 1500,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90000308
       ],
       "parcel_amount": [
         1
@@ -23297,6 +24935,476 @@
       ]
     },
     {
+      "id": 93637,
+      "product_id": "com.nexon.bluearchive_0203",
+      "teen_product_id": "com.nexon.bluearchiveteen_0203",
+      "store_type": 5,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        90006109
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        1
+      ]
+    },
+    {
+      "id": 93638,
+      "product_id": "com.nexon.bluearchive_0204",
+      "teen_product_id": "com.nexon.bluearchiveteen_0204",
+      "store_type": 5,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        912000003,
+        90006802
+      ],
+      "parcel_amount": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 93639,
+      "product_id": "com.nexon.bluearchive_0205",
+      "teen_product_id": "com.nexon.bluearchiveteen_0205",
+      "store_type": 5,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        5997,
+        100008
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 93640,
+      "product_id": "com.nexon.bluearchive_0206",
+      "teen_product_id": "com.nexon.bluearchiveteen_0206",
+      "store_type": 5,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "id": 93641,
+      "product_id": "com.nexon.bluearchive_0207",
+      "teen_product_id": "com.nexon.bluearchiveteen_0207",
+      "store_type": 5,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        20000000
+      ]
+    },
+    {
+      "id": 93642,
+      "product_id": "com.nexon.bluearchive_0208",
+      "teen_product_id": "com.nexon.bluearchiveteen_0208",
+      "store_type": 5,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "id": 93643,
+      "product_id": "com.nexon.bluearchive_0209",
+      "teen_product_id": "com.nexon.bluearchiveteen_0209",
+      "store_type": 5,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "id": 93644,
+      "product_id": "com.nexon.bluearchive_0210",
+      "teen_product_id": "com.nexon.bluearchiveteen_0210",
+      "store_type": 5,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "id": 93645,
+      "product_id": "com.nexon.bluearchive_0212",
+      "teen_product_id": "com.nexon.bluearchiveteen_0212",
+      "store_type": 5,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90008200
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 93646,
+      "product_id": "com.nexon.bluearchive_0213",
+      "teen_product_id": "com.nexon.bluearchiveteen_0213",
+      "store_type": 5,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 3,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        2500000,
+        300,
+        150,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 93647,
+      "product_id": "com.nexon.bluearchive_0214",
+      "teen_product_id": "com.nexon.bluearchiveteen_0214",
+      "store_type": 5,
+      "price": 4400,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        176,
+        16,
+        600000,
+        200,
+        50,
+        10,
+        5
+      ]
+    },
+    {
+      "id": 93648,
+      "product_id": "com.nexon.bluearchive_0254",
+      "teen_product_id": "com.nexon.bluearchiveteen_0254",
+      "store_type": 5,
+      "price": 9900,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": 93649,
+      "product_id": "com.nexon.bluearchive_0255",
+      "teen_product_id": "com.nexon.bluearchiveteen_0255",
+      "store_type": 5,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        5999,
+        5997,
+        100000
+      ],
+      "parcel_amount": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 93650,
+      "product_id": "com.nexon.bluearchive_0256",
+      "teen_product_id": "com.nexon.bluearchiveteen_0256",
+      "store_type": 5,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "parcel_id": [
+        90016102,
+        13,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045,
+        150008,
+        150009,
+        150010,
+        150011,
+        43,
+        1
+      ],
+      "parcel_amount": [
+        1,
+        25,
+        15,
+        20,
+        30,
+        35,
+        20,
+        20,
+        20,
+        25,
+        20,
+        12,
+        15,
+        4,
+        10,
+        5000000
+      ]
+    },
+    {
       "id": 80100,
       "product_id": "com.nexon.bluearchive_0024",
       "teen_product_id": "com.nexon.bluearchiveteen_0024",
@@ -23405,6 +25513,63 @@
       ],
       "parcel_id": [
         90080105
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 80106,
+      "product_id": "com.nexon.bluearchive_0211",
+      "teen_product_id": "com.nexon.bluearchiveteen_0211",
+      "store_type": 6,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 0,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90080106
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 80107,
+      "product_id": "com.nexon.bluearchive_0219",
+      "teen_product_id": "com.nexon.bluearchiveteen_0219",
+      "store_type": 6,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90080107
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 80108,
+      "product_id": "com.nexon.bluearchive_0220",
+      "teen_product_id": "com.nexon.bluearchiveteen_0220",
+      "store_type": 6,
+      "price": 1500,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90080108
       ],
       "parcel_amount": [
         1
@@ -29121,6 +31286,476 @@
       ]
     },
     {
+      "id": 81637,
+      "product_id": "com.nexon.bluearchive_0203",
+      "teen_product_id": "com.nexon.bluearchiveteen_0203",
+      "store_type": 6,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        90006109
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        1
+      ]
+    },
+    {
+      "id": 81638,
+      "product_id": "com.nexon.bluearchive_0204",
+      "teen_product_id": "com.nexon.bluearchiveteen_0204",
+      "store_type": 6,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        912000003,
+        90006802
+      ],
+      "parcel_amount": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 81639,
+      "product_id": "com.nexon.bluearchive_0205",
+      "teen_product_id": "com.nexon.bluearchiveteen_0205",
+      "store_type": 6,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        5997,
+        100008
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 81640,
+      "product_id": "com.nexon.bluearchive_0206",
+      "teen_product_id": "com.nexon.bluearchiveteen_0206",
+      "store_type": 6,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        500,
+        250,
+        175,
+        75
+      ]
+    },
+    {
+      "id": 81641,
+      "product_id": "com.nexon.bluearchive_0207",
+      "teen_product_id": "com.nexon.bluearchiveteen_0207",
+      "store_type": 6,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        20000000
+      ]
+    },
+    {
+      "id": 81642,
+      "product_id": "com.nexon.bluearchive_0208",
+      "teen_product_id": "com.nexon.bluearchiveteen_0208",
+      "store_type": 6,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045
+      ],
+      "parcel_amount": [
+        1176,
+        199,
+        15,
+        20,
+        30,
+        35,
+        40,
+        40,
+        40,
+        50
+      ]
+    },
+    {
+      "id": 81643,
+      "product_id": "com.nexon.bluearchive_0209",
+      "teen_product_id": "com.nexon.bluearchiveteen_0209",
+      "store_type": 6,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150002,
+        150003,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        35,
+        60,
+        65,
+        35,
+        75
+      ]
+    },
+    {
+      "id": 81644,
+      "product_id": "com.nexon.bluearchive_0210",
+      "teen_product_id": "com.nexon.bluearchiveteen_0210",
+      "store_type": 6,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        150005,
+        150006,
+        150007,
+        150009,
+        150010,
+        150011,
+        12
+      ],
+      "parcel_amount": [
+        1960,
+        340,
+        6500000,
+        18,
+        30,
+        8,
+        25,
+        30,
+        8,
+        75
+      ]
+    },
+    {
+      "id": 81645,
+      "product_id": "com.nexon.bluearchive_0212",
+      "teen_product_id": "com.nexon.bluearchiveteen_0212",
+      "store_type": 6,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        90008200
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 81646,
+      "product_id": "com.nexon.bluearchive_0213",
+      "teen_product_id": "com.nexon.bluearchiveteen_0213",
+      "store_type": 6,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 3,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        784,
+        16,
+        2500000,
+        300,
+        150,
+        55,
+        25
+      ]
+    },
+    {
+      "id": 81647,
+      "product_id": "com.nexon.bluearchive_0214",
+      "teen_product_id": "com.nexon.bluearchiveteen_0214",
+      "store_type": 6,
+      "price": 4400,
+      "price_reference": "",
+      "purchase_period_type": 2,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        2,
+        3,
+        1,
+        10,
+        11,
+        12,
+        13
+      ],
+      "parcel_amount": [
+        176,
+        16,
+        600000,
+        200,
+        50,
+        10,
+        5
+      ]
+    },
+    {
+      "id": 81648,
+      "product_id": "com.nexon.bluearchive_0254",
+      "teen_product_id": "com.nexon.bluearchiveteen_0254",
+      "store_type": 6,
+      "price": 9900,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2,
+        2
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        400,
+        400
+      ]
+    },
+    {
+      "id": 81649,
+      "product_id": "com.nexon.bluearchive_0255",
+      "teen_product_id": "com.nexon.bluearchiveteen_0255",
+      "store_type": 6,
+      "price": 19000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "parcel_id": [
+        5999,
+        5997,
+        100000
+      ],
+      "parcel_amount": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 81650,
+      "product_id": "com.nexon.bluearchive_0256",
+      "teen_product_id": "com.nexon.bluearchiveteen_0256",
+      "store_type": 6,
+      "price": 49000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "parcel_id": [
+        90016102,
+        13,
+        150028,
+        150029,
+        150030,
+        150031,
+        150032,
+        150033,
+        150041,
+        150045,
+        150008,
+        150009,
+        150010,
+        150011,
+        43,
+        1
+      ],
+      "parcel_amount": [
+        1,
+        25,
+        15,
+        20,
+        30,
+        35,
+        20,
+        20,
+        20,
+        25,
+        20,
+        12,
+        15,
+        4,
+        10,
+        5000000
+      ]
+    },
+    {
       "id": 900000,
       "product_id": "com.nexon.bluearchive_0218",
       "teen_product_id": "com.nexon.bluearchiveteen_0218",
@@ -29140,6 +31775,291 @@
       "parcel_amount": [
         10,
         10000
+      ]
+    },
+    {
+      "id": 910001,
+      "product_id": "com.nexon.bluearchive_0215",
+      "teen_product_id": "com.nexon.bluearchiveteen_0215",
+      "store_type": 1,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000001
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 910002,
+      "product_id": "com.nexon.bluearchive_0216",
+      "teen_product_id": "com.nexon.bluearchiveteen_0216",
+      "store_type": 1,
+      "price": 34000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000002
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 910003,
+      "product_id": "com.nexon.bluearchive_0217",
+      "teen_product_id": "com.nexon.bluearchiveteen_0217",
+      "store_type": 1,
+      "price": 5000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000003
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 950001,
+      "product_id": "com.nexon.bluearchive_0215",
+      "teen_product_id": "com.nexon.bluearchiveteen_0215",
+      "store_type": 2,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000004
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 950002,
+      "product_id": "com.nexon.bluearchive_0216",
+      "teen_product_id": "com.nexon.bluearchiveteen_0216",
+      "store_type": 2,
+      "price": 34000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000005
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 950003,
+      "product_id": "com.nexon.bluearchive_0217",
+      "teen_product_id": "com.nexon.bluearchiveteen_0217",
+      "store_type": 2,
+      "price": 5000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000006
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 980001,
+      "product_id": "com.nexon.bluearchive_0215",
+      "teen_product_id": "com.nexon.bluearchiveteen_0215",
+      "store_type": 3,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000007
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 980002,
+      "product_id": "com.nexon.bluearchive_0216",
+      "teen_product_id": "com.nexon.bluearchiveteen_0216",
+      "store_type": 3,
+      "price": 34000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000008
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 980003,
+      "product_id": "com.nexon.bluearchive_0217",
+      "teen_product_id": "com.nexon.bluearchiveteen_0217",
+      "store_type": 3,
+      "price": 5000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000009
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 930001,
+      "product_id": "com.nexon.bluearchive_0215",
+      "teen_product_id": "com.nexon.bluearchiveteen_0215",
+      "store_type": 5,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000010
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 930002,
+      "product_id": "com.nexon.bluearchive_0216",
+      "teen_product_id": "com.nexon.bluearchiveteen_0216",
+      "store_type": 5,
+      "price": 34000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000011
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 930003,
+      "product_id": "com.nexon.bluearchive_0217",
+      "teen_product_id": "com.nexon.bluearchiveteen_0217",
+      "store_type": 5,
+      "price": 5000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000012
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 981001,
+      "product_id": "com.nexon.bluearchive_0215",
+      "teen_product_id": "com.nexon.bluearchiveteen_0215",
+      "store_type": 6,
+      "price": 29000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000013
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 981002,
+      "product_id": "com.nexon.bluearchive_0216",
+      "teen_product_id": "com.nexon.bluearchiveteen_0216",
+      "store_type": 6,
+      "price": 34000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000014
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 980103,
+      "product_id": "com.nexon.bluearchive_0217",
+      "teen_product_id": "com.nexon.bluearchiveteen_0217",
+      "store_type": 6,
+      "price": 5000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        94000015
+      ],
+      "parcel_amount": [
+        1
       ]
     },
     {
@@ -29439,6 +32359,170 @@
       ]
     },
     {
+      "id": 9090108,
+      "product_id": "com_nexon_bluearchive_0235_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0235_chzzkdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090109,
+      "product_id": "com_nexon_bluearchive_0236_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0236_chzzkdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090110,
+      "product_id": "com_nexon_bluearchive_0237_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0237_chzzkdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090111,
+      "product_id": "com_nexon_bluearchive_0238_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0238_chzzkdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
+      "id": 9090112,
+      "product_id": "com_nexon_bluearchive_0239_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0239_twitchdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090113,
+      "product_id": "com_nexon_bluearchive_0240_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0240_twitchdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090114,
+      "product_id": "com_nexon_bluearchive_0241_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0241_twitchdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090115,
+      "product_id": "com_nexon_bluearchive_0242_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0242_twitchdrops",
+      "store_type": 1,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
       "id": 9090500,
       "product_id": "com_nexon_bluearchive_0227_chzzkdrops",
       "teen_product_id": "com_nexon_bluearchiveteen_0227_chzzkdrops",
@@ -29600,6 +32684,170 @@
       ],
       "parcel_amount": [
         100
+      ]
+    },
+    {
+      "id": 9090508,
+      "product_id": "com_nexon_bluearchive_0235_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0235_chzzkdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090509,
+      "product_id": "com_nexon_bluearchive_0236_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0236_chzzkdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090510,
+      "product_id": "com_nexon_bluearchive_0237_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0237_chzzkdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090511,
+      "product_id": "com_nexon_bluearchive_0238_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0238_chzzkdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
+      "id": 9090512,
+      "product_id": "com_nexon_bluearchive_0239_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0239_twitchdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090513,
+      "product_id": "com_nexon_bluearchive_0240_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0240_twitchdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090514,
+      "product_id": "com_nexon_bluearchive_0241_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0241_twitchdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090515,
+      "product_id": "com_nexon_bluearchive_0242_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0242_twitchdrops",
+      "store_type": 2,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
       ]
     },
     {
@@ -29767,6 +33015,170 @@
       ]
     },
     {
+      "id": 9090808,
+      "product_id": "com_nexon_bluearchive_0235_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0235_chzzkdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090809,
+      "product_id": "com_nexon_bluearchive_0236_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0236_chzzkdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090810,
+      "product_id": "com_nexon_bluearchive_0237_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0237_chzzkdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090811,
+      "product_id": "com_nexon_bluearchive_0238_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0238_chzzkdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
+      "id": 9090812,
+      "product_id": "com_nexon_bluearchive_0239_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0239_twitchdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090813,
+      "product_id": "com_nexon_bluearchive_0240_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0240_twitchdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090814,
+      "product_id": "com_nexon_bluearchive_0241_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0241_twitchdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090815,
+      "product_id": "com_nexon_bluearchive_0242_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0242_twitchdrops",
+      "store_type": 3,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
       "id": 9090300,
       "product_id": "com_nexon_bluearchive_0227_chzzkdrops",
       "teen_product_id": "com_nexon_bluearchiveteen_0227_chzzkdrops",
@@ -29931,6 +33343,170 @@
       ]
     },
     {
+      "id": 9090308,
+      "product_id": "com_nexon_bluearchive_0235_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0235_chzzkdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090309,
+      "product_id": "com_nexon_bluearchive_0236_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0236_chzzkdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090310,
+      "product_id": "com_nexon_bluearchive_0237_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0237_chzzkdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090311,
+      "product_id": "com_nexon_bluearchive_0238_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0238_chzzkdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
+      "id": 9090312,
+      "product_id": "com_nexon_bluearchive_0239_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0239_twitchdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9090313,
+      "product_id": "com_nexon_bluearchive_0240_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0240_twitchdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9090314,
+      "product_id": "com_nexon_bluearchive_0241_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0241_twitchdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9090315,
+      "product_id": "com_nexon_bluearchive_0242_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0242_twitchdrops",
+      "store_type": 5,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
       "id": 9080100,
       "product_id": "com_nexon_bluearchive_0227_chzzkdrops",
       "teen_product_id": "com_nexon_bluearchiveteen_0227_chzzkdrops",
@@ -30092,6 +33668,170 @@
       ],
       "parcel_amount": [
         100
+      ]
+    },
+    {
+      "id": 9080108,
+      "product_id": "com_nexon_bluearchive_0235_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0235_chzzkdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9080109,
+      "product_id": "com_nexon_bluearchive_0236_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0236_chzzkdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9080110,
+      "product_id": "com_nexon_bluearchive_0237_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0237_chzzkdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9080111,
+      "product_id": "com_nexon_bluearchive_0238_chzzkdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0238_chzzkdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
+      ]
+    },
+    {
+      "id": 9080112,
+      "product_id": "com_nexon_bluearchive_0239_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0239_twitchdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        100000
+      ]
+    },
+    {
+      "id": 9080113,
+      "product_id": "com_nexon_bluearchive_0240_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0240_twitchdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        4,
+        4
+      ],
+      "parcel_id": [
+        11,
+        12
+      ],
+      "parcel_amount": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": 9080114,
+      "product_id": "com_nexon_bluearchive_0241_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0241_twitchdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        3,
+        3
+      ],
+      "parcel_id": [
+        2,
+        3
+      ],
+      "parcel_amount": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": 9080115,
+      "product_id": "com_nexon_bluearchive_0242_twitchdrops",
+      "teen_product_id": "com_nexon_bluearchiveteen_0242_twitchdrops",
+      "store_type": 6,
+      "price": 0,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        360
       ]
     }
   ]
