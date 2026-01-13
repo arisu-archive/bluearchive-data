@@ -5063,6 +5063,51 @@
       "echelon_extension_type": 0
     },
     {
+      "id": 1058,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "Perorozilla_Outdoor",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Perorozilla_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Perorozilla_LobbyBG_Outdoor",
+      "raid_character_id": 7405800,
+      "boss_character_id": [
+        7405800
+      ],
+      "difficulty": 7,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 240000,
+      "ground_id": 206200008,
+      "ground_dev_name": "Perorozilla",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 17710000,
+      "maximum_score": 10368000,
+      "per_second_minus_score": 28800,
+      "hp_percent_score": 26315000,
+      "minimum_acquisition_score": 44025000,
+      "maximum_acquisition_score": 54393000,
+      "raid_reward_group_id": 607,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Perorozilla_Outdoor_Insane_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 1866624346,
+      "echelon_extension_type": 0
+    },
+    {
       "id": 1061,
       "use_boss_index": false,
       "use_boss_ai_phase_sync": true,
@@ -6916,6 +6961,406 @@
       "clear_scenario_key": 0,
       "show_skill_card": true,
       "boss_bg_info_key": 1142087454,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131401,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140112,
+      "boss_character_id": [
+        613140101,
+        613140104,
+        613140105
+      ],
+      "difficulty": 0,
+      "difficulty_open_condition": true,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100001,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 250000,
+      "maximum_score": 432000,
+      "per_second_minus_score": 1200,
+      "hp_percent_score": 277000,
+      "minimum_acquisition_score": 527000,
+      "maximum_acquisition_score": 959000,
+      "raid_reward_group_id": 1300,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP",
+        "Timeline/Timeline_EN0013_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 1002857250,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131402,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140212,
+      "boss_character_id": [
+        613140201,
+        613140204,
+        613140205
+      ],
+      "difficulty": 1,
+      "difficulty_open_condition": true,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100002,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 500000,
+      "maximum_score": 864000,
+      "per_second_minus_score": 2400,
+      "hp_percent_score": 554000,
+      "minimum_acquisition_score": 1054000,
+      "maximum_acquisition_score": 1918000,
+      "raid_reward_group_id": 1301,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP",
+        "Timeline/Timeline_EN0013_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 1002857250,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131403,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140312,
+      "boss_character_id": [
+        613140301,
+        613140304,
+        613140305
+      ],
+      "difficulty": 2,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100003,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 1000000,
+      "maximum_score": 1728000,
+      "per_second_minus_score": 4800,
+      "hp_percent_score": 1108000,
+      "minimum_acquisition_score": 2108000,
+      "maximum_acquisition_score": 3836000,
+      "raid_reward_group_id": 1302,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP",
+        "Timeline/Timeline_EN0013_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131404,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140412,
+      "boss_character_id": [
+        613140401,
+        613140404,
+        613140405
+      ],
+      "difficulty": 3,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100004,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 2000000,
+      "maximum_score": 3456000,
+      "per_second_minus_score": 9600,
+      "hp_percent_score": 2216000,
+      "minimum_acquisition_score": 4216000,
+      "maximum_acquisition_score": 7672000,
+      "raid_reward_group_id": 1303,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP",
+        "Timeline/Timeline_EN0013_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131405,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140512,
+      "boss_character_id": [
+        613140501,
+        613140504,
+        613140505
+      ],
+      "difficulty": 4,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100005,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 4000000,
+      "maximum_score": 5184000,
+      "per_second_minus_score": 14400,
+      "hp_percent_score": 6160000,
+      "minimum_acquisition_score": 10160000,
+      "maximum_acquisition_score": 15344000,
+      "raid_reward_group_id": 1304,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP",
+        "Timeline/Timeline_EN0013_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131406,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140616,
+      "boss_character_id": [
+        613140601,
+        613140604,
+        613140605
+      ],
+      "difficulty": 5,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100006,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 6800000,
+      "maximum_score": 6912000,
+      "per_second_minus_score": 19200,
+      "hp_percent_score": 14216000,
+      "minimum_acquisition_score": 21016000,
+      "maximum_acquisition_score": 27928000,
+      "raid_reward_group_id": 1305,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP_Insane",
+        "Timeline/Timeline_EN0013_Original_PhaseChange_Insane"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131407,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140716,
+      "boss_character_id": [
+        613140701,
+        613140704,
+        613140705
+      ],
+      "difficulty": 6,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100007,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 12200000,
+      "maximum_score": 8640000,
+      "per_second_minus_score": 24000,
+      "hp_percent_score": 19508000,
+      "minimum_acquisition_score": 31708000,
+      "maximum_acquisition_score": 40348000,
+      "raid_reward_group_id": 1306,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP_Insane",
+        "Timeline/Timeline_EN0013_Original_PhaseChange_Insane"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 1131408,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "EN0013",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_EN0013_LobbyBG",
+      "raid_character_id": 613140816,
+      "boss_character_id": [
+        613140801,
+        613140804,
+        613140805
+      ],
+      "difficulty": 7,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 270000,
+      "ground_id": 213100008,
+      "ground_dev_name": "EN0013",
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 17710000,
+      "maximum_score": 10368000,
+      "per_second_minus_score": 28800,
+      "hp_percent_score": 26315000,
+      "minimum_acquisition_score": 44025000,
+      "maximum_acquisition_score": 54393000,
+      "raid_reward_group_id": 1307,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0013_Original_OP_Insane",
+        "Timeline/Timeline_EN0013_Original_PhaseChange_Insane"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        2
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 3983422512,
       "echelon_extension_type": 0
     }
   ]

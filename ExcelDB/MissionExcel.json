@@ -2453,7 +2453,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -2493,7 +2494,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -3514,7 +3516,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -80424,7 +80427,8 @@
         21,
         2021101,
         2021201,
-        2021301
+        2021301,
+        2021401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80468,7 +80472,8 @@
         22,
         2021102,
         2021202,
-        2021302
+        2021302,
+        2021402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80512,7 +80517,8 @@
         23,
         2021103,
         2021203,
-        2021303
+        2021303,
+        2021403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80556,7 +80562,8 @@
         24,
         2021104,
         2021204,
-        2021304
+        2021304,
+        2021404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80600,7 +80607,8 @@
         25,
         2021105,
         2021205,
-        2021305
+        2021305,
+        2021405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80644,7 +80652,8 @@
         26,
         2021106,
         2021206,
-        2021306
+        2021306,
+        2021406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -80688,7 +80697,8 @@
         27,
         2021107,
         2021207,
-        2021307
+        2021307,
+        2021407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82606,7 +82616,8 @@
         51,
         2063101,
         2063201,
-        2063301
+        2063301,
+        2063401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82652,7 +82663,8 @@
         52,
         2063102,
         2063202,
-        2063302
+        2063302,
+        2063402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82698,7 +82710,8 @@
         53,
         2063103,
         2063203,
-        2063303
+        2063303,
+        2063403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82744,7 +82757,8 @@
         54,
         2063104,
         2063204,
-        2063304
+        2063304,
+        2063404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82790,7 +82804,8 @@
         55,
         2063105,
         2063205,
-        2063305
+        2063305,
+        2063405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82836,7 +82851,8 @@
         56,
         2063106,
         2063206,
-        2063306
+        2063306,
+        2063406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82882,7 +82898,8 @@
         57,
         2063107,
         2063207,
-        2063307
+        2063307,
+        2063407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82926,7 +82943,8 @@
         1041,
         2051101,
         2051201,
-        2051301
+        2051301,
+        2051401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -82970,7 +82988,8 @@
         1042,
         2051102,
         2051202,
-        2051302
+        2051302,
+        2051402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83014,7 +83033,8 @@
         1043,
         2051103,
         2051203,
-        2051303
+        2051303,
+        2051403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83058,7 +83078,8 @@
         1044,
         2051104,
         2051204,
-        2051304
+        2051304,
+        2051404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83102,7 +83123,8 @@
         1045,
         2051105,
         2051205,
-        2051305
+        2051305,
+        2051405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83146,7 +83168,8 @@
         1046,
         2051106,
         2051206,
-        2051306
+        2051306,
+        2051406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83190,7 +83213,8 @@
         1047,
         2051107,
         2051207,
-        2051307
+        2051307,
+        2051407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83520,6 +83544,49 @@
       ]
     },
     {
+      "id": 101225,
+      "category": 3,
+      "description": 3202781781,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 101000,
+      "pre_mission_id": [
+        101169
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby",
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1058
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        100
+      ]
+    },
+    {
       "id": 101141,
       "category": 3,
       "description": 2754787705,
@@ -83549,7 +83616,8 @@
         61,
         2071101,
         2071201,
-        2071301
+        2071301,
+        2071401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83593,7 +83661,8 @@
         62,
         2071102,
         2071202,
-        2071302
+        2071302,
+        2071402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83637,7 +83706,8 @@
         63,
         2071103,
         2071203,
-        2071303
+        2071303,
+        2071403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83681,7 +83751,8 @@
         64,
         2071104,
         2071204,
-        2071304
+        2071304,
+        2071404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83725,7 +83796,8 @@
         65,
         2071105,
         2071205,
-        2071305
+        2071305,
+        2071405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83769,7 +83841,8 @@
         66,
         2071106,
         2071206,
-        2071306
+        2071306,
+        2071406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83813,7 +83886,8 @@
         67,
         2071107,
         2071207,
-        2071307
+        2071307,
+        2071407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83897,7 +83971,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        71
+        71,
+        2083101,
+        2083201,
+        2083301,
+        2083401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83940,7 +84018,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        72
+        72,
+        2083102,
+        2083202,
+        2083302,
+        2083402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -83983,7 +84065,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        73
+        73,
+        2083103,
+        2083203,
+        2083303,
+        2083403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84026,7 +84112,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        74
+        74,
+        2083104,
+        2083204,
+        2083304,
+        2083404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84069,7 +84159,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        75
+        75,
+        2083105,
+        2083205,
+        2083305,
+        2083405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84112,7 +84206,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        76
+        76,
+        2083106,
+        2083206,
+        2083306,
+        2083406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84155,7 +84253,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        77
+        77,
+        2083107,
+        2083207,
+        2083307,
+        2083407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84239,7 +84341,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1061
+        1061,
+        2073101,
+        2073201,
+        2073301,
+        2073401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84282,7 +84388,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1062
+        1062,
+        2073102,
+        2073202,
+        2073302,
+        2073402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84325,7 +84435,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1063
+        1063,
+        2073103,
+        2073203,
+        2073303,
+        2073403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84368,7 +84482,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1064
+        1064,
+        2073104,
+        2073204,
+        2073304,
+        2073404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84411,7 +84529,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1065
+        1065,
+        2073105,
+        2073205,
+        2073305,
+        2073405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84454,7 +84576,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1066
+        1066,
+        2073106,
+        2073206,
+        2073306,
+        2073406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84497,7 +84623,11 @@
       "complete_condition_type": 45,
       "complete_condition_count": 1,
       "complete_condition_parameter": [
-        1067
+        1067,
+        2073107,
+        2073207,
+        2073307,
+        2073407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84899,7 +85029,8 @@
         1071,
         2082101,
         2082201,
-        2082301
+        2082301,
+        2082401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84943,7 +85074,8 @@
         1072,
         2082102,
         2082202,
-        2082302
+        2082302,
+        2082402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -84987,7 +85119,8 @@
         1073,
         2082103,
         2082203,
-        2082303
+        2082303,
+        2082403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85031,7 +85164,8 @@
         1074,
         2082104,
         2082204,
-        2082304
+        2082304,
+        2082404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85075,7 +85209,8 @@
         1075,
         2082105,
         2082205,
-        2082305
+        2082305,
+        2082405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85119,7 +85254,8 @@
         1076,
         2082106,
         2082206,
-        2082306
+        2082306,
+        2082406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85163,7 +85299,8 @@
         1077,
         2082107,
         2082207,
-        2082307
+        2082307,
+        2082407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85207,7 +85344,8 @@
         1102201,
         2102101,
         2102201,
-        2102301
+        2102301,
+        2102401
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85251,7 +85389,8 @@
         1102202,
         2102102,
         2102202,
-        2102302
+        2102302,
+        2102402
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85295,7 +85434,8 @@
         1102203,
         2102103,
         2102203,
-        2102303
+        2102303,
+        2102403
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85339,7 +85479,8 @@
         1102204,
         2102104,
         2102204,
-        2102304
+        2102304,
+        2102404
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85383,7 +85524,8 @@
         1102205,
         2102105,
         2102205,
-        2102305
+        2102305,
+        2102405
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85427,7 +85569,8 @@
         1102206,
         2102106,
         2102206,
-        2102306
+        2102306,
+        2102406
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -85471,7 +85614,8 @@
         1102207,
         2102107,
         2102207,
-        2102307
+        2102307,
+        2102407
       ],
       "complete_condition_parameter_tag": [],
       "reward_icon": "",
@@ -86246,7 +86390,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86286,7 +86431,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86326,7 +86472,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86366,7 +86513,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86406,7 +86554,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86446,7 +86595,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86486,7 +86636,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86526,7 +86677,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86566,7 +86718,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86606,7 +86759,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86646,7 +86800,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86686,7 +86841,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86726,7 +86882,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86766,7 +86923,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86806,7 +86964,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86846,7 +87005,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86886,7 +87046,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86926,7 +87087,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -86966,7 +87128,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87006,7 +87169,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87046,7 +87210,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87086,7 +87251,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87126,7 +87292,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87166,7 +87333,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87206,7 +87374,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87246,7 +87415,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87286,7 +87456,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87326,7 +87497,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87366,7 +87538,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87406,7 +87579,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87446,7 +87620,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87486,7 +87661,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87526,7 +87702,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87566,7 +87743,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87606,7 +87784,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87646,7 +87825,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87686,7 +87866,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87726,7 +87907,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87766,7 +87948,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87806,7 +87989,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87846,7 +88030,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87886,7 +88071,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87926,7 +88112,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -87966,7 +88153,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88006,7 +88194,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88046,7 +88235,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88086,7 +88276,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88126,7 +88317,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88166,7 +88358,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88206,7 +88399,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88246,7 +88440,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88286,7 +88481,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88326,7 +88522,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88366,7 +88563,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88406,7 +88604,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88446,7 +88645,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88486,7 +88686,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88526,7 +88727,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88566,7 +88768,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88606,7 +88809,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88646,7 +88850,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88686,7 +88891,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88726,7 +88932,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88766,7 +88973,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88806,7 +89014,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88846,7 +89055,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88886,7 +89096,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88926,7 +89137,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -88966,7 +89178,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89006,7 +89219,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89046,7 +89260,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -89086,7 +89301,8 @@
       "account_level": 1,
       "content_tags": [],
       "shortcut_ui": [
-        "UIStageSelect"
+        "UIStageSelect",
+        "UIWeekDungeonLobby|WeekDungeon"
       ],
       "challenge_stage_shortcut": 0,
       "complete_condition_type": 9,
@@ -133736,6 +133952,86 @@
       ]
     },
     {
+      "id": 390106,
+      "category": 3,
+      "description": 1698538942,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 390009,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|90001310"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        90001310
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        20
+      ],
+      "mission_reward_parcel_id": [
+        9001
+      ],
+      "mission_reward_amount": [
+        1
+      ]
+    },
+    {
+      "id": 390107,
+      "category": 3,
+      "description": 3711343474,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 390010,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|51260"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        51260
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        20
+      ],
+      "mission_reward_parcel_id": [
+        9002
+      ],
+      "mission_reward_amount": [
+        1
+      ]
+    },
+    {
       "id": 400000,
       "category": 3,
       "description": 408345533,
@@ -133853,6 +134149,150 @@
       ],
       "mission_reward_amount": [
         40
+      ]
+    },
+    {
+      "id": 400003,
+      "category": 1,
+      "description": 2429916996,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": true,
+      "start_date": "2023-11-29 11:00:00",
+      "end_date": "2023-12-06 03:59:59",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 400000,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIRaidLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1111401,
+        1111402,
+        1111403,
+        1111404,
+        1111405,
+        1111406,
+        1111407
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "id": 400004,
+      "category": 1,
+      "description": 3192981015,
+      "reset_type": 1,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": true,
+      "start_date": "2023-12-06 11:00:00",
+      "end_date": "2023-12-13 03:59:59",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 400000,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 139,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        25
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "id": 400005,
+      "category": 3,
+      "description": 2846784948,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": true,
+      "start_date": "2023-12-13 11:00:00",
+      "end_date": "2023-12-20 03:59:59",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 400000,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "腐訥Ꝩ흪檑䬧뚡"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 45,
+      "complete_condition_count": 15,
+      "complete_condition_parameter": [
+        2082101,
+        2082102,
+        2082103,
+        2082104,
+        2082105,
+        2082106,
+        2082107,
+        2082201,
+        2082202,
+        2082203,
+        2082204,
+        2082205,
+        2082206,
+        2082207,
+        2082301,
+        2082302,
+        2082303,
+        2082304,
+        2082305,
+        2082306,
+        2082307
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        70
       ]
     },
     {
