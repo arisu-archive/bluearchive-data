@@ -15,7 +15,7 @@
       "public_speech_bubble_offset_z": 0,
       "show_raid_list_count": 5,
       "max_raid_ticket_count": 3,
-      "max_raid_boss_skill_slot": 10,
+      "max_raid_boss_skill_slot": 13,
       "engage_timeline_path": "Timeline/Timeline_Battleready_Engage",
       "engage_with_supporter_timeline_path": "Timeline/Timeline_Battleready_Engage_V2",
       "victory_timeline_path": "Timeline/Timeline_Victory",
@@ -101,7 +101,7 @@
       "echelon_extension_overload_cost_regen_ratio": 10000,
       "check_cheater_max_use_cost_multi_floor_raid": 0,
       "excessive_touch_check_time": -30000,
-      "excessive_touch_check_count": 20,
+      "excessive_touch_check_count": 15,
       "campaign_alert_popup_level_gap": 15,
       "move_correction_skip_ratio": 1500
     }

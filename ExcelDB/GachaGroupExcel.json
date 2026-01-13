@@ -529,6 +529,12 @@
       "group_type": 1
     },
     {
+      "id": 1011,
+      "name_kr": "와일드헌트",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 1100,
       "name_kr": "Bedding - 선물 타입",
       "is_recursive": false,
@@ -861,6 +867,12 @@
     {
       "id": 3009,
       "name_kr": "3차 노드용 하이랜더",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 3010,
+      "name_kr": "3차 노드용 와일드헌트",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1646,7 +1658,7 @@
     },
     {
       "id": 100063,
-      "name_kr": "1_2차 픽업 유카리",
+      "name_kr": "1_2차 픽업 에리",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1688,7 +1700,7 @@
     },
     {
       "id": 100083,
-      "name_kr": "1_3차 픽업 미야코(수영복)",
+      "name_kr": "1_3차 픽업 카노에",
       "is_recursive": false,
       "group_type": 1
     },
@@ -6487,6 +6499,12 @@
       "group_type": 1
     },
     {
+      "id": 300830,
+      "name_kr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 1티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 300831,
       "name_kr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
       "is_recursive": false,
@@ -6525,6 +6543,60 @@
     {
       "id": 300837,
       "name_kr": "R82_CCG_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300841,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300842,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300843,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300844,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300845,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300846,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300847,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300848,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 9티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300849,
+      "name_kr": "R83_와일드헌트오컬트부_이벤트_확정주사위상자 - 1~6 랜덤",
       "is_recursive": false,
       "group_type": 1
     },
@@ -6663,6 +6735,12 @@
     {
       "id": 310240,
       "name_kr": "R82_CCG_이벤트_랜덤 장비 상자 ",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310250,
+      "name_kr": "R83_와일드헌트오컬트부이벤트_장비랜덤상자",
       "is_recursive": true,
       "group_type": 1
     },

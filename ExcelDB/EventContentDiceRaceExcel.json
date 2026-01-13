@@ -1,0 +1,109 @@
+{
+  "data_list": [
+    {
+      "event_content_id": 818,
+      "dice_cost_goods_id": 130003,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0001",
+      "is_using_fixed_dice": false,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
+      "dice_race_event_type": [
+        "聐燢嫤뉞淩",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
+      "event_content_id": 827,
+      "dice_cost_goods_id": 130008,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0002",
+      "is_using_fixed_dice": true,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
+      "dice_race_event_type": [
+        "聐燢嫤뉞淩",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceSpecialReward"
+      ]
+    },
+    {
+      "event_content_id": 849,
+      "dice_cost_goods_id": 130025,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0003",
+      "is_using_fixed_dice": true,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01_849",
+        "Img_DiceRace_ConfirmDice_02_849",
+        "Img_DiceRace_ConfirmDice_03_849",
+        "Img_DiceRace_ConfirmDice_04_849",
+        "Img_DiceRace_ConfirmDice_05_849",
+        "Img_DiceRace_ConfirmDice_06_849"
+      ],
+      "dice_race_event_type": [
+        "聐燢嫤뉞淩",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
+      "event_content_id": 10818,
+      "dice_cost_goods_id": 130009,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0001",
+      "is_using_fixed_dice": true,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
+      "dice_race_event_type": [
+        "聐燢嫤뉞淩",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
+    },
+    {
+      "event_content_id": 10827,
+      "dice_cost_goods_id": 130017,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0002",
+      "is_using_fixed_dice": true,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01",
+        "Img_DiceRace_ConfirmDice_02",
+        "Img_DiceRace_ConfirmDice_03",
+        "Img_DiceRace_ConfirmDice_04",
+        "Img_DiceRace_ConfirmDice_05",
+        "Img_DiceRace_ConfirmDice_06"
+      ],
+      "dice_race_event_type": [
+        "聐燢嫤뉞淩",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceSpecialReward"
+      ]
+    }
+  ]
+}

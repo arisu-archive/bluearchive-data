@@ -1,0 +1,2140 @@
+{
+  "data_list": [
+    {
+      "event_content_buff_id": 100101030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100101030"
+    },
+    {
+      "event_content_buff_id": 100102030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100102030"
+    },
+    {
+      "event_content_buff_id": 100101040,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100101040"
+    },
+    {
+      "event_content_buff_id": 100102040,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100102040"
+    },
+    {
+      "event_content_buff_id": 100201025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100201025"
+    },
+    {
+      "event_content_buff_id": 100202025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100202025"
+    },
+    {
+      "event_content_buff_id": 100201030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100201030"
+    },
+    {
+      "event_content_buff_id": 100202030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100202030"
+    },
+    {
+      "event_content_buff_id": 100301025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100301025"
+    },
+    {
+      "event_content_buff_id": 100302025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100302025"
+    },
+    {
+      "event_content_buff_id": 100301030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100301030"
+    },
+    {
+      "event_content_buff_id": 100302030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100302030"
+    },
+    {
+      "event_content_buff_id": 100401050,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "RedWinter"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower07",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100401050"
+    },
+    {
+      "event_content_buff_id": 100402050,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "RedWinter"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp07",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100402050"
+    },
+    {
+      "event_content_buff_id": 100501025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Millennium"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100501025"
+    },
+    {
+      "event_content_buff_id": 100502025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Millennium"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100502025"
+    },
+    {
+      "event_content_buff_id": 100601050,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Shanhaijing"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower07",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100601050"
+    },
+    {
+      "event_content_buff_id": 100602050,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Shanhaijing"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp07",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100602050"
+    },
+    {
+      "event_content_buff_id": 100701040,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Hyakkiyako"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_100701040"
+    },
+    {
+      "event_content_buff_id": 100702040,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Hyakkiyako"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_100702040"
+    },
+    {
+      "event_content_buff_id": 103001020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_103001020"
+    },
+    {
+      "event_content_buff_id": 103002020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_103002020"
+    },
+    {
+      "event_content_buff_id": 103001025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_103001025"
+    },
+    {
+      "event_content_buff_id": 103002025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_103002025"
+    },
+    {
+      "event_content_buff_id": 103101045,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "Support"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower06",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_103101045"
+    },
+    {
+      "event_content_buff_id": 103102045,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "Support"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp06",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_103102045"
+    },
+    {
+      "event_content_buff_id": 103201025,
+      "is_buff": true,
+      "character_tag": 224,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_103201025"
+    },
+    {
+      "event_content_buff_id": 103202025,
+      "is_buff": true,
+      "character_tag": 224,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_103202025"
+    },
+    {
+      "event_content_buff_id": 103301025,
+      "is_buff": true,
+      "character_tag": 225,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_103301025"
+    },
+    {
+      "event_content_buff_id": 103302025,
+      "is_buff": true,
+      "character_tag": 225,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_103302025"
+    },
+    {
+      "event_content_buff_id": 105001030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105001030"
+    },
+    {
+      "event_content_buff_id": 105002030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105002030"
+    },
+    {
+      "event_content_buff_id": 105001035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105001035"
+    },
+    {
+      "event_content_buff_id": 105002035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105002035"
+    },
+    {
+      "event_content_buff_id": 105101035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105101035"
+    },
+    {
+      "event_content_buff_id": 105102035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105102035"
+    },
+    {
+      "event_content_buff_id": 105201035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SMG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105201035"
+    },
+    {
+      "event_content_buff_id": 105202035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SMG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105202035"
+    },
+    {
+      "event_content_buff_id": 105301025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105301025"
+    },
+    {
+      "event_content_buff_id": 105302025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105302025"
+    },
+    {
+      "event_content_buff_id": 105301030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105301030"
+    },
+    {
+      "event_content_buff_id": 105302030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105302030"
+    },
+    {
+      "event_content_buff_id": 105401030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105401030"
+    },
+    {
+      "event_content_buff_id": 105402030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105402030"
+    },
+    {
+      "event_content_buff_id": 105401035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105401035"
+    },
+    {
+      "event_content_buff_id": 105402035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105402035"
+    },
+    {
+      "event_content_buff_id": 105501030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105501030"
+    },
+    {
+      "event_content_buff_id": 105502030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105502030"
+    },
+    {
+      "event_content_buff_id": 105501035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_105501035"
+    },
+    {
+      "event_content_buff_id": 105502035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_105502035"
+    },
+    {
+      "event_content_buff_id": 108001030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Front"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_108001030"
+    },
+    {
+      "event_content_buff_id": 108002030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Front"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_108002030"
+    },
+    {
+      "event_content_buff_id": 108101030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_108101030"
+    },
+    {
+      "event_content_buff_id": 108102030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_108102030"
+    },
+    {
+      "event_content_buff_id": 108201030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "꜅"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_108201030"
+    },
+    {
+      "event_content_buff_id": 108202030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "꜅"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_108202030"
+    },
+    {
+      "event_content_buff_id": 110101020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110101020"
+    },
+    {
+      "event_content_buff_id": 110101025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110101025"
+    },
+    {
+      "event_content_buff_id": 110102025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110102025"
+    },
+    {
+      "event_content_buff_id": 110201020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110201020"
+    },
+    {
+      "event_content_buff_id": 110201025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110201025"
+    },
+    {
+      "event_content_buff_id": 110202025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110202025"
+    },
+    {
+      "event_content_buff_id": 110301020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110301020"
+    },
+    {
+      "event_content_buff_id": 110301025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110301025"
+    },
+    {
+      "event_content_buff_id": 110302025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110302025"
+    },
+    {
+      "event_content_buff_id": 110401020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110401020"
+    },
+    {
+      "event_content_buff_id": 110401025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110401025"
+    },
+    {
+      "event_content_buff_id": 110402025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110402025"
+    },
+    {
+      "event_content_buff_id": 110501020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110501020"
+    },
+    {
+      "event_content_buff_id": 110501025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110501025"
+    },
+    {
+      "event_content_buff_id": 110502025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110502025"
+    },
+    {
+      "event_content_buff_id": 110601020,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110601020"
+    },
+    {
+      "event_content_buff_id": 110601025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110601025"
+    },
+    {
+      "event_content_buff_id": 110602025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110602025"
+    },
+    {
+      "event_content_buff_id": 110701025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Explosion"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110701025"
+    },
+    {
+      "event_content_buff_id": 110702025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Explosion"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110702025"
+    },
+    {
+      "event_content_buff_id": 110801025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Pierce"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110801025"
+    },
+    {
+      "event_content_buff_id": 110802025,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Pierce"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110802025"
+    },
+    {
+      "event_content_buff_id": 110901030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110901030"
+    },
+    {
+      "event_content_buff_id": 110902030,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110902030"
+    },
+    {
+      "event_content_buff_id": 110901035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_ATK",
+      "sprite_name": "Combat_Icon_Buff_ATK",
+      "buff_description_localize_code_id": "EventContent_Buff_110901035"
+    },
+    {
+      "event_content_buff_id": 110902035,
+      "is_buff": true,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Buff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Buff_MAXHP",
+      "sprite_name": "Combat_Icon_Buff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_Buff_110902035"
+    },
+    {
+      "event_content_buff_id": 200101050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200101050"
+    },
+    {
+      "event_content_buff_id": 200102050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Abydos"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200102050"
+    },
+    {
+      "event_content_buff_id": 200201035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200201035"
+    },
+    {
+      "event_content_buff_id": 200202035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200202035"
+    },
+    {
+      "event_content_buff_id": 200201040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200201040"
+    },
+    {
+      "event_content_buff_id": 200202040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Trinity"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200202040"
+    },
+    {
+      "event_content_buff_id": 200301035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200301035"
+    },
+    {
+      "event_content_buff_id": 200302035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200302035"
+    },
+    {
+      "event_content_buff_id": 200301040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200301040"
+    },
+    {
+      "event_content_buff_id": 200302040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Gehenna"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200302040"
+    },
+    {
+      "event_content_buff_id": 200401050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "RedWinter"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200401050"
+    },
+    {
+      "event_content_buff_id": 200402050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "RedWinter"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200402050"
+    },
+    {
+      "event_content_buff_id": 200501035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Millennium"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200501035"
+    },
+    {
+      "event_content_buff_id": 200502035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Millennium"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200502035"
+    },
+    {
+      "event_content_buff_id": 200601050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Shanhaijing"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200601050"
+    },
+    {
+      "event_content_buff_id": 200602050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Shanhaijing"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200602050"
+    },
+    {
+      "event_content_buff_id": 200701050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Hyakkiyako"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200701050"
+    },
+    {
+      "event_content_buff_id": 200702050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 7,
+      "enum_type_value": [
+        "Hyakkiyako"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_200702050"
+    },
+    {
+      "event_content_buff_id": 203001030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203001030"
+    },
+    {
+      "event_content_buff_id": 203002030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203002030"
+    },
+    {
+      "event_content_buff_id": 203001035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203001035"
+    },
+    {
+      "event_content_buff_id": 203002035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "꠱"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203002035"
+    },
+    {
+      "event_content_buff_id": 203101050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "Support"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203101050"
+    },
+    {
+      "event_content_buff_id": 203102050,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 2,
+      "enum_type_value": [
+        "Support"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp05",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203102050"
+    },
+    {
+      "event_content_buff_id": 203201035,
+      "is_buff": false,
+      "character_tag": 224,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203201035"
+    },
+    {
+      "event_content_buff_id": 203202035,
+      "is_buff": false,
+      "character_tag": 224,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203202035"
+    },
+    {
+      "event_content_buff_id": 203301035,
+      "is_buff": false,
+      "character_tag": 225,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203301035"
+    },
+    {
+      "event_content_buff_id": 203302035,
+      "is_buff": false,
+      "character_tag": 225,
+      "enum_type": 0,
+      "enum_type_value": [],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_203302035"
+    },
+    {
+      "event_content_buff_id": 205001045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205001045"
+    },
+    {
+      "event_content_buff_id": 205002045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "HG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205002045"
+    },
+    {
+      "event_content_buff_id": 205101045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205101045"
+    },
+    {
+      "event_content_buff_id": 205102045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205102045"
+    },
+    {
+      "event_content_buff_id": 205201045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SMG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205201045"
+    },
+    {
+      "event_content_buff_id": 205202045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SMG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205202045"
+    },
+    {
+      "event_content_buff_id": 205301040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205301040"
+    },
+    {
+      "event_content_buff_id": 205302040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "AR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205302040"
+    },
+    {
+      "event_content_buff_id": 205401040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205401040"
+    },
+    {
+      "event_content_buff_id": 205402040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205402040"
+    },
+    {
+      "event_content_buff_id": 205401045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205401045"
+    },
+    {
+      "event_content_buff_id": 205402045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "SR"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205402045"
+    },
+    {
+      "event_content_buff_id": 205501040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205501040"
+    },
+    {
+      "event_content_buff_id": 205502040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205502040"
+    },
+    {
+      "event_content_buff_id": 205501045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205501045"
+    },
+    {
+      "event_content_buff_id": 205502045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 1,
+      "enum_type_value": [
+        "MG"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_205502045"
+    },
+    {
+      "event_content_buff_id": 208001040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Front"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208001040"
+    },
+    {
+      "event_content_buff_id": 208002040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Front"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208002040"
+    },
+    {
+      "event_content_buff_id": 208101035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208101035"
+    },
+    {
+      "event_content_buff_id": 208102035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208102035"
+    },
+    {
+      "event_content_buff_id": 208101040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208101040"
+    },
+    {
+      "event_content_buff_id": 208102040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "Middle"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208102040"
+    },
+    {
+      "event_content_buff_id": 208201040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "꜅"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208201040"
+    },
+    {
+      "event_content_buff_id": 208202040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 8,
+      "enum_type_value": [
+        "꜅"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_208202040"
+    },
+    {
+      "event_content_buff_id": 210101030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210101030"
+    },
+    {
+      "event_content_buff_id": 210101035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210101035"
+    },
+    {
+      "event_content_buff_id": 210102035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210102035"
+    },
+    {
+      "event_content_buff_id": 210201030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210201030"
+    },
+    {
+      "event_content_buff_id": 210201035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210201035"
+    },
+    {
+      "event_content_buff_id": 210202035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210202035"
+    },
+    {
+      "event_content_buff_id": 210301030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210301030"
+    },
+    {
+      "event_content_buff_id": 210301035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210301035"
+    },
+    {
+      "event_content_buff_id": 210302035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "A",
+        "S",
+        "SS"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210302035"
+    },
+    {
+      "event_content_buff_id": 210401030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210401030"
+    },
+    {
+      "event_content_buff_id": 210401035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210401035"
+    },
+    {
+      "event_content_buff_id": 210402035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 3,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210402035"
+    },
+    {
+      "event_content_buff_id": 210501030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210501030"
+    },
+    {
+      "event_content_buff_id": 210501035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210501035"
+    },
+    {
+      "event_content_buff_id": 210502035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 4,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210502035"
+    },
+    {
+      "event_content_buff_id": 210601030,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower01",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210601030"
+    },
+    {
+      "event_content_buff_id": 210601035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210601035"
+    },
+    {
+      "event_content_buff_id": 210602035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 5,
+      "enum_type_value": [
+        "D",
+        "C",
+        "B"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210602035"
+    },
+    {
+      "event_content_buff_id": 210701035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Explosion"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210701035"
+    },
+    {
+      "event_content_buff_id": 210702035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Explosion"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210702035"
+    },
+    {
+      "event_content_buff_id": 210801035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Pierce"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210801035"
+    },
+    {
+      "event_content_buff_id": 210802035,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Pierce"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp02",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210802035"
+    },
+    {
+      "event_content_buff_id": 210901040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210901040"
+    },
+    {
+      "event_content_buff_id": 210902040,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp03",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210902040"
+    },
+    {
+      "event_content_buff_id": 210901045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_AttackPower04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_ATK",
+      "sprite_name": "Combat_Icon_Debuff_ATK",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210901045"
+    },
+    {
+      "event_content_buff_id": 210902045,
+      "is_buff": false,
+      "character_tag": 0,
+      "enum_type": 6,
+      "enum_type_value": [
+        "Mystic"
+      ],
+      "skill_group_id": "EventContent_Debuff_StatChange_MaxHp04",
+      "icon_path": "UIs/02_Tactics/04_BuffIcon/Combat_Icon_Debuff_MAXHP",
+      "sprite_name": "Combat_Icon_Debuff_MAXHP",
+      "buff_description_localize_code_id": "EventContent_DeBuff_210902045"
+    }
+  ]
+}
