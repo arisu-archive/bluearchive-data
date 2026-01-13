@@ -10,12 +10,12 @@ on:
       force_update:
         type: boolean
         required: false
-        description: 'Force update the game version'
-      server  :
+        description: "Force update the game version"
+      server:
         type: string
         required: true
-        description: 'The server to update the version for'
-        default: 'japan'
+        description: "The server to update the version for"
+        default: "japan"
 
 env:
   PACKAGE_NAME: com.YostarJP.BlueArchive
@@ -59,11 +59,11 @@ jobs:
         if: steps.get-version.outputs.skip != 'true'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}'
-          body: '* Version: ${{ steps.get-version.outputs.version }}'
+          title: "chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}"
+          body: "* Version: ${{ steps.get-version.outputs.version }}"
           branch: chore/bump-japan-version-${{ steps.get-version.outputs.version }}
           labels: needs-review
-          commit-message: 'chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}'
+          commit-message: "chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}"
 
   upload-assets:
     needs: determine-version
@@ -78,7 +78,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
-          go-version: '^1.24'
+          go-version: "^1.24"
       - name: Setup SSH agent
         uses: webfactory/ssh-agent@v0.9.1
         with:
@@ -91,7 +91,7 @@ jobs:
         run: |
           git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
           go env -w GOPRIVATE="github.com/arisu-archive"
-          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/**"
+          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
           git config --global --remove-section url."git@github.com:arisu-archive"
       - name: Decrypt assets
         run: |
@@ -128,8 +128,8 @@ jobs:
         with:
           base: ${{ env.SERVER }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: 'chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}'
-          body: '* Version: ${{ needs.determine-version.outputs.version }}'
+          title: "chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}"
+          body: "* Version: ${{ needs.determine-version.outputs.version }}"
           branch: chore/bump-${{ env.SERVER }}-assets-${{ needs.determine-version.outputs.version }}
           labels: needs-review
-          commit-message: 'chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}'
+          commit-message: "chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}"
