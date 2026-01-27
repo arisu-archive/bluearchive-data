@@ -55,7 +55,7 @@ jobs:
           version_file: ${{ env.SERVER }}.txt
 
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v8.0.0
+        uses: peter-evans/create-pull-request@v8.1.0
         if: steps.get-version.outputs.skip != 'true'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -124,7 +124,7 @@ jobs:
           mc cp ./assets.zip.sha256 target/bluearchive/${{ env.PACKAGE_NAME }}/assets.zip.sha256
           rm assets.zip assets.zip.sha256
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v8.0.0
+        uses: peter-evans/create-pull-request@v8.1.0
         with:
           base: ${{ env.SERVER }}
           token: ${{ secrets.GITHUB_TOKEN }}
