@@ -25,6 +25,18 @@
       "live_event_url": "https://bluearchive.nexon.com/webview/custom?game_token={0}\u0026server={1}\u0026language={2}"
     },
     {
+      "id": 1025,
+      "enabled": true,
+      "is_full": false,
+      "use_external_browser": true,
+      "start_date": "2026-02-10 12:00:00",
+      "end_date": "2026-03-03 03:59:59",
+      "lobby_banner_image": "Uis/00_Images/Banner/Web_Event_Banner_1025",
+      "popup_title_localize_key": "UI_WEBEVENT_TITLE_1025",
+      "stage_event_url": "https://stg-bluearchive.nexon.com/webview/deeplink?game_token={0}\u0026server={1}\u0026language={2}",
+      "live_event_url": "https://bluearchive.nexon.com/webview/deeplink?game_token={0}\u0026server={1}\u0026language={2}"
+    },
+    {
       "id": 1024,
       "enabled": true,
       "is_full": false,

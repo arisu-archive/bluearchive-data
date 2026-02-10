@@ -1406,6 +1406,130 @@
         48,
         8
       ]
+    },
+    {
+      "id": 120,
+      "location_id": 20,
+      "location_rank_for_unlock": 1,
+      "localize_etc_id": 3019432404,
+      "student_visit_prob": [
+        10000,
+        9500,
+        8500
+      ],
+      "reward_group_id": 200001,
+      "tags": [
+        758,
+        9,
+        62
+      ]
+    },
+    {
+      "id": 121,
+      "location_id": 20,
+      "location_rank_for_unlock": 1,
+      "localize_etc_id": 3730667014,
+      "student_visit_prob": [
+        10000,
+        9500,
+        8500
+      ],
+      "reward_group_id": 201001,
+      "tags": [
+        758,
+        61,
+        8
+      ]
+    },
+    {
+      "id": 122,
+      "location_id": 20,
+      "location_rank_for_unlock": 2,
+      "localize_etc_id": 1558103051,
+      "student_visit_prob": [
+        10000,
+        9500,
+        7500
+      ],
+      "reward_group_id": 202001,
+      "tags": [
+        758,
+        56
+      ]
+    },
+    {
+      "id": 123,
+      "location_id": 20,
+      "location_rank_for_unlock": 3,
+      "localize_etc_id": 1365945908,
+      "student_visit_prob": [
+        10000,
+        9000
+      ],
+      "reward_group_id": 203001,
+      "tags": [
+        758,
+        42,
+        50
+      ]
+    },
+    {
+      "id": 124,
+      "location_id": 20,
+      "location_rank_for_unlock": 5,
+      "localize_etc_id": 2951155655,
+      "student_visit_prob": [
+        10000,
+        9000
+      ],
+      "reward_group_id": 204001,
+      "tags": [
+        758,
+        1
+      ]
+    },
+    {
+      "id": 125,
+      "location_id": 20,
+      "location_rank_for_unlock": 6,
+      "localize_etc_id": 3688839210,
+      "student_visit_prob": [
+        10000,
+        9000
+      ],
+      "reward_group_id": 205001,
+      "tags": [
+        758,
+        11
+      ]
+    },
+    {
+      "id": 126,
+      "location_id": 20,
+      "location_rank_for_unlock": 8,
+      "localize_etc_id": 3604017483,
+      "student_visit_prob": [
+        10000
+      ],
+      "reward_group_id": 206001,
+      "tags": [
+        758,
+        14
+      ]
+    },
+    {
+      "id": 127,
+      "location_id": 20,
+      "location_rank_for_unlock": 9,
+      "localize_etc_id": 375386759,
+      "student_visit_prob": [
+        10000
+      ],
+      "reward_group_id": 207001,
+      "tags": [
+        758,
+        1
+      ]
     }
   ]
 }

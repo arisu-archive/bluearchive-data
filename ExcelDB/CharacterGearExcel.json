@@ -2100,6 +2100,166 @@
       "icon": "UIs/01_Common/40_Gear/Gear_Icon_13003",
       "localize_etc_id": 945811089,
       "tags": []
+    },
+    {
+      "id": 205200,
+      "character_id": 10063,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 205201,
+      "recipe_id": 10063400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        3
+      ],
+      "min_stat_value": [
+        500
+      ],
+      "max_stat_value": [
+        500
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10063",
+      "localize_etc_id": 2538736248,
+      "tags": []
+    },
+    {
+      "id": 205201,
+      "character_id": 10063,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10063",
+      "localize_etc_id": 2538736248,
+      "tags": []
+    },
+    {
+      "id": 205300,
+      "character_id": 10090,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 205301,
+      "recipe_id": 10090400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        54
+      ],
+      "min_stat_value": [
+        2000
+      ],
+      "max_stat_value": [
+        2000
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10090",
+      "localize_etc_id": 2108207432,
+      "tags": []
+    },
+    {
+      "id": 205301,
+      "character_id": 10090,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_10090",
+      "localize_etc_id": 2108207432,
+      "tags": []
+    },
+    {
+      "id": 205400,
+      "character_id": 20030,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 205401,
+      "recipe_id": 20030400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        90
+      ],
+      "min_stat_value": [
+        2000
+      ],
+      "max_stat_value": [
+        2000
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_20030",
+      "localize_etc_id": 2177848562,
+      "tags": []
+    },
+    {
+      "id": 205401,
+      "character_id": 20030,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_20030",
+      "localize_etc_id": 2177848562,
+      "tags": []
+    },
+    {
+      "id": 205500,
+      "character_id": 13011,
+      "stat_level_up_type": 0,
+      "tier": 1,
+      "next_tier_equipment": 205501,
+      "recipe_id": 13011400,
+      "open_favor_level": 15,
+      "max_level": 1,
+      "learn_skill_slot": "褶",
+      "stat_type": [
+        43
+      ],
+      "min_stat_value": [
+        1500
+      ],
+      "max_stat_value": [
+        1500
+      ],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_13011",
+      "localize_etc_id": 1286967671,
+      "tags": []
+    },
+    {
+      "id": 205501,
+      "character_id": 13011,
+      "stat_level_up_type": 0,
+      "tier": 2,
+      "next_tier_equipment": 0,
+      "recipe_id": 0,
+      "open_favor_level": 20,
+      "max_level": 1,
+      "learn_skill_slot": "PublicSkill01",
+      "stat_type": [],
+      "min_stat_value": [],
+      "max_stat_value": [],
+      "icon": "UIs/01_Common/40_Gear/Gear_Icon_13011",
+      "localize_etc_id": 1286967671,
+      "tags": []
     }
   ]
 }
