@@ -108659,6 +108659,88 @@
       ]
     },
     {
+      "id": 221100,
+      "category": 3,
+      "description": 1391018909,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 221100,
+      "pre_mission_id": [],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 66,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        20
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        40
+      ]
+    },
+    {
+      "id": 221101,
+      "category": 3,
+      "description": 1391018909,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": false,
+      "start_date": "",
+      "end_date": "",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 221100,
+      "pre_mission_id": [
+        221100
+      ],
+      "account_type": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 66,
+      "complete_condition_count": 10,
+      "complete_condition_parameter": [
+        20
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        40
+      ]
+    },
+    {
       "id": 239000,
       "category": 3,
       "description": 1766036111,

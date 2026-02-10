@@ -152,6 +152,21 @@
       "reward_parcel_type": 4,
       "reward_parcel_id": 60018,
       "open_teacher_rank": 1
+    },
+    {
+      "id": 20,
+      "localize_etc_id": 4128339013,
+      "prefab_path": "Academy/Location_Wildhunt",
+      "icon_image_path": "UIs/00_Images/BigBtn/Location_Image_20",
+      "open_condition": [
+        10
+      ],
+      "open_condition_count": [
+        1
+      ],
+      "reward_parcel_type": 4,
+      "reward_parcel_id": 4100,
+      "open_teacher_rank": 1
     }
   ]
 }
