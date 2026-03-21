@@ -1824,6 +1824,74 @@
       "character_voice_override_priority": 0
     },
     {
+      "unique_id": 126,
+      "group_id": "EN0013_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 1000,
+      "duration": 8000,
+      "operator_output_priority": 100,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
+      "text_localize_key": "EN0013_1PhaseStart01",
+      "voice_id": [
+        1203898256
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 127,
+      "group_id": "EN0013_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 2,
+      "output_delay": 1000,
+      "duration": 10000,
+      "operator_output_priority": 100,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_01",
+      "text_localize_key": "EN0013_1PhaseStart02",
+      "voice_id": [
+        1580633056
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 128,
+      "group_id": "EN0013_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 3,
+      "random_weight": 3,
+      "output_delay": 1000,
+      "duration": 10000,
+      "operator_output_priority": 100,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_04",
+      "text_localize_key": "EN0013_1PhaseStart03",
+      "voice_id": [
+        1534118052
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 129,
+      "group_id": "EN0013_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 4,
+      "random_weight": 4,
+      "output_delay": 1000,
+      "duration": 5000,
+      "operator_output_priority": 100,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_01",
+      "text_localize_key": "EN0013_1PhaseStart04",
+      "voice_id": [
+        1336012512
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
       "unique_id": 80601,
       "group_id": "806EventCombatInfo_01_01",
       "operator_condition": 0,
@@ -3401,6 +3469,346 @@
       "text_localize_key": "828_MinigameTBG_ItemUse_04",
       "voice_id": [
         3367373401
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85401,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_1PhaseStart01",
+      "voice_id": [
+        2811124390
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85402,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_1PhaseStart02",
+      "voice_id": [
+        1090624458
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85403,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 3,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_06",
+      "text_localize_key": "EN0020_1PhaseStart03",
+      "voice_id": [
+        2181697641
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85404,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 4,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_02",
+      "text_localize_key": "EN0020_1PhaseStart04",
+      "voice_id": [
+        1280815998
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85405,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 5,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_1PhaseStart05",
+      "voice_id": [
+        922088515
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85406,
+      "group_id": "854_EN0020_1PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 6,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_1PhaseStart06",
+      "voice_id": [
+        526910436
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85407,
+      "group_id": "854_EN0020_2PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0267_15",
+      "text_localize_key": "EN0020_2PhaseStart01",
+      "voice_id": [
+        2136989226
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85408,
+      "group_id": "854_EN0020_2PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_2PhaseStart02",
+      "voice_id": [
+        1704887930
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85409,
+      "group_id": "854_EN0020_2PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 3,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_2PhaseStart03",
+      "voice_id": [
+        3918495049
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85410,
+      "group_id": "854_EN0020_2PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 4,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0268_04",
+      "text_localize_key": "EN0020_2PhaseStart04",
+      "voice_id": [
+        1509057697
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85411,
+      "group_id": "854_EN0020_2PhaseStart",
+      "operator_condition": 0,
+      "output_sequence": 5,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_2PhaseStart05",
+      "voice_id": [
+        3107460488
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85412,
+      "group_id": "854_EN0020_2PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_2PhaseReady01",
+      "voice_id": [
+        3994304985
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85413,
+      "group_id": "854_EN0020_2PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0278_05",
+      "text_localize_key": "EN0020_2PhaseReady02",
+      "voice_id": [
+        3746947659
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85414,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "text_localize_key": "EN0021_3PhaseReady01",
+      "voice_id": [
+        4160021132
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85415,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_01",
+      "text_localize_key": "EN0021_3PhaseReady02",
+      "voice_id": [
+        374792589
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85416,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 3,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "text_localize_key": "EN0021_3PhaseReady03",
+      "voice_id": [
+        2242800903
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85417,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 4,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_06",
+      "text_localize_key": "EN0021_3PhaseReady04",
+      "voice_id": [
+        934615089
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85418,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 5,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_06",
+      "text_localize_key": "EN0021_3PhaseReady05",
+      "voice_id": [
+        2623982086
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85419,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 6,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_06",
+      "text_localize_key": "EN0021_3PhaseReady06",
+      "voice_id": [
+        84348410
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 85420,
+      "group_id": "854_EN0021_3PhaseReady",
+      "operator_condition": 0,
+      "output_sequence": 7,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_NP0035_03",
+      "text_localize_key": "EN0021_3PhaseReady07",
+      "voice_id": [
+        4164093945
       ],
       "operator_wait_queue": false,
       "character_voice_override_priority": 0

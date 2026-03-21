@@ -31,6 +31,38 @@
       "original_tile": true,
       "prefab_name": "RoadPuzzle_846_Tile_Rail_ShortCurve",
       "rail_tile_type": 3
+    },
+    {
+      "event_content_id": 854,
+      "unique_id": 100100,
+      "group_id": 100100,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_Straight_001",
+      "rail_tile_type": 1
+    },
+    {
+      "event_content_id": 854,
+      "unique_id": 100101,
+      "group_id": 100100,
+      "original_tile": false,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_Straight_002",
+      "rail_tile_type": 1
+    },
+    {
+      "event_content_id": 854,
+      "unique_id": 100200,
+      "group_id": 100200,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_LongCurve",
+      "rail_tile_type": 2
+    },
+    {
+      "event_content_id": 854,
+      "unique_id": 100300,
+      "group_id": 100300,
+      "original_tile": true,
+      "prefab_name": "RoadPuzzle_846_Tile_Rail_ShortCurve",
+      "rail_tile_type": 3
     }
   ]
 }

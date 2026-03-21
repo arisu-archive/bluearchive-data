@@ -2,7 +2,7 @@
   "data_list": [
     {
       "id": 50,
-      "display_order": 88,
+      "display_order": 90,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 100008,
@@ -10,15 +10,19 @@
       "require_item_id": 82,
       "require_item_amount": 1,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         354,
         15
       ],
-      "ingredient_exp": 40
+      "ingredient_exp": 40,
+      "recipe_display_options": 0
     },
     {
       "id": 41,
-      "display_order": 87,
+      "display_order": 89,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 9999,
@@ -26,14 +30,18 @@
       "require_item_id": 83,
       "require_item_amount": 0,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         294
       ],
-      "ingredient_exp": 300
+      "ingredient_exp": 300,
+      "recipe_display_options": 0
     },
     {
       "id": 1,
-      "display_order": 86,
+      "display_order": 88,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190020,
@@ -41,15 +49,19 @@
       "require_item_id": 80,
       "require_item_amount": 1,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         295,
         15
       ],
-      "ingredient_exp": 10
+      "ingredient_exp": 10,
+      "recipe_display_options": 0
     },
     {
       "id": 2,
-      "display_order": 85,
+      "display_order": 87,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190021,
@@ -57,15 +69,19 @@
       "require_item_id": 81,
       "require_item_amount": 1,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         296,
         15
       ],
-      "ingredient_exp": 20
+      "ingredient_exp": 20,
+      "recipe_display_options": 0
     },
     {
       "id": 3,
-      "display_order": 84,
+      "display_order": 86,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190022,
@@ -73,15 +89,19 @@
       "require_item_id": 82,
       "require_item_amount": 1,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         297,
         15
       ],
-      "ingredient_exp": 50
+      "ingredient_exp": 50,
+      "recipe_display_options": 0
     },
     {
       "id": 4,
-      "display_order": 83,
+      "display_order": 85,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190023,
@@ -89,15 +109,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         298,
         15
       ],
-      "ingredient_exp": 80
+      "ingredient_exp": 80,
+      "recipe_display_options": 0
     },
     {
       "id": 5,
-      "display_order": 82,
+      "display_order": 84,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190010,
@@ -105,15 +129,19 @@
       "require_item_id": 80,
       "require_item_amount": 1,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         299,
         15
       ],
-      "ingredient_exp": 30
+      "ingredient_exp": 30,
+      "recipe_display_options": 0
     },
     {
       "id": 6,
-      "display_order": 81,
+      "display_order": 83,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190011,
@@ -121,15 +149,19 @@
       "require_item_id": 81,
       "require_item_amount": 1,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         300,
         15
       ],
-      "ingredient_exp": 60
+      "ingredient_exp": 60,
+      "recipe_display_options": 0
     },
     {
       "id": 7,
-      "display_order": 80,
+      "display_order": 82,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190012,
@@ -137,15 +169,19 @@
       "require_item_id": 82,
       "require_item_amount": 1,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         301,
         15
       ],
-      "ingredient_exp": 150
+      "ingredient_exp": 150,
+      "recipe_display_options": 0
     },
     {
       "id": 8,
-      "display_order": 79,
+      "display_order": 81,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190013,
@@ -153,15 +189,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         302,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 9,
-      "display_order": 78,
+      "display_order": 80,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190000,
@@ -169,15 +209,19 @@
       "require_item_id": 80,
       "require_item_amount": 1,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         303,
         15
       ],
-      "ingredient_exp": 10
+      "ingredient_exp": 10,
+      "recipe_display_options": 0
     },
     {
       "id": 10,
-      "display_order": 77,
+      "display_order": 79,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190001,
@@ -185,15 +229,19 @@
       "require_item_id": 81,
       "require_item_amount": 1,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         304,
         15
       ],
-      "ingredient_exp": 20
+      "ingredient_exp": 20,
+      "recipe_display_options": 0
     },
     {
       "id": 11,
-      "display_order": 76,
+      "display_order": 78,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190002,
@@ -201,15 +249,19 @@
       "require_item_id": 82,
       "require_item_amount": 1,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         305,
         15
       ],
-      "ingredient_exp": 50
+      "ingredient_exp": 50,
+      "recipe_display_options": 0
     },
     {
       "id": 12,
-      "display_order": 75,
+      "display_order": 77,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 190003,
@@ -217,15 +269,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         306,
         15
       ],
-      "ingredient_exp": 80
+      "ingredient_exp": 80,
+      "recipe_display_options": 0
     },
     {
       "id": 14,
-      "display_order": 74,
+      "display_order": 76,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191001,
@@ -233,15 +289,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 15,
-      "display_order": 73,
+      "display_order": 75,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191002,
@@ -249,15 +309,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 16,
-      "display_order": 72,
+      "display_order": 74,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191003,
@@ -265,15 +329,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 17,
-      "display_order": 71,
+      "display_order": 73,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191004,
@@ -281,15 +349,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 18,
-      "display_order": 70,
+      "display_order": 72,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191005,
@@ -297,15 +369,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 19,
-      "display_order": 69,
+      "display_order": 71,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191006,
@@ -313,15 +389,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 20,
-      "display_order": 68,
+      "display_order": 70,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191007,
@@ -329,15 +409,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 46,
-      "display_order": 67,
+      "display_order": 69,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191008,
@@ -345,15 +429,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 48,
-      "display_order": 66,
+      "display_order": 68,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191009,
@@ -361,15 +449,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 55,
-      "display_order": 65,
+      "display_order": 67,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191010,
@@ -377,15 +469,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 57,
-      "display_order": 64,
+      "display_order": 66,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191011,
@@ -393,15 +489,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 59,
-      "display_order": 63,
+      "display_order": 65,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191012,
@@ -409,15 +509,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 69,
-      "display_order": 62,
+      "display_order": 64,
       "notification_id": 4,
       "result_parcel": 4,
       "result_id": 191013,
@@ -425,15 +529,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 71,
-      "display_order": 61,
+      "display_order": 63,
       "notification_id": 5,
       "result_parcel": 4,
       "result_id": 191014,
@@ -441,15 +549,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 73,
-      "display_order": 60,
+      "display_order": 62,
       "notification_id": 6,
       "result_parcel": 4,
       "result_id": 191015,
@@ -457,15 +569,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 75,
-      "display_order": 59,
+      "display_order": 61,
       "notification_id": 7,
       "result_parcel": 4,
       "result_id": 191016,
@@ -473,15 +589,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 77,
-      "display_order": 58,
+      "display_order": 60,
       "notification_id": 8,
       "result_parcel": 4,
       "result_id": 191017,
@@ -489,15 +609,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 79,
-      "display_order": 57,
+      "display_order": 59,
       "notification_id": 9,
       "result_parcel": 4,
       "result_id": 191018,
@@ -505,15 +629,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 81,
-      "display_order": 56,
+      "display_order": 58,
       "notification_id": 10,
       "result_parcel": 4,
       "result_id": 191019,
@@ -521,15 +649,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 83,
-      "display_order": 55,
+      "display_order": 57,
       "notification_id": 11,
       "result_parcel": 4,
       "result_id": 191020,
@@ -537,15 +669,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 85,
-      "display_order": 54,
+      "display_order": 56,
       "notification_id": 12,
       "result_parcel": 4,
       "result_id": 191021,
@@ -553,15 +689,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 87,
-      "display_order": 53,
+      "display_order": 55,
       "notification_id": 13,
       "result_parcel": 4,
       "result_id": 191022,
@@ -569,15 +709,39 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
+    },
+    {
+      "id": 90,
+      "display_order": 54,
+      "notification_id": 14,
+      "result_parcel": 4,
+      "result_id": 191023,
+      "result_amount": 1,
+      "require_item_id": 83,
+      "require_item_amount": 1,
+      "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
+      "ingredient_tag": [
+        307,
+        15
+      ],
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 60,
-      "display_order": 52,
+      "display_order": 53,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191999,
@@ -585,15 +749,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 13,
-      "display_order": 51,
+      "display_order": 52,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191000,
@@ -601,15 +769,19 @@
       "require_item_id": 80,
       "require_item_amount": 1,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 50
+      "ingredient_exp": 50,
+      "recipe_display_options": 0
     },
     {
       "id": 61,
-      "display_order": 50,
+      "display_order": 51,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191991,
@@ -617,15 +789,19 @@
       "require_item_id": 81,
       "require_item_amount": 1,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 40
+      "ingredient_exp": 40,
+      "recipe_display_options": 0
     },
     {
       "id": 62,
-      "display_order": 49,
+      "display_order": 50,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191992,
@@ -633,15 +809,19 @@
       "require_item_id": 82,
       "require_item_amount": 1,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 60
+      "ingredient_exp": 60,
+      "recipe_display_options": 0
     },
     {
       "id": 63,
-      "display_order": 48,
+      "display_order": 49,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 191993,
@@ -649,15 +829,19 @@
       "require_item_id": 83,
       "require_item_amount": 1,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 200
+      "ingredient_exp": 200,
+      "recipe_display_options": 0
     },
     {
       "id": 21,
-      "display_order": 47,
+      "display_order": 48,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150008,
@@ -665,15 +849,19 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         295,
         15
       ],
-      "ingredient_exp": 20
+      "ingredient_exp": 20,
+      "recipe_display_options": 0
     },
     {
       "id": 22,
-      "display_order": 46,
+      "display_order": 47,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150009,
@@ -681,15 +869,19 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         296,
         15
       ],
-      "ingredient_exp": 40
+      "ingredient_exp": 40,
+      "recipe_display_options": 0
     },
     {
       "id": 23,
-      "display_order": 45,
+      "display_order": 46,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150010,
@@ -697,15 +889,19 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         297,
         15
       ],
-      "ingredient_exp": 100
+      "ingredient_exp": 100,
+      "recipe_display_options": 0
     },
     {
       "id": 24,
-      "display_order": 44,
+      "display_order": 45,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150011,
@@ -713,15 +909,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         298,
         15
       ],
-      "ingredient_exp": 160
+      "ingredient_exp": 160,
+      "recipe_display_options": 0
     },
     {
       "id": 25,
-      "display_order": 43,
+      "display_order": 44,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150004,
@@ -729,15 +929,19 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         299,
         15
       ],
-      "ingredient_exp": 60
+      "ingredient_exp": 60,
+      "recipe_display_options": 0
     },
     {
       "id": 26,
-      "display_order": 42,
+      "display_order": 43,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150005,
@@ -745,15 +949,19 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         300,
         15
       ],
-      "ingredient_exp": 120
+      "ingredient_exp": 120,
+      "recipe_display_options": 0
     },
     {
       "id": 27,
-      "display_order": 41,
+      "display_order": 42,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150006,
@@ -761,15 +969,19 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         301,
         15
       ],
-      "ingredient_exp": 300
+      "ingredient_exp": 300,
+      "recipe_display_options": 0
     },
     {
       "id": 28,
-      "display_order": 40,
+      "display_order": 41,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150007,
@@ -777,15 +989,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         302,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 29,
-      "display_order": 39,
+      "display_order": 40,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150000,
@@ -793,15 +1009,19 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         303,
         15
       ],
-      "ingredient_exp": 20
+      "ingredient_exp": 20,
+      "recipe_display_options": 0
     },
     {
       "id": 30,
-      "display_order": 38,
+      "display_order": 39,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150001,
@@ -809,15 +1029,19 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         304,
         15
       ],
-      "ingredient_exp": 40
+      "ingredient_exp": 40,
+      "recipe_display_options": 0
     },
     {
       "id": 31,
-      "display_order": 37,
+      "display_order": 38,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150002,
@@ -825,15 +1049,19 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         305,
         15
       ],
-      "ingredient_exp": 100
+      "ingredient_exp": 100,
+      "recipe_display_options": 0
     },
     {
       "id": 32,
-      "display_order": 36,
+      "display_order": 37,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 150003,
@@ -841,15 +1069,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         306,
         15
       ],
-      "ingredient_exp": 160
+      "ingredient_exp": 160,
+      "recipe_display_options": 0
     },
     {
       "id": 34,
-      "display_order": 35,
+      "display_order": 36,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151001,
@@ -857,15 +1089,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 35,
-      "display_order": 34,
+      "display_order": 35,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151002,
@@ -873,15 +1109,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 36,
-      "display_order": 33,
+      "display_order": 34,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151003,
@@ -889,15 +1129,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 37,
-      "display_order": 32,
+      "display_order": 33,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151004,
@@ -905,15 +1149,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 38,
-      "display_order": 31,
+      "display_order": 32,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151005,
@@ -921,15 +1169,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 39,
-      "display_order": 30,
+      "display_order": 31,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151006,
@@ -937,15 +1189,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 40,
-      "display_order": 29,
+      "display_order": 30,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151007,
@@ -953,15 +1209,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 47,
-      "display_order": 28,
+      "display_order": 29,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151008,
@@ -969,15 +1229,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 49,
-      "display_order": 27,
+      "display_order": 28,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151009,
@@ -985,15 +1249,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 56,
-      "display_order": 26,
+      "display_order": 27,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151010,
@@ -1001,15 +1269,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 58,
-      "display_order": 25,
+      "display_order": 26,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151011,
@@ -1017,15 +1289,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 64,
-      "display_order": 24,
+      "display_order": 25,
       "notification_id": 0,
       "result_parcel": 4,
       "result_id": 151012,
@@ -1033,15 +1309,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 70,
-      "display_order": 23,
+      "display_order": 24,
       "notification_id": 4,
       "result_parcel": 4,
       "result_id": 151013,
@@ -1049,15 +1329,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 72,
-      "display_order": 22,
+      "display_order": 23,
       "notification_id": 5,
       "result_parcel": 4,
       "result_id": 151014,
@@ -1065,15 +1349,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 74,
-      "display_order": 21,
+      "display_order": 22,
       "notification_id": 6,
       "result_parcel": 4,
       "result_id": 151015,
@@ -1081,15 +1369,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 76,
-      "display_order": 20,
+      "display_order": 21,
       "notification_id": 7,
       "result_parcel": 4,
       "result_id": 151016,
@@ -1097,15 +1389,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 78,
-      "display_order": 19,
+      "display_order": 20,
       "notification_id": 8,
       "result_parcel": 4,
       "result_id": 151017,
@@ -1113,15 +1409,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 80,
-      "display_order": 18,
+      "display_order": 19,
       "notification_id": 9,
       "result_parcel": 4,
       "result_id": 151018,
@@ -1129,15 +1429,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 82,
-      "display_order": 17,
+      "display_order": 18,
       "notification_id": 10,
       "result_parcel": 4,
       "result_id": 151019,
@@ -1145,15 +1449,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 84,
-      "display_order": 16,
+      "display_order": 17,
       "notification_id": 11,
       "result_parcel": 4,
       "result_id": 151020,
@@ -1161,15 +1469,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 86,
-      "display_order": 15,
+      "display_order": 16,
       "notification_id": 12,
       "result_parcel": 4,
       "result_id": 151021,
@@ -1177,15 +1489,19 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 88,
-      "display_order": 14,
+      "display_order": 15,
       "notification_id": 13,
       "result_parcel": 4,
       "result_id": 151022,
@@ -1193,11 +1509,35 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
+    },
+    {
+      "id": 91,
+      "display_order": 14,
+      "notification_id": 14,
+      "result_parcel": 4,
+      "result_id": 151023,
+      "result_amount": 1,
+      "require_item_id": 83,
+      "require_item_amount": 3,
+      "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
+      "ingredient_tag": [
+        307,
+        15
+      ],
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 65,
@@ -1209,11 +1549,15 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 33,
@@ -1225,11 +1569,15 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 100
+      "ingredient_exp": 100,
+      "recipe_display_options": 0
     },
     {
       "id": 66,
@@ -1241,11 +1589,15 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 80
+      "ingredient_exp": 80,
+      "recipe_display_options": 0
     },
     {
       "id": 67,
@@ -1257,11 +1609,15 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 120
+      "ingredient_exp": 120,
+      "recipe_display_options": 0
     },
     {
       "id": 68,
@@ -1273,11 +1629,15 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         307,
         15
       ],
-      "ingredient_exp": 400
+      "ingredient_exp": 400,
+      "recipe_display_options": 0
     },
     {
       "id": 42,
@@ -1289,10 +1649,14 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         308
       ],
-      "ingredient_exp": 120
+      "ingredient_exp": 120,
+      "recipe_display_options": 0
     },
     {
       "id": 43,
@@ -1304,10 +1668,14 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         309
       ],
-      "ingredient_exp": 240
+      "ingredient_exp": 240,
+      "recipe_display_options": 0
     },
     {
       "id": 44,
@@ -1319,10 +1687,14 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         310
       ],
-      "ingredient_exp": 360
+      "ingredient_exp": 360,
+      "recipe_display_options": 0
     },
     {
       "id": 45,
@@ -1334,10 +1706,14 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         311
       ],
-      "ingredient_exp": 1200
+      "ingredient_exp": 1200,
+      "recipe_display_options": 0
     },
     {
       "id": 51,
@@ -1349,10 +1725,14 @@
       "require_item_id": 80,
       "require_item_amount": 3,
       "require_gold": 3000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         403
       ],
-      "ingredient_exp": 120
+      "ingredient_exp": 120,
+      "recipe_display_options": 0
     },
     {
       "id": 52,
@@ -1364,10 +1744,14 @@
       "require_item_id": 81,
       "require_item_amount": 3,
       "require_gold": 6000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         404
       ],
-      "ingredient_exp": 240
+      "ingredient_exp": 240,
+      "recipe_display_options": 0
     },
     {
       "id": 53,
@@ -1379,10 +1763,14 @@
       "require_item_id": 82,
       "require_item_amount": 3,
       "require_gold": 12000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         405
       ],
-      "ingredient_exp": 360
+      "ingredient_exp": 360,
+      "recipe_display_options": 0
     },
     {
       "id": 54,
@@ -1394,10 +1782,33 @@
       "require_item_id": 83,
       "require_item_amount": 3,
       "require_gold": 24000,
+      "additional_cost_parcel_type": 0,
+      "additional_cost_parcel_id": 0,
+      "additional_cost_parcel_amount": 0,
       "ingredient_tag": [
         406
       ],
-      "ingredient_exp": 1200
+      "ingredient_exp": 1200,
+      "recipe_display_options": 0
+    },
+    {
+      "id": 89,
+      "display_order": 9999,
+      "notification_id": 0,
+      "result_parcel": 4,
+      "result_id": 200002,
+      "result_amount": 1,
+      "require_item_id": 83,
+      "require_item_amount": 0,
+      "require_gold": 0,
+      "additional_cost_parcel_type": 2,
+      "additional_cost_parcel_id": 4,
+      "additional_cost_parcel_amount": 1200,
+      "ingredient_tag": [
+        797
+      ],
+      "ingredient_exp": 100,
+      "recipe_display_options": 2
     }
   ]
 }

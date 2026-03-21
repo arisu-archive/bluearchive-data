@@ -2594,6 +2594,2601 @@
       "node_icon": 4,
       "stage_group_id": 848903,
       "next_node_id": []
+    },
+    {
+      "level_id": 854101,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854100,
+      "next_node_id": [
+        2
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 3,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854101,
+      "next_node_id": [
+        6,
+        7
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854101,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 8,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854101,
+      "node_id": 9,
+      "node_icon": 4,
+      "stage_group_id": 854901,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854201,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 8,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        10,
+        11
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 14,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854201,
+      "node_id": 15,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854202,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        4,
+        5
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5,
+        6
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 8,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 12,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854202,
+      "node_id": 14,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854203,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        4
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 5,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 11,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854203,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854204,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        4,
+        5
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 3,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5,
+        6
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 8,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854204,
+      "node_id": 14,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854205,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 10,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 11,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854205,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854206,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 2,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        13,
+        14
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 12,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 14,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 15,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854206,
+      "node_id": 16,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854207,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 4,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 8,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854207,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854208,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 10,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854208,
+      "node_id": 11,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854209,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 2,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12,
+        13
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 13,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854209,
+      "node_id": 14,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854210,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        4
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        5,
+        6
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854102,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854210,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854902,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854301,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 12,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 13,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 14,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        17
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 15,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        17
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 16,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        17
+      ]
+    },
+    {
+      "level_id": 854301,
+      "node_id": 17,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854302,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 5,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 8,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        10,
+        11
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 14,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854302,
+      "node_id": 15,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854303,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        2
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 3,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5,
+        6
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        11,
+        12
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 11,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 12,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854303,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854304,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 4,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 13,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 14,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854304,
+      "node_id": 15,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854305,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 3,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8,
+        9
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10,
+        11
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 10,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854305,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854306,
+      "node_id": 1,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 2,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 5,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 7,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 9,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        12
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 11,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        13,
+        14
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 12,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        15
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 13,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 14,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 15,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        16
+      ]
+    },
+    {
+      "level_id": 854306,
+      "node_id": 16,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854307,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 4,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 6,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 8,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854307,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854308,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 2,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 3,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 4,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 10,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854308,
+      "node_id": 11,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854309,
+      "node_id": 1,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 2,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        6
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 5,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        11
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 10,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        12,
+        13
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 13,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        14
+      ]
+    },
+    {
+      "level_id": 854309,
+      "node_id": 14,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
+    },
+    {
+      "level_id": 854310,
+      "node_id": 1,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        2,
+        3
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 2,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        4
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 3,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        5,
+        6
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 4,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 5,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        7
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 6,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        8
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 7,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 8,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        9
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 9,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 10,
+      "node_icon": 1,
+      "stage_group_id": 854103,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 11,
+      "node_icon": 2,
+      "stage_group_id": 854201,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 12,
+      "node_icon": 3,
+      "stage_group_id": 854301,
+      "next_node_id": [
+        13
+      ]
+    },
+    {
+      "level_id": 854310,
+      "node_id": 13,
+      "node_icon": 4,
+      "stage_group_id": 854903,
+      "next_node_id": []
     }
   ]
 }

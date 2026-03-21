@@ -1338,12 +1338,12 @@
         "UILobby",
         "腐稯䭻뚡"
       ],
-      "shortcut_param": 848,
+      "shortcut_param": 0,
       "scene": "Lobby",
       "hide_when_locked": false,
       "account_level": 1,
       "scenario_mode_id": 0,
-      "campaign_stage_id": 8481309,
+      "campaign_stage_id": 0,
       "multiple_condition_check_type": 0,
       "open_day_of_week": 7,
       "open_hour": 0,
@@ -1354,6 +1354,30 @@
       "cafe_rank": 0,
       "contents_open_show": false,
       "contents_open_shortcut_ui": ""
+    },
+    {
+      "open_condition_content_type": 58,
+      "lock_ui": [],
+      "shortcut_popup_priority": 53,
+      "shortcut_ui_name": [
+        "UILobby"
+      ],
+      "shortcut_param": 0,
+      "scene": "Lobby",
+      "hide_when_locked": false,
+      "account_level": 1,
+      "scenario_mode_id": 90002100,
+      "campaign_stage_id": 0,
+      "multiple_condition_check_type": 0,
+      "open_day_of_week": 7,
+      "open_hour": 0,
+      "close_day_of_week": 7,
+      "close_hour": 24,
+      "opened_cafe_id": 0,
+      "cafe_idfor_cafe_rank": 0,
+      "cafe_rank": 0,
+      "contents_open_show": true,
+      "contents_open_shortcut_ui": "UIWork"
     }
   ]
 }

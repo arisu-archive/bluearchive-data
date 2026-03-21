@@ -1,3 +1,92 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "id": 1652,
+      "product_select_sub_type": 0,
+      "product_id": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
+      "store_type": 1,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        6803
+      ],
+      "parcel_amount": [
+        1
+      ],
+      "product_selection_slot": [
+        1000
+      ]
+    },
+    {
+      "id": 1678,
+      "product_select_sub_type": 0,
+      "product_id": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
+      "store_type": 1,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        6804
+      ],
+      "parcel_amount": [
+        1
+      ],
+      "product_selection_slot": [
+        1001
+      ]
+    },
+    {
+      "id": 5652,
+      "product_select_sub_type": 0,
+      "product_id": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
+      "store_type": 2,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        6803
+      ],
+      "parcel_amount": [
+        1
+      ],
+      "product_selection_slot": [
+        1000
+      ]
+    },
+    {
+      "id": 5678,
+      "product_select_sub_type": 0,
+      "product_id": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
+      "store_type": 2,
+      "price": 3000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 2,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        6804
+      ],
+      "parcel_amount": [
+        1
+      ],
+      "product_selection_slot": [
+        1001
+      ]
+    }
+  ]
 }
