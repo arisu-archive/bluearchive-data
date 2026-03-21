@@ -87,7 +87,9 @@
       "excessive_touch_check_time": -30000,
       "excessive_touch_check_count": 10,
       "campaign_alert_popup_level_gap": 15,
-      "move_correction_skip_ratio": 1500
+      "move_correction_skip_ratio": 1500,
+      "obstacle_collider_height_jumpable": -9000,
+      "obstacle_collider_height_not_jumpable": -30000
     }
   ]
 }

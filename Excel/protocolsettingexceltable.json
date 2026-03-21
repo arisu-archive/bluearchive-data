@@ -379,6 +379,13 @@
       "mail": false
     },
     {
+      "protocol": "Mail_ReceiveSemiPermanent",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Mission_Reward",
       "open_condition_content": 21,
       "currency": false,
@@ -1044,6 +1051,20 @@
       "mail": false
     },
     {
+      "protocol": "Cafe_PresetDetail",
+      "open_condition_content": 4,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Cafe_UpdateCopyPresetFurniture",
+      "open_condition_content": 4,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Craft_List",
       "open_condition_content": 21,
       "currency": false,
@@ -1147,6 +1168,20 @@
       "currency": false,
       "inventory": false,
       "mail": true
+    },
+    {
+      "protocol": "Craft_SavePreset",
+      "open_condition_content": 23,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Craft_SavePresetName",
+      "open_condition_content": 23,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     },
     {
       "protocol": "Arena_EnterLobby",
@@ -1266,6 +1301,13 @@
       "currency": false,
       "inventory": false,
       "mail": true
+    },
+    {
+      "protocol": "Arena_SettingAnonymous",
+      "open_condition_content": 8,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     },
     {
       "protocol": "WeekDungeon_List",
@@ -1940,6 +1982,27 @@
       "mail": true
     },
     {
+      "protocol": "EventContent_ClueSearchGetInfo",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "EventContent_ClueSearchSubmit",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchRoundComplete",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
       "protocol": "TTS_GetFile",
       "open_condition_content": 21,
       "currency": false,
@@ -2407,6 +2470,13 @@
       "currency": true,
       "inventory": true,
       "mail": true
+    },
+    {
+      "protocol": "WorldRaid_UpdateCarrierSkill",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     },
     {
       "protocol": "Conquest_GetInfo",
@@ -2885,6 +2955,13 @@
       "mail": true
     },
     {
+      "protocol": "MultiFloorRaid_Login",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "BattlePass_GetInfo",
       "open_condition_content": 21,
       "currency": false,
@@ -2929,6 +3006,48 @@
     {
       "protocol": "BattlePass_Check",
       "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "DailyRecord_Reward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "Option_Save",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_Lobby",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_EnterBattle",
+      "open_condition_content": 3,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_EndBattle",
+      "open_condition_content": 3,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_GiveUp",
+      "open_condition_content": 3,
       "currency": false,
       "inventory": false,
       "mail": false

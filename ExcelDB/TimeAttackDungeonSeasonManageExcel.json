@@ -783,6 +783,86 @@
       ],
       "time_attack_dungeon_reward_id": 1,
       "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 50,
+      "start_date": "2026-01-07 11:00:00",
+      "end_note_label_start_date": "2026-01-10 03:59:59",
+      "end_date": "2026-01-14 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 4000,
+      "difficulty_geas": [
+        47001,
+        47101,
+        47201,
+        47301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 51,
+      "start_date": "2026-01-29 11:00:00",
+      "end_note_label_start_date": "2026-02-01 03:59:59",
+      "end_date": "2026-02-05 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        48001,
+        48101,
+        48201,
+        48301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 52,
+      "start_date": "2026-02-25 11:00:00",
+      "end_note_label_start_date": "2026-03-04 03:59:59",
+      "end_date": "2026-03-04 03:59:59",
+      "ui_slot": 1,
+      "dungeon_id": 1000,
+      "difficulty_geas": [
+        49001,
+        49101,
+        49201,
+        49301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 53,
+      "start_date": "2026-04-01 11:00:00",
+      "end_note_label_start_date": "2026-04-08 03:59:59",
+      "end_date": "2026-04-08 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        50001,
+        50101,
+        50201,
+        50301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 54,
+      "start_date": "2026-05-06 11:00:01",
+      "end_note_label_start_date": "2026-05-09 03:59:59",
+      "end_date": "2026-05-13 03:59:59",
+      "ui_slot": 2,
+      "dungeon_id": 2000,
+      "difficulty_geas": [
+        51001,
+        51101,
+        51201,
+        51301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
     }
   ]
 }

@@ -63,7 +63,6 @@
         10,
         20
       ],
-      "scenario_auto_delay_millisec": -135000000,
       "join_or_create_clan_cool_time_from_hour": 24,
       "clan_max_member": 50,
       "clan_search_result_count": 30,
@@ -198,7 +197,23 @@
       "cafe_camera_drag_threshold": -9000,
       "cafe_summon_ticket_buy_limit_for_validate": 1,
       "auto_craft_preset_count_limit": 3,
-      "auto_craft_node_select_count": 5
+      "auto_craft_node_select_count": 5,
+      "craft_preset_name_max_length": 8,
+      "selection_wait_time": 2000,
+      "reward_wait_time": 3000,
+      "episode_continue_wait_time": 3000,
+      "scenario_auto_delay_millisec_long": -270000000,
+      "scenario_auto_delay_millisec": -135000000,
+      "scenario_auto_delay_millisec_short": -67500000,
+      "scenario_auto_delay_millisec_very_short": -33750000,
+      "pc_build_enter_information": 1000001,
+      "comeback_user_standard_day": 28,
+      "comeback_user_log_save_day": 60,
+      "come_back_activate_cooldown": 60,
+      "cafe_copy_preset_slot_count": 10,
+      "expiry_product_daily_record_item_receive_day": 7,
+      "newbie_user_standard_day": 28,
+      "newbie_state_hold_day": 28
     }
   ]
 }

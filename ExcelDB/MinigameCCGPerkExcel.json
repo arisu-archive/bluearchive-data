@@ -433,6 +433,440 @@
       "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
       "shop_localize_title": 2153272129,
       "shop_localize_desc": 992912110
+    },
+    {
+      "id": 85401,
+      "ccg_id": 854,
+      "cost_parcel_amount": 1,
+      "reroll_point": 1,
+      "discard_point": 0,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [],
+      "shop_order": 1,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1777782653,
+      "shop_localize_desc": 753782367
+    },
+    {
+      "id": 85402,
+      "ccg_id": 854,
+      "cost_parcel_amount": 1,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848110
+      ],
+      "required_perk_id": [
+        85401
+      ],
+      "shop_order": 2,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 2177207236,
+      "shop_localize_desc": 735836604
+    },
+    {
+      "id": 85403,
+      "ccg_id": 854,
+      "cost_parcel_amount": 1,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848210
+      ],
+      "required_perk_id": [
+        85401
+      ],
+      "shop_order": 3,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_00",
+      "shop_localize_title": 2120197678,
+      "shop_localize_desc": 4250328730
+    },
+    {
+      "id": 85404,
+      "ccg_id": 854,
+      "cost_parcel_amount": 1,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848310
+      ],
+      "required_perk_id": [
+        85401
+      ],
+      "shop_order": 4,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 1689815039,
+      "shop_localize_desc": 4155857231
+    },
+    {
+      "id": 85405,
+      "ccg_id": 854,
+      "cost_parcel_amount": 2,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848410
+      ],
+      "required_perk_id": [
+        85402
+      ],
+      "shop_order": 5,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 30317841,
+      "shop_localize_desc": 96549142
+    },
+    {
+      "id": 85406,
+      "ccg_id": 854,
+      "cost_parcel_amount": 2,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848510
+      ],
+      "required_perk_id": [
+        85403
+      ],
+      "shop_order": 6,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 4109864483,
+      "shop_localize_desc": 1284759960
+    },
+    {
+      "id": 85407,
+      "ccg_id": 854,
+      "cost_parcel_amount": 2,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848610
+      ],
+      "required_perk_id": [
+        85404
+      ],
+      "shop_order": 7,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 2633587228,
+      "shop_localize_desc": 911915191
+    },
+    {
+      "id": 85408,
+      "ccg_id": 854,
+      "cost_parcel_amount": 4,
+      "reroll_point": 1,
+      "discard_point": 0,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [
+        85405,
+        85406,
+        85407
+      ],
+      "shop_order": 8,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1777782653,
+      "shop_localize_desc": 753782367
+    },
+    {
+      "id": 85409,
+      "ccg_id": 854,
+      "cost_parcel_amount": 4,
+      "reroll_point": 0,
+      "discard_point": 1,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [
+        85408
+      ],
+      "shop_order": 9,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 442115745,
+      "shop_localize_desc": 1662226846
+    },
+    {
+      "id": 85410,
+      "ccg_id": 854,
+      "cost_parcel_amount": 4,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848120
+      ],
+      "required_perk_id": [
+        85409
+      ],
+      "shop_order": 10,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 1110227567,
+      "shop_localize_desc": 4208845669
+    },
+    {
+      "id": 85411,
+      "ccg_id": 854,
+      "cost_parcel_amount": 4,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848220
+      ],
+      "required_perk_id": [
+        85409
+      ],
+      "shop_order": 11,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_00",
+      "shop_localize_title": 2668033445,
+      "shop_localize_desc": 3601520794
+    },
+    {
+      "id": 85412,
+      "ccg_id": 854,
+      "cost_parcel_amount": 4,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848320
+      ],
+      "required_perk_id": [
+        85409
+      ],
+      "shop_order": 12,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 1499895252,
+      "shop_localize_desc": 4022044791
+    },
+    {
+      "id": 85413,
+      "ccg_id": 854,
+      "cost_parcel_amount": 6,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848420
+      ],
+      "required_perk_id": [
+        85410
+      ],
+      "shop_order": 13,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 718767086,
+      "shop_localize_desc": 443967268
+    },
+    {
+      "id": 85414,
+      "ccg_id": 854,
+      "cost_parcel_amount": 6,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848520
+      ],
+      "required_perk_id": [
+        85411
+      ],
+      "shop_order": 14,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 3548367414,
+      "shop_localize_desc": 907807192
+    },
+    {
+      "id": 85415,
+      "ccg_id": 854,
+      "cost_parcel_amount": 6,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848620
+      ],
+      "required_perk_id": [
+        85412
+      ],
+      "shop_order": 15,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 854006614,
+      "shop_localize_desc": 103170921
+    },
+    {
+      "id": 85416,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 1,
+      "discard_point": 0,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [
+        85413,
+        85414,
+        85415
+      ],
+      "shop_order": 16,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1777782653,
+      "shop_localize_desc": 753782367
+    },
+    {
+      "id": 85417,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848130
+      ],
+      "required_perk_id": [
+        85416
+      ],
+      "shop_order": 17,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 2450401062,
+      "shop_localize_desc": 2159222324
+    },
+    {
+      "id": 85418,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848230
+      ],
+      "required_perk_id": [
+        85416
+      ],
+      "shop_order": 18,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_00",
+      "shop_localize_title": 218800429,
+      "shop_localize_desc": 325216632
+    },
+    {
+      "id": 85419,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848330
+      ],
+      "required_perk_id": [
+        85416
+      ],
+      "shop_order": 19,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 4089447898,
+      "shop_localize_desc": 277343710
+    },
+    {
+      "id": 85420,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848430
+      ],
+      "required_perk_id": [
+        85417
+      ],
+      "shop_order": 20,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 3042448636,
+      "shop_localize_desc": 1378010790
+    },
+    {
+      "id": 85421,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848530
+      ],
+      "required_perk_id": [
+        85418
+      ],
+      "shop_order": 21,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_01",
+      "shop_localize_title": 2290646474,
+      "shop_localize_desc": 1486684555
+    },
+    {
+      "id": 85422,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848630
+      ],
+      "required_perk_id": [
+        85419
+      ],
+      "shop_order": 22,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1457701368,
+      "shop_localize_desc": 1396737537
+    },
+    {
+      "id": 85423,
+      "ccg_id": 854,
+      "cost_parcel_amount": 8,
+      "reroll_point": 1,
+      "discard_point": 0,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [
+        85420,
+        85421,
+        85422
+      ],
+      "shop_order": 23,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1777782653,
+      "shop_localize_desc": 753782367
+    },
+    {
+      "id": 85424,
+      "ccg_id": 854,
+      "cost_parcel_amount": 10,
+      "reroll_point": 0,
+      "discard_point": 1,
+      "environment_logic_effect_id": [],
+      "required_perk_id": [
+        85423
+      ],
+      "shop_order": 24,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 442115745,
+      "shop_localize_desc": 1662226846
+    },
+    {
+      "id": 85425,
+      "ccg_id": 854,
+      "cost_parcel_amount": 10,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848910
+      ],
+      "required_perk_id": [
+        85424
+      ],
+      "shop_order": 25,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 1879323911,
+      "shop_localize_desc": 1106011424
+    },
+    {
+      "id": 85426,
+      "ccg_id": 854,
+      "cost_parcel_amount": 10,
+      "reroll_point": 0,
+      "discard_point": 0,
+      "environment_logic_effect_id": [
+        848920
+      ],
+      "required_perk_id": [
+        85425
+      ],
+      "shop_order": 26,
+      "shop_icon": "UIs/01_Common/34_MiniGame/Cardgame/ShopIcon/CCG_Icon_ShopIcon_02",
+      "shop_localize_title": 2153272129,
+      "shop_localize_desc": 992912110
     }
   ]
 }
