@@ -4890,13 +4890,9 @@
       "enemy_passive_skill_id": [
         "Enemy_HealConvertDamage_02_R82",
         "Enemy_Buff_Shield_PassiveSkill01",
-        "Enemy_Release_Shield_By_Debuff_PassiveSkill01",
-        "Enemy_Release_Shield_By_Debuff_PassiveSkill02",
-        "Enemy_Release_Shield_By_Debuff_PassiveSkill03"
+        "Enemy_Release_Shield_By_Debuff_PassiveSkill01"
       ],
       "enemy_passive_skill_level": [
-        1,
-        1,
         1,
         1,
         1
@@ -5354,7 +5350,7 @@
       "id": 46301,
       "time_attack_dungeon_type": 3,
       "localize_etc_key": 671667446,
-      "battle_duration": 160000,
+      "battle_duration": 150000,
       "clear_default_point": 500,
       "clear_time_weight_point": 100000,
       "time_weight_const": 30000,
@@ -5386,6 +5382,614 @@
         2060888564,
         2927033294,
         2963837983
+      ]
+    },
+    {
+      "id": 47001,
+      "time_attack_dungeon_type": 4,
+      "localize_etc_key": 2354263109,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 25000,
+      "time_weight_const": 2500,
+      "difficulty": 1,
+      "recommand_level": 25,
+      "ground_id": 930100001,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290
+      ]
+    },
+    {
+      "id": 47101,
+      "time_attack_dungeon_type": 4,
+      "localize_etc_key": 2230600009,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 50000,
+      "time_weight_const": 10000,
+      "difficulty": 2,
+      "recommand_level": 40,
+      "ground_id": 930100002,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290
+      ]
+    },
+    {
+      "id": 47201,
+      "time_attack_dungeon_type": 4,
+      "localize_etc_key": 3931451038,
+      "battle_duration": 120000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 75000,
+      "time_weight_const": 20000,
+      "difficulty": 3,
+      "recommand_level": 65,
+      "ground_id": 930100003,
+      "ally_passive_skill_id": [
+        "Enemy_HealConvertDamage_01_R87"
+      ],
+      "ally_passive_skill_level": [
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_HealConvertDamage_02_R87"
+      ],
+      "enemy_passive_skill_level": [
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_NPC_Special_HealConvertDamage"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290,
+        2781993275
+      ]
+    },
+    {
+      "id": 47301,
+      "time_attack_dungeon_type": 4,
+      "localize_etc_key": 3366014157,
+      "battle_duration": 150000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 100000,
+      "time_weight_const": 30000,
+      "difficulty": 4,
+      "recommand_level": 78,
+      "ground_id": 930100004,
+      "ally_passive_skill_id": [
+        "Enemy_HealConvertDamage_01_R87",
+        "Ally_Buff_StatChange_EnhancePierceRate_ByAvantgardekunHPRate_PassiveSkill01",
+        "Ally_Buff_StatChange_EnhancePierceRate_ByAvantgardekunHPRate_PassiveSkill02",
+        "Ally_Buff_StatChange_EnhancePierceRate_ByAvantgardekunHPRate_PassiveSkill03",
+        "Ally_Buff_StatChange_EnhancePierceRate_ByAvantgardekunHPRate_PassiveSkill04"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_HealConvertDamage_02_R87",
+        "Enemy_Buff_StatChange_AttackPower_01_PassiveSkill01",
+        "Enemy_Buff_StatChange_MaxHP_PassiveSkill07"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_NPC_Special_HealConvertDamage",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Buff_EnhancePierceRate"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290,
+        2781993275,
+        1947863360
+      ]
+    },
+    {
+      "id": 48001,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 2141954617,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 25000,
+      "time_weight_const": 2500,
+      "difficulty": 1,
+      "recommand_level": 25,
+      "ground_id": 902200001,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "geas_localize_etc_key": [
+        1329507091,
+        2570956929
+      ]
+    },
+    {
+      "id": 48101,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 1030215788,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 50000,
+      "time_weight_const": 10000,
+      "difficulty": 2,
+      "recommand_level": 40,
+      "ground_id": 902200002,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "geas_localize_etc_key": [
+        1329507091,
+        2570956929
+      ]
+    },
+    {
+      "id": 48201,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 1484170832,
+      "battle_duration": 160000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 75000,
+      "time_weight_const": 20000,
+      "difficulty": 3,
+      "recommand_level": 65,
+      "ground_id": 902200003,
+      "ally_passive_skill_id": [
+        "Ally_Buff_StatChange_WeaponARRG_EnhanceMysticRate_PassiveSkill01_R88"
+      ],
+      "ally_passive_skill_level": [
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_Buff_StatChange_MaxHP_01_R88"
+      ],
+      "enemy_passive_skill_level": [
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Buff_EnhanceMysticRate"
+      ],
+      "geas_localize_etc_key": [
+        1329507091,
+        2570956929,
+        728198119
+      ]
+    },
+    {
+      "id": 48301,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 3349075398,
+      "battle_duration": 170000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 100000,
+      "time_weight_const": 30000,
+      "difficulty": 4,
+      "recommand_level": 78,
+      "ground_id": 902200004,
+      "ally_passive_skill_id": [
+        "Ally_Buff_StatChange_WeaponARRG_EnhanceMysticRate_PassiveSkill01_R88"
+      ],
+      "ally_passive_skill_level": [
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_Buff_StatChange_MaxHP_01_R88",
+        "Enemy_Damage_NormalDamage_TriggerDie_01_R88"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Indoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Buff_EnhanceMysticRate",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Special_Damage_TriggerDied"
+      ],
+      "geas_localize_etc_key": [
+        1329507091,
+        2570956929,
+        728198119,
+        1003414517
+      ]
+    },
+    {
+      "id": 49001,
+      "time_attack_dungeon_type": 2,
+      "localize_etc_key": 4233541551,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 25000,
+      "time_weight_const": 2500,
+      "difficulty": 1,
+      "recommand_level": 25,
+      "ground_id": 910000001,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_LightArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2060888564
+      ]
+    },
+    {
+      "id": 49101,
+      "time_attack_dungeon_type": 2,
+      "localize_etc_key": 1007570906,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 50000,
+      "time_weight_const": 10000,
+      "difficulty": 2,
+      "recommand_level": 40,
+      "ground_id": 910000002,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_LightArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2060888564
+      ]
+    },
+    {
+      "id": 49201,
+      "time_attack_dungeon_type": 2,
+      "localize_etc_key": 410466650,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 75000,
+      "time_weight_const": 20000,
+      "difficulty": 3,
+      "recommand_level": 65,
+      "ground_id": 910000003,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [
+        "Enemy_Debuff_StatChange_DamageRatioIncrease_01_R89_PassiveSkill01"
+      ],
+      "enemy_passive_skill_level": [
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_LightArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Debuff_DamageRatio2Increase"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2060888564,
+        2349011676
+      ]
+    },
+    {
+      "id": 49301,
+      "time_attack_dungeon_type": 2,
+      "localize_etc_key": 1036490810,
+      "battle_duration": 100000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 100000,
+      "time_weight_const": 30000,
+      "difficulty": 4,
+      "recommand_level": 78,
+      "ground_id": 910000004,
+      "ally_passive_skill_id": [
+        "Ally_Buff_StatChange_WeaponARSR_EnhanceBasicsDamageRate"
+      ],
+      "ally_passive_skill_level": [
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_Debuff_StatChange_DamageRatioIncrease_01_R89_PassiveSkill01"
+      ],
+      "enemy_passive_skill_level": [
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_LightArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Debuff_DamageRatio2Increase",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Buff_EnhanceBasicDamageRate"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2060888564,
+        2349011676,
+        3488597961
+      ]
+    },
+    {
+      "id": 50001,
+      "time_attack_dungeon_type": 3,
+      "localize_etc_key": 3848197905,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 25000,
+      "time_weight_const": 2500,
+      "difficulty": 1,
+      "recommand_level": 25,
+      "ground_id": 921200001,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Outdoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "geas_localize_etc_key": [
+        990306261,
+        2570956929
+      ]
+    },
+    {
+      "id": 50101,
+      "time_attack_dungeon_type": 3,
+      "localize_etc_key": 2774794386,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 50000,
+      "time_weight_const": 10000,
+      "difficulty": 2,
+      "recommand_level": 40,
+      "ground_id": 921200002,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Outdoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed"
+      ],
+      "geas_localize_etc_key": [
+        990306261,
+        2570956929
+      ]
+    },
+    {
+      "id": 50201,
+      "time_attack_dungeon_type": 3,
+      "localize_etc_key": 766045,
+      "battle_duration": 130000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 75000,
+      "time_weight_const": 20000,
+      "difficulty": 3,
+      "recommand_level": 65,
+      "ground_id": 921200003,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [
+        "Enemy_Buff_ExtraDamage_R90_PassiveSkill01",
+        "Enemy_Buff_ExtraDamage_R90_PassiveSkill02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Outdoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Special_Damage_Multiple"
+      ],
+      "geas_localize_etc_key": [
+        990306261,
+        2570956929,
+        1388660830
+      ]
+    },
+    {
+      "id": 50301,
+      "time_attack_dungeon_type": 3,
+      "localize_etc_key": 671667446,
+      "battle_duration": 130000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 100000,
+      "time_weight_const": 30000,
+      "difficulty": 4,
+      "recommand_level": 78,
+      "ground_id": 921200104,
+      "ally_passive_skill_id": [
+        "Ally_Debuff_StatChange_Totem_HealedRate_R90_PassiveSkill01",
+        "Ally_Buff_StatChange_CostRegen_DispelCheck_R90_PassiveSkill01"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_Buff_ExtraDamage_R90_PassiveSkill01",
+        "Enemy_Buff_ExtraDamage_R90_PassiveSkill02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Outdoor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_Unarmed",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Special_Damage_Multiple",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_NPC_Special_Debuff"
+      ],
+      "geas_localize_etc_key": [
+        990306261,
+        2570956929,
+        1388660830,
+        3559310313
+      ]
+    },
+    {
+      "id": 51001,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 2141954617,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 25000,
+      "time_weight_const": 2500,
+      "difficulty": 1,
+      "recommand_level": 25,
+      "ground_id": 900100001,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290
+      ]
+    },
+    {
+      "id": 51101,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 1030215788,
+      "battle_duration": 180000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 50000,
+      "time_weight_const": 10000,
+      "difficulty": 2,
+      "recommand_level": 40,
+      "ground_id": 900100002,
+      "ally_passive_skill_id": [],
+      "ally_passive_skill_level": [],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290
+      ]
+    },
+    {
+      "id": 51201,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 1484170832,
+      "battle_duration": 160000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 75000,
+      "time_weight_const": 20000,
+      "difficulty": 3,
+      "recommand_level": 65,
+      "ground_id": 900100003,
+      "ally_passive_skill_id": [
+        "Ally_Debuff_StatChange_Striker_DamageRatio2Decrease_TriggerKillEnemy",
+        "Ally_Dispell_StatChange_Striker_DamageRatio2Decrease_TriggerKillEnemy",
+        "Ally_Buff_StatChange_DispellSuccess_DamageRatio2Increase_01_Passive01"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [],
+      "enemy_passive_skill_level": [],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Debuff_StatChange_DamageRatio2Decrease"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290,
+        4062393487
+      ]
+    },
+    {
+      "id": 51301,
+      "time_attack_dungeon_type": 1,
+      "localize_etc_key": 3349075398,
+      "battle_duration": 170000,
+      "clear_default_point": 500,
+      "clear_time_weight_point": 100000,
+      "time_weight_const": 30000,
+      "difficulty": 4,
+      "recommand_level": 78,
+      "ground_id": 900100004,
+      "ally_passive_skill_id": [
+        "Ally_Debuff_StatChange_Striker_DamageRatio2Decrease_TriggerKillEnemy",
+        "Ally_Dispell_StatChange_Striker_DamageRatio2Decrease_TriggerKillEnemy",
+        "Ally_Buff_StatChange_DispellSuccess_DamageRatio2Increase_01_Passive01",
+        "Ally_Buff_StatChange_DamagedRatio2Decrease_TriggerShield"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Enemy_Buff_StatChange_AttackPower_Ratio_03_PassiveSkill01"
+      ],
+      "enemy_passive_skill_level": [
+        1
+      ],
+      "geas_icon_path": [
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Terrain_Street",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_ArmorType_HeavyArmor",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Ally_Debuff_StatChange_DamageRatio2Decrease",
+        "Uis/01_Common/35_TimeAttack/TimeAttackGeas_Icon_Enemy_Buff_AttackPower"
+      ],
+      "geas_localize_etc_key": [
+        3938056289,
+        2075498290,
+        4062393487,
+        2009704492
       ]
     }
   ]

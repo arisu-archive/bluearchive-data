@@ -4,6 +4,7 @@
       "unique_id": 1,
       "content_type": 17,
       "event_content_id": 821,
+      "scenario_mode_type": 0,
       "scenario_mode_volume": 0,
       "scenario_mode_chapter": 0,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -24,6 +25,7 @@
       "unique_id": 2,
       "content_type": 15,
       "event_content_id": 0,
+      "scenario_mode_type": 1,
       "scenario_mode_volume": 100,
       "scenario_mode_chapter": 2,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -42,6 +44,7 @@
       "unique_id": 3,
       "content_type": 11,
       "event_content_id": 822,
+      "scenario_mode_type": 0,
       "scenario_mode_volume": 0,
       "scenario_mode_chapter": 0,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -62,6 +65,7 @@
       "unique_id": 4,
       "content_type": 15,
       "event_content_id": 0,
+      "scenario_mode_type": 1,
       "scenario_mode_volume": 100,
       "scenario_mode_chapter": 3,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -80,6 +84,7 @@
       "unique_id": 5,
       "content_type": 17,
       "event_content_id": 823,
+      "scenario_mode_type": 0,
       "scenario_mode_volume": 0,
       "scenario_mode_chapter": 0,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -100,6 +105,7 @@
       "unique_id": 6,
       "content_type": 15,
       "event_content_id": 0,
+      "scenario_mode_type": 1,
       "scenario_mode_volume": 100,
       "scenario_mode_chapter": 4,
       "shortcut_open_time": "2022-11-04 11:00:00",
@@ -118,6 +124,7 @@
       "unique_id": 7,
       "content_type": 11,
       "event_content_id": 50822,
+      "scenario_mode_type": 0,
       "scenario_mode_volume": 0,
       "scenario_mode_chapter": 0,
       "shortcut_open_time": "2023-03-08 11:00:00",
@@ -138,6 +145,7 @@
       "unique_id": 8,
       "content_type": 15,
       "event_content_id": 0,
+      "scenario_mode_type": 1,
       "scenario_mode_volume": 100,
       "scenario_mode_chapter": 3,
       "shortcut_open_time": "2023-03-08 11:00:00",
@@ -151,6 +159,86 @@
         "腐稯䭻뚡"
       ],
       "localize": "POPUP_CONQUEST_OPEN_BYSCENARIO"
+    },
+    {
+      "unique_id": 9,
+      "content_type": 23,
+      "event_content_id": 854,
+      "scenario_mode_type": 0,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2026-01-20 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 854090009,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 90002110,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 10,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_type": 5,
+      "scenario_mode_volume": 1,
+      "scenario_mode_chapter": 3,
+      "shortcut_open_time": "2026-01-20 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 90002100,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 854,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIInteractiveWorldRaidLobby"
+      ],
+      "localize": "POPUP_WORLDRAID_OPEN_BYSCENARIO"
+    },
+    {
+      "unique_id": 11,
+      "content_type": 23,
+      "event_content_id": 854,
+      "scenario_mode_type": 0,
+      "scenario_mode_volume": 0,
+      "scenario_mode_chapter": 0,
+      "shortcut_open_time": "2026-02-12 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 854110009,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 90002220,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork",
+        "UIScenarioMode_ModeSelect",
+        "UIScenarioMode_MainVolume"
+      ],
+      "localize": "POPUP_SCENARIO_OPEN_BYEVENT"
+    },
+    {
+      "unique_id": 12,
+      "content_type": 15,
+      "event_content_id": 0,
+      "scenario_mode_type": 5,
+      "scenario_mode_volume": 1,
+      "scenario_mode_chapter": 3,
+      "shortcut_open_time": "2026-02-12 11:00:00",
+      "shortcut_close_time": "2099-02-22 10:59:59",
+      "condition_content_id": 90002210,
+      "conquest_map_difficulty": 0,
+      "conquest_step_index": 0,
+      "shortcut_content_id": 854,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIInteractiveWorldRaidLobby"
+      ],
+      "localize": "POPUP_WORLDRAID_OPEN_BYSCENARIO"
     }
   ]
 }
