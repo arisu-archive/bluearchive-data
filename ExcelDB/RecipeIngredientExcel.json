@@ -75095,6 +75095,538 @@
       "cost_time_in_second": 0
     },
     {
+      "id": 10130000,
+      "recipe_type": 3,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        10000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        30
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130001,
+      "recipe_type": 3,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        40000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        80
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130002,
+      "recipe_type": 3,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        200000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        100
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130003,
+      "recipe_type": 3,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        1000000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        120
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130100,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        80000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4
+      ],
+      "ingredient_id": [
+        3060,
+        100
+      ],
+      "ingredient_amount": [
+        12,
+        14
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130101,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        500000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        3061,
+        3060,
+        101,
+        220
+      ],
+      "ingredient_amount": [
+        12,
+        18,
+        17,
+        32
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130102,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        3000000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        3062,
+        3061,
+        102,
+        221
+      ],
+      "ingredient_amount": [
+        12,
+        18,
+        9,
+        27
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130103,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        10000000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        3063,
+        3062,
+        103,
+        222
+      ],
+      "ingredient_amount": [
+        8,
+        18,
+        8,
+        22
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130200,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        5000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        4060
+      ],
+      "ingredient_amount": [
+        5
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130201,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        7500
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        4060
+      ],
+      "ingredient_amount": [
+        8
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130202,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        60000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4061,
+        4060,
+        100
+      ],
+      "ingredient_amount": [
+        5,
+        12,
+        6
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130203,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        90000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4061,
+        101,
+        220
+      ],
+      "ingredient_amount": [
+        8,
+        4,
+        13
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130204,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        300000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4062,
+        4061,
+        101,
+        220
+      ],
+      "ingredient_amount": [
+        5,
+        12,
+        9,
+        17
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130205,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        450000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4062,
+        102,
+        221
+      ],
+      "ingredient_amount": [
+        8,
+        3,
+        16
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130206,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        1500000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4063,
+        4062,
+        103,
+        222
+      ],
+      "ingredient_amount": [
+        8,
+        12,
+        5,
+        9
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130207,
+      "recipe_type": 2,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        2400000
+      ],
+      "ingredient_parcel_type": [
+        4,
+        4,
+        4
+      ],
+      "ingredient_id": [
+        4063,
+        103,
+        222
+      ],
+      "ingredient_amount": [
+        12,
+        8,
+        12
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130300,
+      "recipe_type": 7,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        1000000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        120
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130301,
+      "recipe_type": 7,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        1500000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        180
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130302,
+      "recipe_type": 7,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        2000000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        200
+      ],
+      "cost_time_in_second": 0
+    },
+    {
+      "id": 10130303,
+      "recipe_type": 7,
+      "cost_parcel_type": [
+        2
+      ],
+      "cost_id": [
+        1
+      ],
+      "cost_amount": [
+        2500000
+      ],
+      "ingredient_parcel_type": [
+        4
+      ],
+      "ingredient_id": [
+        10130
+      ],
+      "ingredient_amount": [
+        1
+      ],
+      "cost_time_in_second": 0
+    },
+    {
       "id": 13000000,
       "recipe_type": 3,
       "cost_parcel_type": [

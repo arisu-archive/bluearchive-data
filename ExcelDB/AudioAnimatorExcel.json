@@ -23367,6 +23367,42 @@
       "voice_hash": []
     },
     {
+      "controller_name_hash": 3229969496,
+      "voice_name_prefix": "SM032601_Controller",
+      "state_name_hash": 725858951,
+      "state_name": "Base Layer.VitalReatreat",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 30,
+      "audio_clip_path": [],
+      "voice_hash": [
+        3413345810
+      ]
+    },
+    {
+      "controller_name_hash": 3229969496,
+      "voice_name_prefix": "SM032601_Controller",
+      "state_name_hash": 1936815394,
+      "state_name": "Base Layer.VitalDeath",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 30,
+      "audio_clip_path": [],
+      "voice_hash": [
+        3436375298
+      ]
+    },
+    {
       "controller_name_hash": 1727647704,
       "voice_name_prefix": "EN0002_Controller",
       "state_name_hash": 4198288525,
