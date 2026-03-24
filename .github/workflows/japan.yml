@@ -83,6 +83,7 @@ jobs:
         uses: webfactory/ssh-agent@v0.10.0
         with:
           ssh-private-key: |
+            ${{secrets.KIVOTOS_GATE_PRIVATE_KEY}}
             ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
             ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
             ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
@@ -93,13 +94,19 @@ jobs:
           go env -w GOPRIVATE="github.com/arisu-archive"
           go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
           git config --global --remove-section url."git@github.com:arisu-archive"
+      - name: Retrieve SQLCipher key
+        id: get-sqlcipher-key
+        run: |
+          SQLCIPHER_KEY=$(go run github.com/arisu-archive/kivotos-gate/cmd/kivotos-gate@latest get-crypto-keys)
+          echo "::add-mask::$SQLCIPHER_KEY"
+          echo "sqlcipher-key=$SQLCIPHER_KEY" >> $GITHUB_OUTPUT
       - name: Decrypt assets
         run: |
           # Start the decryption process for TableBundles
           for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip" "ConquestMap.zip" "HexaMap.zip"; do
             # Remove the directory if it exists (to avoid leftover chunked files)
             rm -rf "${file%.*}"
-            go run github.com/arisu-archive/assets-dumper@latest x -s ${{ env.SERVER }} -i ./tmp/TableBundles/$file -o . -k ${{ secrets.SQLCIPHER_KEY }}
+            go run github.com/arisu-archive/assets-dumper@latest x -s ${{ env.SERVER }} -i ./tmp/TableBundles/$file -o . -k ${{ steps.get-sqlcipher-key.outputs.sqlcipher-key }}
           done
           # Remove the tmp directory
           rm -rf ./tmp
