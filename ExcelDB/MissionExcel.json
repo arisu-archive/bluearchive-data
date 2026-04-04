@@ -142664,6 +142664,86 @@
       ]
     },
     {
+      "id": 400032,
+      "category": 3,
+      "description": 408345533,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": true,
+      "start_date": "2026-04-15 11:00:00",
+      "end_date": "2026-04-29 11:00:00",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 400000,
+      "pre_mission_id": [],
+      "target_group": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|70011010"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        70011010
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
+      "id": 400033,
+      "category": 3,
+      "description": 408345533,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+      "view_flag": true,
+      "limit": true,
+      "start_date": "2026-04-15 11:00:00",
+      "end_date": "2026-04-29 11:00:00",
+      "end_day": 0,
+      "startable_end_date": "",
+      "date_auto_refer": 0,
+      "display_order": 400000,
+      "pre_mission_id": [],
+      "target_group": 1,
+      "account_level": 1,
+      "content_tags": [],
+      "shortcut_ui": [
+        "UIScenarioMode_Volume|70011020"
+      ],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 56,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        70011020
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        50
+      ]
+    },
+    {
       "id": 410001,
       "category": 3,
       "description": 1571451519,
