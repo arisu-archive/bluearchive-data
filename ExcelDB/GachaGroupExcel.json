@@ -1706,7 +1706,7 @@
     },
     {
       "id": 100083,
-      "name_kr": "1_3차 픽업 이오리(수영복)",
+      "name_kr": "1_3차 픽업 타카네",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1748,7 +1748,7 @@
     },
     {
       "id": 100103,
-      "name_kr": "1_4차 픽업 미모리(수영복)",
+      "name_kr": "1_4차 픽업 야쿠모",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1784,13 +1784,13 @@
     },
     {
       "id": 110022,
-      "name_kr": "3_2차 픽업 SR 더미",
+      "name_kr": "3_2차 픽업 SR 모미지",
       "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 110023,
-      "name_kr": "1_5차 픽업 레이사(매지컬)",
+      "name_kr": "1_5차 픽업 메루",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1832,7 +1832,7 @@
     },
     {
       "id": 110043,
-      "name_kr": "3_2차 픽업 스즈미(매지컬)",
+      "name_kr": "3_2차 픽업 미노리",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1874,7 +1874,7 @@
     },
     {
       "id": 110063,
-      "name_kr": "2_3차 학생 가챠 픽업 마리나(치파오)",
+      "name_kr": "2_3차 픽업 시구레(온천)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1916,7 +1916,7 @@
     },
     {
       "id": 110083,
-      "name_kr": "2_3차 학생 가챠 픽업 토모에(치파오)",
+      "name_kr": "2_3차 픽업 세리카(수영복)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -9079,6 +9079,12 @@
       "group_type": 3
     },
     {
+      "id": 1000001,
+      "name_kr": "제작된 어른의 카드 보상용 꾸러미 보상",
+      "is_recursive": false,
+      "group_type": 3
+    },
+    {
       "id": 1100010,
       "name_kr": "3성 확정 학원 모집 - 밀레니엄",
       "is_recursive": true,
@@ -9171,6 +9177,48 @@
     {
       "id": 1200010,
       "name_kr": "3성 한정 확정 1회 모집",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 8000090,
+      "name_kr": "리바이벌 모집 픽업 데이터",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 8000091,
+      "name_kr": "리바이벌 모집 픽업 데이터 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 8000092,
+      "name_kr": "리바이벌 모집 픽업 데이터 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 8000093,
+      "name_kr": "리바이벌 모집 픽업 데이터 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 8000099,
+      "name_kr": "리바이벌 모집 픽업 데이터 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 8000102,
+      "name_kr": "리바이벌 모집 픽업 데이터 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 8000103,
+      "name_kr": "리바이벌 모집 픽업 데이터 당첨 픽업",
       "is_recursive": false,
       "group_type": 1
     },

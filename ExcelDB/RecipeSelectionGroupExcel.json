@@ -8321,6 +8321,22 @@
       "result_amount_max": 1
     },
     {
+      "recipe_selection_group_id": 1001020,
+      "recipe_selection_group_component_id": 38,
+      "parcel_type": 13,
+      "parcel_id": 20307,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 1001020,
+      "recipe_selection_group_component_id": 39,
+      "parcel_type": 13,
+      "parcel_id": 20308,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
       "recipe_selection_group_id": 1001021,
       "recipe_selection_group_component_id": 1,
       "parcel_type": 13,
@@ -15273,6 +15289,30 @@
       "result_amount_max": 1
     },
     {
+      "recipe_selection_group_id": 1001993,
+      "recipe_selection_group_component_id": 203,
+      "parcel_type": 13,
+      "parcel_id": 20307,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 1001993,
+      "recipe_selection_group_component_id": 204,
+      "parcel_type": 13,
+      "parcel_id": 20308,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 1001993,
+      "recipe_selection_group_component_id": 205,
+      "parcel_type": 13,
+      "parcel_id": 210368,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
       "recipe_selection_group_id": 1001999,
       "recipe_selection_group_component_id": 1,
       "parcel_type": 13,
@@ -15917,6 +15957,14 @@
       "recipe_selection_group_component_id": 81,
       "parcel_type": 13,
       "parcel_id": 210384,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 1001999,
+      "recipe_selection_group_component_id": 82,
+      "parcel_type": 13,
+      "parcel_id": 210368,
       "result_amount_min": 1,
       "result_amount_max": 1
     },
@@ -18389,6 +18437,310 @@
       "recipe_selection_group_component_id": 114,
       "parcel_type": 1,
       "parcel_id": 20040,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 1,
+      "parcel_type": 1,
+      "parcel_id": 10000,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 2,
+      "parcel_type": 1,
+      "parcel_id": 10001,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 3,
+      "parcel_type": 1,
+      "parcel_id": 10002,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 4,
+      "parcel_type": 1,
+      "parcel_id": 10003,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 5,
+      "parcel_type": 1,
+      "parcel_id": 10004,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 6,
+      "parcel_type": 1,
+      "parcel_id": 10006,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 7,
+      "parcel_type": 1,
+      "parcel_id": 10007,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 8,
+      "parcel_type": 1,
+      "parcel_id": 10008,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 9,
+      "parcel_type": 1,
+      "parcel_id": 10009,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 10,
+      "parcel_type": 1,
+      "parcel_id": 10011,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 11,
+      "parcel_type": 1,
+      "parcel_id": 10012,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 12,
+      "parcel_type": 1,
+      "parcel_id": 10013,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 13,
+      "parcel_type": 1,
+      "parcel_id": 20000,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 14,
+      "parcel_type": 1,
+      "parcel_id": 20001,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 15,
+      "parcel_type": 1,
+      "parcel_id": 20002,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 16,
+      "parcel_type": 1,
+      "parcel_id": 10005,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 17,
+      "parcel_type": 1,
+      "parcel_id": 10010,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 18,
+      "parcel_type": 1,
+      "parcel_id": 20003,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 19,
+      "parcel_type": 1,
+      "parcel_id": 10014,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 20,
+      "parcel_type": 1,
+      "parcel_id": 10015,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 21,
+      "parcel_type": 1,
+      "parcel_id": 10016,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 22,
+      "parcel_type": 1,
+      "parcel_id": 10017,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 23,
+      "parcel_type": 1,
+      "parcel_id": 10018,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 24,
+      "parcel_type": 1,
+      "parcel_id": 10019,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 25,
+      "parcel_type": 1,
+      "parcel_id": 10020,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 26,
+      "parcel_type": 1,
+      "parcel_id": 20005,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 27,
+      "parcel_type": 1,
+      "parcel_id": 10024,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 28,
+      "parcel_type": 1,
+      "parcel_id": 10025,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 29,
+      "parcel_type": 1,
+      "parcel_id": 20006,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 30,
+      "parcel_type": 1,
+      "parcel_id": 10028,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 31,
+      "parcel_type": 1,
+      "parcel_id": 10029,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 32,
+      "parcel_type": 1,
+      "parcel_id": 20008,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 33,
+      "parcel_type": 1,
+      "parcel_id": 20009,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 34,
+      "parcel_type": 1,
+      "parcel_id": 10030,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 35,
+      "parcel_type": 1,
+      "parcel_id": 20010,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 36,
+      "parcel_type": 1,
+      "parcel_id": 20011,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 37,
+      "parcel_type": 1,
+      "parcel_id": 20012,
+      "result_amount_min": 1,
+      "result_amount_max": 1
+    },
+    {
+      "recipe_selection_group_id": 2000100,
+      "recipe_selection_group_component_id": 38,
+      "parcel_type": 1,
+      "parcel_id": 20013,
       "result_amount_min": 1,
       "result_amount_max": 1
     },

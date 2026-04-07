@@ -6718,7 +6718,7 @@
       "tier": 1,
       "icon": "UIs/01_Common/16_CafeItem/My_Hotsprings_01_Massagechair",
       "size_width": 1,
-      "size_height": 2,
+      "size_height": 3,
       "other_size": 2,
       "expand_width": 0,
       "enable": true,
@@ -31408,6 +31408,7 @@
         339,
         0,
         402,
+        307,
         724,
         726
       ],
@@ -31431,7 +31432,7 @@
         "M2_20307"
       ],
       "cafe_character_state_only": [],
-      "hide_craft_shortcut": true
+      "hide_craft_shortcut": false
     },
     {
       "id": 20308,
@@ -31465,6 +31466,7 @@
         339,
         0,
         402,
+        307,
         728
       ],
       "craft_quality_tier0": 100,
@@ -31483,7 +31485,7 @@
       "cafe_character_state_add": [],
       "cafe_character_state_make": [],
       "cafe_character_state_only": [],
-      "hide_craft_shortcut": true
+      "hide_craft_shortcut": false
     },
     {
       "id": 21100,
@@ -45673,6 +45675,7 @@
         339,
         0,
         402,
+        307,
         730
       ],
       "craft_quality_tier0": 100,
@@ -46635,6 +46638,60 @@
       "cafe_character_state_add": [],
       "cafe_character_state_make": [],
       "cafe_character_state_only": [],
+      "hide_craft_shortcut": false
+    },
+    {
+      "id": 210387,
+      "production_step": 3,
+      "rarity": 3,
+      "category": 0,
+      "sub_category": 0,
+      "check_floor_decoration": false,
+      "localize_etc_id": 2118635362,
+      "star_grade_init": 3,
+      "tier": 1,
+      "icon": "UIs/01_Common/16_CafeItem/My_Event086_Salesdesk",
+      "size_width": 3,
+      "size_height": 2,
+      "other_size": 3,
+      "expand_width": 0,
+      "enable": true,
+      "reverse_rotation": false,
+      "prefab": "Cafe/my_event086_salesdesk",
+      "prefab_expand": "",
+      "sub_prefab": "",
+      "sub_expand_prefab": "",
+      "corner_prefab": "",
+      "stackable_max": 9999,
+      "recipe_craft_id": 0,
+      "set_groudp_id": 0,
+      "comfort_bonus": 350,
+      "visit_operation_type": 0,
+      "visit_bonus_operation_type": 0,
+      "tags": [
+        339,
+        0,
+        402,
+        799,
+        801
+      ],
+      "craft_quality_tier0": 100,
+      "craft_quality_tier1": 100,
+      "craft_quality_tier2": 100,
+      "shifting_craft_quality": 200,
+      "furniture_function_type": 0,
+      "furniture_function_parameter": [],
+      "video_id": 0,
+      "event_collection_id": 0,
+      "furniture_bubble_offset_x": 0,
+      "furniture_bubble_offset_y": 0,
+      "cafe_character_state_req": [],
+      "cafe_character_state_add": [],
+      "cafe_character_state_make": [],
+      "cafe_character_state_only": [
+        "O1_210387",
+        "O2_210387"
+      ],
       "hide_craft_shortcut": false
     },
     {

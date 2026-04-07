@@ -239,6 +239,13 @@
       "mail": false
     },
     {
+      "protocol": "Character_PotentialGrowth",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Equipment_List",
       "open_condition_content": 21,
       "currency": false,
@@ -946,6 +953,13 @@
       "mail": false
     },
     {
+      "protocol": "Raid_RankingIndex",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "SkipHistory_List",
       "open_condition_content": 21,
       "currency": false,
@@ -961,63 +975,63 @@
     },
     {
       "protocol": "Scenario_List",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_Clear",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_GroupHistoryUpdate",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_Skip",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_Select",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_AccountStudentChange",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_LobbyStudentChange",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_SpecialLobbyChange",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
       "protocol": "Scenario_Enter",
-      "open_condition_content": 0,
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
@@ -1235,6 +1249,20 @@
     {
       "protocol": "Cafe_Open",
       "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Cafe_Travel",
+      "open_condition_content": 4,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Cafe_SummonCharacterTicketUse",
+      "open_condition_content": 4,
       "currency": false,
       "inventory": false,
       "mail": false
@@ -1751,6 +1779,13 @@
       "mail": false
     },
     {
+      "protocol": "Billing_PurchaseFreeProduct",
+      "open_condition_content": 34,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Billing_PurchaseCashShopVerifyByNexon",
       "open_condition_content": 21,
       "currency": false,
@@ -2087,6 +2122,62 @@
       "mail": false
     },
     {
+      "protocol": "EventContent_CardShopPurchaseAll",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_TreasureLobby",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "EventContent_TreasureFlip",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_TreasureNextRound",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "EventContent_ConcentrationGetInfo",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "EventContent_ConcentrationFlipCard",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ConcentrationRoundComplete",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ConcentrationRoundSkip",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
       "protocol": "TTS_GetFile",
       "open_condition_content": 21,
       "currency": false,
@@ -2340,6 +2431,146 @@
     },
     {
       "protocol": "MiniGame_DreamMakerEnding",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_DefenseGetInfo",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_DefenseEnterBattle",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_DefenseBattleResult",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_RoadPuzzleGetInfo",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_RoadPuzzleTilePlace",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_RoadPuzzleSaveStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_RoadPuzzleClearStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_CCGLobby",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGCreateGame",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGSweep",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_CCGEnterStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGEndStageDual",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGEndStageEvent",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGSelectRewardCard",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Minigame_CCGReplaceCharacter",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGSelectCampAction",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGCompleteGame",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_CCGGiveupGame",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGRerollReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_CCGBuyPerk",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -2962,29 +3193,22 @@
       "mail": false
     },
     {
-      "protocol": "MiniGame_DefenseGetInfo",
+      "protocol": "MiniGame_CCGLobby",
       "open_condition_content": 29,
       "currency": false,
       "inventory": false,
       "mail": false
     },
     {
-      "protocol": "MiniGame_DefenseEnterBattle",
-      "open_condition_content": 29,
+      "protocol": "BattlePass_GetInfo",
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
-      "mail": true
+      "mail": false
     },
     {
-      "protocol": "MiniGame_DefenseBattleResult",
-      "open_condition_content": 29,
-      "currency": false,
-      "inventory": false,
-      "mail": true
-    },
-    {
-      "protocol": "MiniGame_CCGLobby",
-      "open_condition_content": 29,
+      "protocol": "BattlePass_BuyLevel",
+      "open_condition_content": 21,
       "currency": false,
       "inventory": false,
       "mail": false
@@ -2995,6 +3219,34 @@
       "currency": true,
       "inventory": true,
       "mail": true
+    },
+    {
+      "protocol": "BattlePass_MissionList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "BattlePass_MissionSingleReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "BattlePass_MissionMultipleReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "BattlePass_Check",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     }
   ]
 }

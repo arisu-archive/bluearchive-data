@@ -513,11 +513,11 @@
       "enabled": true,
       "banner_open_date": "2026-02-03 11:00:00",
       "start_date": "2026-02-03 11:00:00",
-      "startable_end_date": "2026-03-10 10:59:59",
-      "end_date": "2026-03-10 10:59:59",
+      "startable_end_date": "2125-12-24 00:00:00",
+      "end_date": "2125-12-31 00:00:00",
       "close_banner_after_completion": false,
       "maximum_login_count": 7,
-      "expiry_date": 100,
+      "expiry_date": 0,
       "icon_order": 10016,
       "spine_character_id": 19009430,
       "requirement_parcel_image": "UIs/01_Common/03_NonEquipment/Collectible_Icon_GuideMission_S52",
@@ -529,8 +529,8 @@
       "requirement_parcel_id": 20000014,
       "requirement_parcel_amount": 100,
       "tab_type": 1,
-      "is_permanent": false,
-      "pre_season_id": 0
+      "is_permanent": true,
+      "pre_season_id": 15
     }
   ]
 }
