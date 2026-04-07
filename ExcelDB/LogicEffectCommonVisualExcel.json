@@ -3817,6 +3817,63 @@
       "particle_apply_socket": 0,
       "particle_removed_path": "",
       "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3134344740,
+      "icon_sprite_name": "Combat_Icon_Special_CH0228_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 1666356754,
+      "icon_sprite_name": "Combat_Icon_Special_CH0229_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4289217528,
+      "icon_sprite_name": "Combat_Icon_Buff_NinjaWalking",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "Effect/Common_Variant/FX_Common_Effect_DotHeal_Variant",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
     }
   ]
 }

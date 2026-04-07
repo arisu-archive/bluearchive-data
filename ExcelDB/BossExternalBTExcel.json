@@ -94161,6 +94161,86 @@
       "behavior_argument": "0"
     },
     {
+      "external_bt_id": 773000101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 7,
+      "trigger_argument": "100",
+      "behavior_rate": 10000,
+      "external_behavior": 5,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 16,
+      "behavior_argument": "2,0"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 0,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "1",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 1,
+      "trigger_argument": "11",
+      "behavior_rate": 10000,
+      "external_behavior": 16,
+      "behavior_argument": "2,0"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "2",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "4",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "1"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "6",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 773000101,
+      "ai_phase": 1,
+      "external_bt_node_type": 2,
+      "external_bt_trigger": 4,
+      "trigger_argument": "6",
+      "behavior_rate": 10000,
+      "external_behavior": 1,
+      "behavior_argument": "0"
+    },
+    {
       "external_bt_id": 701230101,
       "ai_phase": 0,
       "external_bt_node_type": 0,
@@ -98109,6 +98189,16 @@
       "behavior_rate": 10000,
       "external_behavior": 4,
       "behavior_argument": "2"
+    },
+    {
+      "external_bt_id": 8530101,
+      "ai_phase": 0,
+      "external_bt_node_type": 1,
+      "external_bt_trigger": 11,
+      "trigger_argument": "Dummy_HOD_ChangePhase03",
+      "behavior_rate": 10000,
+      "external_behavior": 4,
+      "behavior_argument": "0"
     }
   ]
 }
