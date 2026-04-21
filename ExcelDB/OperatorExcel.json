@@ -3812,6 +3812,40 @@
       ],
       "operator_wait_queue": false,
       "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 71131,
+      "group_id": "711_ScenarioBattle_NightVision",
+      "operator_condition": 0,
+      "output_sequence": 1,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "text_localize_key": "ScenarioBattle_NightVision01",
+      "voice_id": [
+        2650471372
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
+    },
+    {
+      "unique_id": 71132,
+      "group_id": "711_ScenarioBattle_NightVision",
+      "operator_condition": 0,
+      "output_sequence": 2,
+      "random_weight": 1,
+      "output_delay": 0,
+      "duration": 0,
+      "operator_output_priority": 1,
+      "portrait_path": "UIs/01_Common/20_Operator/Operator_Portrait_Arona_05",
+      "text_localize_key": "ScenarioBattle_NightVision02",
+      "voice_id": [
+        611259383
+      ],
+      "operator_wait_queue": false,
+      "character_voice_override_priority": 0
     }
   ]
 }

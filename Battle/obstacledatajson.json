@@ -29357,5 +29357,632 @@
         "y": 0.452
       }
     ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": 7.4505806E-08
+    },
+    "Size": {
+      "x": 0.651808858,
+      "y": 0.4142078
+    },
+    "DestroyDuration": 3.00000024,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Abandonedtunnel_block_01",
+    "NameHash": 2759837700,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.0250000115,
+        "y": 0.261000037
+      },
+      {
+        "x": 0.085,
+        "y": -0.493
+      },
+      {
+        "x": 0.325904369,
+        "y": -0.207103819
+      },
+      {
+        "x": 0.325904369,
+        "y": 0.207103968
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.025,
+        "y": 0.261
+      },
+      {
+        "x": 0.08500001,
+        "y": -0.493000031
+      },
+      {
+        "x": 0.325904369,
+        "y": -0.207103819
+      },
+      {
+        "x": 0.325904369,
+        "y": 0.207103968
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": -8.940697E-08
+    },
+    "Size": {
+      "x": 0.8248222,
+      "y": 0.873034537
+    },
+    "DestroyDuration": 2.03333354,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 1,
+    "UniqueName": "Abandonedtunnel_pipe_01",
+    "NameHash": 2081854828,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.639,
+        "y": 0.108
+      },
+      {
+        "x": -0.453,
+        "y": 0.176
+      },
+      {
+        "x": 0.412411034,
+        "y": -0.436517358
+      },
+      {
+        "x": 0.412411034,
+        "y": 0.436517179
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.639,
+        "y": 0.10799998
+      },
+      {
+        "x": -0.453,
+        "y": 0.176
+      },
+      {
+        "x": 0.412411034,
+        "y": -0.436517358
+      },
+      {
+        "x": 0.412411034,
+        "y": 0.436517179
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -0.006841421,
+      "y": -0.00608018041
+    },
+    "Size": {
+      "x": 0.842648,
+      "y": 0.8502141
+    },
+    "DestroyDuration": 2.13333344,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Abandonedtunnel_pipe_02",
+    "NameHash": 8544650,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.549,
+        "y": -0.125999957
+      },
+      {
+        "x": -0.268,
+        "y": 0.453
+      },
+      {
+        "x": 0.4144826,
+        "y": -0.431187242
+      },
+      {
+        "x": 0.4144826,
+        "y": 0.419026881
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.549,
+        "y": -0.126
+      },
+      {
+        "x": -0.268,
+        "y": 0.453
+      },
+      {
+        "x": 0.4144826,
+        "y": -0.431187242
+      },
+      {
+        "x": 0.4144826,
+        "y": 0.419026881
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": 0.02413717
+    },
+    "Size": {
+      "x": 0.6601493,
+      "y": 0.347954363
+    },
+    "DestroyDuration": 3.33333349,
+    "JumpAble": true,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Abandonedtunnel_sign_01",
+    "NameHash": 1216405956,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.083999984,
+        "y": -0.425
+      },
+      {
+        "x": -0.213,
+        "y": 0.401
+      },
+      {
+        "x": 0.330074638,
+        "y": -0.149840012
+      },
+      {
+        "x": 0.330074638,
+        "y": 0.19811435
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.084,
+        "y": -0.425
+      },
+      {
+        "x": -0.213,
+        "y": 0.401
+      },
+      {
+        "x": 0.330074638,
+        "y": -0.149840012
+      },
+      {
+        "x": 0.330074638,
+        "y": 0.19811435
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": 1.49011612E-08
+    },
+    "Size": {
+      "x": 0.366635233,
+      "y": 0.262642533
+    },
+    "DestroyDuration": 2.33333349,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 2,
+    "UniqueName": "Abandonedtunnel_sign_02",
+    "NameHash": 3796810045,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": 0.003,
+        "y": -0.455
+      },
+      {
+        "x": -0.014,
+        "y": 0.438
+      },
+      {
+        "x": 0.183317617,
+        "y": -0.131321251
+      },
+      {
+        "x": 0.183317617,
+        "y": 0.131321281
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": 0.003000006,
+        "y": -0.455
+      },
+      {
+        "x": -0.0139999986,
+        "y": 0.438
+      },
+      {
+        "x": 0.183317617,
+        "y": -0.131321251
+      },
+      {
+        "x": 0.183317617,
+        "y": 0.131321281
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": -5.96046448E-08,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 0.7520858,
+      "y": 0.606917739
+    },
+    "DestroyDuration": 3.00000024,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 2,
+    "UniqueName": "Abandonedtunnel_sign_03",
+    "NameHash": 2689634835,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.0220000148,
+        "y": -0.654
+      },
+      {
+        "x": -0.005,
+        "y": 0.652
+      },
+      {
+        "x": 0.376042843,
+        "y": -0.3034589
+      },
+      {
+        "x": 0.376042843,
+        "y": 0.30345884
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.022,
+        "y": -0.654
+      },
+      {
+        "x": -0.004999995,
+        "y": 0.652
+      },
+      {
+        "x": 0.376042843,
+        "y": -0.3034589
+      },
+      {
+        "x": 0.376042843,
+        "y": 0.30345884
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.0,
+      "y": -2.98023224E-08
+    },
+    "Size": {
+      "x": 0.44,
+      "y": 0.440000117
+    },
+    "DestroyDuration": 2.60000014,
+    "CrashByTSS": true,
+    "DestroyType": 1,
+    "RetreatType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 1,
+    "CoverMotionType": 1,
+    "MaterialType": 3,
+    "UniqueName": "Abandonedtunnel_sign_04",
+    "NameHash": 3369461650,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -0.013,
+        "y": -0.587
+      },
+      {
+        "x": 0.013,
+        "y": 0.546
+      },
+      {
+        "x": 0.22,
+        "y": -0.220000088
+      },
+      {
+        "x": 0.22,
+        "y": 0.220000029
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -0.0129999965,
+        "y": -0.587
+      },
+      {
+        "x": 0.0129999965,
+        "y": 0.546
+      },
+      {
+        "x": 0.22,
+        "y": -0.220000088
+      },
+      {
+        "x": 0.22,
+        "y": 0.220000029
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.5,
+      "y": 1.5
+    },
+    "Offset": {
+      "x": 2.38418579E-07,
+      "y": -0.0171080828
+    },
+    "Size": {
+      "x": 1.37755156,
+      "y": 1.43817282
+    },
+    "DestroyDuration": 5.00000048,
+    "RemainTime": 3.0,
+    "CrashByTSS": true,
+    "ObstacleHeightType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 2,
+    "MaterialType": 1,
+    "UniqueName": "ch_statue_02_Test",
+    "NameHash": 561484998,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -1.033,
+        "y": -0.366
+      },
+      {
+        "x": 0.95,
+        "y": 0.36
+      },
+      {
+        "x": 0.364,
+        "y": -1.006
+      },
+      {
+        "x": -0.326,
+        "y": 1.0
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -1.033,
+        "y": -0.366
+      },
+      {
+        "x": 0.950000048,
+        "y": 0.36
+      },
+      {
+        "x": 0.364,
+        "y": -1.006
+      },
+      {
+        "x": -0.325999975,
+        "y": 1.0
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 4.745441,
+      "y": -0.002200365
+    },
+    "Size": {
+      "x": 15.65461,
+      "y": 7.227483
+    },
+    "UniqueName": "EN0022_Object_03",
+    "NameHash": 1633529396,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [
+      {
+        "x": -3.08186388,
+        "y": -3.61594176
+      },
+      {
+        "x": -3.08186388,
+        "y": 3.611541
+      },
+      {
+        "x": 12.5727463,
+        "y": -3.61594176
+      },
+      {
+        "x": 12.5727463,
+        "y": 3.611541
+      }
+    ],
+    "PlayerPoints": [
+      {
+        "x": -3.08186388,
+        "y": -3.61594176
+      },
+      {
+        "x": -3.08186388,
+        "y": 3.611541
+      },
+      {
+        "x": 12.5727463,
+        "y": -3.61594176
+      },
+      {
+        "x": 12.5727463,
+        "y": 3.611541
+      }
+    ]
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 2.38418579E-07,
+      "y": -0.0171080828
+    },
+    "Size": {
+      "x": 1.37755156,
+      "y": 1.43817282
+    },
+    "DestroyDuration": 5.00000048,
+    "RemainTime": 3.0,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "ObstacleCoverType": 2,
+    "MaterialType": 1,
+    "UniqueName": "Redwinter_Cherino_Statue_01",
+    "NameHash": 3260051409,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
+  },
+  {
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Offset": {
+      "x": 0.117942214,
+      "y": -0.8901155
+    },
+    "Size": {
+      "x": 1.5,
+      "y": 3.32679224
+    },
+    "DestroyDuration": 5.0,
+    "RemainTime": 3.0,
+    "Indestructible": true,
+    "ObstacleHeightType": 1,
+    "DestroyType": 1,
+    "ArmorType": 3,
+    "MaterialType": 1,
+    "UniqueName": "Redwinter_Cherino_Statue_01_Sub",
+    "NameHash": 2618281233,
+    "Direction": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "EnemyPoints": [],
+    "PlayerPoints": []
   }
 ]

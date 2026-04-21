@@ -2,7 +2,9 @@
   "data_list": [
     {
       "use_search_field_optimize": true,
-      "search_update_time": 0.1
+      "search_update_time": 0.1,
+      "lobby_day_time_from": 7,
+      "lobby_night_time_from": 19
     }
   ]
 }

@@ -625,6 +625,18 @@
       "icon_scale_y": 1
     },
     {
+      "id": "UI_KeyMapping_Common_BtnOK13",
+      "target_key_code": "Return|Space",
+      "is_display": true,
+      "is_used": true,
+      "is_long_press": false,
+      "ignore_pos_check": false,
+      "icon_position_x": 100,
+      "icon_position_y": -180,
+      "icon_scale_x": 1,
+      "icon_scale_y": 1
+    },
+    {
       "id": "UI_KeyMapping_Common_BtnOK_IgnorePosCheck",
       "target_key_code": "Return|Space",
       "is_display": false,

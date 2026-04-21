@@ -7,7 +7,6 @@
       "hard_stage_count": 3,
       "tactic_rank_clear_time": 120000,
       "base_time_scale": 10000,
-      "gacha_percentage": 2000,
       "academy_favor_zone_id": 1,
       "cafe_preset_slot_count": 10,
       "cafe_monologue_interval_millisec": 5000,
@@ -213,7 +212,8 @@
       "cafe_copy_preset_slot_count": 10,
       "expiry_product_daily_record_item_receive_day": 7,
       "newbie_user_standard_day": 28,
-      "newbie_state_hold_day": 28
+      "newbie_state_hold_day": 28,
+      "clear_deck_echelon_show_max_count": 20
     }
   ]
 }

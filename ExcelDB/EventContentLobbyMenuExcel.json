@@ -311,11 +311,21 @@
       "reddot_sprite_name": "Common_Icon_Reddot2"
     },
     {
-      "event_content_id": 99999,
+      "event_content_id": 857,
       "event_content_type": 43,
-      "icon_sprite_name": "Event_Icon_char810",
-      "button_text": "Event_Button_Treasure",
+      "icon_sprite_name": "Event_Icon_ClueSearch_857",
+      "button_text": "Event_Button_ClueSearch",
       "display_order": 28,
+      "icon_offset_x": 0,
+      "icon_offset_y": 0,
+      "reddot_sprite_name": "Common_Icon_Reddot2"
+    },
+    {
+      "event_content_id": 10845,
+      "event_content_type": 13,
+      "icon_sprite_name": "Event_Icon_FortuneGachaShop_845",
+      "button_text": "Event_Button_FortuneGachaShop_845",
+      "display_order": 21,
       "icon_offset_x": 0,
       "icon_offset_y": 0,
       "reddot_sprite_name": "Common_Icon_Reddot2"

@@ -1441,10 +1441,14 @@
     {
       "prefab_name": "UIPopup_StageInfo_Sub",
       "button_name": [
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_prev",
+        "Btn_Next"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_Common_ArrowLeft_isUsed",
+        "UI_KeyMapping_Common_ArrowRight_isUsed"
       ]
     },
     {
@@ -2300,17 +2304,6 @@
       "button_name": [
         "Btn_prev",
         "Btn_Next"
-      ],
-      "key_mapping_id": [
-        "UI_KeyMapping_Common_ArrowLeft_isUsed",
-        "UI_KeyMapping_Common_ArrowRight_isUsed"
-      ]
-    },
-    {
-      "prefab_name": "UIGacha",
-      "button_name": [
-        "Arrow_L",
-        "Arrow_R"
       ],
       "key_mapping_id": [
         "UI_KeyMapping_Common_ArrowLeft_isUsed",
