@@ -1292,11 +1292,13 @@
       "prefab_name": "UIPopup_RaidEnter",
       "button_name": [
         "Btn_Enter",
-        "Btn_ReEnter"
+        "Btn_ReEnter",
+        "Btn_Sweep"
       ],
       "key_mapping_id": [
         "UI_KeyMapping_UIPopupRaidEnter_BtnOK",
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
       ]
     },
     {
@@ -1920,10 +1922,12 @@
     {
       "prefab_name": "UIWeekDungeonEnterPopup",
       "button_name": [
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_Sweep"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK04"
+        "UI_KeyMapping_Common_BtnOK04",
+        "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
       ]
     },
     {
@@ -2105,10 +2109,12 @@
     {
       "prefab_name": "UITimeAttackLobby",
       "button_name": [
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_Sweep"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
       ]
     },
     {
@@ -2694,6 +2700,19 @@
     },
     {
       "prefab_name": "UIPause",
+      "button_name": [
+        "RaidSet/Btn_Ok",
+        "RaidSet/Btn_Retry",
+        "RaidSet/Btn_Out"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_UIPause_Btn_Ok",
+        "UI_KeyMapping_UIPause_Btn_Retry",
+        "UI_KeyMapping_UIPause_Btn_Out"
+      ]
+    },
+    {
+      "prefab_name": "UIPause_EchelonExtension",
       "button_name": [
         "RaidSet/Btn_Ok",
         "RaidSet/Btn_Retry",
