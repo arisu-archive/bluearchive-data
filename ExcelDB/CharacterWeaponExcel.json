@@ -7368,6 +7368,112 @@
       ]
     },
     {
+      "id": 10139,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0172",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 79,
+      "attack_power100": 786,
+      "max_hp": 585,
+      "max_hp100": 5847,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        10139300,
+        10139301,
+        10139302,
+        10139303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        50,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        1000,
+        0
+      ]
+    },
+    {
+      "id": 10140,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0173",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 95,
+      "attack_power100": 954,
+      "max_hp": 1348,
+      "max_hp100": 13480,
+      "heal_power": 138,
+      "heal_power100": 1384,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        10140300,
+        10140301,
+        10140302,
+        10140303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        50,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        1000,
+        0
+      ]
+    },
+    {
       "id": 13000,
       "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_13000",
       "set_recipe": 0,
@@ -9212,6 +9318,59 @@
         0,
         22,
         52,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        1000,
+        0
+      ]
+    },
+    {
+      "id": 16020,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0174",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 157,
+      "attack_power100": 1569,
+      "max_hp": 448,
+      "max_hp100": 4478,
+      "heal_power": 0,
+      "heal_power100": 0,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        16020300,
+        16020301,
+        16020302,
+        16020303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        50,
         0
       ],
       "stat_value": [
@@ -12266,6 +12425,59 @@
         20057301,
         20057302,
         20057303
+      ],
+      "max_level": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "learn_skill_slot": [
+        "褶",
+        "Passive01",
+        "褶",
+        "褶",
+        "褶"
+      ],
+      "stat_type": [
+        0,
+        0,
+        20,
+        89,
+        0
+      ],
+      "stat_value": [
+        0,
+        0,
+        1,
+        5000,
+        0
+      ]
+    },
+    {
+      "id": 20058,
+      "image_path": "UIs/01_Common/04_Weapon/Weapon_Icon_erika",
+      "set_recipe": 0,
+      "stat_level_up_type": 0,
+      "attack_power": 106,
+      "attack_power100": 1062,
+      "max_hp": 646,
+      "max_hp100": 6463,
+      "heal_power": 199,
+      "heal_power100": 1986,
+      "unlock": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "recipe_id": [
+        20058300,
+        20058301,
+        20058302,
+        20058303
       ],
       "max_level": [
         30,

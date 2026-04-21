@@ -1977,6 +1977,25 @@
       "particle_removed_socket": 0
     },
     {
+      "string_id": 3506298281,
+      "icon_sprite_name": "Combat_Icon_Special_CH0242_ExtraPassive_01",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
       "string_id": 3913311100,
       "icon_sprite_name": "",
       "icon_dispel_color": [],
@@ -3973,6 +3992,101 @@
     {
       "string_id": 3797373190,
       "icon_sprite_name": "Combat_Icon_Special_CH0337_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3407672411,
+      "icon_sprite_name": "Combat_Icon_Buff_TacticalShieldHealByHit_Damaged",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4248089112,
+      "icon_sprite_name": "Combat_Icon_Special_CH0172_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3980410343,
+      "icon_sprite_name": "Combat_Icon_Buff_TacticalShield",
+      "icon_dispel_color": [
+        1,
+        0.31,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2191629894,
+      "icon_sprite_name": "Combat_Icon_Special_CH0174_Ex",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 4126491961,
+      "icon_sprite_name": "Combat_Icon_Special_CH0076_Ex",
       "icon_dispel_color": [
         1,
         0.784,

@@ -45,6 +45,28 @@
       ]
     },
     {
+      "id": 1690,
+      "product_select_sub_type": 1,
+      "product_id": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "store_type": 1,
+      "price": 2000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        800
+      ],
+      "product_selection_slot": [
+        1002
+      ]
+    },
+    {
       "id": 5652,
       "product_select_sub_type": 0,
       "product_id": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
@@ -86,6 +108,50 @@
       ],
       "product_selection_slot": [
         1001
+      ]
+    },
+    {
+      "id": 5690,
+      "product_select_sub_type": 1,
+      "product_id": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "store_type": 2,
+      "price": 2000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        800
+      ],
+      "product_selection_slot": [
+        1002
+      ]
+    },
+    {
+      "id": 105683,
+      "product_select_sub_type": 1,
+      "product_id": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
+      "store_type": 11,
+      "price": 2000,
+      "price_reference": "",
+      "purchase_period_type": 0,
+      "purchase_period_limit": 5,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        800
+      ],
+      "product_selection_slot": [
+        1002
       ]
     }
   ]

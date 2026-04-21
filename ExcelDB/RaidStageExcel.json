@@ -4793,6 +4793,55 @@
       "echelon_extension_type": 0
     },
     {
+      "id": 1048,
+      "use_boss_index": true,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "Kaitenger_Street",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_KaitenFxMk0_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_KaitenFxMk0_LobbyBG_Street",
+      "raid_character_id": 7404807,
+      "boss_character_id": [
+        7404801,
+        7404800
+      ],
+      "difficulty": 7,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 180000,
+      "ground_id": 205100008,
+      "raid_boss_group_type": 5,
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 17710000,
+      "maximum_score": 10368000,
+      "per_second_minus_score": 28800,
+      "hp_percent_score": 25525000,
+      "minimum_acquisition_score": 43235000,
+      "maximum_acquisition_score": 53603000,
+      "raid_reward_group_id": 507,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Kaitenranger_Insane_Street_OP",
+        "Timeline/Timeline_Kaitenranger_Insane_Street_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        1
+      ],
+      "battle_ready_timeline_phase_end": [
+        0,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": true,
+      "boss_bg_info_key": 491740630,
+      "echelon_extension_type": 0
+    },
+    {
       "id": 1051,
       "use_boss_index": false,
       "use_boss_ai_phase_sync": false,
