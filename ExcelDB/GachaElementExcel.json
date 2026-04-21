@@ -3598,6 +3598,28 @@
       "state": 1
     },
     {
+      "id": 63000137,
+      "gacha_group_id": 63,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 63000138,
+      "gacha_group_id": 63,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 63000139,
       "gacha_group_id": 63,
       "parcel_type": 1,
@@ -4731,28 +4753,6 @@
       "state": 1
     },
     {
-      "id": 73000098,
-      "gacha_group_id": 73,
-      "parcel_type": 1,
-      "parcel_id": 10073,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 73000099,
-      "gacha_group_id": 73,
-      "parcel_type": 1,
-      "parcel_id": 20028,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
       "id": 73000100,
       "gacha_group_id": 73,
       "parcel_type": 1,
@@ -5351,6 +5351,28 @@
       "gacha_group_id": 73,
       "parcel_type": 1,
       "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 73000173,
+      "gacha_group_id": 73,
+      "parcel_type": 1,
+      "parcel_id": 10132,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 73000174,
+      "gacha_group_id": 73,
+      "parcel_type": 1,
+      "parcel_id": 20053,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -56662,17 +56684,6 @@
       "state": 1
     },
     {
-      "id": 1000130099,
-      "gacha_group_id": 100013,
-      "parcel_type": 1,
-      "parcel_id": 20028,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
       "id": 1000130100,
       "gacha_group_id": 100013,
       "parcel_type": 1,
@@ -57256,10 +57267,43 @@
       "state": 1
     },
     {
+      "id": 1000130171,
+      "gacha_group_id": 100013,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1000130172,
+      "gacha_group_id": 100013,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1000130173,
+      "gacha_group_id": 100013,
+      "parcel_type": 1,
+      "parcel_id": 10132,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1000230000,
       "gacha_group_id": 100023,
       "parcel_type": 1,
-      "parcel_id": 20028,
+      "parcel_id": 20053,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -69301,6 +69345,17 @@
       "state": 1
     },
     {
+      "id": 1100930051,
+      "gacha_group_id": 110093,
+      "parcel_type": 1,
+      "parcel_id": 10038,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1100930052,
       "gacha_group_id": 110093,
       "parcel_type": 1,
@@ -70038,6 +70093,17 @@
       "state": 1
     },
     {
+      "id": 1100930138,
+      "gacha_group_id": 110093,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1100930139,
       "gacha_group_id": 110093,
       "parcel_type": 1,
@@ -70291,10 +70357,43 @@
       "state": 1
     },
     {
+      "id": 1100930170,
+      "gacha_group_id": 110093,
+      "parcel_type": 1,
+      "parcel_id": 10130,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1100930171,
+      "gacha_group_id": 110093,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1100930172,
+      "gacha_group_id": 110093,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1101030000,
       "gacha_group_id": 110103,
       "parcel_type": 1,
-      "parcel_id": 10038,
+      "parcel_id": 10105,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -70724,6 +70823,17 @@
       "gacha_group_id": 120013,
       "parcel_type": 1,
       "parcel_id": 10038,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200130052,
+      "gacha_group_id": 120013,
+      "parcel_type": 1,
+      "parcel_id": 20014,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -71457,6 +71567,17 @@
       "state": 1
     },
     {
+      "id": 1200130137,
+      "gacha_group_id": 120013,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200130139,
       "gacha_group_id": 120013,
       "parcel_type": 1,
@@ -71710,10 +71831,43 @@
       "state": 1
     },
     {
+      "id": 1200130170,
+      "gacha_group_id": 120013,
+      "parcel_type": 1,
+      "parcel_id": 10130,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200130171,
+      "gacha_group_id": 120013,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200130172,
+      "gacha_group_id": 120013,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200230000,
       "gacha_group_id": 120023,
       "parcel_type": 1,
-      "parcel_id": 20014,
+      "parcel_id": 10106,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -72271,6 +72425,17 @@
       "state": 1
     },
     {
+      "id": 1200330065,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 20018,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200330066,
       "gacha_group_id": 120033,
       "parcel_type": 1,
@@ -72440,17 +72605,6 @@
       "gacha_group_id": 120033,
       "parcel_type": 1,
       "parcel_id": 20025,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 1200330088,
-      "gacha_group_id": 120033,
-      "parcel_type": 1,
-      "parcel_id": 10065,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -72876,6 +73030,28 @@
       "state": 1
     },
     {
+      "id": 1200330137,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200330138,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200330139,
       "gacha_group_id": 120033,
       "parcel_type": 1,
@@ -73129,10 +73305,43 @@
       "state": 1
     },
     {
+      "id": 1200330170,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 10130,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200330171,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200330172,
+      "gacha_group_id": 120033,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200430000,
       "gacha_group_id": 120043,
       "parcel_type": 1,
-      "parcel_id": 20018,
+      "parcel_id": 10065,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -73694,17 +73903,6 @@
       "gacha_group_id": 120053,
       "parcel_type": 1,
       "parcel_id": 20018,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 1200530066,
-      "gacha_group_id": 120053,
-      "parcel_type": 1,
-      "parcel_id": 10049,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -74306,6 +74504,28 @@
       "state": 1
     },
     {
+      "id": 1200530137,
+      "gacha_group_id": 120053,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200530138,
+      "gacha_group_id": 120053,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200530139,
       "gacha_group_id": 120053,
       "parcel_type": 1,
@@ -74559,10 +74779,43 @@
       "state": 1
     },
     {
+      "id": 1200530170,
+      "gacha_group_id": 120053,
+      "parcel_type": 1,
+      "parcel_id": 10130,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200530171,
+      "gacha_group_id": 120053,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200530172,
+      "gacha_group_id": 120053,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200630000,
       "gacha_group_id": 120063,
       "parcel_type": 1,
-      "parcel_id": 10130,
+      "parcel_id": 10049,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -75417,17 +75670,6 @@
       "state": 1
     },
     {
-      "id": 1200730099,
-      "gacha_group_id": 120073,
-      "parcel_type": 1,
-      "parcel_id": 20028,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
       "id": 1200730100,
       "gacha_group_id": 120073,
       "parcel_type": 1,
@@ -76000,10 +76242,54 @@
       "state": 1
     },
     {
+      "id": 1200730170,
+      "gacha_group_id": 120073,
+      "parcel_type": 1,
+      "parcel_id": 10130,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200730171,
+      "gacha_group_id": 120073,
+      "parcel_type": 1,
+      "parcel_id": 10131,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200730172,
+      "gacha_group_id": 120073,
+      "parcel_type": 1,
+      "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 1200730174,
+      "gacha_group_id": 120073,
+      "parcel_type": 1,
+      "parcel_id": 20053,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 1200830000,
       "gacha_group_id": 120083,
       "parcel_type": 1,
-      "parcel_id": 10073,
+      "parcel_id": 10132,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -117976,6 +118262,182 @@
       "state": 1
     },
     {
+      "id": 12812,
+      "gacha_group_id": 300870,
+      "parcel_type": 4,
+      "parcel_id": 280,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12813,
+      "gacha_group_id": 300870,
+      "parcel_type": 4,
+      "parcel_id": 160,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12814,
+      "gacha_group_id": 300870,
+      "parcel_type": 4,
+      "parcel_id": 220,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12815,
+      "gacha_group_id": 300870,
+      "parcel_type": 4,
+      "parcel_id": 190,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12816,
+      "gacha_group_id": 300871,
+      "parcel_type": 4,
+      "parcel_id": 281,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12817,
+      "gacha_group_id": 300871,
+      "parcel_type": 4,
+      "parcel_id": 161,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12818,
+      "gacha_group_id": 300871,
+      "parcel_type": 4,
+      "parcel_id": 221,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12819,
+      "gacha_group_id": 300871,
+      "parcel_type": 4,
+      "parcel_id": 191,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12820,
+      "gacha_group_id": 300872,
+      "parcel_type": 4,
+      "parcel_id": 282,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12821,
+      "gacha_group_id": 300872,
+      "parcel_type": 4,
+      "parcel_id": 162,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12822,
+      "gacha_group_id": 300872,
+      "parcel_type": 4,
+      "parcel_id": 222,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12823,
+      "gacha_group_id": 300872,
+      "parcel_type": 4,
+      "parcel_id": 192,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12824,
+      "gacha_group_id": 300873,
+      "parcel_type": 4,
+      "parcel_id": 283,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12825,
+      "gacha_group_id": 300873,
+      "parcel_type": 4,
+      "parcel_id": 163,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12826,
+      "gacha_group_id": 300873,
+      "parcel_type": 4,
+      "parcel_id": 223,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 12827,
+      "gacha_group_id": 300873,
+      "parcel_type": 4,
+      "parcel_id": 193,
+      "rarity": 0,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 12566,
       "gacha_group_id": 300851,
       "parcel_type": 3,
@@ -157246,6 +157708,28 @@
       "state": 1
     },
     {
+      "id": 7130184,
+      "gacha_group_id": 700013,
+      "parcel_type": 1,
+      "parcel_id": 10132,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 7130185,
+      "gacha_group_id": 700013,
+      "parcel_type": 1,
+      "parcel_id": 20053,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 7210047,
       "gacha_group_id": 700021,
       "parcel_type": 1,
@@ -158317,6 +158801,28 @@
       "gacha_group_id": 700021,
       "parcel_type": 1,
       "parcel_id": 20052,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 7210184,
+      "gacha_group_id": 700021,
+      "parcel_type": 1,
+      "parcel_id": 10132,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 7210185,
+      "gacha_group_id": 700021,
+      "parcel_type": 1,
+      "parcel_id": 20053,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -164594,6 +165100,28 @@
       "state": 1
     },
     {
+      "id": 7730144,
+      "gacha_group_id": 700073,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 7730145,
+      "gacha_group_id": 700073,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 7730146,
       "gacha_group_id": 700073,
       "parcel_type": 1,
@@ -164840,28 +165368,6 @@
       "gacha_group_id": 700073,
       "parcel_type": 1,
       "parcel_id": 20050,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 7730179,
-      "gacha_group_id": 700073,
-      "parcel_type": 1,
-      "parcel_id": 20051,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 7730180,
-      "gacha_group_id": 700073,
-      "parcel_type": 1,
-      "parcel_id": 10129,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
@@ -165694,6 +166200,28 @@
       "state": 1
     },
     {
+      "id": 7810144,
+      "gacha_group_id": 700081,
+      "parcel_type": 1,
+      "parcel_id": 10105,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
+      "id": 7810145,
+      "gacha_group_id": 700081,
+      "parcel_type": 1,
+      "parcel_id": 10106,
+      "rarity": 3,
+      "parcel_amount_min": 1,
+      "parcel_amount_max": 1,
+      "prob": 1,
+      "state": 1
+    },
+    {
       "id": 7810146,
       "gacha_group_id": 700081,
       "parcel_type": 1,
@@ -165940,28 +166468,6 @@
       "gacha_group_id": 700081,
       "parcel_type": 1,
       "parcel_id": 20050,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 7810179,
-      "gacha_group_id": 700081,
-      "parcel_type": 1,
-      "parcel_id": 20051,
-      "rarity": 3,
-      "parcel_amount_min": 1,
-      "parcel_amount_max": 1,
-      "prob": 1,
-      "state": 1
-    },
-    {
-      "id": 7810180,
-      "gacha_group_id": 700081,
-      "parcel_type": 1,
-      "parcel_id": 10129,
       "rarity": 3,
       "parcel_amount_min": 1,
       "parcel_amount_max": 1,
