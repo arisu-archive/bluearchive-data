@@ -69,6 +69,8 @@ jobs:
     needs: determine-version
     if: needs.determine-version.outputs.skip != 'true'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -111,18 +113,15 @@ jobs:
             rm "$file"
             echo "Removed $file"
           done
-      - name: Upload Assets
-        run: |
-          curl https://dl.min.io/client/mc/release/linux-amd64/mc \
-            --create-dirs \
-            -o $HOME/minio-binaries/mc
-          chmod +x $HOME/minio-binaries/mc
-          export PATH=$PATH:$HOME/minio-binaries/
-          mc alias set target ${{ vars.S3_ENDPOINT }} ${{ secrets.S3_ACCESS_KEY }} ${{ secrets.S3_SECRET_KEY }}
-          sha256sum assets.zip | cut -f1 -d' ' > assets.zip.sha256
-          mc cp ./assets.zip target/bluearchive/${{ env.PACKAGE_NAME }}/assets.zip
-          mc cp ./assets.zip.sha256 target/bluearchive/${{ env.PACKAGE_NAME }}/assets.zip.sha256
-          rm assets.zip assets.zip.sha256
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.SERVER }}-${{ needs.determine-version.outputs.version }}
+          name: ${{ env.SERVER }} ${{ needs.determine-version.outputs.version }}
+          target_commitish: ${{ env.SERVER }}
+          files: assets.zip
+      - name: Cleanup release artifacts
+        run: rm assets.zip
       - name: Create pull request
         uses: peter-evans/create-pull-request@v8.1.1
         with:
