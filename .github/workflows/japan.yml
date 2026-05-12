@@ -54,17 +54,6 @@ jobs:
           force_update: ${{ env.FORCE_UPDATE }}
           version_file: ${{ env.SERVER }}.txt
 
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v8.1.1
-        if: steps.get-version.outputs.skip != 'true'
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}"
-          body: "* Version: ${{ steps.get-version.outputs.version }}"
-          branch: chore/bump-japan-version-${{ steps.get-version.outputs.version }}
-          labels: needs-review
-          commit-message: "chore(japan): bump japan version to ${{ steps.get-version.outputs.version }}"
-
   upload-assets:
     needs: determine-version
     if: needs.determine-version.outputs.skip != 'true'
@@ -132,3 +121,25 @@ jobs:
           branch: chore/bump-${{ env.SERVER }}-assets-${{ needs.determine-version.outputs.version }}
           labels: needs-review
           commit-message: "chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}"
+
+  bump-version:
+    needs: [determine-version, upload-assets]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            ${{ env.SERVER }}.txt
+          sparse-checkout-cone-mode: false
+      - name: Write version
+        run: echo -n "${{ needs.determine-version.outputs.version }}" > ${{ env.SERVER }}.txt
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v8.1.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "chore(japan): bump japan version to ${{ needs.determine-version.outputs.version }}"
+          body: "* Version: ${{ needs.determine-version.outputs.version }}"
+          branch: chore/bump-japan-version-${{ needs.determine-version.outputs.version }}
+          labels: needs-review
+          commit-message: "chore(japan): bump japan version to ${{ needs.determine-version.outputs.version }}"
