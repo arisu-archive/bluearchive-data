@@ -2269,6 +2269,15 @@
       ]
     },
     {
+      "prefab_name": "UIEventTreasureShop_840",
+      "button_name": [
+        "Btn_CardSelect_All/Normal"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK08"
+      ]
+    },
+    {
       "prefab_name": "UISeasonalEvent",
       "button_name": [
         "Btn_ReceiveAll"
@@ -2722,6 +2731,17 @@
         "UI_KeyMapping_UIPause_Btn_Ok",
         "UI_KeyMapping_UIPause_Btn_Retry",
         "UI_KeyMapping_UIPause_Btn_Out"
+      ]
+    },
+    {
+      "prefab_name": "UIScenario_EpisodeContinuePopup",
+      "button_name": [
+        "Btn_Continue",
+        "Btn_GiveUp"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_Common_BtnCancel01"
       ]
     }
   ]
