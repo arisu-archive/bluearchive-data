@@ -60,6 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -107,16 +108,10 @@ jobs:
             rm "$file"
             echo "Removed $file"
           done
-      - name: Create GitHub release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: global-${{ needs.determine-version.outputs.version }}
-          name: global ${{ needs.determine-version.outputs.version }}
-          target_commitish: global
-          files: assets.zip
-      - name: Cleanup release artifacts
-        run: rm assets.zip
+      - name: Preserve release artifact
+        run: mv assets.zip /tmp/assets.zip
       - name: Create pull request
+        id: create-pr
         uses: peter-evans/create-pull-request@v8.1.1
         with:
           base: global
@@ -126,10 +121,20 @@ jobs:
           branch: chore/bump-global-assets-${{ needs.determine-version.outputs.version }}
           labels: needs-review
           commit-message: "chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}"
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: global-${{ needs.determine-version.outputs.version }}
+          name: global ${{ needs.determine-version.outputs.version }}
+          target_commitish: ${{ steps.create-pr.outputs.pull-request-head-sha }}
+          files: /tmp/assets.zip
 
   bump-version:
     needs: [determine-version, upload-assets]
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout
         uses: actions/checkout@v6
