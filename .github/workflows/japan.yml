@@ -103,16 +103,10 @@ jobs:
             rm "$file"
             echo "Removed $file"
           done
-      - name: Create GitHub release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ env.SERVER }}-${{ needs.determine-version.outputs.version }}
-          name: ${{ env.SERVER }} ${{ needs.determine-version.outputs.version }}
-          target_commitish: ${{ env.SERVER }}
-          files: assets.zip
-      - name: Cleanup release artifacts
-        run: rm assets.zip
+      - name: Preserve release artifact
+        run: mv assets.zip /tmp/assets.zip
       - name: Create pull request
+        id: create-pr
         uses: peter-evans/create-pull-request@v8.1.1
         with:
           base: ${{ env.SERVER }}
@@ -122,6 +116,13 @@ jobs:
           branch: chore/bump-${{ env.SERVER }}-assets-${{ needs.determine-version.outputs.version }}
           labels: needs-review
           commit-message: "chore(japan): bump assets version to ${{ needs.determine-version.outputs.version }}"
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.SERVER }}-${{ needs.determine-version.outputs.version }}
+          name: ${{ env.SERVER }} ${{ needs.determine-version.outputs.version }}
+          target_commitish: ${{ steps.create-pr.outputs.pull-request-head-sha }}
+          files: /tmp/assets.zip
 
   bump-version:
     needs: [determine-version, upload-assets]
