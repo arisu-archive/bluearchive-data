@@ -67,7 +67,7 @@
       "bgm_id": [
         82502
       ],
-      "cost_goods_id": 130016,
+      "cost_goods_id": 130015,
       "difficulty": 0,
       "design_level": "RawData/Minigame/MGSLogicGroundData/LogicGround_Normal",
       "art_level": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
@@ -75,14 +75,14 @@
       "default_battle_duration": 45000,
       "default_logic_effect": "Minigame/Shooting/LogicEffect/HealSectionClear",
       "camera_size_rate": 1.11,
-      "event_content_stage_reward_id": 101000
+      "event_content_stage_reward_id": 201000
     },
     {
       "unique_id": 2000,
       "bgm_id": [
         82503
       ],
-      "cost_goods_id": 130016,
+      "cost_goods_id": 130015,
       "difficulty": 1,
       "design_level": "RawData/Minigame/MGSLogicGroundData/LogicGround_Hard",
       "art_level": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
@@ -90,7 +90,7 @@
       "default_battle_duration": 45000,
       "default_logic_effect": "Minigame/Shooting/LogicEffect/HealSectionClear",
       "camera_size_rate": 1.11,
-      "event_content_stage_reward_id": 102000
+      "event_content_stage_reward_id": 202000
     },
     {
       "unique_id": 3000,
@@ -107,7 +107,7 @@
       "default_battle_duration": 45000,
       "default_logic_effect": "Minigame/Shooting/LogicEffect/HealSectionClear",
       "camera_size_rate": 1.11,
-      "event_content_stage_reward_id": 3000
+      "event_content_stage_reward_id": 203000
     }
   ]
 }

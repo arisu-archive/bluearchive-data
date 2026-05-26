@@ -222,7 +222,15 @@
       "scenario_auto_delay_millisec_short": -67500000,
       "scenario_auto_delay_millisec_very_short": -33750000,
       "pc_build_enter_information": 1000001,
-      "cafe_copy_preset_slot_count": 10
+      "comeback_user_standard_day": 28,
+      "comeback_user_log_save_day": 60,
+      "come_back_activate_cooldown": 60,
+      "cafe_copy_preset_slot_count": 10,
+      "expiry_product_daily_record_item_receive_day": 7,
+      "newbie_user_standard_day": 28,
+      "newbie_state_hold_day": 28,
+      "qr_icon_url_dev": "https://bastage.dn.nexoncdn.co.kr/stage/adult_512_260427.png",
+      "qr_icon_url_live": "https://ba.dn.nexoncdn.co.kr/ba_adult_icon.png"
     }
   ]
 }

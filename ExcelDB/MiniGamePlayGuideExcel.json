@@ -3,6 +3,7 @@
     {
       "id": 0,
       "event_content_id": 804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -12,6 +13,7 @@
     {
       "id": 1,
       "event_content_id": 804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -21,6 +23,7 @@
     {
       "id": 2,
       "event_content_id": 804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -30,6 +33,7 @@
     {
       "id": 3,
       "event_content_id": 804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -39,6 +43,7 @@
     {
       "id": 4,
       "event_content_id": 804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -48,6 +53,7 @@
     {
       "id": 5,
       "event_content_id": 807,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -57,6 +63,7 @@
     {
       "id": 6,
       "event_content_id": 807,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -66,6 +73,7 @@
     {
       "id": 7,
       "event_content_id": 807,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -75,6 +83,7 @@
     {
       "id": 8,
       "event_content_id": 807,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -84,6 +93,7 @@
     {
       "id": 9,
       "event_content_id": 807,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -93,6 +103,7 @@
     {
       "id": 10,
       "event_content_id": 825,
+      "mini_game_type": 23,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -102,6 +113,7 @@
     {
       "id": 11,
       "event_content_id": 825,
+      "mini_game_type": 23,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -111,6 +123,7 @@
     {
       "id": 12,
       "event_content_id": 828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -120,6 +133,7 @@
     {
       "id": 13,
       "event_content_id": 828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -129,6 +143,7 @@
     {
       "id": 14,
       "event_content_id": 828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -138,6 +153,7 @@
     {
       "id": 15,
       "event_content_id": 828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -147,6 +163,7 @@
     {
       "id": 16,
       "event_content_id": 833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -156,6 +173,7 @@
     {
       "id": 17,
       "event_content_id": 833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -165,6 +183,7 @@
     {
       "id": 18,
       "event_content_id": 833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -174,6 +193,7 @@
     {
       "id": 19,
       "event_content_id": 833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -181,17 +201,9 @@
       "guide_text": "FIELD_833_PLAYGUIDE_04"
     },
     {
-      "id": 9008331,
-      "event_content_id": 833,
-      "is_pc_build": true,
-      "display_order": 4,
-      "guide_title": "UI_Event_PlayGuide_Title_Text",
-      "guide_image_path": "UIs/01_Common/27_EventContent/GLPC_PlayGuide/Event_PlayGuide_Field_833_PC_Keyboard_01",
-      "guide_text": "UI_Event_PlayGuide_Text_833_PC_0"
-    },
-    {
       "id": 20,
       "event_content_id": 836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -201,6 +213,7 @@
     {
       "id": 21,
       "event_content_id": 836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -210,6 +223,7 @@
     {
       "id": 22,
       "event_content_id": 836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -219,6 +233,7 @@
     {
       "id": 23,
       "event_content_id": 836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -228,6 +243,7 @@
     {
       "id": 24,
       "event_content_id": 836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -237,6 +253,7 @@
     {
       "id": 25,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -246,6 +263,7 @@
     {
       "id": 26,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -255,6 +273,7 @@
     {
       "id": 27,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -264,6 +283,7 @@
     {
       "id": 28,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -273,6 +293,7 @@
     {
       "id": 29,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -282,6 +303,7 @@
     {
       "id": 30,
       "event_content_id": 838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 5,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -291,6 +313,7 @@
     {
       "id": 31,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -300,6 +323,7 @@
     {
       "id": 32,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -309,6 +333,7 @@
     {
       "id": 33,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -318,6 +343,7 @@
     {
       "id": 34,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -327,6 +353,7 @@
     {
       "id": 35,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -336,6 +363,7 @@
     {
       "id": 36,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 5,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -345,6 +373,7 @@
     {
       "id": 37,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 6,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -354,6 +383,7 @@
     {
       "id": 38,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 7,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -363,6 +393,7 @@
     {
       "id": 39,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 8,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -372,6 +403,7 @@
     {
       "id": 40,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 9,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -381,6 +413,7 @@
     {
       "id": 41,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 10,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -390,6 +423,7 @@
     {
       "id": 42,
       "event_content_id": 843,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 11,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -397,35 +431,9 @@
       "guide_text": "FIELD_843_PLAYGUIDE_10"
     },
     {
-      "id": 9008431,
-      "event_content_id": 843,
-      "is_pc_build": true,
-      "display_order": 12,
-      "guide_title": "UI_Event_PlayGuide_Title_Text",
-      "guide_image_path": "UIs/01_Common/27_EventContent/GLPC_PlayGuide/Event_PlayGuide_Field_843_PC_Keyboard_01",
-      "guide_text": "UI_Event_PlayGuide_Text_843_PC_0"
-    },
-    {
-      "id": 9008432,
-      "event_content_id": 843,
-      "is_pc_build": true,
-      "display_order": 13,
-      "guide_title": "UI_Event_PlayGuide_Title_Text",
-      "guide_image_path": "UIs/01_Common/27_EventContent/GLPC_PlayGuide/Event_PlayGuide_Field_843_PC_Keyboard_02",
-      "guide_text": "UI_Event_PlayGuide_Text_843_PC_1"
-    },
-    {
-      "id": 9008433,
-      "event_content_id": 843,
-      "is_pc_build": true,
-      "display_order": 14,
-      "guide_title": "UI_Event_PlayGuide_Title_Text",
-      "guide_image_path": "UIs/01_Common/27_EventContent/GLPC_PlayGuide/Event_PlayGuide_Field_843_PC_Keyboard_03",
-      "guide_text": "UI_Event_PlayGuide_Text_843_PC_2"
-    },
-    {
       "id": 60,
       "event_content_id": 846,
+      "mini_game_type": 39,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -435,6 +443,7 @@
     {
       "id": 61,
       "event_content_id": 846,
+      "mini_game_type": 39,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -444,6 +453,7 @@
     {
       "id": 62,
       "event_content_id": 846,
+      "mini_game_type": 39,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -453,6 +463,7 @@
     {
       "id": 63,
       "event_content_id": 846,
+      "mini_game_type": 39,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -462,6 +473,7 @@
     {
       "id": 64,
       "event_content_id": 846,
+      "mini_game_type": 39,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -471,6 +483,7 @@
     {
       "id": 65,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -480,6 +493,7 @@
     {
       "id": 66,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -489,6 +503,7 @@
     {
       "id": 67,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -498,6 +513,7 @@
     {
       "id": 68,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -507,6 +523,7 @@
     {
       "id": 69,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -516,6 +533,7 @@
     {
       "id": 70,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 5,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -525,6 +543,7 @@
     {
       "id": 71,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 6,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -534,6 +553,7 @@
     {
       "id": 72,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 7,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -543,6 +563,7 @@
     {
       "id": 73,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 8,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -552,6 +573,7 @@
     {
       "id": 74,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 9,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -561,6 +583,7 @@
     {
       "id": 75,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 10,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -570,6 +593,7 @@
     {
       "id": 76,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 11,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -579,6 +603,7 @@
     {
       "id": 77,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 12,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -588,6 +613,7 @@
     {
       "id": 78,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 13,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -597,6 +623,7 @@
     {
       "id": 79,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 14,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -606,6 +633,7 @@
     {
       "id": 80,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 15,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -615,6 +643,7 @@
     {
       "id": 81,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 16,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -624,6 +653,7 @@
     {
       "id": 82,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 17,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -633,6 +663,7 @@
     {
       "id": 83,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 18,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -642,6 +673,7 @@
     {
       "id": 84,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 19,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -651,6 +683,7 @@
     {
       "id": 85,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 20,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -660,6 +693,7 @@
     {
       "id": 86,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 21,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -669,6 +703,7 @@
     {
       "id": 87,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 22,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -678,6 +713,7 @@
     {
       "id": 88,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 23,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -687,6 +723,7 @@
     {
       "id": 89,
       "event_content_id": 848,
+      "mini_game_type": 40,
       "is_pc_build": false,
       "display_order": 24,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -696,6 +733,7 @@
     {
       "id": 90,
       "event_content_id": 852,
+      "mini_game_type": 41,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -705,6 +743,7 @@
     {
       "id": 91,
       "event_content_id": 852,
+      "mini_game_type": 41,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -714,6 +753,7 @@
     {
       "id": 92,
       "event_content_id": 852,
+      "mini_game_type": 41,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -723,6 +763,7 @@
     {
       "id": 100,
       "event_content_id": 10804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -732,6 +773,7 @@
     {
       "id": 101,
       "event_content_id": 10804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -741,6 +783,7 @@
     {
       "id": 102,
       "event_content_id": 10804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -750,6 +793,7 @@
     {
       "id": 103,
       "event_content_id": 10804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -759,6 +803,7 @@
     {
       "id": 104,
       "event_content_id": 10804,
+      "mini_game_type": 9,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -768,6 +813,7 @@
     {
       "id": 110,
       "event_content_id": 10825,
+      "mini_game_type": 23,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -777,6 +823,7 @@
     {
       "id": 111,
       "event_content_id": 10825,
+      "mini_game_type": 23,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -786,6 +833,7 @@
     {
       "id": 120,
       "event_content_id": 10828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -795,6 +843,7 @@
     {
       "id": 121,
       "event_content_id": 10828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -804,6 +853,7 @@
     {
       "id": 122,
       "event_content_id": 10828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -813,6 +863,7 @@
     {
       "id": 123,
       "event_content_id": 10828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -822,6 +873,7 @@
     {
       "id": 124,
       "event_content_id": 10828,
+      "mini_game_type": 25,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -831,6 +883,7 @@
     {
       "id": 125,
       "event_content_id": 10833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -840,6 +893,7 @@
     {
       "id": 126,
       "event_content_id": 10833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -849,6 +903,7 @@
     {
       "id": 127,
       "event_content_id": 10833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -858,6 +913,7 @@
     {
       "id": 128,
       "event_content_id": 10833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -867,6 +923,7 @@
     {
       "id": 129,
       "event_content_id": 10833,
+      "mini_game_type": 29,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -874,17 +931,9 @@
       "guide_text": "FIELD_10833_PLAYGUIDE_05"
     },
     {
-      "id": 9008332,
-      "event_content_id": 10833,
-      "is_pc_build": true,
-      "display_order": 5,
-      "guide_title": "UI_Event_PlayGuide_Title_Text",
-      "guide_image_path": "UIs/01_Common/27_EventContent/GLPC_PlayGuide/Event_PlayGuide_Field_833_PC_Keyboard_01",
-      "guide_text": "UI_Event_PlayGuide_Text_833_PC_0"
-    },
-    {
       "id": 130,
       "event_content_id": 10836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -894,6 +943,7 @@
     {
       "id": 131,
       "event_content_id": 10836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -903,6 +953,7 @@
     {
       "id": 132,
       "event_content_id": 10836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -912,6 +963,7 @@
     {
       "id": 133,
       "event_content_id": 10836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -921,6 +973,7 @@
     {
       "id": 134,
       "event_content_id": 10836,
+      "mini_game_type": 31,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -930,6 +983,7 @@
     {
       "id": 135,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 0,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -939,6 +993,7 @@
     {
       "id": 136,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 1,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -948,6 +1003,7 @@
     {
       "id": 137,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 2,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -957,6 +1013,7 @@
     {
       "id": 138,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 3,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -966,6 +1023,7 @@
     {
       "id": 139,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 4,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
@@ -975,11 +1033,432 @@
     {
       "id": 140,
       "event_content_id": 10838,
+      "mini_game_type": 32,
       "is_pc_build": false,
       "display_order": 5,
       "guide_title": "UI_Event_PlayGuide_Title_Text",
       "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_6",
       "guide_text": "MINIGAME_DEFENSE_838_PLAYGUIDE_06"
+    },
+    {
+      "id": 141,
+      "event_content_id": 854,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_1",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_01"
+    },
+    {
+      "id": 142,
+      "event_content_id": 854,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_Arcade_854_2",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_02"
+    },
+    {
+      "id": 143,
+      "event_content_id": 854,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_Arcade_854_3",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_03"
+    },
+    {
+      "id": 144,
+      "event_content_id": 854,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_4",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_04"
+    },
+    {
+      "id": 146,
+      "event_content_id": 854,
+      "mini_game_type": 23,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameShooting_825_2",
+      "guide_text": "MINIGAME_SHOOTING_PLAYGUIDE_02"
+    },
+    {
+      "id": 147,
+      "event_content_id": 854,
+      "mini_game_type": 23,
+      "is_pc_build": true,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameShooting_854_3",
+      "guide_text": "MINIGAME_SHOOTING_PLAYGUIDE_03"
+    },
+    {
+      "id": 148,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_Arcade_854_01",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_01"
+    },
+    {
+      "id": 150,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_03",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_03"
+    },
+    {
+      "id": 151,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_01",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_01"
+    },
+    {
+      "id": 152,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_02",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_02"
+    },
+    {
+      "id": 153,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 4,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_03",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_03"
+    },
+    {
+      "id": 154,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 5,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_04",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_04"
+    },
+    {
+      "id": 155,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 6,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_05",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_05"
+    },
+    {
+      "id": 156,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 7,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_06",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_06"
+    },
+    {
+      "id": 157,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 8,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_04",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_04"
+    },
+    {
+      "id": 158,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 9,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_05",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_05"
+    },
+    {
+      "id": 159,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 10,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_06",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_06"
+    },
+    {
+      "id": 160,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 11,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_07",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_07"
+    },
+    {
+      "id": 161,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 12,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_08",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_08"
+    },
+    {
+      "id": 162,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 13,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_09",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_09"
+    },
+    {
+      "id": 163,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 14,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_10",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_10"
+    },
+    {
+      "id": 164,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 15,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_11",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_11"
+    },
+    {
+      "id": 165,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 16,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_12",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_12"
+    },
+    {
+      "id": 166,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 17,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_13",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_13"
+    },
+    {
+      "id": 167,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 18,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_14",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_14"
+    },
+    {
+      "id": 168,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 19,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_15",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_15"
+    },
+    {
+      "id": 169,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 20,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_16",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_16"
+    },
+    {
+      "id": 170,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 21,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_17",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_17"
+    },
+    {
+      "id": 171,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 22,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_18",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_18"
+    },
+    {
+      "id": 172,
+      "event_content_id": 854,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 23,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_Arcade_854_19",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_19"
+    },
+    {
+      "id": 180,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_1",
+      "guide_text": "FIELD_843_PLAYGUIDE_01"
+    },
+    {
+      "id": 181,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_2",
+      "guide_text": "FIELD_843_PLAYGUIDE_02"
+    },
+    {
+      "id": 182,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_3",
+      "guide_text": "FIELD_843_PLAYGUIDE_03"
+    },
+    {
+      "id": 183,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_4",
+      "guide_text": "FIELD_843_PLAYGUIDE_04"
+    },
+    {
+      "id": 184,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 4,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_5",
+      "guide_text": "FIELD_843_PLAYGUIDE_05"
+    },
+    {
+      "id": 185,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 5,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_6",
+      "guide_text": "FIELD_843_PLAYGUIDE_06"
+    },
+    {
+      "id": 186,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 6,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_7",
+      "guide_text": "FIELD_843_PLAYGUIDE_07"
+    },
+    {
+      "id": 187,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 7,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_8",
+      "guide_text": "FIELD_843_PLAYGUIDE_08"
+    },
+    {
+      "id": 188,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 8,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_9",
+      "guide_text": "FIELD_843_PLAYGUIDE_09"
+    },
+    {
+      "id": 189,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 9,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_10",
+      "guide_text": "FIELD_843_PLAYGUIDE_11"
+    },
+    {
+      "id": 190,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 10,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_11",
+      "guide_text": "FIELD_843_PLAYGUIDE_12"
+    },
+    {
+      "id": 191,
+      "event_content_id": 10843,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 11,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_12",
+      "guide_text": "FIELD_843_PLAYGUIDE_10"
     }
   ]
 }

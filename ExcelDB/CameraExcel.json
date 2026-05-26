@@ -1039,6 +1039,19 @@
       "bottom_margin": 0.05,
       "ignore_enemies": true,
       "use_rail_point_compensation": true
+    },
+    {
+      "unique_id": 116,
+      "min_distance": 30,
+      "max_distance": 60,
+      "rotation_x": 25.25313,
+      "rotation_y": -62.66855,
+      "move_instantly": false,
+      "move_instantly_rotation_save": true,
+      "left_margin": 0.445,
+      "bottom_margin": 0.3,
+      "ignore_enemies": true,
+      "use_rail_point_compensation": true
     }
   ]
 }
