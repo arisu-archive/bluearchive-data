@@ -817,6 +817,12 @@
       "group_type": 1
     },
     {
+      "id": 2122,
+      "name_kr": "수송선 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 3000,
       "name_kr": "3차 노드용 백귀야행",
       "is_recursive": false,
@@ -1784,13 +1790,13 @@
     },
     {
       "id": 110022,
-      "name_kr": "3_2차 픽업 SR 모미지",
+      "name_kr": "3_2차 픽업 SR 더미",
       "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 110023,
-      "name_kr": "1_5차 픽업 메루",
+      "name_kr": "1_5차 픽업 리오(무장)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1832,7 +1838,7 @@
     },
     {
       "id": 110043,
-      "name_kr": "3_2차 픽업 미노리",
+      "name_kr": "3_2차 픽업 히마리(무장)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -2300,7 +2306,7 @@
     },
     {
       "id": 170029,
-      "name_kr": "페스 가챠 확률업 SSR 나기사(수영복)",
+      "name_kr": "페스 가챠 확률업 SSR 케이",
       "is_recursive": false,
       "group_type": 1
     },
@@ -2348,7 +2354,7 @@
     },
     {
       "id": 170049,
-      "name_kr": "페스 가챠 2 확률업 SSR 미카(수영복)",
+      "name_kr": "페스 가챠 2 확률업 SSR 아리스(무장)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -2457,6 +2463,54 @@
     {
       "id": 190029,
       "name_kr": "복각 페스 가챠 확률업 SSR 히나(드레스)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190030,
+      "name_kr": "복각 페스 가챠 2",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 190031,
+      "name_kr": "복각 페스 가챠 2 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190032,
+      "name_kr": "복각 페스 가챠 2 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190033,
+      "name_kr": "복각 페스 가챠 2 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190039,
+      "name_kr": "복각 페스 가챠 2 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 190042,
+      "name_kr": "복각 페스 가챠 2 확률업 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190043,
+      "name_kr": "복각 페스 가챠 2 확률업 SSR 페스 그룹",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 190049,
+      "name_kr": "복각 페스 가챠 2 확률업 SSR 시로코 테러",
       "is_recursive": false,
       "group_type": 1
     },
@@ -6703,6 +6757,126 @@
       "group_type": 1
     },
     {
+      "id": 300880,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 2티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300881,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 3티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300882,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 4티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300883,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 5티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300884,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 6티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300885,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 7티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300886,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 8티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300887,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_랜덤 장비 상자 - 랜덤 장비 상자 9티어",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300889,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_하급 EX BD (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300890,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_중급 EX BD (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300891,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_상급 EX BD (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300892,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_최상급 EX BD (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300893,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_하급 스킬북 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300894,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_중급 스킬북 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300895,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_상급 스킬북 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300896,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_최상급 스킬북 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300897,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_하급 오파츠 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300898,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_중급 오파츠 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300899,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_상급 오파츠 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300900,
+      "name_kr": "R88_R89_강철대륙공략전_이벤트_최상급 오파츠 (랜덤)",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 310000,
       "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
       "is_recursive": true,
@@ -6849,6 +7023,12 @@
     {
       "id": 310260,
       "name_kr": "R84_와일드헌트특수교역부이벤트_장비랜덤상자",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310270,
+      "name_kr": "R88_R89_강철대륙공략전이벤트_장비랜덤상자",
       "is_recursive": true,
       "group_type": 1
     },
@@ -8959,6 +9139,12 @@
       "group_type": 1
     },
     {
+      "id": 801023,
+      "name_kr": "제조2호기 투입용 - 가구 (수송선) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 801991,
       "name_kr": "제조2호기 투입용 - 가구 1성 랜덤권",
       "is_recursive": false,
@@ -9201,6 +9387,48 @@
     {
       "id": 1200010,
       "name_kr": "3성 한정 확정 1회 모집",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 7000090,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 7000091,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 7000092,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 7000093,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 7000099,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 7000102,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 7000103,
+      "name_kr": "R89 - 앙코르 모집 픽업 데이터 당첨 픽업",
       "is_recursive": false,
       "group_type": 1
     },

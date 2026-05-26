@@ -125,6 +125,34 @@
       "lobby_ani_path": "UI/UILobbyAnimation",
       "movie_cg_path": "Uis/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_302303",
       "localize_id": 748493542
+    },
+    {
+      "id": 10,
+      "scenario_mode_id": 90002090,
+      "priority_order": 70,
+      "pv_display_order": 7,
+      "video_id": 20006,
+      "bgm_id": 90005,
+      "audio_name": "Theme_227_Title",
+      "spine_path": "UI/UIWork/UIWorkAronaScene_01_Day",
+      "ratio": 0,
+      "lobby_ani_path": "UI/UILobbyAnimation",
+      "movie_cg_path": "Uis/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_302308",
+      "localize_id": 556021215
+    },
+    {
+      "id": 11,
+      "scenario_mode_id": 90002090,
+      "priority_order": 70,
+      "pv_display_order": 0,
+      "video_id": 20006,
+      "bgm_id": 90005,
+      "audio_name": "Theme_227_Title",
+      "spine_path": "UI/UIWork/UIWorkAronaScene_01_Night",
+      "ratio": 0,
+      "lobby_ani_path": "UI/UILobbyAnimation_Black",
+      "movie_cg_path": "Uis/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_302308",
+      "localize_id": 556021215
     }
   ]
 }

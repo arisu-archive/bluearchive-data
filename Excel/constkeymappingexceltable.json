@@ -1,11 +1,23 @@
 {
   "data_list": [
     {
-      "drag_sensitivity": 20,
+      "drag_sensitivity": 15,
       "pc_information_group_id": 900000001,
+      "pc_controller_information_group_id": 900000002,
       "scroll_wheel_factor": 2.5,
-      "remove_keycode_word": "Left|Right|Alpha",
-      "tutorial_dialog_touch_key": "UI_KeyMapping_All_TouchScreen"
+      "remove_keycode_word": "Alpha",
+      "tutorial_dialog_touch_key": "UI_KeyMapping_All_TouchScreenTutorial",
+      "controller_cursor_factor_slow": 500,
+      "controller_cursor_factor": 850,
+      "controller_cursor_factor_fast": 1800,
+      "vibration_sec": 0.15,
+      "vibration_power": 0.012,
+      "controller_scroll_wheel_factor": 0.02,
+      "controller_zoom_sensitivity": 0.02,
+      "controller_dpad_move_check_range_x": 43,
+      "controller_dpad_move_check_range_y": 43,
+      "controller_cursor_click_scale": 0.8,
+      "controller_scroll_sensitivity": 3
     }
   ]
 }
