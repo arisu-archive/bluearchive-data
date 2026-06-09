@@ -252,6 +252,40 @@
         30005,
         30014
       ]
+    },
+    {
+      "id": 85401000,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85401,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": []
+    },
+    {
+      "id": 85401001,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85401,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [
+        8540800
+      ],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": []
+    },
+    {
+      "id": 85401002,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85401,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [
+        8540800,
+        8540900
+      ],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": [
+        30026
+      ]
     }
   ]
 }
