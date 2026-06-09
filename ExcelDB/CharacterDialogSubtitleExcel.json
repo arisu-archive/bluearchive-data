@@ -19938,7 +19938,7 @@
       "separate": false,
       "localize_kr": "뭐랄까……. 참. 이렇게 좋게 봐 주시는 건 당연히 감사함다만, 제게 그럴 가치가 있는지는…….\n그래도…… 기쁘네요. 정말로.",
       "localize_jp": "なんというか……ええっと……\nこんなに良くしてもらえるのは、\nとてもありがたいのですけど、\n私にそんな価値があるかどうかは……。\nでも……嬉しいです。本当に。",
-      "localize_th": "จะว่ายังไงดีนะ... ขอบคุณนะคะที่ใจดีกับฉันแบบนี้\nฉันจะมีคุณค่าพอสมควรได้รับหรือเปล่านะ แต่ยังไงฉันก็...\nดีใจจริงๆนะคะ",
+      "localize_th": "จะว่ายังไงดีนะ... ขอบคุณนะคะที่ใจดีกับฉันแบบนี้\nฉันจะมีคุณค่าพอสมควรได้รับหรือเปล่านะ แต่ยังไงฉันก็...\nดีใจจริงๆ นะคะ",
       "localize_tw": "該怎麼說呢……那個……\n能收到這麼好的東西，我當然非常感激……\n但我是否有那個價值就……不過……我很高興。真的。",
       "localize_en": "What should I say...? I'm thankful that you're treating me so kindly, but I don't know if I deserve it... Still... I'm happy. Really."
     },
@@ -23266,7 +23266,7 @@
       "separate": false,
       "localize_kr": "…아저씨의 힘이 필요하면, 언제든지 말해줘야 해?\n선생은, 언제나 최우선이니까.",
       "localize_jp": "…おじさんの力が必要になったら、\nいつでも言うんだよ？\n先生のことは、いつだって\n最優先だからさ。",
-      "localize_th": "ถ้าต้องการความแข็งแกร่งของลุงคนนี้\nก็บอกได้ตลอดเลยนะ\nเพราะครูสำคัญที่สุดเสมอๆ ยังไงล่ะ",
+      "localize_th": "ถ้าต้องการความแข็งแกร่งของลุงคนนี้ก็บอกได้ตลอดเลยนะ\nเพราะครูสำคัญที่สุดเสมอๆ ยังไงล่ะ",
       "localize_tw": "……如果需要大叔的力量的話，隨時要告訴我哦？\n因為老師的事對我來說，永遠是最優先的。",
       "localize_en": "...You have to tell me if you need my help, okay? You're my top priority."
     },
@@ -23305,7 +23305,7 @@
       "separate": false,
       "localize_kr": "이곳은…… 나쁘지 않네…….",
       "localize_jp": "ここは…悪くない…。",
-      "localize_th": "ที่นี่… ก็ไม่แย่เท่าไรนะ...",
+      "localize_th": "ที่นี่... ก็ไม่แย่เท่าไรนะ...",
       "localize_tw": "這裡……\n還不錯……",
       "localize_en": "It's...not so bad here..."
     },
@@ -29301,6 +29301,214 @@
       "localize_th": "ขอบคุณค่ะ คุณครู\nที่จริงการไม่หยิบอาวุธมาใช้ก็คงเป็นการดีกว่า...\nแต่การเตรียมตัวก็เป็นสิ่งสำคัญนี่คะ",
       "localize_tw": "謝謝您。\n其實，能不動用武器就解決才是最好的……\n不過做好準備，果然還是很重要的。",
       "localize_en": "Thank you, Sensei. Ideally, we won't need to draw our weapons at all... But it's important to be prepared."
+    },
+    {
+      "localize_cv_group": "CVGroup_UITitle_Idle1",
+      "character_id": 10135,
+      "tlmid": "10135_0010",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "해야 하는 거죠……? 블루, 아카이브.",
+      "localize_jp": "言わなきゃいけないんですよね……？\nブルー、アーカイブ。",
+      "localize_th": "ต้องพูดใช่มั้ยคะ...?\nBlue... Archive",
+      "localize_tw": "必須要說對吧……？\n蔚藍，檔案。",
+      "localize_en": "I need to do this, right...? Blue Archive."
+    },
+    {
+      "localize_cv_group": "CVGroup_CharacterGet_Idle1",
+      "character_id": 10135,
+      "tlmid": "10135_0020",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "케이입니다.\n뭐가 기다릴 줄 알고 그렇게 서두르는지…… 뭐, 앞으로 선생님을 지켜봐 드릴 테니까요.",
+      "localize_jp": "こんにちは、ケイです。\n何をそんなに慌てているんですか……？\nはぁ……これから、先生のことを見守らせていただきますね。",
+      "localize_th": "ฉันเคย์ค่ะ\nรู้เหรอว่ามีอะไรรออยู่ ทำไมถึงดูรีบร้อนนักนะ...\nเอาเถอะ จากนี้ไปฉันจะคอยจับตาดูคุณครูค่ะ",
+      "localize_tw": "你好，我是Kei。\n為什麼要那樣慌慌張張的啊……？\n唉……今後我會好好關照老師的。",
+      "localize_en": "It's Kei. I don't know why you're in such a rush, but... Fine. I'll keep looking after you, Sensei."
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle1",
+      "character_id": 10135,
+      "tlmid": "10135_0030",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "(나도…… '학생'이야. 그러니까 카페 정도는……!)",
+      "localize_jp": "（私だって「生徒」ですから……カフェくらい……！）",
+      "localize_th": "(ฉันก็เป็น 'นักเรียน' เหมือนกัน งั้นก็น่าจะไปคาเฟ่ได้นะ...!)",
+      "localize_tw": "（我也是「學生」……區區的咖啡廳……！）",
+      "localize_en": "(I'm...also a \"student.\" So I'm sure something like a Cafe would be...!)"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle2",
+      "character_id": 10135,
+      "tlmid": "10135_0040",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "저건…… 무슨 맛일까?",
+      "localize_jp": "あれは……どんな味なんでしょう？",
+      "localize_th": "อันนั้น... จะรสชาติยังไงนะ?",
+      "localize_tw": "那個……會是什麼味道呢？",
+      "localize_en": "I wonder...what that tastes like?"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle3",
+      "character_id": 10135,
+      "tlmid": "10135_0050",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "그렇구나…… 이게 나른하다는 감각……",
+      "localize_jp": "なるほど……これが、まったりするということ……。",
+      "localize_th": "อย่างนั้นสินะ... นี่คือความรู้สึกอ่อนแรง...",
+      "localize_tw": "原來如此……這就是，慵懶放鬆的感覺……",
+      "localize_en": "I see... So this is what it means to feel relaxed..."
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle4",
+      "character_id": 10135,
+      "tlmid": "10135_0060",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "자신의 몸을 갖는다는 건…… 조금, 불편하기도 하네요……",
+      "localize_jp": "自分の身体を持つのは……。\n不便なことでもあるんですね……。",
+      "localize_th": "การได้มีร่างกายเป็นของตัวเอง...\nก็อึดอัดอยู่บ้างนะคะ...",
+      "localize_tw": "擁有自己的身體……也是件不方便的事呢……",
+      "localize_en": "Getting my own body...has its drawbacks too..."
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle5",
+      "character_id": 10135,
+      "tlmid": "10135_0070",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "헤헤…… 그냥 서 있기만 해도, 좋네요……",
+      "localize_jp": "ふふ……こうして立っているだけでも、なんだか楽しいです……。",
+      "localize_th": "แหะๆ... แค่ได้ยืนอยู่เฉยๆ ก็ดีแล้วละค่ะ...",
+      "localize_tw": "呵呵……就算只像這樣站著，也莫名的開心呢……",
+      "localize_en": "Heehee... Just standing up feels nice..."
+    },
+    {
+      "localize_cv_group": "CVGroup_WeaponGet_Idle1",
+      "character_id": 10135,
+      "tlmid": "10135_0540",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "먼 곳의 별빛…… 이라는 뜻이죠. 간단히 말하자면요. 그만큼 먼 과거의 시간을 의미하는 것이기도 하겠지만.\n좌표에 따라서, 과거와 미래는 동시에 존재한다고도 하니까요.",
+      "localize_jp": "遠き地の星明かり……という意味です。\nそれだけ昔のことを言っているのだと思います。\n座標によると、過去と未来は同時に存在するとも言いますから。",
+      "localize_th": "มันหมายถึง... แสงดาวจากที่ไกลๆ ค่ะ ถ้าจะพูดง่ายๆ น่ะนะคะ\nแล้วก็หมายถึงช่วงเวลาในอดีตอันไกลโพ้นด้วย\nก็อดีตและอนาคตดำรงอยู่พร้อมกันตามพิกัดนี่คะ",
+      "localize_tw": "這是遙遠之地的星光……的意思。\n我想那代表著事情有多麼久遠。\n畢竟曾經有人說過，從座標來看，過去與未來是同時存在的。",
+      "localize_en": "It means...starlight from far away, to put it simply. Though, that may also signify time in the distant past. But they also say the past and future can coexist, depending on the coordinates."
+    },
+    {
+      "localize_cv_group": "CVGroup_UITitle_Idle1",
+      "character_id": 10134,
+      "tlmid": "10134_0010",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "블루, 아카이브!",
+      "localize_jp": "ブルー、アーカイブ！",
+      "localize_th": "Blue Archive!",
+      "localize_tw": "蔚藍，檔案！",
+      "localize_en": "Blue, Archive!"
+    },
+    {
+      "localize_cv_group": "CVGroup_CharacterGet_Idle1",
+      "character_id": 10134,
+      "tlmid": "10134_0020",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "아리스, 갑니다!",
+      "localize_jp": "アリス、行きます！",
+      "localize_th": "อาริสึ ออกโรงค่ะ!",
+      "localize_tw": "愛麗絲，出擊！",
+      "localize_en": "Aris, on my way!"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle1",
+      "character_id": 10134,
+      "tlmid": "10134_0030",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "이거, 케이랑 꼭 닮았습니다!",
+      "localize_jp": "これ……ケイにそっくりですね！",
+      "localize_th": "อันนี้เหมือนกับเคย์เปี๊ยบเลยค่ะ!",
+      "localize_tw": "這個……跟Kei很像呢！",
+      "localize_en": "This! It looks very much like Kei!"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle2",
+      "character_id": 10134,
+      "tlmid": "10134_0040",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "아리스, 조금 졸립니다…….",
+      "localize_jp": "アリス、ちょっとだけ眠くなってきました……。",
+      "localize_th": "อาริสึง่วงนิดหน่อยค่ะ...",
+      "localize_tw": "愛麗絲，有點想睡了……",
+      "localize_en": "I am a bit sleepy..."
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle3",
+      "character_id": 10134,
+      "tlmid": "10134_0050",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "여기는 PK 금지 구역입니다!",
+      "localize_jp": "ここはＰＫ禁止エリアですよ！",
+      "localize_th": "ที่นี่เป็นเขตห้าม PK ค่ะ!",
+      "localize_tw": "這裡是PK禁止區域唷！",
+      "localize_en": "This is no-PK zone!"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle4",
+      "character_id": 10134,
+      "tlmid": "10134_0060",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "(스캔 완료. 적성 반응…… 없음.)",
+      "localize_jp": "（スキャン完了。敵性反応……無し）",
+      "localize_th": "(สแกนสำเร็จ ไม่พบสัญญาณ... ของศัตรู)",
+      "localize_tw": "（掃描完成。敵性反應……無）",
+      "localize_en": "(Scan complete. Hostile signatures... None.)"
+    },
+    {
+      "localize_cv_group": "CVGroup_Cafe_Idle5",
+      "character_id": 10134,
+      "tlmid": "10134_0070",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "충전기는 어디에 있을까요?",
+      "localize_jp": "充電器はどこにあるんでしょう？",
+      "localize_th": "ที่ชาร์จแบตอยู่ไหนคะ?",
+      "localize_tw": "充電器在哪裡呢？",
+      "localize_en": "Where is the charger?"
+    },
+    {
+      "localize_cv_group": "CVGroup_WeaponGet_Idle1",
+      "character_id": 10134,
+      "tlmid": "10134_0570",
+      "duration": 0,
+      "duration_kr": 0,
+      "separate": false,
+      "localize_kr": "빛의 검은, 언제나 아리스에게 나아갈 길을 비춰 줬습니다. 마치…… 선생님 같습니다!",
+      "localize_jp": "光の剣は、いつだってアリスに進む道を示してくれました。\nそう……まるで、先生みたいに！",
+      "localize_th": "ดาบแห่งแสงช่วยส่องเส้นทางให้กับอาริสึเสมอเลยค่ะ\nเหมือนกับ... คุณครูเลยนะคะ!",
+      "localize_tw": "光之劍，總是會為愛麗絲指引前進的道路。\n沒錯……簡直就像老師一樣！",
+      "localize_en": "The Sword of Light has always illuminated the path for me. Just like... Sensei!"
     },
     {
       "localize_cv_group": "CVGroup_UITitle_Idle1",
@@ -62112,7 +62320,7 @@
       "localize_jp": "ほう、興味深いのう。",
       "localize_th": "โฮ่ น่าสนใจดีนี่",
       "localize_tw": "哦，真有趣。",
-      "localize_en": "Oh...that's interesting."
+      "localize_en": "Oh... That's interesting."
     },
     {
       "localize_cv_group": "CVGroup_UIEventTreasure_GetTreasure2",
@@ -64712,7 +64920,7 @@
       "localize_jp": "ふむ、気運の高まりが……。",
       "localize_th": "พอดีว่าความคืบหน้ามัน...",
       "localize_tw": "差不多該有進展了……",
-      "localize_en": "The progress is..."
+      "localize_en": "Our progress is..."
     },
     {
       "localize_cv_group": "CVGroup_UIEventLobby_Enter3",
@@ -64803,7 +65011,7 @@
       "localize_jp": "私に何か話すべき事柄でも？",
       "localize_th": "มีเรื่องอะไรคะ?",
       "localize_tw": "發生了什麼事嗎？",
-      "localize_en": "What's going on?"
+      "localize_en": "Did something happen?"
     },
     {
       "localize_cv_group": "CVGroup_UIEventLobby_Idle2",
@@ -65323,7 +65531,7 @@
       "localize_jp": "……言い慣れないな。",
       "localize_th": "ปกติฉันไม่ได้ทักแบบนี้\nก็เลยไม่ค่อยคุ้นน่ะ...",
       "localize_tw": "……實在說不習慣呢。",
-      "localize_en": "...It feels awkward to greet you differently than usual."
+      "localize_en": "...It feels awkward to greet you differently from usual."
     },
     {
       "localize_cv_group": "CVGroup_UIEventLobby_Enter2",
@@ -78843,7 +79051,7 @@
       "localize_jp": "あまり悩む時間は残されていません。",
       "localize_th": "จะเป็นอะไรก็ได้ เพราะงั้นก็ไม่ต้องลังเลนะคะ",
       "localize_tw": "能煩惱的時間所剩不多了。",
-      "localize_en": "Whatever you need; don't hesitate to ask."
+      "localize_en": "Whatever you need, don't hesitate to ask."
     },
     {
       "localize_cv_group": "CVGroup_UIEventMission_Enter1",

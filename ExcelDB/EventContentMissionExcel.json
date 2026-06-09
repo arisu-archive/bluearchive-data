@@ -111218,6 +111218,47 @@
       "condition_reward_parcel_type": [],
       "condition_reward_parcel_id": [],
       "condition_reward_amount": []
+    },
+    {
+      "id": 854023,
+      "event_content_id": 854,
+      "group_id": 0,
+      "group_name": "",
+      "category": 8,
+      "description": 1066555135,
+      "reset_type": 0,
+      "toast_display_type": 1,
+      "toast_image_path": "",
+      "view_flag": true,
+      "display_order": 23,
+      "pre_mission_id": [],
+      "target_group": 1,
+      "account_level": 1,
+      "shortcut_ui": [],
+      "challenge_stage_shortcut": 0,
+      "complete_condition_type": 186,
+      "is_complete_extension_time": true,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        854,
+        854090009
+      ],
+      "complete_condition_parameter_tag": [],
+      "reward_icon": "",
+      "complete_condition_mission_id": [],
+      "complete_condition_mission_count": 0,
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        3
+      ],
+      "mission_reward_amount": [
+        30
+      ],
+      "condition_reward_parcel_type": [],
+      "condition_reward_parcel_id": [],
+      "condition_reward_amount": []
     }
   ]
 }
