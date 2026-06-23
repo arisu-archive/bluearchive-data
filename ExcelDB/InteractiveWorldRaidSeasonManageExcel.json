@@ -125,6 +125,49 @@
       "carrier_skill_group_id": 0,
       "world_raid_map_enter_operator": "",
       "use_favor_rank_buff": true
+    },
+    {
+      "season_id": 854,
+      "phase_id": 85402,
+      "phase_start_condition": 854020000,
+      "is_replay_season": false,
+      "enter_ticket": 21,
+      "phase_start_time": "2026-06-23 11:00:00",
+      "phase_end_time": "2026-06-30 10:59:59",
+      "world_raid_lobby_scene": "",
+      "world_raid_lobby_banner": "UIs/01_Common/27_EventContent/Enter_Parcel/Event_Enter_854_3",
+      "world_raid_lobby_bg": "",
+      "world_raid_lobby_banner_show": false,
+      "season_open_condition": 0,
+      "world_raid_lobby_enter_scenario": 0,
+      "can_play_not_season_time": true,
+      "world_raid_unique_theme_lobby_ui": true,
+      "world_raid_unique_theme_name": "Season_854",
+      "can_world_raid_gem_enter": false,
+      "hide_world_raid_ticket_ui": true,
+      "hide_world_raid_boss_complete_reward_ui": true,
+      "use_world_raid_common_toast": false,
+      "open_raid_boss_group_id": [
+        8541000,
+        8541100
+      ],
+      "boss_spawn_time": [
+        "2026-06-24 11:00:00",
+        "2026-06-24 11:00:00"
+      ],
+      "eliminate_time": [
+        "2026-06-30 10:59:59",
+        "2026-06-30 10:59:59"
+      ],
+      "scenario_output_condition_id": [
+        854021001
+      ],
+      "condition_scenario_groupid": [
+        30029
+      ],
+      "carrier_skill_group_id": 0,
+      "world_raid_map_enter_operator": "",
+      "use_favor_rank_buff": true
     }
   ]
 }

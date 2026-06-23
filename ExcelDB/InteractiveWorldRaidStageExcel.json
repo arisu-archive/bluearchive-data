@@ -2657,6 +2657,318 @@
       "enemy_passive_skill_remove_condition": [],
       "save_current_local_boss_hp": true,
       "echelon_extension_type": 0
+    },
+    {
+      "id": 854100001,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 8541000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854100001,
+      "raid_character_id": 570200106,
+      "boss_character_id": [
+        570200106
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 1,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 250000,
+      "ground_id": 270100001,
+      "raid_battle_end_reward_group_id": 85410000,
+      "raid_reward_group_id": 85410100,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0020_Original_OP",
+        "Timeline/Timeline_EN0020_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        2
+      ],
+      "battle_ready_timeline_phase_end": [
+        1,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 15000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 854100002,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 8541000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854100002,
+      "raid_character_id": 570200206,
+      "boss_character_id": [
+        570200206
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 2,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 250000,
+      "ground_id": 270100002,
+      "raid_battle_end_reward_group_id": 85410001,
+      "raid_reward_group_id": 85410101,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0020_Original_OP",
+        "Timeline/Timeline_EN0020_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        2
+      ],
+      "battle_ready_timeline_phase_end": [
+        1,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 50000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 854100003,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 8541000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854100003,
+      "raid_character_id": 570200306,
+      "boss_character_id": [
+        570200306
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 3,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 250000,
+      "ground_id": 270100003,
+      "raid_battle_end_reward_group_id": 85410002,
+      "raid_reward_group_id": 85410102,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0020_Original_OP",
+        "Timeline/Timeline_EN0020_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        2
+      ],
+      "battle_ready_timeline_phase_end": [
+        1,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 80000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 854100004,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": true,
+      "world_raid_boss_group_id": 8541000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854100004,
+      "raid_character_id": 570200406,
+      "boss_character_id": [
+        570200406
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 4,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 20,
+      "re_enter_amount": 1,
+      "battle_duration": 250000,
+      "ground_id": 270100004,
+      "raid_battle_end_reward_group_id": 85410003,
+      "raid_reward_group_id": 85410103,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0020_Original_OP",
+        "Timeline/Timeline_EN0020_Original_PhaseChange"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0,
+        2
+      ],
+      "battle_ready_timeline_phase_end": [
+        1,
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": false,
+      "fixed_echelon_id": 0,
+      "is_raid_scenario_battle": false,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 100000000,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": true,
+      "echelon_extension_type": 0
+    },
+    {
+      "id": 854100009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 8541000,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854100009,
+      "raid_character_id": 570200006,
+      "boss_character_id": [
+        570200006
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 270000,
+      "ground_id": 270100005,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 85410200,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0020_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory_Extension",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 30027,
+      "clear_scenario_key": 0,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 270100005,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": false,
+      "echelon_extension_type": 1
+    },
+    {
+      "id": 854110009,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "world_raid_boss_group_id": 8541100,
+      "portrait_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Portrait_EN0020",
+      "bg_path": "UIs/01_Common/38_WorldRaid/Season_854/Worldmap/WorldRaid854_Bg_BattleStage_P3",
+      "raid_skill_description_list_id": 854110009,
+      "raid_character_id": 19000207,
+      "boss_character_id": [
+        19000207
+      ],
+      "assist_character_limit_count": 3,
+      "world_raid_difficulty": 0,
+      "difficulty_open_condition": true,
+      "raid_enter_amount": 10,
+      "re_enter_amount": 1,
+      "battle_duration": 300000,
+      "ground_id": 854110009,
+      "raid_battle_end_reward_group_id": 0,
+      "raid_reward_group_id": 85411200,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_EN0021_Original_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_ColourRaid_Transition_OP",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 2,
+      "enter_scenario_key": 30028,
+      "clear_scenario_key": 30029,
+      "use_fixed_echelon": true,
+      "fixed_echelon_id": 854110009,
+      "is_raid_scenario_battle": true,
+      "show_skill_card": false,
+      "boss_bg_info_key": 0,
+      "damage_to_world_boss": 0,
+      "ally_passive_skill": [],
+      "ally_passive_skill_level": [],
+      "ally_passive_skill_remove_condition": [],
+      "enemy_passive_skill": [],
+      "enemy_passive_skill_level": [],
+      "enemy_passive_skill_remove_condition": [],
+      "save_current_local_boss_hp": false,
+      "echelon_extension_type": 0
     }
   ]
 }
