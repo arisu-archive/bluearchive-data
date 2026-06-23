@@ -286,6 +286,52 @@
       "event_content_scenario_id": [
         30026
       ]
+    },
+    {
+      "id": 85402000,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85402,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": []
+    },
+    {
+      "id": 85402001,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85402,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [
+        8541000
+      ],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": []
+    },
+    {
+      "id": 85402002,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85402,
+      "scenario_mode_id": 90002100,
+      "ia_world_raid_group_id": [
+        8541000,
+        8541100
+      ],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": [
+        30029
+      ]
+    },
+    {
+      "id": 85402099,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85402,
+      "scenario_mode_id": 90002260,
+      "ia_world_raid_group_id": [
+        8541000,
+        8541100
+      ],
+      "event_content_stage_id": [],
+      "event_content_scenario_id": []
     }
   ]
 }
