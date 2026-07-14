@@ -266,10 +266,12 @@
       "multiple_condition_check_type": 0,
       "multiple_condition_check_parameter": 0,
       "condition_type": [
-        1
+        1,
+        4
       ],
       "condition_value": [
-        8540900
+        8540900,
+        90002210
       ]
     },
     {
@@ -298,6 +300,22 @@
       ],
       "condition_value": [
         8541100
+      ]
+    },
+    {
+      "id": 854030000,
+      "world_raid_season_id": 854,
+      "world_raid_phase_id": 85403,
+      "priority": 1,
+      "multiple_condition_check_type": 0,
+      "multiple_condition_check_parameter": 0,
+      "condition_type": [
+        1,
+        4
+      ],
+      "condition_value": [
+        8541100,
+        90002260
       ]
     }
   ]
