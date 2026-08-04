@@ -1643,9 +1643,9 @@
       "error_level": 1,
       "kr": "점검 중입니다.\n앱을 종료합니다.",
       "jp": "現在サーバーのメンテナンス中です。\nタイトル画面に戻ります。",
-      "th": "อยู่ระหว่างปิดปรับปรุงเซิร์ฟเวอร์\nเกมจะปิดตัวลง",
+      "th": "อยู่ระหว่างปิดปรับปรุงเซิร์ฟเวอร์\nกลับไปที่หน้าเริ่มเกม",
       "tw": "伺服器維護中。\n將結束應用程式。",
-      "en": "Maintenance in progress.\nClosing the app."
+      "en": "Maintenance in progress.\nReturning to the title screen."
     },
     {
       "key": 1967620704,
@@ -2282,18 +2282,18 @@
       "error_level": 2,
       "kr": "유상 청휘석의 수가 마이너스인 경우 게임을 진행할 수 없습니다.",
       "jp": "有償青輝石の数がマイナスのため、ゲームを進めることができません。",
-      "th": "ไม่สามารถเล่นได้เนื่องจากเพชรฟ้าเติมติดลบ",
+      "th": "ไม่สามารถเล่นได้เนื่องจากเพชรฟ้าติดลบ",
       "tw": "付費青輝石的數量為負數時無法進行遊戲。",
-      "en": "Cannot proceed. Insufficient premium Pyroxenes."
+      "en": "Cannot proceed. Insufficient Pyroxenes."
     },
     {
       "key": 3004047387,
       "error_level": 2,
       "kr": "무상 청휘석의 수가 마이너스인 경우 게임을 진행할 수 없습니다.",
       "jp": "無償青輝石の数がマイナスのため、ゲームを進めることができません。",
-      "th": "ไม่สามารถเล่นได้เนื่องจากเพชรฟ้าฟรีติดลบ",
+      "th": "ไม่สามารถเล่นได้เนื่องจากเพชรฟ้าติดลบ",
       "tw": "免費青輝石的數量為負數時無法進行遊戲。",
-      "en": "Cannot proceed. Insufficient free Pyroxenes."
+      "en": "Cannot proceed. Insufficient Pyroxenes."
     },
     {
       "key": 976342321,
@@ -3632,9 +3632,9 @@
       "error_level": 2,
       "kr": "요청에 실패하였습니다.",
       "jp": "リクエストが失敗しました。",
-      "th": "ส่งคำขอไม่สำเร็จ",
+      "th": "ไม่สามารถเล่นได้เนื่องจากเพชรฟ้าติดลบ",
       "tw": "要求失敗。",
-      "en": "Request failed."
+      "en": "Cannot proceed. Insufficient Pyroxenes."
     },
     {
       "key": 4284073730,
