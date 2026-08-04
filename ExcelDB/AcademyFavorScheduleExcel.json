@@ -22224,6 +22224,89 @@
         80,
         1
       ]
+    },
+    {
+      "id": 200572,
+      "character_id": 20057,
+      "schedule_group_id": 20057,
+      "order_in_group": 1,
+      "location": "샬레",
+      "localize_scenario_id": 4173121054,
+      "favor_rank": 2,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2005702,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        20
+      ]
+    },
+    {
+      "id": 200573,
+      "character_id": 20057,
+      "schedule_group_id": 20057,
+      "order_in_group": 2,
+      "location": "샬레",
+      "localize_scenario_id": 2673536527,
+      "favor_rank": 3,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2005703,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        40
+      ]
+    },
+    {
+      "id": 200575,
+      "character_id": 20057,
+      "schedule_group_id": 20057,
+      "order_in_group": 3,
+      "location": "샬레",
+      "localize_scenario_id": 3944103849,
+      "favor_rank": 5,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2005705,
+      "reward_parcel_type": [
+        2,
+        8
+      ],
+      "reward_parcel_id": [
+        3,
+        20057
+      ],
+      "reward_amount": [
+        60,
+        1
+      ]
+    },
+    {
+      "id": 200576,
+      "character_id": 20057,
+      "schedule_group_id": 20057,
+      "order_in_group": 4,
+      "location": "샬레",
+      "localize_scenario_id": 2908734044,
+      "favor_rank": 6,
+      "secret_stone_amount": 1,
+      "scenario_sript_group_id": 2005706,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_parcel_id": [
+        3
+      ],
+      "reward_amount": [
+        80
+      ]
     }
   ]
 }
