@@ -38,14 +38,6 @@ jobs:
             japan.txt
           sparse-checkout-cone-mode: false
           fetch-depth: 0
-      - name: Setup SSH agent
-        uses: webfactory/ssh-agent@v0.10.0
-        with:
-          ssh-private-key: |
-            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
-            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Get version
         id: get-version
         uses: ./.github/actions/get-version/
@@ -71,20 +63,8 @@ jobs:
         uses: actions/setup-go@v6
         with:
           go-version: "^1.24"
-      - name: Setup SSH agent
-        uses: webfactory/ssh-agent@v0.10.0
-        with:
-          ssh-private-key: |
-            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
-            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
       - name: Download assets
-        run: |
-          git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
-          go env -w GOPRIVATE="github.com/arisu-archive"
-          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
-          git config --global --remove-section url."git@github.com:arisu-archive"
+        run: go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s ${{ env.SERVER }} -o ./tmp -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
       - name: Decrypt assets
         run: |
           # Start the decryption process for TableBundles
