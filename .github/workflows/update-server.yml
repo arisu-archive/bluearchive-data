@@ -30,9 +30,6 @@ concurrency:
   group: update-server-${{ inputs.server }}
   cancel-in-progress: false
 
-env:
-  ASSETS_DUMPER_VERSION: v0.0.0-20260822204707-c093130d11da
-
 jobs:
   determine-version:
     runs-on: ubuntu-latest
@@ -57,18 +54,10 @@ jobs:
         with:
           go-version: "1.26.2"
 
-      - name: Cache assets-dumper
-        id: cache-assets-dumper
-        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
-        with:
-          path: ${{ runner.temp }}/bin/assets-dumper
-          key: tools-${{ runner.os }}-${{ runner.arch }}-assets-dumper-${{ env.ASSETS_DUMPER_VERSION }}
-
       - name: Install assets-dumper
-        if: steps.cache-assets-dumper.outputs.cache-hit != 'true'
         env:
           GOBIN: ${{ runner.temp }}/bin
-        run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
+        run: go install "github.com/arisu-archive/assets-dumper@latest"
 
       - name: Determine asset version
         id: version
@@ -107,18 +96,10 @@ jobs:
         with:
           go-version: "1.26.2"
 
-      - name: Cache assets-dumper
-        id: cache-assets-dumper
-        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
-        with:
-          path: ${{ runner.temp }}/bin/assets-dumper
-          key: tools-${{ runner.os }}-${{ runner.arch }}-assets-dumper-${{ env.ASSETS_DUMPER_VERSION }}
-
       - name: Install assets-dumper
-        if: steps.cache-assets-dumper.outputs.cache-hit != 'true'
         env:
           GOBIN: ${{ runner.temp }}/bin
-        run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
+        run: go install "github.com/arisu-archive/assets-dumper@latest"
 
       - name: Cache key tool
         id: cache-key-tool
