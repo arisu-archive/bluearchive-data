@@ -166,10 +166,8 @@ jobs:
           --key-tool "$RUNNER_TEMP/bin/$KEY_TOOL"
 
       - name: Create release archive
-        run: >-
-          python automation/scripts/create_archive.py
-          --root "$GITHUB_WORKSPACE/data"
-          --output "$RUNNER_TEMP/assets.zip"
+        working-directory: data
+        run: '{ git ls-files; git ls-files --others --exclude-standard; } | zip -r "$RUNNER_TEMP/assets.zip" -@'
 
       - name: Split oversized JSON files
         run: python automation/scripts/split_json.py --root "$GITHUB_WORKSPACE/data"
