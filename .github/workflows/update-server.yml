@@ -6,6 +6,18 @@ on:
       server:
         type: string
         required: true
+      download_filter:
+        type: string
+        required: true
+      key_tool:
+        type: string
+        required: true
+      key_tool_module:
+        type: string
+        required: true
+      key_tool_version:
+        type: string
+        required: true
       force_update:
         type: boolean
         required: false
@@ -20,8 +32,6 @@ concurrency:
 
 env:
   ASSETS_DUMPER_VERSION: v0.0.0-20260822204707-c093130d11da
-  ARONA_VERSION: v1.6.0
-  PLANA_VERSION: v1.5.0
 
 jobs:
   determine-version:
@@ -30,13 +40,14 @@ jobs:
     outputs:
       skip: ${{ steps.version.outputs.skip }}
       version: ${{ steps.version.outputs.version }}
+      version_without_patch: ${{ steps.version.outputs.version_without_patch }}
     steps:
       - name: Checkout version script
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
         with:
           persist-credentials: false
           sparse-checkout: |
-            scripts/get_version.py
+            scripts/get_version.sh
             global.txt
             japan.txt
           sparse-checkout-cone-mode: false
@@ -46,7 +57,15 @@ jobs:
         with:
           go-version: "1.26.2"
 
+      - name: Cache assets-dumper
+        id: cache-assets-dumper
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        with:
+          path: ${{ runner.temp }}/bin/assets-dumper
+          key: tools-${{ runner.os }}-${{ runner.arch }}-assets-dumper-${{ env.ASSETS_DUMPER_VERSION }}
+
       - name: Install assets-dumper
+        if: steps.cache-assets-dumper.outputs.cache-hit != 'true'
         env:
           GOBIN: ${{ runner.temp }}/bin
         run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
@@ -56,12 +75,7 @@ jobs:
         env:
           FORCE_UPDATE: ${{ inputs.force_update }}
           SERVER: ${{ inputs.server }}
-        run: >-
-          python scripts/get_version.py
-          --server "$SERVER"
-          --current-file "$SERVER.txt"
-          --force-update "$FORCE_UPDATE"
-          --assets-dumper "$RUNNER_TEMP/bin/assets-dumper"
+        run: bash scripts/get_version.sh
 
   update-assets:
     needs: determine-version
@@ -93,40 +107,50 @@ jobs:
         with:
           go-version: "1.26.2"
 
+      - name: Cache assets-dumper
+        id: cache-assets-dumper
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        with:
+          path: ${{ runner.temp }}/bin/assets-dumper
+          key: tools-${{ runner.os }}-${{ runner.arch }}-assets-dumper-${{ env.ASSETS_DUMPER_VERSION }}
+
       - name: Install assets-dumper
+        if: steps.cache-assets-dumper.outputs.cache-hit != 'true'
         env:
           GOBIN: ${{ runner.temp }}/bin
         run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
 
-      - name: Install global key tool
-        if: inputs.server == 'global'
-        env:
-          GOBIN: ${{ runner.temp }}/bin
-        run: go install "github.com/arisu-archive/go-arona/cmd/arona@${ARONA_VERSION}"
+      - name: Cache key tool
+        id: cache-key-tool
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        with:
+          path: ${{ runner.temp }}/bin/${{ inputs.key_tool }}
+          key: tools-${{ runner.os }}-${{ runner.arch }}-${{ inputs.key_tool }}-${{ inputs.key_tool_version }}
 
-      - name: Install Japan key tool
-        if: inputs.server == 'japan'
+      - name: Install key tool
+        if: steps.cache-key-tool.outputs.cache-hit != 'true'
         env:
           GOBIN: ${{ runner.temp }}/bin
-        run: go install "github.com/arisu-archive/go-plana/cmd/plana@${PLANA_VERSION}"
+          KEY_TOOL_MODULE: ${{ inputs.key_tool_module }}
+          KEY_TOOL_VERSION: ${{ inputs.key_tool_version }}
+        run: go install "${KEY_TOOL_MODULE}@${KEY_TOOL_VERSION}"
 
       - name: Download assets
         env:
+          DOWNLOAD_FILTER: ${{ inputs.download_filter }}
           SERVER: ${{ inputs.server }}
-          VERSION: ${{ needs.determine-version.outputs.version }}
         run: >-
           "$RUNNER_TEMP/bin/assets-dumper" dl
           -c 16
           -s "$SERVER"
-          --version "$VERSION"
           -o "$RUNNER_TEMP/downloads"
-          -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
+          -f "$DOWNLOAD_FILTER"
 
       - name: Extract assets
         env:
-          KEY_TOOL: ${{ inputs.server == 'global' && 'arona' || 'plana' }}
+          KEY_TOOL: ${{ inputs.key_tool }}
           SERVER: ${{ inputs.server }}
-          VERSION: ${{ needs.determine-version.outputs.version }}
+          VERSION: ${{ needs.determine-version.outputs.version_without_patch }}
         run: >-
           python automation/scripts/extract_assets.py
           --server "$SERVER"
@@ -137,10 +161,8 @@ jobs:
           --key-tool "$RUNNER_TEMP/bin/$KEY_TOOL"
 
       - name: Create release archive
-        run: >-
-          python automation/scripts/create_archive.py
-          --root "$GITHUB_WORKSPACE/data"
-          --output "$RUNNER_TEMP/assets.zip"
+        working-directory: data
+        run: '{ git ls-files; git ls-files --others --exclude-standard; } | zip -r "$RUNNER_TEMP/assets.zip" -@'
 
       - name: Split oversized JSON files
         run: python automation/scripts/split_json.py --root "$GITHUB_WORKSPACE/data"

@@ -21,4 +21,8 @@ jobs:
     uses: ./.github/workflows/update-server.yml
     with:
       server: global
+      download_filter: "{Preload/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip},GameData/TableBundles/{ConquestMap.zip,HexaMap.zip}}"
+      key_tool: arona
+      key_tool_module: github.com/arisu-archive/go-arona/cmd/arona
+      key_tool_version: v1.6.0
       force_update: ${{ inputs.force_update || false }}

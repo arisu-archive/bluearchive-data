@@ -59,16 +59,16 @@ def scan_workspace(root: Path, secret: bytes) -> None:
 
 
 def run_quiet(command: list[str], cwd: Path) -> None:
-    try:
-        subprocess.run(
-            command,
-            cwd=cwd,
-            check=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-        )
-    except subprocess.CalledProcessError:
-        raise RuntimeError("asset extraction command failed") from None
+    result = subprocess.run(command, cwd=cwd, capture_output=True, text=True)
+    if result.returncode == 0:
+        return
+
+    detail = "\n".join(
+        output.strip() for output in (result.stdout, result.stderr) if output.strip()
+    )
+    raise RuntimeError(
+        f"asset extraction command failed:\n{detail or 'no error output'}"
+    )
 
 
 def main() -> None:
@@ -92,7 +92,8 @@ def main() -> None:
             f"https://ba.pokeguy.dev/{config['package']}/decompiled/"
             f"{args.version}/key.pem"
         )
-        with urllib.request.urlopen(url, timeout=30) as response:
+        request = urllib.request.Request(url, headers={"User-Agent": "bluearchive-data-ci"})
+        with urllib.request.urlopen(request, timeout=30) as response:
             public_key = response.read(1024 * 1024 + 1)
         if len(public_key) > 1024 * 1024 or b"-----BEGIN PUBLIC KEY-----" not in public_key:
             raise ValueError("downloaded key is not a valid public-key PEM")
@@ -105,16 +106,22 @@ def main() -> None:
             capture_output=True,
             text=True,
         )
-        sqlcipher_key = json.loads(result.stdout).get("key", "")
+        sqlcipher_key_hex = json.loads(result.stdout).get("key", "")
         if (
-            not isinstance(sqlcipher_key, str)
-            or not sqlcipher_key
-            or "\n" in sqlcipher_key
-            or "\r" in sqlcipher_key
+            not isinstance(sqlcipher_key_hex, str)
+            or not sqlcipher_key_hex
+            or "\n" in sqlcipher_key_hex
+            or "\r" in sqlcipher_key_hex
         ):
             raise ValueError("key tool returned an invalid SQLCipher key")
-        base64.b64decode(sqlcipher_key, validate=True)
-        print(f"::add-mask::{sqlcipher_key}")
+        try:
+            sqlcipher_key_bytes = bytes.fromhex(sqlcipher_key_hex)
+        except ValueError:
+            raise ValueError("key tool returned an invalid SQLCipher key") from None
+        if not sqlcipher_key_bytes or sqlcipher_key_hex.lower() != sqlcipher_key_bytes.hex():
+            raise ValueError("key tool returned an invalid SQLCipher key")
+        sqlcipher_key = base64.b64encode(sqlcipher_key_bytes).decode("ascii")
+        print(f"::add-mask::{sqlcipher_key}", flush=True)
 
         for archive in config["encrypted"]:
             shutil.rmtree(args.output_dir / Path(archive).stem, ignore_errors=True)
