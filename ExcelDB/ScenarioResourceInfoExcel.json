@@ -18,7 +18,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -39,7 +39,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -60,7 +60,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -81,7 +81,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -102,7 +102,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -123,7 +123,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -144,7 +144,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -165,7 +165,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -186,7 +186,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -207,7 +207,7 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
@@ -228,17 +228,17 @@
         9009000
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪"
+        "UISweepAnimation"
       ]
     },
     {
       "id": 12,
       "scenario_mode_id": 201100,
-      "priority_order": 80,
+      "priority_order": 90,
       "pv_display_order": 0,
-      "video_id": 20006,
-      "bgm_id": 90005,
-      "audio_name": "Theme_227_Title",
+      "video_id": 20007,
+      "bgm_id": 90006,
+      "audio_name": "Theme_269_Title",
       "spine_path": "UI/UIWork/UIWorkAronaScene_02_Day",
       "ratio": 10000000,
       "lobby_ani_path": "UI/UILobbyAnimation",
@@ -250,18 +250,18 @@
         9009005
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪",
+        "UISweepAnimation",
         "UISweepAnimation_Black"
       ]
     },
     {
       "id": 13,
       "scenario_mode_id": 201100,
-      "priority_order": 80,
+      "priority_order": 90,
       "pv_display_order": 0,
-      "video_id": 20006,
-      "bgm_id": 90005,
-      "audio_name": "Theme_227_Title",
+      "video_id": 20007,
+      "bgm_id": 90006,
+      "audio_name": "Theme_269_Title",
       "spine_path": "UI/UIWork/UIWorkAronaScene_02_Night",
       "ratio": 10000000,
       "lobby_ani_path": "UI/UILobbyAnimation_Black",
@@ -273,8 +273,50 @@
         9009005
       ],
       "sweep_animation": [
-        "葐禰䃪⦞뚚✪",
+        "UISweepAnimation",
         "UISweepAnimation_Black"
+      ]
+    },
+    {
+      "id": 14,
+      "scenario_mode_id": 200001,
+      "priority_order": 80,
+      "pv_display_order": 8,
+      "video_id": 20007,
+      "bgm_id": 90006,
+      "audio_name": "Theme_269_Title",
+      "spine_path": "UI/UIWork/UIWorkAronaScene_01_Day",
+      "ratio": 0,
+      "lobby_ani_path": "UI/UILobbyAnimation",
+      "movie_cg_path": "Uis/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_20007",
+      "scenario_force_enter": 0,
+      "localize_id": 3400312076,
+      "academy_lobby_character_id": [
+        9009000
+      ],
+      "sweep_animation": [
+        "UISweepAnimation"
+      ]
+    },
+    {
+      "id": 15,
+      "scenario_mode_id": 200001,
+      "priority_order": 80,
+      "pv_display_order": 0,
+      "video_id": 20007,
+      "bgm_id": 90006,
+      "audio_name": "Theme_269_Title",
+      "spine_path": "UI/UIWork/UIWorkAronaScene_01_Night",
+      "ratio": 0,
+      "lobby_ani_path": "UI/UILobbyAnimation_Black",
+      "movie_cg_path": "Uis/01_Common/16_CafeItem/Photo_MovieCG/Photo_MovieCG_20007",
+      "scenario_force_enter": 0,
+      "localize_id": 3400312076,
+      "academy_lobby_character_id": [
+        9009000
+      ],
+      "sweep_animation": [
+        "UISweepAnimation"
       ]
     }
   ]

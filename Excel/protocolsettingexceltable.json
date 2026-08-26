@@ -113,6 +113,13 @@
       "mail": false
     },
     {
+      "protocol": "Character_AllocateEngraveNode",
+      "open_condition_content": 63,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Equipment_Sell",
       "open_condition_content": 21,
       "currency": true,
@@ -428,6 +435,13 @@
       "mail": false
     },
     {
+      "protocol": "Mission_NotifyUIEntered",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Attendance_Check",
       "open_condition_content": 21,
       "currency": false,
@@ -548,6 +562,27 @@
     },
     {
       "protocol": "Shop_PickupSelectionGachaBuy",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "Shop_GachaWishListGet",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Shop_GachaWishListSet",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Shop_GachaWishListBuy",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -2346,6 +2381,48 @@
       "mail": false
     },
     {
+      "protocol": "MiniGame_JankenLobby",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenSetEchelon",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEquipmentLevelUp",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEnterBattle",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEndBattle",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_JankenScoreReward",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
       "protocol": "Notification_LobbyCheck",
       "open_condition_content": 21,
       "currency": false,
@@ -2857,6 +2934,27 @@
       "mail": false
     },
     {
+      "protocol": "Attachment_StudentFrameList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Attachment_StudentFrameAcquire",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Attachment_StudentFrameAttach",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Sticker_Login",
       "open_condition_content": 21,
       "currency": false,
@@ -3018,6 +3116,34 @@
       "mail": true
     },
     {
+      "protocol": "DailyRecord_ClaimStreakReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_SupplementSeasonAttendance",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_ClaimSeasonReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_RestoreStreakAttendance",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
       "protocol": "Option_Save",
       "open_condition_content": 21,
       "currency": false,
@@ -3055,6 +3181,90 @@
     {
       "protocol": "SNS_PostRead",
       "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_GetInfo",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_ReceiveEnterReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_AttendanceReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionMultipleReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_Check",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_Lobby",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_RankingInfo",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_EnterBattle",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "TacticalRelay_EndBattle",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_GiveUp",
+      "open_condition_content": 62,
       "currency": false,
       "inventory": false,
       "mail": false

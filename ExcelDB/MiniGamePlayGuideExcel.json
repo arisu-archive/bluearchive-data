@@ -1459,6 +1459,436 @@
       "guide_title": "UI_Event_PlayGuide_Title_Text",
       "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_12",
       "guide_text": "FIELD_843_PLAYGUIDE_10"
+    },
+    {
+      "id": 192,
+      "event_content_id": 900833,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_1",
+      "guide_text": "FIELD_833_PLAYGUIDE_01"
+    },
+    {
+      "id": 193,
+      "event_content_id": 900833,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_900833_2",
+      "guide_text": "FIELD_833_PLAYGUIDE_02"
+    },
+    {
+      "id": 194,
+      "event_content_id": 900833,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_900833_3",
+      "guide_text": "FIELD_900833_PLAYGUIDE_03"
+    },
+    {
+      "id": 195,
+      "event_content_id": 900833,
+      "mini_game_type": 29,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_900833_5",
+      "guide_text": "FIELD_900833_PLAYGUIDE_05"
+    },
+    {
+      "id": 196,
+      "event_content_id": 10846,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_1",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_01"
+    },
+    {
+      "id": 197,
+      "event_content_id": 10846,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_2",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_02"
+    },
+    {
+      "id": 198,
+      "event_content_id": 10846,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_3",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_03"
+    },
+    {
+      "id": 199,
+      "event_content_id": 10846,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_4",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_04"
+    },
+    {
+      "id": 200,
+      "event_content_id": 10846,
+      "mini_game_type": 39,
+      "is_pc_build": false,
+      "display_order": 4,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MiniGameRoad_846_5",
+      "guide_text": "MINIGAME_ROADPUZZLE_846_PLAYGUIDE_05"
+    },
+    {
+      "id": 201,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_01",
+      "guide_text": "Minigame_Janken_PlayGuide_01"
+    },
+    {
+      "id": 202,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_02",
+      "guide_text": "Minigame_Janken_PlayGuide_02"
+    },
+    {
+      "id": 203,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_03",
+      "guide_text": "Minigame_Janken_PlayGuide_03"
+    },
+    {
+      "id": 204,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_04",
+      "guide_text": "Minigame_Janken_PlayGuide_04"
+    },
+    {
+      "id": 205,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 4,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_05",
+      "guide_text": "Minigame_Janken_PlayGuide_05"
+    },
+    {
+      "id": 206,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 5,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_06",
+      "guide_text": "Minigame_Janken_PlayGuide_06"
+    },
+    {
+      "id": 207,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 6,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_07",
+      "guide_text": "Minigame_Janken_PlayGuide_07"
+    },
+    {
+      "id": 208,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 7,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_08",
+      "guide_text": "Minigame_Janken_PlayGuide_08"
+    },
+    {
+      "id": 209,
+      "event_content_id": 860,
+      "mini_game_type": 44,
+      "is_pc_build": false,
+      "display_order": 8,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameJanken_860_09",
+      "guide_text": "Minigame_Janken_PlayGuide_09"
+    },
+    {
+      "id": 210,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 0,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_01",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_01"
+    },
+    {
+      "id": 211,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 1,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_02",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_02"
+    },
+    {
+      "id": 212,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 2,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_03",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_03"
+    },
+    {
+      "id": 213,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 3,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_01",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_01"
+    },
+    {
+      "id": 214,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 4,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_02",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_02"
+    },
+    {
+      "id": 215,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 5,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_03",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_03"
+    },
+    {
+      "id": 216,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 6,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_04",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_04"
+    },
+    {
+      "id": 217,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 7,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_05",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_05"
+    },
+    {
+      "id": 218,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 8,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCGMap_848_06",
+      "guide_text": "MINIGAME_CCG_MAP_848_PLAYGUIDE_06"
+    },
+    {
+      "id": 219,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 9,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_04",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_04"
+    },
+    {
+      "id": 220,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 10,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_05",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_05"
+    },
+    {
+      "id": 221,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 11,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_06",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_06"
+    },
+    {
+      "id": 222,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 12,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_07",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_07"
+    },
+    {
+      "id": 223,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 13,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_08",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_08"
+    },
+    {
+      "id": 224,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 14,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_09",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_09"
+    },
+    {
+      "id": 225,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 15,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_10",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_10"
+    },
+    {
+      "id": 226,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 16,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_11",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_11"
+    },
+    {
+      "id": 227,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 17,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_12",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_12"
+    },
+    {
+      "id": 228,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 18,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_13",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_13"
+    },
+    {
+      "id": 229,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 19,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_14",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_14"
+    },
+    {
+      "id": 230,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 20,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_15",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_15"
+    },
+    {
+      "id": 231,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 21,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_16",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_16"
+    },
+    {
+      "id": 232,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 22,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_17",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_17"
+    },
+    {
+      "id": 233,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 23,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_18",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_18"
+    },
+    {
+      "id": 234,
+      "event_content_id": 10848,
+      "mini_game_type": 40,
+      "is_pc_build": false,
+      "display_order": 24,
+      "guide_title": "UI_Event_PlayGuide_Title_Text",
+      "guide_image_path": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameCCG_848_19",
+      "guide_text": "MINIGAME_CCG_848_PLAYGUIDE_19"
     }
   ]
 }

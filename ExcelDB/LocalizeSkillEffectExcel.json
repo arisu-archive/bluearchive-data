@@ -1,0 +1,150 @@
+{
+  "data_list": [
+    {
+      "key": 1788195815,
+      "icon_sprite_name": "Combat_Icon_Buff_CostOverload",
+      "skill_effect_name_kr": "코스트 과부하",
+      "skill_effect_name_jp": "코스트 과부하",
+      "skill_effect_description_kr": "학생이 편성 가능한 최대 수 만큼 편성되었고, 아무도 퇴각하지 않은 경우 보유 코스트를 5코스트까지 초과하여 사용 가능, 초과분은 음수 코스트로 전환",
+      "skill_effect_description_jp": "학생이 편성 가능한 최대 수 만큼 편성되었고, 아무도 퇴각하지 않은 경우 보유 코스트를 5코스트까지 초과하여 사용 가능, 초과분은 음수 코스트로 전환",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 2097377630,
+      "icon_sprite_name": "Combat_Icon_Special_Holiday",
+      "skill_effect_name_kr": "성야의 축복",
+      "skill_effect_name_jp": "성야의 축복",
+      "skill_effect_description_kr": "세리나(크리스마스)와 하나에(크리스마스)가 해당 효과를 가진 대상에게 추가 효과를 부여한다.",
+      "skill_effect_description_jp": "해당 효과는 최대 15개까지 중첩 가능하다.세리나(크리스마스)와 하나에(크리스마스)가 해당 효과를 가진 대상에게 추가 효과를 부여한다.",
+      "suffix_text_kr": "[0]까지 중첩",
+      "suffix_text_jp": "[0]까지 중첩",
+      "suffix_label": "Combat_Icon_Suffix_Accumulate",
+      "shared_character_parcels": [
+        10056,
+        20021
+      ],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 4127536498,
+      "icon_sprite_name": "",
+      "skill_effect_name_kr": "",
+      "skill_effect_name_jp": "",
+      "skill_effect_description_kr": "총 [c][007eff]60회[-][/c] 타격",
+      "skill_effect_description_jp": "총 [c][007eff]60회[-][/c] 타격",
+      "suffix_text_kr": "",
+      "suffix_text_jp": "",
+      "suffix_label": "",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 3352349131,
+      "icon_sprite_name": "",
+      "skill_effect_name_kr": "급양 추진 차량",
+      "skill_effect_name_jp": "급양 추진 차량",
+      "skill_effect_description_kr": "급양추진차량은 일반 공격을 하지 않는다.\n택티컬 서포트의 탑승물은 중복 등장하지 않는다.",
+      "skill_effect_description_jp": "급양추진차량은 일반 공격을 하지 않습니다.\n택티컬 서포트의 탑승물은 중복 등장하지 않습니다.",
+      "suffix_text_kr": "[0]초간 등장",
+      "suffix_text_jp": "[0]초간 등장",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 2927371477,
+      "icon_sprite_name": "Combat_Icon_Buff_CriticalDamage",
+      "skill_effect_name_kr": "치명 대미지 증가",
+      "skill_effect_name_jp": "치명 대미지 증가",
+      "skill_effect_description_kr": "치명타로 입히는 피해가 증가한다.",
+      "skill_effect_description_jp": "치명타로 입히는 피해가 증가한다.",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 3159850752,
+      "icon_sprite_name": "Combat_Icon_Buff_EnhancePierceRate",
+      "skill_effect_name_kr": "관통 특효 가산",
+      "skill_effect_name_jp": "관통 특효 가산",
+      "skill_effect_description_kr": "관통으로 입히는 Weak 피해가 증가한다.",
+      "skill_effect_description_jp": "관통으로 입히는 Weak 피해가 증가한다.",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 604791361,
+      "icon_sprite_name": "Combat_Icon_Special_Fury",
+      "skill_effect_name_kr": "분노",
+      "skill_effect_name_jp": "분노",
+      "skill_effect_description_kr": "네루가 사용하는 EX 스킬의 효과가 증가한다.",
+      "skill_effect_description_jp": "네루가 사용하는 EX 스킬의 효과가 증가한다.",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 148105998,
+      "icon_sprite_name": "Combat_Icon_Special_AmplifyDoTReducePeriod_Chill",
+      "skill_effect_name_kr": "중독 추가 대미지",
+      "skill_effect_name_jp": "중독 추가 대미지",
+      "skill_effect_description_kr": "해당 효과가 걸려있는 대상에게 [PRE=Debuff_DamageOverTime_Poison]중독[/PRE] 대미지가 주기당 계수만큼의 대미지를 [c][007eff]2초[-][/c]마다 추가 적용 (최대 4회)",
+      "skill_effect_description_jp": "해당 효과가 걸려있는 대상에게 [PRE=Debuff_DamageOverTime_Poison]중독[/PRE] 대미지가 주기당 계수만큼의 대미지를 [c][007eff]2초[-][/c]마다 추가 적용 (최대 4회)",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 1558413239,
+      "icon_sprite_name": "Combat_Icon_Special_AmplifyDoTAdditionalTick_Poison",
+      "skill_effect_name_kr": "오한 주기 감소",
+      "skill_effect_name_jp": "오한 주기 감소",
+      "skill_effect_description_kr": "해당 효과가 걸려있는 대상에게 계수만큼 [PRE=Debuff_DamageOverTime_Chill]오한[/PRE] 대미지 주기가 감소 (테스트용으로 여기에 길고 크게 의미없는 텍스트를 넣었습니다. 네 줄을 넘기기 위해 몇 마디 추가했습니다. 아직 네 줄을 넘지않아 몇 마디 더 적습니다.)",
+      "skill_effect_description_jp": "해당 효과가 걸려있는 대상에게 계수만큼 [PRE=Debuff_DamageOverTime_Chill]오한[/PRE] 대미지 주기가 감소 (테스트용으로 여기에 길고 크게 의미없는 텍스트를 넣었습니다. 네 줄을 넘기기 위해 몇 마디 추가했습니다. 아직 네 줄을 넘지않아 몇 마디 더 적습니다.)",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 2610301239,
+      "icon_sprite_name": "Combat_Icon_Debuff_Chill",
+      "skill_effect_name_kr": "오한",
+      "skill_effect_name_jp": "오한",
+      "skill_effect_description_kr": "지속 시간 내 주기마다 대미지",
+      "skill_effect_description_jp": "지속 시간 내 주기마다 대미지",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    },
+    {
+      "key": 2379737919,
+      "icon_sprite_name": "Combat_Icon_Debuff_Poison",
+      "skill_effect_name_kr": "중독",
+      "skill_effect_name_jp": "중독",
+      "skill_effect_description_kr": "지속 시간 내 주기마다 대미지",
+      "skill_effect_description_jp": "지속 시간 내 주기마다 대미지",
+      "suffix_text_kr": "[0]초간 지속",
+      "suffix_text_jp": "[0]초간 지속",
+      "suffix_label": "Combat_Icon_Suffix_Duration",
+      "shared_character_parcels": [],
+      "text_font_size_override": 0
+    }
+  ]
+}

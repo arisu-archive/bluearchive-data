@@ -647,6 +647,270 @@
         5
       ],
       "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10101,
+      "map_group_id": 10100,
+      "map": "RoadPuzzleMapName_START2",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        7,
+        5,
+        1
+      ],
+      "original_tile_count": [
+        7,
+        5,
+        1
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10201,
+      "map_group_id": 10200,
+      "map": "RoadPuzzleMapName_EASY2",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        8,
+        19,
+        3
+      ],
+      "original_tile_count": [
+        4,
+        19,
+        3
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10301,
+      "map_group_id": 10300,
+      "map": "RoadPuzzleMapName_LessStraight",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        5,
+        22,
+        3
+      ],
+      "original_tile_count": [
+        3,
+        22,
+        3
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10401,
+      "map_group_id": 10400,
+      "map": "RoadPuzzleMapName_EASY1",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        10,
+        10,
+        10
+      ],
+      "original_tile_count": [
+        5,
+        10,
+        10
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10501,
+      "map_group_id": 10500,
+      "map": "RoadPuzzleMapName_30-1",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        4,
+        17,
+        9
+      ],
+      "original_tile_count": [
+        2,
+        17,
+        9
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10601,
+      "map_group_id": 10600,
+      "map": "RoadPuzzle_1",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        7,
+        13,
+        10
+      ],
+      "original_tile_count": [
+        3,
+        13,
+        10
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10702,
+      "map_group_id": 10700,
+      "map": "RoadPuzzle_2",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        7,
+        12,
+        11
+      ],
+      "original_tile_count": [
+        4,
+        12,
+        11
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10703,
+      "map_group_id": 10700,
+      "map": "RoadPuzzle_3",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        14,
+        8,
+        8
+      ],
+      "original_tile_count": [
+        10,
+        8,
+        8
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10704,
+      "map_group_id": 10700,
+      "map": "RoadPuzzle_4",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        11,
+        12,
+        7
+      ],
+      "original_tile_count": [
+        7,
+        12,
+        7
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10705,
+      "map_group_id": 10700,
+      "map": "RoadPuzzle_5",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        10,
+        11,
+        9
+      ],
+      "original_tile_count": [
+        5,
+        11,
+        9
+      ],
+      "train_speed": 3.2
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10706,
+      "map_group_id": 10700,
+      "map": "RoadPuzzle_6",
+      "map_bg": "RoadPuzzle_846_Plane_BG",
+      "bgm_id": 207,
+      "available_rail_tile": [
+        10100,
+        10200,
+        10300
+      ],
+      "available_rail_tile_amount": [
+        13,
+        12,
+        5
+      ],
+      "original_tile_count": [
+        8,
+        12,
+        5
+      ],
+      "train_speed": 3.2
     }
   ]
 }

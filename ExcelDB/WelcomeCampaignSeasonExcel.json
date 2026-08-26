@@ -1,0 +1,38 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "title_localize_code": 2772155138,
+      "target_group": 1,
+      "active_order": 1,
+      "start_date": "2026-05-27 11:00:00",
+      "end_date": "2099-12-31 12:00:00",
+      "expiry_date": 28,
+      "enter_icon_image": "Common_Icon_WelcomeCampaign_1",
+      "background_image": "UIs/00_Images/BG/Formation_Bg",
+      "title_image": "UIs/01_Common/52_WelcomeMission/WelcomeCampaign_Title_Newbie",
+      "enter_reward_group_id": 101,
+      "reward_increase_id": 0,
+      "maximum_login_count": 5,
+      "attendance_book_size": 14,
+      "continuous_attendance": true
+    },
+    {
+      "id": 2,
+      "title_localize_code": 2772155138,
+      "target_group": 3,
+      "active_order": 2,
+      "start_date": "2026-05-27 11:00:00",
+      "end_date": "2099-12-31 12:00:00",
+      "expiry_date": 28,
+      "enter_icon_image": "Common_Icon_WelcomeCampaign_2",
+      "background_image": "UIs/00_Images/BG/Formation_Bg_EchelonExtension",
+      "title_image": "UIs/01_Common/52_WelcomeMission/WelcomeCampaign_Title_Comeback",
+      "enter_reward_group_id": 102,
+      "reward_increase_id": 0,
+      "maximum_login_count": 5,
+      "attendance_book_size": 14,
+      "continuous_attendance": true
+    }
+  ]
+}

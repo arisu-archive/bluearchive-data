@@ -1,0 +1,72 @@
+{
+  "data_list": [
+    {
+      "apc_slot_define_id": 10000,
+      "apc_slot_amount": 2,
+      "apc_slot_squad_type01": [
+        1,
+        2,
+        3
+      ],
+      "apc_slot_start_cooltime01": 10000,
+      "apc_slot_cooltime01": 20000,
+      "apc_slot_squad_type02": [
+        1,
+        2,
+        3
+      ],
+      "apc_slot_start_cooltime02": 20000,
+      "apc_slot_cooltime02": 20000,
+      "apc_slot_squad_type03": [],
+      "apc_slot_start_cooltime03": 0,
+      "apc_slot_cooltime03": 0,
+      "apc_slot_squad_type04": [],
+      "apc_slot_start_cooltime04": 0,
+      "apc_slot_cooltime04": 0,
+      "apc_synergy_id": 0,
+      "add_cost_rule": "User",
+      "stat_type01": 0,
+      "stat_add01": 0,
+      "stat_multiply01": 0,
+      "stat_type02": 0,
+      "stat_add02": 0,
+      "stat_multiply02": 0,
+      "stat_type03": 0,
+      "stat_add03": 0,
+      "stat_multiply03": 0
+    },
+    {
+      "apc_slot_define_id": 90000,
+      "apc_slot_amount": 2,
+      "apc_slot_squad_type01": [
+        1
+      ],
+      "apc_slot_start_cooltime01": 10000,
+      "apc_slot_cooltime01": 20000,
+      "apc_slot_squad_type02": [
+        1,
+        2,
+        3
+      ],
+      "apc_slot_start_cooltime02": 20000,
+      "apc_slot_cooltime02": 20000,
+      "apc_slot_squad_type03": [],
+      "apc_slot_start_cooltime03": 0,
+      "apc_slot_cooltime03": 0,
+      "apc_slot_squad_type04": [],
+      "apc_slot_start_cooltime04": 0,
+      "apc_slot_cooltime04": 0,
+      "apc_synergy_id": 0,
+      "add_cost_rule": "APC",
+      "stat_type01": 0,
+      "stat_add01": 0,
+      "stat_multiply01": 0,
+      "stat_type02": 0,
+      "stat_add02": 0,
+      "stat_multiply02": 0,
+      "stat_type03": 0,
+      "stat_add03": 0,
+      "stat_multiply03": 0
+    }
+  ]
+}

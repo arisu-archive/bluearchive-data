@@ -295,7 +295,7 @@
     {
       "open_condition_content_type": 10,
       "lock_ui": [
-        "腐먪昪筺鹈ꟷ誶"
+        "UIEquipmentInventory"
       ],
       "shortcut_popup_priority": 18,
       "shortcut_ui_name": [
@@ -626,7 +626,7 @@
     {
       "open_condition_content_type": 26,
       "lock_ui": [
-        "聐檥鹴띪⸡⴫",
+        "UIClanSearchList",
         "UIClanLobby"
       ],
       "shortcut_popup_priority": 26,
@@ -891,7 +891,7 @@
     {
       "open_condition_content_type": 38,
       "lock_ui": [
-        "聐続귤ힹ뒧힊ꊏꦛ"
+        "UICafeStudentInvitePopup"
       ],
       "shortcut_popup_priority": 0,
       "shortcut_ui_name": [],
@@ -940,7 +940,7 @@
       "shortcut_popup_priority": 36,
       "shortcut_ui_name": [
         "UILobby",
-        "腐稯䭻뚡"
+        "UIEventLobby"
       ],
       "shortcut_param": 10804,
       "scene": "Lobby",
@@ -962,7 +962,7 @@
     {
       "open_condition_content_type": 40,
       "lock_ui": [
-        "葐蚜▊章쮉뚡",
+        "UISchoolDungeonLobby",
         "UISchoolDungeonStageSelect"
       ],
       "shortcut_popup_priority": 37,
@@ -985,7 +985,7 @@
       "cafe_idfor_cafe_rank": 0,
       "cafe_rank": 0,
       "contents_open_show": true,
-      "contents_open_shortcut_ui": "葐蚜▊章쮉뚡"
+      "contents_open_shortcut_ui": "UISchoolDungeonLobby"
     },
     {
       "open_condition_content_type": 41,
@@ -1183,7 +1183,7 @@
     {
       "open_condition_content_type": 50,
       "lock_ui": [
-        "腐訥Ꝩ흪檑䬧뚡"
+        "UIEliminateRaidLobby"
       ],
       "shortcut_popup_priority": 49,
       "shortcut_ui_name": [
@@ -1205,7 +1205,7 @@
       "cafe_idfor_cafe_rank": 0,
       "cafe_rank": 0,
       "contents_open_show": true,
-      "contents_open_shortcut_ui": "腐訥Ꝩ흪檑䬧뚡"
+      "contents_open_shortcut_ui": "UIEliminateRaidLobby"
     },
     {
       "open_condition_content_type": 51,
@@ -1286,7 +1286,7 @@
       "shortcut_popup_priority": 52,
       "shortcut_ui_name": [
         "UILobby",
-        "腐稯䭻뚡"
+        "UIEventLobby"
       ],
       "shortcut_param": 10836,
       "scene": "Lobby",
@@ -1311,7 +1311,7 @@
       "shortcut_popup_priority": 52,
       "shortcut_ui_name": [
         "UILobby",
-        "腐稯䭻뚡"
+        "UIEventLobby"
       ],
       "shortcut_param": 10838,
       "scene": "Lobby",
@@ -1336,7 +1336,7 @@
       "shortcut_popup_priority": 52,
       "shortcut_ui_name": [
         "UILobby",
-        "腐稯䭻뚡"
+        "UIEventLobby"
       ],
       "shortcut_param": 0,
       "scene": "Lobby",
@@ -1406,7 +1406,7 @@
     {
       "open_condition_content_type": 60,
       "lock_ui": [
-        "荐껞Ꝧ筺橑䬧뚡"
+        "UIPermanentRaidLobby"
       ],
       "shortcut_popup_priority": 54,
       "shortcut_ui_name": [
@@ -1429,7 +1429,85 @@
       "cafe_idfor_cafe_rank": 0,
       "cafe_rank": 0,
       "contents_open_show": true,
-      "contents_open_shortcut_ui": "荐껞Ꝧ筺橑䬧뚡"
+      "contents_open_shortcut_ui": "UIPermanentRaidLobby"
+    },
+    {
+      "open_condition_content_type": 61,
+      "lock_ui": [],
+      "shortcut_popup_priority": 54,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIEventLobby"
+      ],
+      "shortcut_param": 860,
+      "scene": "Lobby",
+      "hide_when_locked": false,
+      "account_level": 1,
+      "scenario_mode_id": 0,
+      "campaign_stage_id": 8601309,
+      "multiple_condition_check_type": 0,
+      "open_day_of_week": 7,
+      "open_hour": 0,
+      "close_day_of_week": 7,
+      "close_hour": 24,
+      "opened_cafe_id": 0,
+      "cafe_idfor_cafe_rank": 0,
+      "cafe_rank": 0,
+      "contents_open_show": false,
+      "contents_open_shortcut_ui": ""
+    },
+    {
+      "open_condition_content_type": 62,
+      "lock_ui": [
+        "UITacticalRelay_Lobby"
+      ],
+      "shortcut_popup_priority": 55,
+      "shortcut_ui_name": [
+        "UILobby",
+        "UIWork"
+      ],
+      "shortcut_param": 0,
+      "scene": "Lobby",
+      "hide_when_locked": false,
+      "account_level": 1,
+      "scenario_mode_id": 0,
+      "campaign_stage_id": 0,
+      "multiple_condition_check_type": 0,
+      "open_day_of_week": 7,
+      "open_hour": 0,
+      "close_day_of_week": 7,
+      "close_hour": 24,
+      "opened_cafe_id": 0,
+      "cafe_idfor_cafe_rank": 0,
+      "cafe_rank": 0,
+      "contents_open_show": false,
+      "contents_open_shortcut_ui": "UITacticalRelay_Lobby"
+    },
+    {
+      "open_condition_content_type": 63,
+      "lock_ui": [
+        "UIEngrave"
+      ],
+      "shortcut_popup_priority": 56,
+      "shortcut_ui_name": [
+        "UILobby"
+      ],
+      "shortcut_param": 0,
+      "scene": "Lobby",
+      "hide_when_locked": false,
+      "account_level": 1,
+      "scenario_mode_id": 0,
+      "campaign_stage_id": 0,
+      "multiple_condition_check_type": 0,
+      "open_day_of_week": 7,
+      "open_hour": 0,
+      "close_day_of_week": 7,
+      "close_hour": 24,
+      "opened_cafe_id": 0,
+      "cafe_idfor_cafe_rank": 0,
+      "cafe_rank": 0,
+      "contents_open_show": false,
+      "contents_open_shortcut_ui": ""
     }
   ]
 }
