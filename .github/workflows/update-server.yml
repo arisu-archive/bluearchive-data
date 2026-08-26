@@ -47,7 +47,7 @@ jobs:
         with:
           persist-credentials: false
           sparse-checkout: |
-            scripts/get_version.py
+            scripts/get_version.sh
             global.txt
             japan.txt
           sparse-checkout-cone-mode: false
@@ -75,12 +75,7 @@ jobs:
         env:
           FORCE_UPDATE: ${{ inputs.force_update }}
           SERVER: ${{ inputs.server }}
-        run: >-
-          python scripts/get_version.py
-          --server "$SERVER"
-          --current-file "$SERVER.txt"
-          --force-update "$FORCE_UPDATE"
-          --assets-dumper "$RUNNER_TEMP/bin/assets-dumper"
+        run: bash scripts/get_version.sh
 
   update-assets:
     needs: determine-version
