@@ -37,10 +37,21 @@ def main() -> None:
         outputs.open("a", encoding="utf-8").write("skip=true\n")
         return
 
+    result = subprocess.run(
+        [args.assets_dumper, "version", "-s", args.server, "--without-patch"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    version_without_patch = result.stdout.strip().removesuffix("-")
+    if not VERSION_PATTERN.fullmatch(version_without_patch):
+        raise ValueError("latest version without patch has an invalid format")
+
     current = args.current_file.read_text(encoding="utf-8") if args.current_file.exists() else None
     skip = should_skip(latest, current, args.force_update == "true")
     with outputs.open("a", encoding="utf-8") as output:
         output.write(f"version={latest}\n")
+        output.write(f"version_without_patch={version_without_patch}\n")
         output.write(f"skip={str(skip).lower()}\n")
     print(f"::notice title=Latest Resources Version::{latest}")
 

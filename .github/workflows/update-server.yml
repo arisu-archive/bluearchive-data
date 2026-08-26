@@ -33,6 +33,7 @@ jobs:
     outputs:
       skip: ${{ steps.version.outputs.skip }}
       version: ${{ steps.version.outputs.version }}
+      version_without_patch: ${{ steps.version.outputs.version_without_patch }}
     steps:
       - name: Checkout version script
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
@@ -128,7 +129,7 @@ jobs:
         env:
           KEY_TOOL: ${{ inputs.server == 'global' && 'arona' || 'plana' }}
           SERVER: ${{ inputs.server }}
-          VERSION: ${{ needs.determine-version.outputs.version }}
+          VERSION: ${{ needs.determine-version.outputs.version_without_patch }}
         run: >-
           python automation/scripts/extract_assets.py
           --server "$SERVER"
