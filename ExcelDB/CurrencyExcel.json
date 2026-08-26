@@ -190,10 +190,10 @@
       "auto_charge_amount": 0,
       "currency_over_charge_type": 0,
       "currency_additional_charge_type": 1,
-      "charge_limit": 3,
+      "charge_limit": 6,
       "over_charge_limit": 10,
       "sprite_name": "Currency_Icon_RaidTicket",
-      "daily_refill_type": 1,
+      "daily_refill_type": 2,
       "daily_refill_amount": 3,
       "daily_refill_time": [
         400
@@ -417,10 +417,10 @@
       "auto_charge_amount": 0,
       "currency_over_charge_type": 0,
       "currency_additional_charge_type": 1,
-      "charge_limit": 3,
+      "charge_limit": 6,
       "over_charge_limit": 10,
       "sprite_name": "Currency_Icon_TimeAttackTicket",
-      "daily_refill_type": 1,
+      "daily_refill_type": 2,
       "daily_refill_amount": 3,
       "daily_refill_time": [
         400

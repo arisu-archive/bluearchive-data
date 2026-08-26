@@ -103,6 +103,57 @@
       ]
     },
     {
+      "id": 150001,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_3000",
+      "store_type": 11,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 101,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 150002,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_premium_3500",
+      "store_type": 11,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 102,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 150003,
+      "product_id": "com.yostarjp.bluearchive.r82_4.5_battlepass_unlock_500",
+      "store_type": 11,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 103,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100000,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
       "id": 10011,
       "product_id": "com.yostarjp.bluearchive.r88_5th_battlepass_3000",
       "store_type": 1,
@@ -253,6 +304,285 @@
       "parcel_amount": [
         1,
         200
+      ]
+    },
+    {
+      "id": 150011,
+      "product_id": "com.yostarjp.bluearchive.r88_5th_battlepass_3000",
+      "store_type": 11,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 201,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 150012,
+      "product_id": "com.yostarjp.bluearchive.r88_5th_battlepass_premium_3500",
+      "store_type": 11,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 202,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100001,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 150013,
+      "product_id": "com.yostarjp.bluearchive.r88_5th_battlepass_unlock_500",
+      "store_type": 11,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 203,
+      "parcel_type": [
+        20,
+        2
+      ],
+      "parcel_id": [
+        9100001,
+        3
+      ],
+      "parcel_amount": [
+        1,
+        200
+      ]
+    },
+    {
+      "id": 10021,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_3000",
+      "store_type": 1,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 301,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 10022,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_premium_3500",
+      "store_type": 1,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 302,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 10023,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_unlock_500",
+      "store_type": 1,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 303,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 50021,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_3000",
+      "store_type": 2,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 301,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 50022,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_premium_3500",
+      "store_type": 2,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 302,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 50023,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_unlock_500",
+      "store_type": 2,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 303,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 110021,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_3000",
+      "store_type": 10,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 301,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 110022,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_premium_3500",
+      "store_type": 10,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 302,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 110023,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_unlock_500",
+      "store_type": 10,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 303,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 150021,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_3000",
+      "store_type": 11,
+      "price": 3000,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 301,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 150022,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_premium_3500",
+      "store_type": 11,
+      "price": 3500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 302,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
+      ]
+    },
+    {
+      "id": 150023,
+      "product_id": "com.yostarjp.bluearchive.r94_5.5_battlepass_unlock_500",
+      "store_type": 11,
+      "price": 500,
+      "purchase_count_limit": 1,
+      "battle_pass_product_group_id": 303,
+      "parcel_type": [
+        20,
+        2,
+        31
+      ],
+      "parcel_id": [
+        9100002,
+        3,
+        9100000
+      ],
+      "parcel_amount": [
+        1,
+        200,
+        1
       ]
     }
   ]

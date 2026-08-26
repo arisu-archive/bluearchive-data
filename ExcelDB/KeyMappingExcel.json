@@ -374,7 +374,7 @@
     },
     {
       "id": "UI_KeyMapping_UIUndercoverMain_BtnSkill02R",
-      "target_key_code": "⡆됡✪몶",
+      "target_key_code": "RightControl",
       "is_display": false,
       "is_used": true,
       "is_long_press": true,
@@ -1537,6 +1537,18 @@
       "icon_scale_y": 1.1
     },
     {
+      "id": "UI_KeyMapping_Battle_CameraChange",
+      "target_key_code": "Tab",
+      "is_display": true,
+      "is_used": true,
+      "is_long_press": false,
+      "ignore_pos_check": false,
+      "icon_position_x": -24,
+      "icon_position_y": -140,
+      "icon_scale_x": 1.1,
+      "icon_scale_y": 1.1
+    },
+    {
       "id": "UI_KeyMapping_WorldRaid_2DUI_ViewFar_Btn_Left",
       "target_key_code": "A",
       "is_display": false,
@@ -1619,6 +1631,42 @@
       "icon_position_y": -91,
       "icon_scale_x": 1.3,
       "icon_scale_y": 1.3
+    },
+    {
+      "id": "UI_KeyMapping_Battle_TacticalRelay_LimitBreak",
+      "target_key_code": "R",
+      "is_display": true,
+      "is_used": true,
+      "is_long_press": false,
+      "ignore_pos_check": false,
+      "icon_position_x": -235,
+      "icon_position_y": -63,
+      "icon_scale_x": 1.1,
+      "icon_scale_y": 1.1
+    },
+    {
+      "id": "UI_KeyMapping_Battle_TacticalRelay_Return",
+      "target_key_code": "E",
+      "is_display": true,
+      "is_used": true,
+      "is_long_press": false,
+      "ignore_pos_check": false,
+      "icon_position_x": -130,
+      "icon_position_y": -64,
+      "icon_scale_x": 1,
+      "icon_scale_y": 1
+    },
+    {
+      "id": "UI_KeyMapping_Battle_TacticalRelay_QuickSwap",
+      "target_key_code": "Tab",
+      "is_display": true,
+      "is_used": true,
+      "is_long_press": false,
+      "ignore_pos_check": false,
+      "icon_position_x": -30,
+      "icon_position_y": -184,
+      "icon_scale_x": 0.85,
+      "icon_scale_y": 0.85
     }
   ]
 }

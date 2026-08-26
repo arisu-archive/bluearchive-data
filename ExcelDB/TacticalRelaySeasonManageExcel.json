@@ -1,0 +1,31 @@
+{
+  "data_list": [
+    {
+      "season_id": 10000,
+      "season_name": "0",
+      "season_start_date": "2020-01-01 00:00:01",
+      "end_note_label_start_date": "2026-09-01 11:00:00",
+      "season_end_date": "2026-09-08 14:00:00",
+      "prev_season_id": 0,
+      "season_rank_still_counting": 100
+    },
+    {
+      "season_id": 10001,
+      "season_name": "1",
+      "season_start_date": "2026-09-08 14:30:00",
+      "end_note_label_start_date": "2026-12-01 11:00:00",
+      "season_end_date": "2026-12-08 14:00:00",
+      "prev_season_id": 10000,
+      "season_rank_still_counting": 100
+    },
+    {
+      "season_id": 10002,
+      "season_name": "2",
+      "season_start_date": "2026-12-08 14:30:00",
+      "end_note_label_start_date": "2027-03-01 11:00:00",
+      "season_end_date": "2027-03-08 14:00:00",
+      "prev_season_id": 10001,
+      "season_rank_still_counting": 100
+    }
+  ]
+}

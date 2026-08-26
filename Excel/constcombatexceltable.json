@@ -9,6 +9,7 @@
       "show_bufficon_extra_passive_skill": true,
       "show_bufficon_leader_skill": true,
       "show_bufficon_ground_passive_skill": true,
+      "show_bufficon_apc_synergy_passive_skill": true,
       "supplies_condition_string_id": "Debuff_SuppliesCondition",
       "public_speech_bubble_offset_x": 0,
       "public_speech_bubble_offset_y": 0,
@@ -26,6 +27,7 @@
       "enemy_regen_cost": 10000,
       "champion_regen_cost": 10000,
       "player_regen_cost_delay": 2000,
+      "player_auto_use_start_delay": 333,
       "crowd_control_factor": 100,
       "raid_open_scenario_id": "Raid_Enter",
       "eliminate_raid_open_scenario_id": "EliminateRaid_Enter",
@@ -89,7 +91,8 @@
       "campaign_alert_popup_level_gap": 15,
       "move_correction_skip_ratio": 1500,
       "obstacle_collider_height_jumpable": -9000,
-      "obstacle_collider_height_not_jumpable": -30000
+      "obstacle_collider_height_not_jumpable": -30000,
+      "check_cheater_max_use_cost_tactical_relay": 0
     }
   ]
 }

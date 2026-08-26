@@ -60,9 +60,9 @@
       "global_skill_show_skill_slot": [],
       "global_skill_highlight_resource": [],
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "show_skill_slot": [
@@ -88,8 +88,8 @@
       "skill_group_id": [
         "BinahTormentExSkill01",
         "BinahTormentPassive01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖"
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03"
       ],
       "show_skill_slot": [
         1,
@@ -269,7 +269,7 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx03_NotUse",
@@ -304,7 +304,7 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx03_NotUse",
@@ -340,7 +340,7 @@
       "skill_group_id": [
         "HODPassive01_Insane",
         "HODInsaneEx01",
-        "櫏⋋",
+        "HODPassive02",
         "HODInsaneEx02",
         "HODEx03_NotUse",
         "HODInsaneEx04",
@@ -375,7 +375,7 @@
       "skill_group_id": [
         "HODPassive01_Torment",
         "HODEx03_NotUse_Torment",
-        "櫏⋋",
+        "HODPassive02",
         "HODInsaneEx01",
         "HODInsaneEx02",
         "HODInsaneEx04",
@@ -409,7 +409,7 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx03_NotUse",
@@ -444,11 +444,11 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "KetherDecagramVulcanWorldRaid01Ex01",
-        "穡�ꡱ樫湥욕媧ᙵ瞢位쭪봢㗭",
+        "KetherDecagramVulcanWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaid01Ex01",
         "KetherDecagramWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaidA01Passive04",
-        "穡�ꡱ樫ౡ樽锫嫔�ጵ㔝",
+        "KetherDecagramEMPWorldRaid01Ex01",
         "KetherDecagramEMPWorldRaidA01Ex02",
         "KetherDecagramWorldRaid01Passive02",
         "KetherDecagramEMPWorldRaid01Passive03"
@@ -485,11 +485,11 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "KetherDecagramVulcanWorldRaid01Ex01",
-        "穡�ꡱ樫湥욕媧ᙵ瞢位쭪봢㗭",
+        "KetherDecagramVulcanWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaid01Ex01",
         "KetherDecagramWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaidB01Passive04",
-        "穡�ꡱ樫ౡ樽锫嫔�ጵ㔝",
+        "KetherDecagramEMPWorldRaid01Ex01",
         "KetherDecagramEMPWorldRaidB01Ex02",
         "KetherDecagramWorldRaid01Passive02",
         "KetherDecagramEMPWorldRaid01Passive03"
@@ -608,11 +608,11 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "KetherDecagramVulcanWorldRaid01Ex01",
-        "穡�ꡱ樫湥욕媧ᙵ瞢位쭪봢㗭",
+        "KetherDecagramVulcanWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaid01Ex01",
         "KetherDecagramWorldRaid01Passive01",
         "KetherDecagramCannonWorldRaidA01Passive04",
-        "穡�ꡱ樫ౡ樽锫嫔�ጵ㔝",
+        "KetherDecagramEMPWorldRaid01Ex01",
         "KetherDecagramEMPWorldRaidA01Ex02",
         "KetherDecagramWorldRaid01Passive02",
         "KetherDecagramEMPWorldRaid01Passive03"
@@ -645,7 +645,7 @@
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
         "IAWorldRaidHodGlobalPassive01",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001002,
@@ -695,7 +695,7 @@
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
         "IAWorldRaidHodGlobalPassive01",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001002,
@@ -751,7 +751,7 @@
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
         "IAWorldRaidHodGlobalPassive01",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001002,
@@ -807,7 +807,7 @@
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
         "IAWorldRaidHodGlobalPassive01",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001002,
@@ -900,8 +900,8 @@
       "id": 854050001,
       "skill_parcel_echelon_type": 0,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldraidChesedGlobalPassive01",
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001001,
@@ -917,7 +917,7 @@
       ],
       "skill_group_id": [
         "EN0010NormalPassive03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010NormalPassive04",
         "EN0010Ex01",
         "EN0010Ex02",
@@ -950,8 +950,8 @@
       "id": 854050002,
       "skill_parcel_echelon_type": 0,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldraidChesedGlobalPassive01",
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001001,
@@ -967,7 +967,7 @@
       ],
       "skill_group_id": [
         "EN0010ExtremePassive03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010ExtremePassive04",
         "EN0010Ex01",
         "EN0010Ex02",
@@ -1000,8 +1000,8 @@
       "id": 854050003,
       "skill_parcel_echelon_type": 0,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldraidChesedGlobalPassive01",
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001001,
@@ -1019,11 +1019,11 @@
         "EN0010InsanePassive03",
         "EN0010InsanePassive02",
         "EN0010InsanePassive04",
-        "�휴❂ꦱᏞ㔝",
-        "�휴❂ꦱᏞ㘝",
+        "EN0010InsaneEx01",
+        "EN0010InsaneEx02",
         "EN0010Passive05",
-        "�휴❂ꦱᏞ㜝",
-        "�휴❂ꦱᏞ㠝"
+        "EN0010InsaneEx03",
+        "EN0010InsaneEx04"
       ],
       "show_skill_slot": [
         3,
@@ -1050,8 +1050,8 @@
       "id": 854050004,
       "skill_parcel_echelon_type": 0,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldraidChesedGlobalPassive01",
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "global_skill_remove_condition": [
         854001001,
@@ -1069,11 +1069,11 @@
         "EN0010TormentPassive03",
         "EN0010InsanePassive02",
         "EN0010TormentPassive04",
-        "�휴❂ꦱᏞ㔝",
-        "�휴❂ꦱᏞ㘝",
+        "EN0010InsaneEx01",
+        "EN0010InsaneEx02",
         "EN0010Passive05",
-        "�휴❂ꦱᏞ㜝",
-        "�휴❂ꦱᏞ㠝"
+        "EN0010InsaneEx03",
+        "EN0010InsaneEx04"
       ],
       "show_skill_slot": [
         3,
@@ -1105,7 +1105,7 @@
       "global_skill_highlight_resource": [],
       "skill_group_id": [
         "EN0010NormalPassive03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010NormalPassive04",
         "EN0010Ex01",
         "EN0010Ex02",
@@ -1138,7 +1138,7 @@
       "id": 854060001,
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
+        "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
       ],
       "global_skill_remove_condition": [
@@ -1191,7 +1191,7 @@
       "id": 854060002,
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
+        "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
       ],
       "global_skill_remove_condition": [
@@ -1247,7 +1247,7 @@
       "id": 854060003,
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
+        "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
       ],
       "global_skill_remove_condition": [
@@ -1303,7 +1303,7 @@
       "id": 854060004,
       "skill_parcel_echelon_type": 1,
       "global_skill_group_id": [
-        "Ԡ꺨歗❪蕂ừ楴浨侩쭪봢㗭",
+        "IAWorldraidChesedGlobalPassive01",
         "IAWorldRaidHodGlobalPassive01"
       ],
       "global_skill_remove_condition": [
@@ -1412,9 +1412,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭",
-        "�휴扴ᮂ橇佷쭪봢㟭"
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02",
+        "EN0013RightHandPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -1459,9 +1459,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭",
-        "�휴扴ᮂ橇佷쭪봢㟭"
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02",
+        "EN0013RightHandPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -1504,9 +1504,9 @@
         "EN0013InsanePassive02",
         "EN0013RightHandInsanePassive01",
         "EN0013RightHandInsanePassive02",
-        "�휴❲ꦱᏞ㔝",
-        "�휴❲ꦱᏞ㘝",
-        "�휴❲ꦱᏞ㜝",
+        "EN0013InsaneEx01",
+        "EN0013InsaneEx02",
+        "EN0013InsaneEx03",
         "EN0013InsanePassive03",
         "EN0013InsanePassive04",
         "EN0013RightHandInsaneEx01",
@@ -1553,9 +1553,9 @@
       "skill_group_id": [
         "EN0013TormentPassive01",
         "EN0013TormentPassive02",
-        "�휴❲ꦱᏞ㔝",
-        "�휴❲ꦱᏞ㘝",
-        "�휴❲ꦱᏞ㜝",
+        "EN0013InsaneEx01",
+        "EN0013InsaneEx02",
+        "EN0013InsaneEx03",
         "EN0013InsanePassive03",
         "EN0013InsanePassive04",
         "EN0013InsanePassive05",
@@ -1612,9 +1612,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭",
-        "�휴扴ᮂ橇佷쭪봢㟭"
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02",
+        "EN0013RightHandPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -2035,9 +2035,9 @@
         "EN0020GroundPassive02",
         "EN0020DummyEx01",
         "EN0020DummyEx02",
-        "��沚檏⋋",
-        "��沚檏⋋",
-        "��沚檏⋋"
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -2070,9 +2070,9 @@
         "EN0020GroundPassive02",
         "EN0020DummyEx01",
         "EN0020DummyEx02",
-        "��沚檏⋋",
-        "��沚檏⋋",
-        "��沚檏⋋"
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -2105,9 +2105,9 @@
         "EN0020GroundPassive02",
         "EN0020DummyEx01",
         "EN0020DummyEx02",
-        "��沚檏⋋",
-        "��沚檏⋋",
-        "��沚檏⋋"
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -2140,9 +2140,9 @@
         "EN0020GroundPassive02",
         "EN0020DummyEx01",
         "EN0020DummyEx02",
-        "��沚檏⋋",
-        "��沚檏⋋",
-        "��沚檏⋋"
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
       ],
       "show_skill_slot": [
         1,
@@ -2175,9 +2175,9 @@
         "EN0020GroundPassive02",
         "EN0020DummyEx01",
         "EN0020DummyEx02",
-        "��沚檏⋋",
-        "��沚檏⋋",
-        "��沚檏⋋"
+        "EN0020DummyPassive01",
+        "EN0020DummyPassive02",
+        "EN0020DummyPassive03"
       ],
       "show_skill_slot": [
         1,

@@ -69,6 +69,20 @@
       "loop_round": 5,
       "use_prefab_name": "UIEventTreasureShop_60000",
       "treasure_bg_image_path": "UIs/01_Common/27_EventContent/Treasure/Treasure_Event_MemoBoard"
+    },
+    {
+      "event_content_id": 10847,
+      "title_localize": "Event_Treasure_Title",
+      "loop_round": 7,
+      "use_prefab_name": "UIEventTreasureShop_847",
+      "treasure_bg_image_path": "UIs/01_Common/27_EventContent/Treasure/847/Treasure_Event_MemoBoard_847"
+    },
+    {
+      "event_content_id": 861,
+      "title_localize": "Event_Treasure_Title",
+      "loop_round": 13,
+      "use_prefab_name": "UIEventTreasureShop_861",
+      "treasure_bg_image_path": "UIs/01_Common/27_EventContent/Treasure/861/Treasure_Event_MemoBoard_861"
     }
   ]
 }

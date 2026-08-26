@@ -215,6 +215,30 @@
       "expired_day": 3650,
       "sender": "UI_MAILBOX_POST_SENDER_SCHALE",
       "comment": "UI_MAILBOX_Product_Buy"
+    },
+    {
+      "mail_type": 38,
+      "is_product_mail": true,
+      "is_variable_expired_day": true,
+      "expired_day": 3650,
+      "sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+      "comment": "UI_MAILBOX_Product_Buy"
+    },
+    {
+      "mail_type": 36,
+      "is_product_mail": false,
+      "is_variable_expired_day": false,
+      "expired_day": 7,
+      "sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+      "comment": "UI_MAILBOX_EXPIRY_STREAKRECORD_ITEM"
+    },
+    {
+      "mail_type": 37,
+      "is_product_mail": false,
+      "is_variable_expired_day": false,
+      "expired_day": 7,
+      "sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+      "comment": "UI_MAILBOX_EXPIRY_SEASONRECORD_ITEM"
     }
   ]
 }

@@ -17,7 +17,7 @@
       "cafe_production_decimal_position": 2,
       "cafe_set_group_apply_count": 3,
       "week_dungeon_find_gift_reward_limit_count": 15,
-      "stage_failed_currency_refund_rate": 95,
+      "stage_failed_currency_refund_rate": 100,
       "enter_deposit": 10,
       "account_max_level": 90,
       "main_squad_exp_bonus": 15000,
@@ -93,7 +93,6 @@
       "post_expired_day_inventory_overflow": 7,
       "post_expired_day_game_manager": 7,
       "ui_label_character_wrap": ".,。,、…~\"-!?！？―\u003c\u003e()（）ー☆★♡♥♧♣♤♠♩♪♬々っッ",
-      "request_time_out": -1800000,
       "mail_storage_soft_cap": 200,
       "mail_storage_hard_cap": 1000,
       "clear_deck_storage_size": 20,
@@ -133,6 +132,20 @@
         513
       ],
       "max_ap_master_coin_per_week": 12000,
+      "plus_max_ap_master_coin_per_week_product_monthly_id1": [
+        103,
+        503,
+        100103,
+        100503
+      ],
+      "plus_max_ap_master_coin_per_week1": 2000,
+      "plus_max_ap_master_coin_per_week_product_monthly_id2": [
+        104,
+        504,
+        100104,
+        100504
+      ],
+      "plus_max_ap_master_coin_per_week2": 1000,
       "craft_open_exp_tier1": 100,
       "craft_open_exp_tier2": 200,
       "craft_open_exp_tier3": 200,
@@ -159,10 +172,11 @@
       "char_profile_row_interval_jp": 33,
       "char_profile_popup_row_interval_kr": 43,
       "char_profile_popup_row_interval_jp": 46,
-      "beforehand_gacha_count": 10,
+      "beforehand_gacha_count": 30,
       "beforehand_gacha_group_id": 2,
       "renewal_display_order_day": 7,
       "emblem_default_id": 1,
+      "student_frame_default_id": 1,
       "birthday_mail_start_date": "2024-01-01",
       "birthday_mail_remain_date": 3,
       "birthday_mail_parcel_type": 2,
@@ -213,7 +227,13 @@
       "expiry_product_daily_record_item_receive_day": 7,
       "newbie_user_standard_day": 28,
       "newbie_state_hold_day": 28,
-      "clear_deck_echelon_show_max_count": 20
+      "clear_deck_echelon_show_max_count": 20,
+      "expiry_streak_record_item_receive_day": 7,
+      "expiry_season_record_item_receive_day": 7,
+      "engrave_contents_is_open": false,
+      "tactical_relay_contents_is_open": false,
+      "ex_skill_level_max_by_engrave": 0,
+      "ex_skill_upgrade_level_max": 5
     }
   ]
 }

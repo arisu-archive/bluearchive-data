@@ -7,7 +7,10 @@
       "block_factor": 7500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 13000
+      "attack_power_factor": 13000,
+      "terrain_factor_description01": "TerrainFactorDescription_SS_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_SS_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 0,
@@ -16,7 +19,10 @@
       "block_factor": 6000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 12000
+      "attack_power_factor": 12000,
+      "terrain_factor_description01": "TerrainFactorDescription_S_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_S_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 0,
@@ -25,7 +31,10 @@
       "block_factor": 4500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 11000
+      "attack_power_factor": 11000,
+      "terrain_factor_description01": "TerrainFactorDescription_A_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_A_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 0,
@@ -34,7 +43,10 @@
       "block_factor": 3000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 10000
+      "attack_power_factor": 10000,
+      "terrain_factor_description01": "TerrainFactorDescription_B_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_B_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 0,
@@ -43,7 +55,10 @@
       "block_factor": 1500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 9000
+      "attack_power_factor": 9000,
+      "terrain_factor_description01": "TerrainFactorDescription_C_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_C_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 0,
@@ -52,7 +67,10 @@
       "block_factor": 0,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 8000
+      "attack_power_factor": 8000,
+      "terrain_factor_description01": "TerrainFactorDescription_D_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_D_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_D_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -61,7 +79,10 @@
       "block_factor": 7500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 13000
+      "attack_power_factor": 13000,
+      "terrain_factor_description01": "TerrainFactorDescription_SS_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_SS_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -70,7 +91,10 @@
       "block_factor": 6000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 12000
+      "attack_power_factor": 12000,
+      "terrain_factor_description01": "TerrainFactorDescription_S_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_S_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -79,7 +103,10 @@
       "block_factor": 4500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 11000
+      "attack_power_factor": 11000,
+      "terrain_factor_description01": "TerrainFactorDescription_A_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_A_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -88,7 +115,10 @@
       "block_factor": 3000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 10000
+      "attack_power_factor": 10000,
+      "terrain_factor_description01": "TerrainFactorDescription_B_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_B_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -97,7 +127,10 @@
       "block_factor": 1500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 9000
+      "attack_power_factor": 9000,
+      "terrain_factor_description01": "TerrainFactorDescription_C_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_C_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 1,
@@ -106,7 +139,10 @@
       "block_factor": 0,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 8000
+      "attack_power_factor": 8000,
+      "terrain_factor_description01": "TerrainFactorDescription_D_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_D_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_D_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -115,7 +151,10 @@
       "block_factor": 7500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 13000
+      "attack_power_factor": 13000,
+      "terrain_factor_description01": "TerrainFactorDescription_SS_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_SS_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -124,7 +163,10 @@
       "block_factor": 6000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 12000
+      "attack_power_factor": 12000,
+      "terrain_factor_description01": "TerrainFactorDescription_S_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_S_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -133,7 +175,10 @@
       "block_factor": 4500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 11000
+      "attack_power_factor": 11000,
+      "terrain_factor_description01": "TerrainFactorDescription_A_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_A_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -142,7 +187,10 @@
       "block_factor": 3000,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 10000
+      "attack_power_factor": 10000,
+      "terrain_factor_description01": "TerrainFactorDescription_B_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_B_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -151,7 +199,10 @@
       "block_factor": 1500,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 9000
+      "attack_power_factor": 9000,
+      "terrain_factor_description01": "TerrainFactorDescription_C_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_C_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
       "terrain_adaptation": 2,
@@ -160,7 +211,10 @@
       "block_factor": 0,
       "accuracy_factor": 0,
       "dodge_factor": 0,
-      "attack_power_factor": 8000
+      "attack_power_factor": 8000,
+      "terrain_factor_description01": "TerrainFactorDescription_D_Damage",
+      "terrain_factor_description02": "TerrainFactorDescription_D_Coverrate",
+      "terrain_factor_description03": "TerrainFactorDescription_D_IgnoreCoverrate"
     }
   ]
 }
