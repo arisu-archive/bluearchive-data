@@ -6420,6 +6420,66 @@
       "shop_update_group_id": 0
     },
     {
+      "id": 20257,
+      "localize_etc_id": 1364517965,
+      "category_type": 1,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        20257
+      ],
+      "display_order": 999,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 900,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 20258,
+      "localize_etc_id": 3389049237,
+      "category_type": 1,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        20258
+      ],
+      "display_order": 999,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 900,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 20259,
+      "localize_etc_id": 3420387445,
+      "category_type": 1,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        20259
+      ],
+      "display_order": 999,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 900,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
       "id": 50000,
       "localize_etc_id": 753025034,
       "category_type": 21,
@@ -129901,6 +129961,51 @@
       "shop_update_group_id": 0
     },
     {
+      "id": 90010275,
+      "localize_etc_id": 3308377822,
+      "category_type": 12,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        90010539,
+        90010540
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 90010276,
+      "localize_etc_id": 3308377822,
+      "category_type": 12,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        90010541,
+        90010542,
+        90010543,
+        90010544,
+        90010545
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
       "id": 90017000,
       "localize_etc_id": 376882766,
       "category_type": 12,
@@ -129939,6 +130044,30 @@
         900890000,
         900890001,
         900890002
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 90018001,
+      "localize_etc_id": 2814968857,
+      "category_type": 12,
+      "is_legacy": false,
+      "use_big_popup": true,
+      "goods_id": [
+        900890000,
+        900890001,
+        900890002,
+        900890003,
+        900890004
       ],
       "display_order": 1,
       "sale_period_from": "",
@@ -176497,7 +176626,7 @@
       "goods_id": [
         80000
       ],
-      "display_order": 52,
+      "display_order": 57,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176517,7 +176646,7 @@
       "goods_id": [
         80001
       ],
-      "display_order": 53,
+      "display_order": 58,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176537,7 +176666,7 @@
       "goods_id": [
         80002
       ],
-      "display_order": 54,
+      "display_order": 59,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176557,7 +176686,7 @@
       "goods_id": [
         80003
       ],
-      "display_order": 55,
+      "display_order": 60,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176577,7 +176706,7 @@
       "goods_id": [
         80004
       ],
-      "display_order": 56,
+      "display_order": 61,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176597,7 +176726,7 @@
       "goods_id": [
         80005
       ],
-      "display_order": 57,
+      "display_order": 62,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176617,7 +176746,7 @@
       "goods_id": [
         80006
       ],
-      "display_order": 58,
+      "display_order": 63,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176637,7 +176766,7 @@
       "goods_id": [
         80016
       ],
-      "display_order": 50,
+      "display_order": 55,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176657,7 +176786,7 @@
       "goods_id": [
         80017
       ],
-      "display_order": 51,
+      "display_order": 56,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176677,7 +176806,7 @@
       "goods_id": [
         80018
       ],
-      "display_order": 49,
+      "display_order": 54,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176697,7 +176826,7 @@
       "goods_id": [
         80019
       ],
-      "display_order": 47,
+      "display_order": 52,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176717,7 +176846,7 @@
       "goods_id": [
         80020
       ],
-      "display_order": 48,
+      "display_order": 53,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176737,7 +176866,7 @@
       "goods_id": [
         80021
       ],
-      "display_order": 46,
+      "display_order": 51,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176757,7 +176886,7 @@
       "goods_id": [
         80022
       ],
-      "display_order": 43,
+      "display_order": 48,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176777,7 +176906,7 @@
       "goods_id": [
         80023
       ],
-      "display_order": 44,
+      "display_order": 49,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176797,7 +176926,7 @@
       "goods_id": [
         80024
       ],
-      "display_order": 45,
+      "display_order": 50,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176817,7 +176946,7 @@
       "goods_id": [
         80025
       ],
-      "display_order": 42,
+      "display_order": 47,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176837,7 +176966,7 @@
       "goods_id": [
         80026
       ],
-      "display_order": 41,
+      "display_order": 46,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176857,7 +176986,7 @@
       "goods_id": [
         80027
       ],
-      "display_order": 39,
+      "display_order": 44,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176877,7 +177006,7 @@
       "goods_id": [
         80028
       ],
-      "display_order": 40,
+      "display_order": 45,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176897,7 +177026,7 @@
       "goods_id": [
         80029
       ],
-      "display_order": 38,
+      "display_order": 43,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176917,7 +177046,7 @@
       "goods_id": [
         80030
       ],
-      "display_order": 37,
+      "display_order": 42,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176937,7 +177066,7 @@
       "goods_id": [
         80031
       ],
-      "display_order": 36,
+      "display_order": 41,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176957,7 +177086,7 @@
       "goods_id": [
         80032
       ],
-      "display_order": 35,
+      "display_order": 40,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -176977,7 +177106,7 @@
       "goods_id": [
         80034
       ],
-      "display_order": 34,
+      "display_order": 39,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177197,7 +177326,7 @@
       "goods_id": [
         80035
       ],
-      "display_order": 32,
+      "display_order": 37,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177217,7 +177346,7 @@
       "goods_id": [
         80036
       ],
-      "display_order": 33,
+      "display_order": 38,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177237,7 +177366,7 @@
       "goods_id": [
         80037
       ],
-      "display_order": 30,
+      "display_order": 35,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177257,7 +177386,7 @@
       "goods_id": [
         80038
       ],
-      "display_order": 31,
+      "display_order": 36,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177277,7 +177406,7 @@
       "goods_id": [
         80039
       ],
-      "display_order": 29,
+      "display_order": 34,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177297,7 +177426,7 @@
       "goods_id": [
         80040
       ],
-      "display_order": 28,
+      "display_order": 33,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177317,7 +177446,7 @@
       "goods_id": [
         80041
       ],
-      "display_order": 27,
+      "display_order": 32,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177337,7 +177466,7 @@
       "goods_id": [
         80042
       ],
-      "display_order": 26,
+      "display_order": 31,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177357,7 +177486,7 @@
       "goods_id": [
         80043
       ],
-      "display_order": 25,
+      "display_order": 30,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177377,7 +177506,7 @@
       "goods_id": [
         80044
       ],
-      "display_order": 23,
+      "display_order": 28,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177397,7 +177526,7 @@
       "goods_id": [
         80045
       ],
-      "display_order": 24,
+      "display_order": 29,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177417,7 +177546,7 @@
       "goods_id": [
         80046
       ],
-      "display_order": 22,
+      "display_order": 27,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177437,7 +177566,7 @@
       "goods_id": [
         80047
       ],
-      "display_order": 21,
+      "display_order": 26,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177477,7 +177606,7 @@
       "goods_id": [
         80049
       ],
-      "display_order": 20,
+      "display_order": 25,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177497,7 +177626,7 @@
       "goods_id": [
         80050
       ],
-      "display_order": 19,
+      "display_order": 24,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177517,7 +177646,7 @@
       "goods_id": [
         80051
       ],
-      "display_order": 18,
+      "display_order": 23,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177537,7 +177666,7 @@
       "goods_id": [
         80052
       ],
-      "display_order": 17,
+      "display_order": 22,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177557,7 +177686,7 @@
       "goods_id": [
         80053
       ],
-      "display_order": 16,
+      "display_order": 21,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177577,7 +177706,7 @@
       "goods_id": [
         80057
       ],
-      "display_order": 15,
+      "display_order": 20,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177597,7 +177726,7 @@
       "goods_id": [
         80058
       ],
-      "display_order": 14,
+      "display_order": 19,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177617,7 +177746,7 @@
       "goods_id": [
         80056
       ],
-      "display_order": 13,
+      "display_order": 18,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177637,7 +177766,7 @@
       "goods_id": [
         80059
       ],
-      "display_order": 12,
+      "display_order": 17,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177657,7 +177786,7 @@
       "goods_id": [
         80060
       ],
-      "display_order": 11,
+      "display_order": 16,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177677,7 +177806,7 @@
       "goods_id": [
         80061
       ],
-      "display_order": 10,
+      "display_order": 15,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177697,7 +177826,7 @@
       "goods_id": [
         80062
       ],
-      "display_order": 9,
+      "display_order": 14,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177717,7 +177846,7 @@
       "goods_id": [
         80063
       ],
-      "display_order": 8,
+      "display_order": 13,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177737,7 +177866,7 @@
       "goods_id": [
         80064
       ],
-      "display_order": 7,
+      "display_order": 12,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177757,7 +177886,7 @@
       "goods_id": [
         80065
       ],
-      "display_order": 6,
+      "display_order": 11,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177777,7 +177906,7 @@
       "goods_id": [
         80066
       ],
-      "display_order": 5,
+      "display_order": 10,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177797,7 +177926,7 @@
       "goods_id": [
         80067
       ],
-      "display_order": 4,
+      "display_order": 9,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177817,7 +177946,7 @@
       "goods_id": [
         80068
       ],
-      "display_order": 3,
+      "display_order": 8,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177837,7 +177966,7 @@
       "goods_id": [
         80069
       ],
-      "display_order": 2,
+      "display_order": 7,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177857,7 +177986,7 @@
       "goods_id": [
         80070
       ],
-      "display_order": 1,
+      "display_order": 6,
       "sale_period_from": "",
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
@@ -177882,6 +178011,106 @@
       "sale_period_to": "",
       "purchase_cooltime_min": 0,
       "purchase_count_limit": 100,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 1
+    },
+    {
+      "id": 900240070,
+      "localize_etc_id": 3827680617,
+      "category_type": 20,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        80072
+      ],
+      "display_order": 5,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 1
+    },
+    {
+      "id": 900240071,
+      "localize_etc_id": 2972407314,
+      "category_type": 20,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        80073
+      ],
+      "display_order": 4,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 1
+    },
+    {
+      "id": 900240072,
+      "localize_etc_id": 3797428018,
+      "category_type": 20,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        80074
+      ],
+      "display_order": 3,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 6,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 1
+    },
+    {
+      "id": 900240073,
+      "localize_etc_id": 1354030504,
+      "category_type": 20,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        80075
+      ],
+      "display_order": 2,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 1
+    },
+    {
+      "id": 900240074,
+      "localize_etc_id": 933181320,
+      "category_type": 20,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        80076
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
       "purchase_count_reset_type": 0,
       "buy_report_event_name": "",
       "restrict_buy_when_inventory_full": false,

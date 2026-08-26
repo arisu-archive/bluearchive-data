@@ -3240,6 +3240,104 @@
       "currency": false,
       "inventory": false,
       "mail": false
+    },
+    {
+      "protocol": "DailyRecord_Reward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Option_Save",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "PermanentRaid_Lobby",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_EnterBattle",
+      "open_condition_content": 3,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_EndBattle",
+      "open_condition_content": 3,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "PermanentRaid_GiveUp",
+      "open_condition_content": 3,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "SNS_PostRead",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_GetInfo",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_ReceiveEnterReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_AttendanceReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_MissionMultipleReward",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "WelcomeCampaign_Check",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     }
   ]
 }

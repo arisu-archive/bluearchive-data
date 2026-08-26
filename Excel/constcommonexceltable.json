@@ -18,7 +18,7 @@
       "cafe_production_decimal_position": 2,
       "cafe_set_group_apply_count": 3,
       "week_dungeon_find_gift_reward_limit_count": 15,
-      "stage_failed_currency_refund_rate": 95,
+      "stage_failed_currency_refund_rate": 100,
       "enter_deposit": 10,
       "account_max_level": 90,
       "main_squad_exp_bonus": 15000,
@@ -167,7 +167,7 @@
       "char_profile_row_interval_jp": 33,
       "char_profile_popup_row_interval_kr": 43,
       "char_profile_popup_row_interval_jp": 46,
-      "beforehand_gacha_count": 10,
+      "beforehand_gacha_count": 30,
       "low_memory_size_gl": 2100,
       "beforehand_gacha_group_id": 2,
       "renewal_display_order_day": 7,
@@ -230,7 +230,9 @@
       "newbie_user_standard_day": 28,
       "newbie_state_hold_day": 28,
       "qr_icon_url_dev": "https://bastage.dn.nexoncdn.co.kr/stage/adult_512_260427.png",
-      "qr_icon_url_live": "https://ba.dn.nexoncdn.co.kr/ba_adult_icon.png"
+      "qr_icon_url_live": "https://ba.dn.nexoncdn.co.kr/ba_adult_icon.png",
+      "probablity_info_btn_link_kr": "https://forum.nexon.com/bluearchive/board_view?board=4606\u0026thread=3488760",
+      "clear_deck_echelon_show_max_count": 20
     }
   ]
 }

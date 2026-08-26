@@ -1,0 +1,81 @@
+{
+  "data_list": [
+    {
+      "id": 91104001,
+      "skip_from_interaction_id": 911040010100,
+      "skip_to_interaction_id": 911040010300,
+      "next_scene_id": 9010104010,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91104002,
+      "skip_from_interaction_id": 911040020100,
+      "skip_to_interaction_id": 911040020500,
+      "next_scene_id": 9010104010,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91104003,
+      "skip_from_interaction_id": 911040030100,
+      "skip_to_interaction_id": 911040030500,
+      "next_scene_id": 9010104020,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91104004,
+      "skip_from_interaction_id": 911040040100,
+      "skip_to_interaction_id": 0,
+      "next_scene_id": 9010104020,
+      "skip_result_ui": false
+    },
+    {
+      "id": 91106001,
+      "skip_from_interaction_id": 911060010100,
+      "skip_to_interaction_id": 911060010300,
+      "next_scene_id": 9010106010,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91106002,
+      "skip_from_interaction_id": 911060020100,
+      "skip_to_interaction_id": 911060020300,
+      "next_scene_id": 9010106010,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91106003,
+      "skip_from_interaction_id": 911060030100,
+      "skip_to_interaction_id": 911060030300,
+      "next_scene_id": 9010106020,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91106004,
+      "skip_from_interaction_id": 911060040100,
+      "skip_to_interaction_id": 0,
+      "next_scene_id": 9010106020,
+      "skip_result_ui": false
+    },
+    {
+      "id": 91108001,
+      "skip_from_interaction_id": 911080010100,
+      "skip_to_interaction_id": 911080010300,
+      "next_scene_id": 9010108020,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91108002,
+      "skip_from_interaction_id": 911080020100,
+      "skip_to_interaction_id": 911080020800,
+      "next_scene_id": 9010108030,
+      "skip_result_ui": true
+    },
+    {
+      "id": 91108003,
+      "skip_from_interaction_id": 911080030100,
+      "skip_to_interaction_id": 0,
+      "next_scene_id": 9010108030,
+      "skip_result_ui": false
+    }
+  ]
+}

@@ -145,6 +145,60 @@
       "transition_in_resource": "Effect/UI/BGFX/UI_FX_CircleTransition_Out"
     },
     {
+      "name": 3096953272,
+      "transition_out": "7",
+      "transition_out_duration": 1,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_Out",
+      "transition_in": "7",
+      "transition_in_duration": 1000,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_In"
+    },
+    {
+      "name": 1887419658,
+      "transition_out": "8",
+      "transition_out_duration": 1000,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_Out",
+      "transition_in": "8",
+      "transition_in_duration": 1,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_In"
+    },
+    {
+      "name": 350225828,
+      "transition_out": "9",
+      "transition_out_duration": 1000,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_Out",
+      "transition_in": "9",
+      "transition_in_duration": 1000,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_HorSwipe_M_In"
+    },
+    {
+      "name": 24755184,
+      "transition_out": "10",
+      "transition_out_duration": 1000,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_TimePass_In",
+      "transition_in": "10",
+      "transition_in_duration": 1000,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_TimePass_Out"
+    },
+    {
+      "name": 1531489241,
+      "transition_out": "11",
+      "transition_out_duration": 1000,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_TimePass_In",
+      "transition_in": "11",
+      "transition_in_duration": 1,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_TimePass_Out"
+    },
+    {
+      "name": 2430011253,
+      "transition_out": "12",
+      "transition_out_duration": 1,
+      "transition_out_resource": "Effect/UI/BGFX/UI_FX_TimePass_In",
+      "transition_in": "12",
+      "transition_in_duration": 1000,
+      "transition_in_resource": "Effect/UI/BGFX/UI_FX_TimePass_Out"
+    },
+    {
       "name": 259497043,
       "transition_out": "Ᵹ",
       "transition_out_duration": 1,

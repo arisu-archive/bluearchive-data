@@ -319,6 +319,182 @@
       "round_reward": 0,
       "additional_reward_id": [],
       "additional_reward_amount": []
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10100,
+      "round": 1,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10100,
+      "round_reward": 10100,
+      "additional_reward_id": [
+        108460002,
+        108460006,
+        108460008,
+        108460012,
+        108460014
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10200,
+      "round": 2,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10200,
+      "round_reward": 10200,
+      "additional_reward_id": [
+        108460002,
+        108460010,
+        108460004,
+        108460012,
+        108460014
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10300,
+      "round": 3,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10300,
+      "round_reward": 10300,
+      "additional_reward_id": [
+        108460002,
+        108460007,
+        108460009,
+        108460013,
+        108460015
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10400,
+      "round": 4,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10400,
+      "round_reward": 10400,
+      "additional_reward_id": [
+        108460002,
+        108460011,
+        108460005,
+        108460013,
+        108460015
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10500,
+      "round": 5,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10500,
+      "round_reward": 10500,
+      "additional_reward_id": [
+        108460003,
+        108460007,
+        108460009,
+        108460011,
+        108460005,
+        108460013,
+        108460015
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10600,
+      "round": 6,
+      "is_loop": false,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10600,
+      "round_reward": 10600,
+      "additional_reward_id": [
+        108460003,
+        108460007,
+        108460009,
+        108460011,
+        108460005,
+        108460013,
+        108460015
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "event_content_id": 10846,
+      "unique_id": 10700,
+      "round": 7,
+      "is_loop": true,
+      "enter_scenario_group_id": 0,
+      "end_scenario_group_id": 0,
+      "map_group_id": 10700,
+      "round_reward": 10700,
+      "additional_reward_id": [
+        108460001,
+        108460012,
+        108460013,
+        108460014,
+        108460015
+      ],
+      "additional_reward_amount": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
     }
   ]
 }

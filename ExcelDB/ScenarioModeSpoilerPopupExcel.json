@@ -2,12 +2,33 @@
   "data_list": [
     {
       "mode_type": 1,
+      "sub_type": 2,
       "volume_id": 6,
       "chapter_id": 1,
       "spoiler_popup_title": 1895026071,
       "spoiler_popup_description": 3794165922,
       "popup_type": 1,
       "condition_scenario_mode_id": 104120
+    },
+    {
+      "mode_type": 6,
+      "sub_type": 3,
+      "volume_id": 1,
+      "chapter_id": 1,
+      "spoiler_popup_title": 1895026071,
+      "spoiler_popup_description": 1282337189,
+      "popup_type": 1,
+      "condition_scenario_mode_id": 0
+    },
+    {
+      "mode_type": 5,
+      "sub_type": 3,
+      "volume_id": 1,
+      "chapter_id": 1,
+      "spoiler_popup_title": 1895026071,
+      "spoiler_popup_description": 3794165922,
+      "popup_type": 1,
+      "condition_scenario_mode_id": 201100
     }
   ]
 }
