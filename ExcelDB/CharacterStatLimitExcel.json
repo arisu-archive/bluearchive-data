@@ -289,6 +289,60 @@
       "stat_ratio_max_value": 100000
     },
     {
+      "id": 34,
+      "tactic_entity_type": 1,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 35,
+      "tactic_entity_type": 1,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 36,
+      "tactic_entity_type": 1,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 37,
+      "tactic_entity_type": 1,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 38,
+      "tactic_entity_type": 1,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 39,
+      "tactic_entity_type": 1,
+      "stat_type": 92,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
       "id": 101,
       "tactic_entity_type": 2,
       "stat_type": 1,
@@ -571,6 +625,60 @@
       "id": 133,
       "tactic_entity_type": 2,
       "stat_type": 70,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 134,
+      "tactic_entity_type": 2,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 135,
+      "tactic_entity_type": 2,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 136,
+      "tactic_entity_type": 2,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 137,
+      "tactic_entity_type": 2,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 138,
+      "tactic_entity_type": 2,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 139,
+      "tactic_entity_type": 2,
+      "stat_type": 92,
       "stat_min_value": 2000,
       "stat_max_value": 50000,
       "stat_ratio_min_value": -8000,
@@ -865,6 +973,60 @@
       "stat_ratio_max_value": 100000
     },
     {
+      "id": 234,
+      "tactic_entity_type": 4,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 235,
+      "tactic_entity_type": 4,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 236,
+      "tactic_entity_type": 4,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 237,
+      "tactic_entity_type": 4,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 238,
+      "tactic_entity_type": 4,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 239,
+      "tactic_entity_type": 4,
+      "stat_type": 92,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
       "id": 301,
       "tactic_entity_type": 8,
       "stat_type": 1,
@@ -1147,6 +1309,60 @@
       "id": 333,
       "tactic_entity_type": 8,
       "stat_type": 70,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 334,
+      "tactic_entity_type": 8,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 335,
+      "tactic_entity_type": 8,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 336,
+      "tactic_entity_type": 8,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 337,
+      "tactic_entity_type": 8,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 338,
+      "tactic_entity_type": 8,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 339,
+      "tactic_entity_type": 8,
+      "stat_type": 92,
       "stat_min_value": 2000,
       "stat_max_value": 50000,
       "stat_ratio_min_value": -8000,
@@ -1441,6 +1657,60 @@
       "stat_ratio_max_value": 100000
     },
     {
+      "id": 434,
+      "tactic_entity_type": 16,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 435,
+      "tactic_entity_type": 16,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 436,
+      "tactic_entity_type": 16,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 437,
+      "tactic_entity_type": 16,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 438,
+      "tactic_entity_type": 16,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 439,
+      "tactic_entity_type": 16,
+      "stat_type": 92,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
       "id": 501,
       "tactic_entity_type": 256,
       "stat_type": 1,
@@ -1729,6 +1999,60 @@
       "stat_ratio_max_value": 100000
     },
     {
+      "id": 534,
+      "tactic_entity_type": 256,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 535,
+      "tactic_entity_type": 256,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 536,
+      "tactic_entity_type": 256,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 537,
+      "tactic_entity_type": 256,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 538,
+      "tactic_entity_type": 256,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 539,
+      "tactic_entity_type": 256,
+      "stat_type": 92,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
       "id": 601,
       "tactic_entity_type": 32,
       "stat_type": 1,
@@ -2011,6 +2335,60 @@
       "id": 633,
       "tactic_entity_type": 32,
       "stat_type": 70,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 634,
+      "tactic_entity_type": 32,
+      "stat_type": 87,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 635,
+      "tactic_entity_type": 32,
+      "stat_type": 88,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 636,
+      "tactic_entity_type": 32,
+      "stat_type": 89,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 637,
+      "tactic_entity_type": 32,
+      "stat_type": 90,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 638,
+      "tactic_entity_type": 32,
+      "stat_type": 91,
+      "stat_min_value": 2000,
+      "stat_max_value": 50000,
+      "stat_ratio_min_value": -8000,
+      "stat_ratio_max_value": 100000
+    },
+    {
+      "id": 639,
+      "tactic_entity_type": 32,
+      "stat_type": 92,
       "stat_min_value": 2000,
       "stat_max_value": 50000,
       "stat_ratio_min_value": -8000,

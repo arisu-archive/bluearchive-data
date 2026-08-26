@@ -938,10 +938,12 @@
     {
       "prefab_name": "UIPopup_FieldOption",
       "button_name": [
-        "Btn_Lobby"
+        "Btn_Lobby",
+        "Btn_OkBtn_Out"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_OnlyController_OnlyFocus"
+        "UI_KeyMapping_OnlyController_OnlyFocus",
+        "UI_KeyMapping_Common_BtnOK01"
       ]
     },
     {
@@ -1559,10 +1561,14 @@
     {
       "prefab_name": "UIPopup_StageInfo_Sub",
       "button_name": [
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_prev",
+        "Btn_Next"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_Common_ArrowLeft_isUsed",
+        "UI_KeyMapping_Common_ArrowRight_isUsed"
       ]
     },
     {
@@ -2231,12 +2237,14 @@
       "button_name": [
         "Btn_NodeOpen",
         "Btn_NodeSelect",
-        "Btn_Start"
+        "Btn_Start",
+        "Btn_NodeConfirm"
       ],
       "key_mapping_id": [
         "UI_KeyMapping_Common_BtnOK01_Controller",
         "UI_KeyMapping_Common_BtnOK01_Controller",
-        "UI_KeyMapping_Common_BtnOK01_Controller"
+        "UI_KeyMapping_Common_BtnOK01_Controller",
+        "UI_KeyMapping_Common_BtnOK01"
       ]
     },
     {
@@ -2706,6 +2714,51 @@
       ]
     },
     {
+      "prefab_name": "UICardGame_CardReward",
+      "button_name": [
+        "UICardGame_2DCardsGroup",
+        "UICardGame_2DCardsGroup_1",
+        "UICardGame_2DCardsGroup_2",
+        "UICardGame_2DCardsGroup_3",
+        "UICardGame_2DCardsGroup_4",
+        "UICardGame_2DCardsGroup_5"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_0",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_1",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_2",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_3",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_4",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_5"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_CardReward",
+      "button_name": [
+        "UICardGame_2DCardsGroup_6",
+        "UICardGame_2DCardsGroup_7",
+        "UICardGame_2DCardsGroup_8"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_6",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_7",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Select_8"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_CardReward",
+      "button_name": [
+        "Btn_Reroll",
+        "Btn_Pass",
+        "Btn_MyDeck"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Reroll",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_Skip",
+        "UI_KeyMapping_CardGame_Btn_VictoryReward_MyCards"
+      ]
+    },
+    {
       "prefab_name": "UICardGame_InGame_HUD",
       "button_name": [
         "Btn_EndTurn/Bg",
@@ -2716,6 +2769,17 @@
         "UI_KeyMapping_Common_BtnOK01_Controller",
         "UI_KeyMapping_Common_BtnOK01_Controller",
         "UI_KeyMapping_Common_BtnOK01_Controller"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_InGame_HUD",
+      "button_name": [
+        "Btn_Pause",
+        "Btn_Speed"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_Battle_Pause",
+        "UI_KeyMapping_CardGame_Btn_Battle_SpeedToggle"
       ]
     },
     {
@@ -2739,6 +2803,32 @@
       ]
     },
     {
+      "prefab_name": "UICardGame_ReplaceCard",
+      "button_name": [
+        "UICardGame_2DCardsGroup",
+        "UICardGame_2DCardsGroup_1",
+        "UICardGame_2DCardsGroup_2",
+        "UICardGame_2DCardsGroup_3"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_NewStudent_Select_1",
+        "UI_KeyMapping_CardGame_Btn_NewStudent_Select_2",
+        "UI_KeyMapping_CardGame_Btn_NewStudent_Select_3",
+        "UI_KeyMapping_CardGame_Btn_NewStudent_Select_4"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_ReplaceCard",
+      "button_name": [
+        "Btn_Pass",
+        "Btn_MyDeck"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_NewStudent_Skip",
+        "UI_KeyMapping_CardGame_Btn_NewStudent_MyCards"
+      ]
+    },
+    {
       "prefab_name": "UICardGame_ResetPopup",
       "button_name": [
         "Btn_Select",
@@ -2750,12 +2840,23 @@
       ]
     },
     {
-      "prefab_name": "UICardGame_RestDump",
+      "prefab_name": "UICardGame_Rest",
       "button_name": [
-        "Btn_Enable"
+        "Btn_MyDeck"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01_Controller"
+        "UI_KeyMapping_CardGame_Btn_Rest_MyCards"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_RestDump",
+      "button_name": [
+        "Btn_Enable",
+        "BtnReturn"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK01_Controller",
+        "UI_KeyMapping_CardGame_Btn_delete_Back"
       ]
     },
     {
@@ -2772,10 +2873,12 @@
     {
       "prefab_name": "UICardGame_MulliganPopup",
       "button_name": [
-        "Btn_StartGame"
+        "Btn_StartGame",
+        "Btn_MulliganConfirm"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK05"
+        "UI_KeyMapping_Common_BtnOK05",
+        "UI_KeyMapping_CardGame_Btn_Battle_Redraw"
       ]
     },
     {
@@ -2790,10 +2893,12 @@
     {
       "prefab_name": "UICardGame_Result",
       "button_name": [
-        "BtnOK"
+        "BtnOK",
+        "BtnDeck"
       ],
       "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_CardGame_Btn_Result_MyCards"
       ]
     },
     {
@@ -3260,6 +3365,15 @@
       ]
     },
     {
+      "prefab_name": "UIPopup_DiceRaceReward",
+      "button_name": [
+        "Btn_Enable"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK01"
+      ]
+    },
+    {
       "prefab_name": "UIInteractiveWorldRaidLobby",
       "button_name": [
         "Btn_Hide",
@@ -3564,6 +3678,15 @@
       ],
       "key_mapping_id": [
         "UI_KeyMapping_CardGame_Btn_Reslut"
+      ]
+    },
+    {
+      "prefab_name": "UICardGame_Map",
+      "button_name": [
+        "Btn_MyDeck"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_CardGame_Btn_Stage_MyCards"
       ]
     },
     {

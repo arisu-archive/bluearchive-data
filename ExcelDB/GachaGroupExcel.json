@@ -823,6 +823,12 @@
       "group_type": 1
     },
     {
+      "id": 2123,
+      "name_kr": "발키리 교정국 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 3000,
       "name_kr": "3차 노드용 백귀야행",
       "is_recursive": false,
@@ -1760,7 +1766,7 @@
     },
     {
       "id": 100103,
-      "name_kr": "1_4차 픽업 유우카(파자마)",
+      "name_kr": "1_4차 픽업 니코",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1802,7 +1808,7 @@
     },
     {
       "id": 110023,
-      "name_kr": "1_5차 픽업 노아(파자마)",
+      "name_kr": "1_5차 픽업 쿠루미",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1844,7 +1850,7 @@
     },
     {
       "id": 110043,
-      "name_kr": "3_2차 픽업 하루나(새해)",
+      "name_kr": "3_2차 픽업 스미레(아르바이트)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1886,7 +1892,7 @@
     },
     {
       "id": 110063,
-      "name_kr": "2_3차 픽업 후우카(새해)",
+      "name_kr": "2_3차 픽업 레이",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1928,7 +1934,7 @@
     },
     {
       "id": 110083,
-      "name_kr": "2_3차 픽업 코노카",
+      "name_kr": "2_3차 픽업 아카리(새해)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1970,7 +1976,7 @@
     },
     {
       "id": 110103,
-      "name_kr": "2_3차 픽업 레나",
+      "name_kr": "2_3차 픽업 이즈미(새해)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -2012,7 +2018,7 @@
     },
     {
       "id": 120023,
-      "name_kr": "2_3차 픽업 하레(캠핑)",
+      "name_kr": "2_3차 픽업 하루카(새해)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -6931,6 +6937,30 @@
       "group_type": 1
     },
     {
+      "id": 300920,
+      "name_kr": "R91_복각_밀레니엄야구부이벤트_하급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300921,
+      "name_kr": "R91_복각_밀레니엄야구부이벤트_중급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300922,
+      "name_kr": "R91_복각_밀레니엄야구부이벤트_상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 300923,
+      "name_kr": "R91_복각_밀레니엄야구부이벤트_최상급오파츠4종랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 310000,
       "name_kr": "붉은겨울 박스 가챠 - 랜덤 장비 상자",
       "is_recursive": true,
@@ -7090,6 +7120,12 @@
       "id": 310280,
       "name_kr": "R90_츠치노코찾기_박스가챠_장비랜덤상자",
       "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 310290,
+      "name_kr": "R91_특수작전로어추적편이벤트_만능설계도랜덤상자",
+      "is_recursive": false,
       "group_type": 1
     },
     {
@@ -8101,6 +8137,12 @@
       "group_type": 1
     },
     {
+      "id": 360220,
+      "name_kr": "R91_복각_밀레니엄야구부_이벤트_만능설계도랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 400001,
       "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
       "is_recursive": false,
@@ -8415,6 +8457,12 @@
     {
       "id": 500103,
       "name_kr": "스테이지 통합 가챠 박스 - 아이템",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500200,
+      "name_kr": "스테이지 통합 가챠 박스 - 만능 설계도",
       "is_recursive": false,
       "group_type": 1
     },
@@ -9205,6 +9253,12 @@
       "group_type": 1
     },
     {
+      "id": 801024,
+      "name_kr": "제조2호기 투입용 - 가구 (발키리 교정국) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 801991,
       "name_kr": "제조2호기 투입용 - 가구 1성 랜덤권",
       "is_recursive": false,
@@ -9447,6 +9501,48 @@
     {
       "id": 1200010,
       "name_kr": "3성 한정 확정 1회 모집",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 6000090,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 6000091,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 R",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 6000092,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 SR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 6000093,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 SSR",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 6000099,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 SR + SSR (10번째)",
+      "is_recursive": true,
+      "group_type": 1
+    },
+    {
+      "id": 6000102,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 SR 더미",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 6000103,
+      "name_kr": "R93 - 신규 유저 대상 기간 한정 모집 픽업 데이터 당첨 픽업",
       "is_recursive": false,
       "group_type": 1
     },
