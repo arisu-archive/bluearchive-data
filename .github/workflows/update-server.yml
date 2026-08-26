@@ -1,0 +1,211 @@
+name: Update Server Assets
+
+on:
+  workflow_call:
+    inputs:
+      server:
+        type: string
+        required: true
+      force_update:
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-server-${{ inputs.server }}
+  cancel-in-progress: false
+
+env:
+  ASSETS_DUMPER_VERSION: v0.0.0-20260822204707-c093130d11da
+  ARONA_VERSION: v1.6.0
+  PLANA_VERSION: v1.5.0
+
+jobs:
+  determine-version:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      skip: ${{ steps.version.outputs.skip }}
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - name: Checkout version script
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+          sparse-checkout: |
+            scripts/get_version.py
+            global.txt
+            japan.txt
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Go
+        uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6.5.0
+        with:
+          go-version: "1.26.2"
+
+      - name: Install assets-dumper
+        env:
+          GOBIN: ${{ runner.temp }}/bin
+        run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
+
+      - name: Determine asset version
+        id: version
+        env:
+          FORCE_UPDATE: ${{ inputs.force_update }}
+          SERVER: ${{ inputs.server }}
+        run: >-
+          python scripts/get_version.py
+          --server "$SERVER"
+          --current-file "$SERVER.txt"
+          --force-update "$FORCE_UPDATE"
+          --assets-dumper "$RUNNER_TEMP/bin/assets-dumper"
+
+  update-assets:
+    needs: determine-version
+    if: needs.determine-version.outputs.skip == 'false'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout data branch
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          fetch-depth: 0
+          path: data
+          persist-credentials: false
+          ref: ${{ inputs.server }}
+
+      - name: Checkout automation scripts
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          path: automation
+          persist-credentials: false
+          ref: ${{ github.sha }}
+          sparse-checkout: scripts
+
+      - name: Set up Go
+        uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6.5.0
+        with:
+          go-version: "1.26.2"
+
+      - name: Install assets-dumper
+        env:
+          GOBIN: ${{ runner.temp }}/bin
+        run: go install "github.com/arisu-archive/assets-dumper@${ASSETS_DUMPER_VERSION}"
+
+      - name: Install global key tool
+        if: inputs.server == 'global'
+        env:
+          GOBIN: ${{ runner.temp }}/bin
+        run: go install "github.com/arisu-archive/go-arona/cmd/arona@${ARONA_VERSION}"
+
+      - name: Install Japan key tool
+        if: inputs.server == 'japan'
+        env:
+          GOBIN: ${{ runner.temp }}/bin
+        run: go install "github.com/arisu-archive/go-plana/cmd/plana@${PLANA_VERSION}"
+
+      - name: Download assets
+        env:
+          SERVER: ${{ inputs.server }}
+          VERSION: ${{ needs.determine-version.outputs.version }}
+        run: >-
+          "$RUNNER_TEMP/bin/assets-dumper" dl
+          -c 16
+          -s "$SERVER"
+          --version "$VERSION"
+          -o "$RUNNER_TEMP/downloads"
+          -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
+
+      - name: Extract assets
+        env:
+          KEY_TOOL: ${{ inputs.server == 'global' && 'arona' || 'plana' }}
+          SERVER: ${{ inputs.server }}
+          VERSION: ${{ needs.determine-version.outputs.version }}
+        run: >-
+          python automation/scripts/extract_assets.py
+          --server "$SERVER"
+          --version "$VERSION"
+          --download-dir "$RUNNER_TEMP/downloads"
+          --output-dir "$GITHUB_WORKSPACE/data"
+          --assets-dumper "$RUNNER_TEMP/bin/assets-dumper"
+          --key-tool "$RUNNER_TEMP/bin/$KEY_TOOL"
+
+      - name: Create release archive
+        run: >-
+          python automation/scripts/create_archive.py
+          --root "$GITHUB_WORKSPACE/data"
+          --output "$RUNNER_TEMP/assets.zip"
+
+      - name: Split oversized JSON files
+        run: python automation/scripts/split_json.py --root "$GITHUB_WORKSPACE/data"
+
+      - name: Create asset pull request
+        id: create-pr
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          path: data
+          base: ${{ inputs.server }}
+          token: ${{ github.token }}
+          title: "chore(${{ inputs.server }}): bump assets version to ${{ needs.determine-version.outputs.version }}"
+          body: "* Version: ${{ needs.determine-version.outputs.version }}"
+          branch: chore/bump-${{ inputs.server }}-assets-${{ needs.determine-version.outputs.version }}
+          labels: needs-review
+          commit-message: "chore(${{ inputs.server }}): bump assets version to ${{ needs.determine-version.outputs.version }}"
+
+      - name: Validate pull-request head
+        env:
+          PULL_REQUEST_HEAD_SHA: ${{ steps.create-pr.outputs.pull-request-head-sha }}
+        run: '[[ "$PULL_REQUEST_HEAD_SHA" =~ ^[0-9a-f]{40}$ ]]'
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@3bb12739c298aeb8a4eeaf626c5b8d85266b0e65 # v2.6.2
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          tag_name: ${{ inputs.server }}-${{ needs.determine-version.outputs.version }}
+          name: ${{ inputs.server }} ${{ needs.determine-version.outputs.version }}
+          target_commitish: ${{ steps.create-pr.outputs.pull-request-head-sha }}
+          files: ${{ runner.temp }}/assets.zip
+
+  bump-version:
+    needs:
+      - determine-version
+      - update-assets
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: |
+            global.txt
+            japan.txt
+          sparse-checkout-cone-mode: false
+
+      - name: Write version
+        env:
+          SERVER: ${{ inputs.server }}
+          VERSION: ${{ needs.determine-version.outputs.version }}
+        run: printf '%s' "$VERSION" >"$SERVER.txt"
+
+      - name: Create version pull request
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          base: ${{ github.event.repository.default_branch }}
+          token: ${{ github.token }}
+          title: "chore(${{ inputs.server }}): bump ${{ inputs.server }} version to ${{ needs.determine-version.outputs.version }}"
+          body: "* Version: ${{ needs.determine-version.outputs.version }}"
+          branch: chore/bump-${{ inputs.server }}-version-${{ needs.determine-version.outputs.version }}
+          labels: needs-review
+          commit-message: "chore(${{ inputs.server }}): bump ${{ inputs.server }} version to ${{ needs.determine-version.outputs.version }}"

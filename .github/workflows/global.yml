@@ -2,154 +2,23 @@ name: Update Global Version
 
 on:
   schedule:
-    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every Tuesday
-    # As this is the only time the global version is updated
-    - cron: "0 1-14/2 * * 2"
+    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every day.
+    - cron: "0 1-14/2 * * *"
   workflow_dispatch:
     inputs:
       force_update:
         type: boolean
         required: false
-        description: "Force update the game version"
-      server:
-        type: string
-        required: true
-        description: "The server to update the version for"
-        default: "global"
+        default: false
+        description: Force update the game version
 
-env:
-  PACKAGE_NAME: com.nexon.bluearchive
-  SERVER: ${{ inputs.server || 'global' }}
-  FORCE_UPDATE: ${{ inputs.force_update || 'false' }}
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
-  determine-version:
-    runs-on: ubuntu-latest
-    outputs:
-      skip: ${{ steps.get-version.outputs.skip }}
-      version: ${{ steps.get-version.outputs.version }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          sparse-checkout: |
-            .github/actions
-            scripts/
-            global.txt
-          sparse-checkout-cone-mode: false
-          fetch-depth: 0
-      - name: Setup SSH agent
-        uses: webfactory/ssh-agent@v0.10.0
-        with:
-          ssh-private-key: |
-            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
-            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
-      - name: Get version
-        id: get-version
-        uses: ./.github/actions/get-version/
-        with:
-          server: ${{ env.SERVER }}
-          force_update: ${{ env.FORCE_UPDATE }}
-          version_file: global.txt
-
-  upload-assets:
-    needs: determine-version
-    if: needs.determine-version.outputs.skip != 'true'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-          ref: global
-      - name: Setup Go
-        uses: actions/setup-go@v6
-        with:
-          go-version: "^1.24"
-      - name: Setup SSH agent
-        uses: webfactory/ssh-agent@v0.10.0
-        with:
-          ssh-private-key: |
-            ${{secrets.ARONA_ASSETS_DUMPER_PRIVATE_KEY}}
-            ${{secrets.ARONA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.PLANA_FLATBUFFERS_PRIVATE_KEY}}
-            ${{secrets.ARONA_FBS_UTILS_PRIVATE_KEY}}
-      - name: Download assets
-        run: |
-          git config --global url."git@github.com:arisu-archive".insteadOf "https://github.com/arisu-archive"
-          go env -w GOPRIVATE="github.com/arisu-archive"
-          go run github.com/arisu-archive/assets-dumper@latest dl -c 16 -s global -o ./tmp -f "**/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip,ConquestMap.zip,HexaMap.zip}"
-          git config --global --remove-section url."git@github.com:arisu-archive"
-      - name: Decrypt assets
-        run: |
-          # Start the decryption process for Preload/TableBundles
-          for file in "Battle.zip" "Excel.zip" "ExcelDB.db" "Module.zip"; do
-            # Remove the directory if it exists (to avoid leftover chunked files)
-            rm -rf "${file%.*}"
-            go run github.com/arisu-archive/assets-dumper@latest x -s global -i ./tmp/Preload/TableBundles/$file -o . -k ${{ secrets.GLOBAL_SERVER_SQLCIPHER_KEY }}
-          done
-          for file in "ConquestMap.zip" "HexaMap.zip"; do
-            # Remove the directory if it exists (to avoid leftover chunked files)
-            rm -rf "${file%.*}"
-            go run github.com/arisu-archive/assets-dumper@latest x -s global -i ./tmp/GameData/TableBundles/$file -o .
-          done
-          # Remove the tmp directory
-          rm -rf ./tmp
-          # Zip the files
-          { git ls-files; git ls-files --others --exclude-standard; } | zip -r assets.zip -@
-          # Split the large json files into smaller chunks
-          for file in $(find . -type f -name "*.json" -size +50M); do
-            ./.scripts/split_json.sh "$file" 100
-            rm "$file"
-            echo "Removed $file"
-          done
-      - name: Preserve release artifact
-        run: mv assets.zip /tmp/assets.zip
-      - name: Create pull request
-        id: create-pr
-        uses: peter-evans/create-pull-request@v8.1.1
-        with:
-          base: global
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}"
-          body: "* Version: ${{ needs.determine-version.outputs.version }}"
-          branch: chore/bump-global-assets-${{ needs.determine-version.outputs.version }}
-          labels: needs-review
-          commit-message: "chore(global): bump assets version to ${{ needs.determine-version.outputs.version }}"
-      - name: Create GitHub release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: global-${{ needs.determine-version.outputs.version }}
-          name: global ${{ needs.determine-version.outputs.version }}
-          target_commitish: ${{ steps.create-pr.outputs.pull-request-head-sha }}
-          files: /tmp/assets.zip
-
-  bump-version:
-    needs: [determine-version, upload-assets]
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          sparse-checkout: |
-            global.txt
-          sparse-checkout-cone-mode: false
-      - name: Write version
-        run: echo -n "${{ needs.determine-version.outputs.version }}" > global.txt
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v8.1.1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "chore(global): bump global version to ${{ needs.determine-version.outputs.version }}"
-          body: "* Version: ${{ needs.determine-version.outputs.version }}"
-          branch: chore/bump-global-version-${{ needs.determine-version.outputs.version }}
-          labels: needs-review
-          commit-message: "chore(global): bump global version to ${{ needs.determine-version.outputs.version }}"
+  update:
+    uses: ./.github/workflows/update-server.yml
+    with:
+      server: global
+      force_update: ${{ inputs.force_update || false }}
