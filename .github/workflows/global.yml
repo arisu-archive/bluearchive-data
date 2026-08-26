@@ -21,4 +21,5 @@ jobs:
     uses: ./.github/workflows/update-server.yml
     with:
       server: global
+      download_filter: "{Preload/TableBundles/{Battle.zip,Excel.zip,ExcelDB.db,Module.zip},GameData/TableBundles/{ConquestMap.zip,HexaMap.zip}}"
       force_update: ${{ inputs.force_update || false }}
