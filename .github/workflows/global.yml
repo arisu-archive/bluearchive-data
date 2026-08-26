@@ -2,9 +2,8 @@ name: Update Global Version
 
 on:
   schedule:
-    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every Tuesday
-    # As this is the only time the global version is updated
-    - cron: "0 1-14/2 * * 2"
+    # Check every 2 hours from 1am to 14/2 (12:00am to 7:00pm) every day.
+    - cron: "0 1-14/2 * * *"
   workflow_dispatch:
     inputs:
       force_update:
