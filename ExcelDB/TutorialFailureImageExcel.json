@@ -410,7 +410,7 @@
     {
       "id": 10005,
       "contents": 1,
-      "type": "谮稥ꗷ",
+      "type": "Lowlevel",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_th",
@@ -421,7 +421,7 @@
     {
       "id": 10006,
       "contents": 1,
-      "type": "谮ꨄꧨ",
+      "type": "LowEquipment",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_th",
@@ -432,7 +432,7 @@
     {
       "id": 10007,
       "contents": 1,
-      "type": "谮鈒攩",
+      "type": "LowSkill",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_th",
@@ -454,7 +454,7 @@
     {
       "id": 20201,
       "contents": 2,
-      "type": "⤖᫝",
+      "type": "FindGift",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_th",
@@ -1037,7 +1037,7 @@
     {
       "id": 50001,
       "contents": 4,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_th",
@@ -1048,7 +1048,7 @@
     {
       "id": 50002,
       "contents": 4,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_02_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_02_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_02_th",
@@ -1092,7 +1092,7 @@
     {
       "id": 90001,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_th",
@@ -1103,7 +1103,7 @@
     {
       "id": 90002,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_th",
@@ -1114,7 +1114,7 @@
     {
       "id": 90003,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_th",
@@ -1125,7 +1125,7 @@
     {
       "id": 90004,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_th",
@@ -1136,7 +1136,7 @@
     {
       "id": 90005,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_th",
@@ -1147,7 +1147,7 @@
     {
       "id": 90006,
       "contents": 0,
-      "type": "褶",
+      "type": "None",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EffectIconColor_kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EffectIconColor_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EffectIconColor_th",
@@ -1466,7 +1466,7 @@
     {
       "id": 10814000,
       "contents": 5,
-      "type": "俗㑍",
+      "type": "10814000",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_th",
@@ -1477,7 +1477,7 @@
     {
       "id": 10814010,
       "contents": 5,
-      "type": "俗㑝",
+      "type": "10814100",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_th",
@@ -1488,7 +1488,7 @@
     {
       "id": 10814011,
       "contents": 5,
-      "type": "俗㑝",
+      "type": "10814100",
       "image_path_kr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_Kr",
       "image_path_jp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_jp",
       "image_path_th": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_th",
