@@ -31,7 +31,7 @@
     },
     {
       "boss_group": "Binah",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -60,7 +60,7 @@
     },
     {
       "boss_group": "Binah",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -89,7 +89,7 @@
     },
     {
       "boss_group": "Binah",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -150,9 +150,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -180,8 +180,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -210,8 +210,8 @@
       "skill_group_id": [
         "BinahLunaticExSkill01",
         "BinahLunaticPassive02",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahLunaticPassive01"
       ],
       "skill_use_phase": [
@@ -267,7 +267,7 @@
     },
     {
       "boss_group": "Binah_Street",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -296,7 +296,7 @@
     },
     {
       "boss_group": "Binah_Street",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -325,7 +325,7 @@
     },
     {
       "boss_group": "Binah_Street",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -386,9 +386,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -416,8 +416,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -470,7 +470,7 @@
     },
     {
       "boss_group": "Chesed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_Hard",
@@ -499,7 +499,7 @@
     },
     {
       "boss_group": "Chesed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_VeryHard",
@@ -528,7 +528,7 @@
     },
     {
       "boss_group": "Chesed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_HardCore",
@@ -673,7 +673,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_Hard",
@@ -702,7 +702,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_VeryHard",
@@ -731,7 +731,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "ChesedExSkill01_HardCore",
@@ -852,7 +852,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -872,12 +872,12 @@
     },
     {
       "boss_group": "ShiroKuro",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -897,12 +897,12 @@
     },
     {
       "boss_group": "ShiroKuro",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -922,12 +922,12 @@
     },
     {
       "boss_group": "ShiroKuro",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -952,7 +952,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1009,8 +1009,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -1043,7 +1043,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1063,12 +1063,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1088,12 +1088,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1113,12 +1113,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1143,7 +1143,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -1200,8 +1200,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -1262,7 +1262,7 @@
     },
     {
       "boss_group": "Hieronymus",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1295,7 +1295,7 @@
     },
     {
       "boss_group": "Hieronymus",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1328,7 +1328,7 @@
     },
     {
       "boss_group": "Hieronymus",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1397,10 +1397,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -1434,11 +1434,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -1505,7 +1505,7 @@
     },
     {
       "boss_group": "Hieronymus_Street",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1538,7 +1538,7 @@
     },
     {
       "boss_group": "Hieronymus_Street",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1571,7 +1571,7 @@
     },
     {
       "boss_group": "Hieronymus_Street",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -1640,10 +1640,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -1677,11 +1677,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -1718,11 +1718,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1748,14 +1748,14 @@
     },
     {
       "boss_group": "Kaitenger",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1781,14 +1781,14 @@
     },
     {
       "boss_group": "Kaitenger",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1814,14 +1814,14 @@
     },
     {
       "boss_group": "Kaitenger",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1850,11 +1850,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1883,12 +1883,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1961,11 +1961,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -1991,14 +1991,14 @@
     },
     {
       "boss_group": "Kaitenger_Street",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -2024,14 +2024,14 @@
     },
     {
       "boss_group": "Kaitenger_Street",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -2057,14 +2057,14 @@
     },
     {
       "boss_group": "Kaitenger_Street",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -2093,11 +2093,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -2126,12 +2126,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -2205,7 +2205,7 @@
       "phase_name_override_key": "1:PhaseLabel_Kaitenger, 2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
         "KaitenrangerRedLunaticPassive01",
-        "꠩窭煱䴲먋굶쎉닚꿈⥹阢㕝",
+        "KaitenFxMk0LunaticPassiveSkill01",
         "KaitenFxMk0LunaticExSkill01",
         "KaitenFxMk0LunaticExSkill02",
         "KaitenFxMk0LunaticExSkill03",
@@ -2279,7 +2279,7 @@
     },
     {
       "boss_group": "Perorozilla",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2312,7 +2312,7 @@
     },
     {
       "boss_group": "Perorozilla",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2345,7 +2345,7 @@
     },
     {
       "boss_group": "Perorozilla",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2447,10 +2447,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -2514,7 +2514,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2547,7 +2547,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2580,7 +2580,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -2682,10 +2682,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -2719,11 +2719,11 @@
       "difficulty": "Lunatic",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖풴ꞻ�᎜㔝",
-        "껨嚖풴ꞻ�᎜㘝",
-        "껨嚖풴ꞻ�᎜㜝",
-        "껨嚖풴ꞻ�᎜㴝",
-        "껨嚖풴ꞻ�᎜琝",
+        "Perorozilla01LunaticEx01",
+        "Perorozilla01LunaticEx02",
+        "Perorozilla01LunaticEx03",
+        "Perorozilla01LunaticEx09",
+        "Perorozilla01LunaticEx10",
         "Perorozilla01LunaticPassive02"
       ],
       "skill_use_phase": [
@@ -2758,7 +2758,7 @@
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -2794,12 +2794,12 @@
     },
     {
       "boss_group": "HOD",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -2835,12 +2835,12 @@
     },
     {
       "boss_group": "HOD",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -2876,12 +2876,12 @@
     },
     {
       "boss_group": "HOD",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -2922,7 +2922,7 @@
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3086,7 +3086,7 @@
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3122,12 +3122,12 @@
     },
     {
       "boss_group": "HOD_Indoor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3163,12 +3163,12 @@
     },
     {
       "boss_group": "HOD_Indoor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3204,12 +3204,12 @@
     },
     {
       "boss_group": "HOD_Indoor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3250,7 +3250,7 @@
       "skill_group_id": [
         "HODEx03_NotUse",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -3405,7 +3405,7 @@
     },
     {
       "boss_group": "Goz",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -3442,7 +3442,7 @@
     },
     {
       "boss_group": "Goz",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -3479,7 +3479,7 @@
     },
     {
       "boss_group": "Goz",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -3701,7 +3701,7 @@
     },
     {
       "boss_group": "Goz_Outdoor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -3738,7 +3738,7 @@
     },
     {
       "boss_group": "Goz_Outdoor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -3775,7 +3775,7 @@
     },
     {
       "boss_group": "Goz_Outdoor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -4005,7 +4005,7 @@
     },
     {
       "boss_group": "EN0005",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -4050,7 +4050,7 @@
     },
     {
       "boss_group": "EN0005",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -4095,7 +4095,7 @@
     },
     {
       "boss_group": "EN0005",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -4373,7 +4373,7 @@
     },
     {
       "boss_group": "HoverCraft",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -4426,7 +4426,7 @@
     },
     {
       "boss_group": "HoverCraft",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -4479,7 +4479,7 @@
     },
     {
       "boss_group": "HoverCraft",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -4589,7 +4589,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -4642,7 +4642,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -4695,7 +4695,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive05",
@@ -4748,12 +4748,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Normal",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -4793,16 +4793,16 @@
     },
     {
       "boss_group": "EN0006",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Hard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -4842,16 +4842,16 @@
     },
     {
       "boss_group": "EN0006",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_VeryHard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -4891,16 +4891,16 @@
     },
     {
       "boss_group": "EN0006",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_HardCore",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -4944,12 +4944,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Extreme",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -5145,7 +5145,7 @@
         "EN0010Ex02",
         "EN0010Passive05",
         "EN0010Ex03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010Ex04"
       ],
       "skill_use_phase": [
@@ -5181,7 +5181,7 @@
     },
     {
       "boss_group": "EN0010",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "0:PhaseLabel_Radiator, 1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0010HardPassive03",
@@ -5190,7 +5190,7 @@
         "EN0010Ex02",
         "EN0010Passive05",
         "EN0010Ex03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010Ex04"
       ],
       "skill_use_phase": [
@@ -5226,7 +5226,7 @@
     },
     {
       "boss_group": "EN0010",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "0:PhaseLabel_Radiator, 1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0010VeryHardPassive03",
@@ -5235,7 +5235,7 @@
         "EN0010Ex02",
         "EN0010Passive05",
         "EN0010Ex03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010Ex04"
       ],
       "skill_use_phase": [
@@ -5271,7 +5271,7 @@
     },
     {
       "boss_group": "EN0010",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "0:PhaseLabel_Radiator, 1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0010HardCorePassive03",
@@ -5280,7 +5280,7 @@
         "EN0010Ex02",
         "EN0010Passive05",
         "EN0010Ex03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010Ex04"
       ],
       "skill_use_phase": [
@@ -5325,7 +5325,7 @@
         "EN0010Ex02",
         "EN0010Passive05",
         "EN0010Ex03",
-        "�휴桃覴櫬轷쭪봢㛭",
+        "EN0010NotInsanePassive02",
         "EN0010Ex04"
       ],
       "skill_use_phase": [
@@ -5366,12 +5366,12 @@
       "skill_group_id": [
         "EN0010InsanePassive03",
         "EN0010InsanePassive04",
-        "�휴❂ꦱᏞ㔝",
-        "�휴❂ꦱᏞ㘝",
+        "EN0010InsaneEx01",
+        "EN0010InsaneEx02",
         "EN0010Passive05",
-        "�휴❂ꦱᏞ㜝",
+        "EN0010InsaneEx03",
         "EN0010InsanePassive02",
-        "�휴❂ꦱᏞ㠝"
+        "EN0010InsaneEx04"
       ],
       "skill_use_phase": [
         0,
@@ -5411,12 +5411,12 @@
       "skill_group_id": [
         "EN0010TormentPassive03",
         "EN0010TormentPassive04",
-        "�휴❂ꦱᏞ㔝",
-        "�휴❂ꦱᏞ㘝",
+        "EN0010InsaneEx01",
+        "EN0010InsaneEx02",
         "EN0010Passive05",
-        "�휴❂ꦱᏞ㜝",
+        "EN0010InsaneEx03",
         "EN0010InsanePassive02",
-        "�휴❂ꦱᏞ㠝"
+        "EN0010InsaneEx04"
       ],
       "skill_use_phase": [
         0,
@@ -5456,12 +5456,12 @@
       "skill_group_id": [
         "EN0010LunaticPassive03",
         "EN0010LunaticPassive04",
-        "�휴❂ꦱᏞ㔝",
-        "�휴❂ꦱᏞ㘝",
+        "EN0010InsaneEx01",
+        "EN0010InsaneEx02",
         "EN0010Passive05",
-        "�휴❂ꦱᏞ㜝",
+        "EN0010InsaneEx03",
         "EN0010InsanePassive02",
-        "�휴❂ꦱᏞ㠝"
+        "EN0010InsaneEx04"
       ],
       "skill_use_phase": [
         0,
@@ -5507,9 +5507,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㟭",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭"
+        "EN0013RightHandPassive03",
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02"
       ],
       "skill_use_phase": [
         1,
@@ -5553,7 +5553,7 @@
     },
     {
       "boss_group": "EN0013",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0013Ex01",
@@ -5564,9 +5564,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㟭",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭"
+        "EN0013RightHandPassive03",
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02"
       ],
       "skill_use_phase": [
         1,
@@ -5610,7 +5610,7 @@
     },
     {
       "boss_group": "EN0013",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0013Ex01",
@@ -5621,9 +5621,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㟭",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭"
+        "EN0013RightHandPassive03",
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02"
       ],
       "skill_use_phase": [
         1,
@@ -5667,7 +5667,7 @@
     },
     {
       "boss_group": "EN0013",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0013Ex01",
@@ -5678,9 +5678,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㟭",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭"
+        "EN0013RightHandPassive03",
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02"
       ],
       "skill_use_phase": [
         1,
@@ -5735,9 +5735,9 @@
         "EN0013Passive03",
         "EN0013Passive04",
         "EN0013RightHandEx01",
-        "�휴扴ᮂ橇佷쭪봢㟭",
-        "�휴扴ᮂ橇佷쭪봢㗭",
-        "�휴扴ᮂ橇佷쭪봢㛭"
+        "EN0013RightHandPassive03",
+        "EN0013RightHandPassive01",
+        "EN0013RightHandPassive02"
       ],
       "skill_use_phase": [
         1,
@@ -5784,9 +5784,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "�휴❲ꦱᏞ㔝",
-        "�휴❲ꦱᏞ㘝",
-        "�휴❲ꦱᏞ㜝",
+        "EN0013InsaneEx01",
+        "EN0013InsaneEx02",
+        "EN0013InsaneEx03",
         "EN0013InsanePassive01",
         "EN0013InsanePassive02",
         "EN0013InsanePassive03",
@@ -5849,9 +5849,9 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "�휴❲ꦱᏞ㔝",
-        "�휴❲ꦱᏞ㘝",
-        "�휴❲ꦱᏞ㜝",
+        "EN0013InsaneEx01",
+        "EN0013InsaneEx02",
+        "EN0013InsaneEx03",
         "EN0013TormentPassive01",
         "EN0013TormentPassive02",
         "EN0013InsanePassive03",
@@ -5914,9 +5914,9 @@
       "difficulty": "Lunatic",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "�휴❲ꦱᏞ㔝",
-        "�휴❲ꦱᏞ㘝",
-        "�휴❲ꦱᏞ㜝",
+        "EN0013InsaneEx01",
+        "EN0013InsaneEx02",
+        "EN0013InsaneEx03",
         "EN0013TormentPassive01",
         "EN0013TormentPassive02",
         "EN0013InsanePassive03",
@@ -5980,15 +5980,15 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
+        "EN0022Original01Ex03",
+        "EN0022Original01Ex04",
         "EN0022Original01Passive01",
         "EN0022Original01ControllerPassive01",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex01",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Normal",
         "EN0022Original02Passive01",
         "EN0022Original02SteelDrumPassive06",
@@ -6045,19 +6045,19 @@
     },
     {
       "boss_group": "EN0022",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
+        "EN0022Original01Ex03",
+        "EN0022Original01Ex04",
         "EN0022Original01Passive01",
         "EN0022Original01ControllerPassive01",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex01",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Hard",
         "EN0022Original02Passive01",
         "EN0022Original02SteelDrumPassive06",
@@ -6114,19 +6114,19 @@
     },
     {
       "boss_group": "EN0022",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
+        "EN0022Original01Ex03",
+        "EN0022Original01Ex04",
         "EN0022Original01Passive01",
         "EN0022Original01ControllerPassive01",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex01",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_VeryHard",
         "EN0022Original02Passive01",
         "EN0022Original02SteelDrumPassive06",
@@ -6183,19 +6183,19 @@
     },
     {
       "boss_group": "EN0022",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
+        "EN0022Original01Ex03",
+        "EN0022Original01Ex04",
         "EN0022Original01Passive01",
         "EN0022Original01ControllerPassive01",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex01",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_HardCore",
         "EN0022Original02Passive01",
         "EN0022Original02SteelDrumPassive06",
@@ -6256,15 +6256,15 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
+        "EN0022Original01Ex03",
+        "EN0022Original01Ex04",
         "EN0022Original01Passive01",
         "EN0022Original01ControllerPassive01",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex01",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Extreme",
         "EN0022Original02Passive01",
         "EN0022Original02SteelDrumPassive06",
@@ -6325,15 +6325,15 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01_Insane",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
         "EN0022Original01Ex03_Insane",
         "EN0022Original01Ex04_Insane",
         "EN0022Original01Passive01_Insane",
         "EN0022Original01ControllerPassive01",
         "EN0022Original02Ex01_Insane",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Insane",
         "EN0022Original02Passive01_Insane",
         "EN0022Original02SteelDrumPassive06_Insane",
@@ -6394,15 +6394,15 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01_Insane",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
         "EN0022Original01Ex03_Insane",
         "EN0022Original01Ex04_Insane",
         "EN0022Original01Passive01_Torment",
         "EN0022Original01ControllerPassive01",
         "EN0022Original02Ex01_Torment",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Torment",
         "EN0022Original02Passive01_Torment",
         "EN0022Original02SteelDrumPassive06_Torment",
@@ -6463,15 +6463,15 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "EN0022MainHPPassive01_Insane",
-        "��ꭣࢊ檧㕝ᴓ",
-        "��ꭣࢊ檧㕝ᴓ",
+        "EN0022Original01Ex01",
+        "EN0022Original01Ex02",
         "EN0022Original01Ex03_Insane",
         "EN0022Original01Ex04_Insane",
         "EN0022Original01Passive01_Torment",
         "EN0022Original01ControllerPassive01",
         "EN0022Original02Ex01_Torment",
-        "��ꭣࢊ檧㙝ᴓ",
-        "��ꭣࢊ檧㙝ᴓ",
+        "EN0022Original02Ex02",
+        "EN0022Original02Ex03",
         "EN0022Original02Ex04_Lunatic",
         "EN0022Original02Passive01_Torment",
         "EN0022Original02SteelDrumPassive06_Torment",
@@ -6557,7 +6557,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6586,7 +6586,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6615,7 +6615,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6676,9 +6676,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -6706,8 +6706,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -6760,7 +6760,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6789,7 +6789,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6818,7 +6818,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6879,9 +6879,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -6909,8 +6909,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -6963,7 +6963,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -6992,7 +6992,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7021,7 +7021,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7082,9 +7082,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -7112,8 +7112,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -7166,7 +7166,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7195,7 +7195,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7224,7 +7224,7 @@
     },
     {
       "boss_group": "Binah_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7285,9 +7285,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -7315,8 +7315,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -7369,7 +7369,7 @@
     },
     {
       "boss_group": "Binah_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7398,7 +7398,7 @@
     },
     {
       "boss_group": "Binah_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7427,7 +7427,7 @@
     },
     {
       "boss_group": "Binah_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7488,9 +7488,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -7518,8 +7518,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -7572,7 +7572,7 @@
     },
     {
       "boss_group": "Binah_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7601,7 +7601,7 @@
     },
     {
       "boss_group": "Binah_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7630,7 +7630,7 @@
     },
     {
       "boss_group": "Binah_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7691,9 +7691,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -7721,8 +7721,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -7775,7 +7775,7 @@
     },
     {
       "boss_group": "Binah_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7804,7 +7804,7 @@
     },
     {
       "boss_group": "Binah_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7833,7 +7833,7 @@
     },
     {
       "boss_group": "Binah_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -7894,9 +7894,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -7924,8 +7924,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -7978,7 +7978,7 @@
     },
     {
       "boss_group": "Binah_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -8007,7 +8007,7 @@
     },
     {
       "boss_group": "Binah_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -8036,7 +8036,7 @@
     },
     {
       "boss_group": "Binah_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahExSkill01",
@@ -8097,9 +8097,9 @@
       "difficulty": "Insane",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill01",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahPassive01"
       ],
       "skill_use_phase": [
@@ -8127,8 +8127,8 @@
       "phase_name_override_key": "",
       "skill_group_id": [
         "BinahTormentExSkill01",
-        "⤆蓚睪얄∩嶖",
-        "⤆蓚睪얄∩嶖",
+        "BinahInsaneExSkill02",
+        "BinahInsaneExSkill03",
         "BinahTormentPassive01"
       ],
       "skill_use_phase": [
@@ -8181,7 +8181,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_Hard",
@@ -8210,7 +8210,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_VeryHard",
@@ -8239,7 +8239,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_Hardcore",
@@ -8384,7 +8384,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_Hard",
@@ -8413,7 +8413,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_VeryHard",
@@ -8442,7 +8442,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_Hardcore",
@@ -8587,7 +8587,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_Hard",
@@ -8616,7 +8616,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_VeryHard",
@@ -8645,7 +8645,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_Hardcore",
@@ -8790,7 +8790,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_Hard",
@@ -8819,7 +8819,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_VeryHard",
@@ -8848,7 +8848,7 @@
     },
     {
       "boss_group": "Chesed_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_Hardcore",
@@ -8993,7 +8993,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_Hard",
@@ -9022,7 +9022,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_VeryHard",
@@ -9051,7 +9051,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_LightArmor_Ex01_Hardcore",
@@ -9196,7 +9196,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_Hard",
@@ -9225,7 +9225,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_VeryHard",
@@ -9254,7 +9254,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_HeavyArmor_Ex01_Hardcore",
@@ -9399,7 +9399,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_Hard",
@@ -9428,7 +9428,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_VeryHard",
@@ -9457,7 +9457,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_Unarmed_Ex01_Hardcore",
@@ -9602,7 +9602,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_Hard",
@@ -9631,7 +9631,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_VeryHard",
@@ -9660,7 +9660,7 @@
     },
     {
       "boss_group": "Chesed_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Chesed01_Eliminate_ElasticArmor_Ex01_Hardcore",
@@ -9781,7 +9781,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9801,12 +9801,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9826,12 +9826,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9851,12 +9851,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9881,7 +9881,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9938,8 +9938,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -9972,7 +9972,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -9992,12 +9992,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10017,12 +10017,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10042,12 +10042,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10072,7 +10072,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10129,8 +10129,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -10163,7 +10163,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10183,12 +10183,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10208,12 +10208,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10233,12 +10233,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10263,7 +10263,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10320,8 +10320,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -10354,7 +10354,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10374,12 +10374,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10399,12 +10399,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10424,12 +10424,12 @@
     },
     {
       "boss_group": "ShiroKuro_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10454,7 +10454,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10511,8 +10511,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -10545,7 +10545,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10565,12 +10565,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10590,12 +10590,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10615,12 +10615,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10645,7 +10645,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10702,8 +10702,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -10736,7 +10736,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10756,12 +10756,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10781,12 +10781,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10806,12 +10806,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10836,7 +10836,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10893,8 +10893,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -10927,7 +10927,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10947,12 +10947,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10972,12 +10972,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -10997,12 +10997,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11027,7 +11027,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11084,8 +11084,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -11118,7 +11118,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11138,12 +11138,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11163,12 +11163,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11188,12 +11188,12 @@
     },
     {
       "boss_group": "ShiroKuro_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11218,7 +11218,7 @@
       "skill_group_id": [
         "ShiroEx01",
         "ShiroEx04",
-        "Ꮸ㔝"
+        "KuroEx01"
       ],
       "skill_use_phase": [
         1,
@@ -11275,8 +11275,8 @@
       "phase_name_override_key": "1:PhaseLabel_Shiro, 2:PhaseLabel_Kuro",
       "skill_group_id": [
         "ShiroKuroPassive01",
-        "ᡊꆫ⬺Ꮽ㔝",
-        "ᡊꆫ⬺Ꮽ㬝",
+        "ShiroTormentEx01",
+        "ShiroTormentEx07",
         "KuroTormentEx01",
         "KuroTormentEx10"
       ],
@@ -11337,7 +11337,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11370,7 +11370,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11403,7 +11403,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11472,10 +11472,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -11509,11 +11509,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -11580,7 +11580,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11613,7 +11613,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11646,7 +11646,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11715,10 +11715,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -11752,11 +11752,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -11823,7 +11823,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11856,7 +11856,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11889,7 +11889,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -11958,10 +11958,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -11995,11 +11995,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -12066,7 +12066,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -12099,7 +12099,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -12132,7 +12132,7 @@
     },
     {
       "boss_group": "Hieronymus_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
         "HieronymusEx01",
@@ -12201,10 +12201,10 @@
       "difficulty": "Insane",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusInsanePassive02"
       ],
@@ -12238,11 +12238,11 @@
       "difficulty": "Torment",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
       "skill_group_id": [
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx01",
+        "HieronymusInsaneEx02",
+        "HieronymusInsaneEx03",
         "HieronymusTormentPassiveDummy02",
-        "✞ꊫ꙼슺넧�ᴓ",
+        "HieronymusInsaneEx04",
         "HieronymusInsanePassive01",
         "HieronymusTormentPassiveDummy01"
       ],
@@ -12279,11 +12279,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12309,14 +12309,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12342,14 +12342,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12375,14 +12375,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12411,11 +12411,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12444,12 +12444,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12522,11 +12522,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12552,14 +12552,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12585,14 +12585,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12618,14 +12618,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12654,11 +12654,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12687,12 +12687,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12765,11 +12765,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12795,14 +12795,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12828,14 +12828,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12861,14 +12861,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12897,11 +12897,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -12930,12 +12930,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13008,11 +13008,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13038,14 +13038,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13071,14 +13071,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13104,14 +13104,14 @@
     },
     {
       "boss_group": "Kaitenger_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13140,11 +13140,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13173,12 +13173,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13251,11 +13251,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13281,14 +13281,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13314,14 +13314,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13347,14 +13347,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13383,11 +13383,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13416,12 +13416,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13494,11 +13494,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13524,14 +13524,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13557,14 +13557,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13590,14 +13590,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13626,11 +13626,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13659,12 +13659,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13737,11 +13737,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13767,14 +13767,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13800,14 +13800,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13833,14 +13833,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13869,11 +13869,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13902,12 +13902,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -13980,11 +13980,11 @@
       "difficulty": "Normal",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14010,14 +14010,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14043,14 +14043,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14076,14 +14076,14 @@
     },
     {
       "boss_group": "Kaitenger_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14112,11 +14112,11 @@
       "difficulty": "Extreme",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0PassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14145,12 +14145,12 @@
       "difficulty": "Insane",
       "phase_name_override_key": "2:PhaseLabel_KaitenFXMk0",
       "skill_group_id": [
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill01",
         "KaitenFxMk0InsanePassiveSkill01",
-        "꠩窭煱䴲씄∩嶖",
-        "꠩窭煱䴲씄∩嶖",
+        "KaitenFxMk0ExSkill02",
+        "KaitenFxMk0ExSkill03",
         "KaitenFxMk0InsaneExSkill05",
-        "꠩窭煱䴲씄∩嶖"
+        "KaitenFxMk0ExSkill04"
       ],
       "skill_use_phase": [
         2,
@@ -14253,7 +14253,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14286,7 +14286,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14319,7 +14319,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14421,10 +14421,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -14488,7 +14488,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14521,7 +14521,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14554,7 +14554,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14656,10 +14656,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -14723,7 +14723,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14756,7 +14756,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14789,7 +14789,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14891,10 +14891,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -14958,7 +14958,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -14991,7 +14991,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15024,7 +15024,7 @@
     },
     {
       "boss_group": "Perorozilla_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15126,10 +15126,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -15193,7 +15193,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15226,7 +15226,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15259,7 +15259,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15361,10 +15361,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -15428,7 +15428,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15461,7 +15461,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15494,7 +15494,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15596,10 +15596,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -15663,7 +15663,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15696,7 +15696,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15729,7 +15729,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15831,10 +15831,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -15898,7 +15898,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15931,7 +15931,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -15964,7 +15964,7 @@
     },
     {
       "boss_group": "Perorozilla_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "Perorozilla01Ex01",
@@ -16066,10 +16066,10 @@
       "difficulty": "Torment",
       "phase_name_override_key": "",
       "skill_group_id": [
-        "껨嚖햴⬺Ꮽ㔝",
+        "Perorozilla01TormentEx01",
         "Perorozilla01InsaneEx02",
-        "껨嚖햴⬺Ꮽ㜝",
-        "껨嚖햴⬺Ꮽ㴝",
+        "Perorozilla01TormentEx03",
+        "Perorozilla01TormentEx09",
         "Perorozilla01InsaneEx10",
         "Perorozilla01TormentPassive02"
       ],
@@ -16105,7 +16105,7 @@
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16141,12 +16141,12 @@
     },
     {
       "boss_group": "HOD_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16182,12 +16182,12 @@
     },
     {
       "boss_group": "HOD_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16223,12 +16223,12 @@
     },
     {
       "boss_group": "HOD_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16269,7 +16269,7 @@
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16392,7 +16392,7 @@
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16428,12 +16428,12 @@
     },
     {
       "boss_group": "HOD_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16469,12 +16469,12 @@
     },
     {
       "boss_group": "HOD_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16510,12 +16510,12 @@
     },
     {
       "boss_group": "HOD_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16556,7 +16556,7 @@
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16679,7 +16679,7 @@
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16715,12 +16715,12 @@
     },
     {
       "boss_group": "HOD_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16756,12 +16756,12 @@
     },
     {
       "boss_group": "HOD_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16797,12 +16797,12 @@
     },
     {
       "boss_group": "HOD_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16843,7 +16843,7 @@
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -16966,7 +16966,7 @@
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17002,12 +17002,12 @@
     },
     {
       "boss_group": "HOD_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17043,12 +17043,12 @@
     },
     {
       "boss_group": "HOD_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17084,12 +17084,12 @@
     },
     {
       "boss_group": "HOD_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17130,7 +17130,7 @@
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17253,7 +17253,7 @@
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17289,12 +17289,12 @@
     },
     {
       "boss_group": "HOD_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17330,12 +17330,12 @@
     },
     {
       "boss_group": "HOD_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17371,12 +17371,12 @@
     },
     {
       "boss_group": "HOD_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17417,7 +17417,7 @@
       "skill_group_id": [
         "HOD_Eliminate_LightArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17540,7 +17540,7 @@
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17576,12 +17576,12 @@
     },
     {
       "boss_group": "HOD_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17617,12 +17617,12 @@
     },
     {
       "boss_group": "HOD_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17658,12 +17658,12 @@
     },
     {
       "boss_group": "HOD_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17704,7 +17704,7 @@
       "skill_group_id": [
         "HOD_Eliminate_HeavyArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17827,7 +17827,7 @@
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17863,12 +17863,12 @@
     },
     {
       "boss_group": "HOD_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17904,12 +17904,12 @@
     },
     {
       "boss_group": "HOD_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17945,12 +17945,12 @@
     },
     {
       "boss_group": "HOD_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -17991,7 +17991,7 @@
       "skill_group_id": [
         "HOD_Eliminate_Unarmed_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18114,7 +18114,7 @@
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Normal",
         "HODPassive01_Normal",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18150,12 +18150,12 @@
     },
     {
       "boss_group": "HOD_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Hard",
         "HODPassive01_Hard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18191,12 +18191,12 @@
     },
     {
       "boss_group": "HOD_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_VeryHard",
         "HODPassive01_VeryHard",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18232,12 +18232,12 @@
     },
     {
       "boss_group": "HOD_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Hardcore",
         "HODPassive01_Hardcore",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18278,7 +18278,7 @@
       "skill_group_id": [
         "HOD_Eliminate_ElasticArmor_Ex03_Extreme",
         "HODPassive01_Extreme",
-        "櫏⋋",
+        "HODPassive02",
         "HODEx01",
         "HODEx02",
         "HODEx04",
@@ -18433,7 +18433,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18470,7 +18470,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18507,7 +18507,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18692,7 +18692,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18729,7 +18729,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18766,7 +18766,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18951,7 +18951,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -18988,7 +18988,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19025,7 +19025,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19210,7 +19210,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19247,7 +19247,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19284,7 +19284,7 @@
     },
     {
       "boss_group": "Goz_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19469,7 +19469,7 @@
     },
     {
       "boss_group": "Goz_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19506,7 +19506,7 @@
     },
     {
       "boss_group": "Goz_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19543,7 +19543,7 @@
     },
     {
       "boss_group": "Goz_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19728,7 +19728,7 @@
     },
     {
       "boss_group": "Goz_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19765,7 +19765,7 @@
     },
     {
       "boss_group": "Goz_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19802,7 +19802,7 @@
     },
     {
       "boss_group": "Goz_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -19987,7 +19987,7 @@
     },
     {
       "boss_group": "Goz_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20024,7 +20024,7 @@
     },
     {
       "boss_group": "Goz_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20061,7 +20061,7 @@
     },
     {
       "boss_group": "Goz_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20246,7 +20246,7 @@
     },
     {
       "boss_group": "Goz_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20283,7 +20283,7 @@
     },
     {
       "boss_group": "Goz_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20320,7 +20320,7 @@
     },
     {
       "boss_group": "Goz_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "",
       "skill_group_id": [
         "GozEx04_0",
@@ -20513,7 +20513,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -20558,7 +20558,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -20603,7 +20603,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -20828,7 +20828,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -20873,7 +20873,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -20918,7 +20918,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21143,7 +21143,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21188,7 +21188,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21233,7 +21233,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21458,7 +21458,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21503,7 +21503,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21548,7 +21548,7 @@
     },
     {
       "boss_group": "EN0005_Indoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Gregorius, 2:PhaseLabel_Organ",
       "skill_group_id": [
         "EN0005_Ex01_AttackerSide",
@@ -21781,7 +21781,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -21834,7 +21834,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -21887,7 +21887,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -21997,7 +21997,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22050,7 +22050,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22152,7 +22152,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22205,7 +22205,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22258,7 +22258,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22368,7 +22368,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22421,7 +22421,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22523,7 +22523,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22576,7 +22576,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22629,7 +22629,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22739,7 +22739,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22792,7 +22792,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -22894,7 +22894,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -22947,7 +22947,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -23000,7 +23000,7 @@
     },
     {
       "boss_group": "HoverCraft_Outdoor_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive02",
@@ -23110,7 +23110,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -23163,7 +23163,7 @@
       "phase_name_override_key": "1:PhaseLabel_Wakamo, 2:PhaseLabel_Hovercraft",
       "skill_group_id": [
         "HoverCraftWakamo01Passive03",
-        "謞곞�핾醚ꢩ勓넧�ᴓ",
+        "HoverCraftWakamo01InsaneEx01",
         "HoverCraftWakamo01Ex02",
         "HoverCraftWakamo01Ex03",
         "HoverCraftWakamo01Passive04",
@@ -23216,12 +23216,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_LightArmor_ExtraPassive04_Normal",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_LightArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23261,16 +23261,16 @@
     },
     {
       "boss_group": "EN0006_Street_LightArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_LightArmor_ExtraPassive04_Hard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_LightArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23310,16 +23310,16 @@
     },
     {
       "boss_group": "EN0006_Street_LightArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_LightArmor_ExtraPassive04_VeryHard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_LightArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23359,16 +23359,16 @@
     },
     {
       "boss_group": "EN0006_Street_LightArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_LightArmor_ExtraPassive04_HardCore",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_LightArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23412,12 +23412,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_LightArmor_ExtraPassive04_Extreme",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_LightArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23559,12 +23559,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_HeavyArmor_ExtraPassive04_Normal",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_HeavyArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23604,16 +23604,16 @@
     },
     {
       "boss_group": "EN0006_Street_HeavyArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_HeavyArmor_ExtraPassive04_Hard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_HeavyArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23653,16 +23653,16 @@
     },
     {
       "boss_group": "EN0006_Street_HeavyArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_HeavyArmor_ExtraPassive04_VeryHard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_HeavyArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23702,16 +23702,16 @@
     },
     {
       "boss_group": "EN0006_Street_HeavyArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_HeavyArmor_ExtraPassive04_HardCore",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_HeavyArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23755,12 +23755,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_HeavyArmor_ExtraPassive04_Extreme",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_HeavyArmor_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23902,12 +23902,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_Unarmed_ExtraPassive04_Normal",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_Unarmed_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23947,16 +23947,16 @@
     },
     {
       "boss_group": "EN0006_Street_Unarmed",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_Unarmed_ExtraPassive04_Hard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_Unarmed_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -23996,16 +23996,16 @@
     },
     {
       "boss_group": "EN0006_Street_Unarmed",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_Unarmed_ExtraPassive04_VeryHard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_Unarmed_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24045,16 +24045,16 @@
     },
     {
       "boss_group": "EN0006_Street_Unarmed",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_Unarmed_ExtraPassive04_HardCore",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_Unarmed_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24098,12 +24098,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006_Eliminate_Unarmed_ExtraPassive04_Extreme",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006_Eliminate_Unarmed_Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24245,12 +24245,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Normal",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24290,16 +24290,16 @@
     },
     {
       "boss_group": "EN0006_Street_ElasticArmor",
-      "difficulty": "ꨝ",
+      "difficulty": "Hard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Hard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24339,16 +24339,16 @@
     },
     {
       "boss_group": "EN0006_Street_ElasticArmor",
-      "difficulty": "ᷲ�",
+      "difficulty": "VeryHard",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_VeryHard",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24388,16 +24388,16 @@
     },
     {
       "boss_group": "EN0006_Street_ElasticArmor",
-      "difficulty": "ꨝ狝�",
+      "difficulty": "Hardcore",
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_HardCore",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],
@@ -24441,12 +24441,12 @@
       "phase_name_override_key": "1:Boss_PhaseLabel_Common",
       "skill_group_id": [
         "EN0006ExtraPassive04_Extreme",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive05",
         "EN0006Ex01_1Phase",
         "EN0006Ex02_1Phase",
         "EN0006Ex03_1Phase",
-        "�팴ㆡ뚶檏⋋",
-        "�팴ㆡ뚶檏⋋",
+        "EN0006ExtraPassive01",
+        "EN0006ExtraPassive02",
         "EN0006Ex04",
         "EN0006Ex05"
       ],

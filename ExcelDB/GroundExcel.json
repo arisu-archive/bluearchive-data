@@ -1404,7 +1404,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "ally_passive_skill_level": [
         1
@@ -1472,7 +1472,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "Ԡ꺨兗❪穊廘榬浨侩쭪봢㗭"
+        "IAWorldRaidKetherGlobalPassive01"
       ],
       "ally_passive_skill_level": [
         1
@@ -2959,7 +2959,7 @@
     {
       "id": 9951,
       "stage_file_name": [
-        "竧��"
+        "TunnelTest01"
       ],
       "ground_scene_name": "ArtLevel/sb_03_abandonedtunnel_p01_d",
       "formation_group_id": 1,
@@ -3027,7 +3027,7 @@
     {
       "id": 9952,
       "stage_file_name": [
-        "竧��"
+        "TunnelTest02"
       ],
       "ground_scene_name": "ArtLevel/sb_03_abandonedtunnel_p01_d_lore",
       "formation_group_id": 1,
@@ -3091,7 +3091,7 @@
     {
       "id": 9953,
       "stage_file_name": [
-        "竧��"
+        "TunnelTest03"
       ],
       "ground_scene_name": "ArtLevel/sb_03_abandonedtunnel_p02_d",
       "formation_group_id": 1,
@@ -3155,7 +3155,7 @@
     {
       "id": 9954,
       "stage_file_name": [
-        "竧��"
+        "TunnelTest04"
       ],
       "ground_scene_name": "ArtLevel/sb_03_abandonedtunnel_p02_d_lore",
       "formation_group_id": 1,
@@ -6319,7 +6319,7 @@
     {
       "id": 9988,
       "stage_file_name": [
-        "謞곞�푾닞⟒ꦱ"
+        "HoverCraftTestInsane"
       ],
       "ground_scene_name": "ArtLevel/rb_02_hovercraft_p01",
       "formation_group_id": 1,
@@ -6839,7 +6839,7 @@
     {
       "id": 9996,
       "stage_file_name": [
-        "䴚ⷫ"
+        "DecaTest"
       ],
       "ground_scene_name": "ArtLevel/sb_01_stadium_p01_d",
       "formation_group_id": 1,
@@ -151539,13 +151539,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -151611,13 +151611,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -151683,13 +151683,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -151755,13 +151755,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -151827,13 +151827,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -151899,13 +151899,13 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "ally_passive_skill_level": [
         1
       ],
       "enemy_passive_skill_id": [
-        "뜂殧佝쭪봢㗭"
+        "Arena11Passive01"
       ],
       "enemy_passive_skill_level": [
         1
@@ -246898,7 +246898,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -246968,7 +246968,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247038,7 +247038,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247108,7 +247108,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247176,7 +247176,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247244,7 +247244,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247312,7 +247312,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247380,7 +247380,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247448,7 +247448,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247516,7 +247516,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -247584,7 +247584,7 @@
       "immune_hit_before_time_out_end": false,
       "ui_battle_hide_from_scratch": false,
       "ui_enemy_count": 2,
-      "battle_ready_timeline_path": "䡊",
+      "battle_ready_timeline_path": "Skip",
       "before_victory_timeline_path": "",
       "skip_battle_end": false,
       "hide_npc_when_battle_end": false,
@@ -250059,7 +250059,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "跳봄ᘊ閥䵻雀轜쭪봢㗭"
+        "840EventChallenge03AllyPassive01"
       ],
       "ally_passive_skill_level": [
         1
@@ -264125,7 +264125,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
       "ally_passive_skill_id": [
-        "鷳분ᘊ閥乻긆Ꞌ⥵阢㕝"
+        "852EventChallenge04GroundSkill01"
       ],
       "ally_passive_skill_level": [
         1
@@ -289467,7 +289467,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289541,7 +289541,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289615,7 +289615,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289689,7 +289689,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289763,7 +289763,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289837,7 +289837,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289911,7 +289911,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -289985,7 +289985,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio"
       ],
@@ -290059,7 +290059,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio",
         "EN0020GroundPassive01",
@@ -290137,7 +290137,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio",
         "EN0020GroundPassive01",
@@ -290215,7 +290215,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio",
         "EN0020GroundPassive01",
@@ -290293,7 +290293,7 @@
       "effect_count_limit": 0,
       "carrier_skill_group_id": 8540000,
       "ally_passive_skill_id": [
-        "ꬕ골鼛୼業࿉ޣ힫ᅍ�",
+        "FavorBuffAttackPower100Ratio",
         "FavorBuffHealPower100Ratio",
         "FavorBuffMaxHP100Ratio",
         "EN0020GroundPassive01",

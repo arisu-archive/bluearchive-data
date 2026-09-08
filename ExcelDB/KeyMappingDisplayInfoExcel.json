@@ -10,11 +10,11 @@
     },
     {
       "key_mapping_key_code": "LeftAlt",
-      "key_mapping_display_name": "ब"
+      "key_mapping_display_name": "LAlt"
     },
     {
-      "key_mapping_key_code": "⡆됡洉",
-      "key_mapping_display_name": "ॄ"
+      "key_mapping_key_code": "RightAlt",
+      "key_mapping_display_name": "RAlt"
     },
     {
       "key_mapping_key_code": "LeftShift",
@@ -29,7 +29,7 @@
       "key_mapping_display_name": "LCtrl"
     },
     {
-      "key_mapping_key_code": "⡆됡✪몶",
+      "key_mapping_key_code": "RightControl",
       "key_mapping_display_name": "RCtrl"
     },
     {
@@ -49,7 +49,7 @@
       "key_mapping_display_name": "↓"
     },
     {
-      "key_mapping_key_code": "褶",
+      "key_mapping_key_code": "None",
       "key_mapping_display_name": ""
     },
     {
@@ -81,7 +81,7 @@
       "key_mapping_display_name": "\""
     },
     {
-      "key_mapping_key_code": "꬝",
+      "key_mapping_key_code": "Hash",
       "key_mapping_display_name": "#"
     },
     {
@@ -109,11 +109,11 @@
       "key_mapping_display_name": ")"
     },
     {
-      "key_mapping_key_code": "쬂깞␫",
+      "key_mapping_key_code": "Asterisk",
       "key_mapping_display_name": "*"
     },
     {
-      "key_mapping_key_code": "嬾",
+      "key_mapping_key_code": "Plus",
       "key_mapping_display_name": "+"
     },
     {
@@ -181,7 +181,7 @@
       "key_mapping_display_name": ";"
     },
     {
-      "key_mapping_key_code": "",
+      "key_mapping_key_code": "Less",
       "key_mapping_display_name": "\u003c"
     },
     {
@@ -193,7 +193,7 @@
       "key_mapping_display_name": "\u003e"
     },
     {
-      "key_mapping_key_code": "뚬✪",
+      "key_mapping_key_code": "Question",
       "key_mapping_display_name": "?"
     },
     {
@@ -209,7 +209,7 @@
       "key_mapping_display_name": "\\"
     },
     {
-      "key_mapping_key_code": "⡆됡�䝲",
+      "key_mapping_key_code": "RightBracket",
       "key_mapping_display_name": "]"
     },
     {
@@ -329,11 +329,11 @@
       "key_mapping_display_name": "Z"
     },
     {
-      "key_mapping_key_code": "૭᫈狚굇",
+      "key_mapping_key_code": "LeftCurlyBracket",
       "key_mapping_display_name": "{"
     },
     {
-      "key_mapping_key_code": "⨾",
+      "key_mapping_key_code": "Pipe",
       "key_mapping_display_name": "|"
     },
     {
@@ -389,11 +389,11 @@
       "key_mapping_display_name": "Num 9"
     },
     {
-      "key_mapping_key_code": "榩�⪮",
+      "key_mapping_key_code": "KeypadPeriod",
       "key_mapping_display_name": "Num ."
     },
     {
-      "key_mapping_key_code": "榩➾",
+      "key_mapping_key_code": "KeypadDivide",
       "key_mapping_display_name": "Num /"
     },
     {
@@ -413,7 +413,7 @@
       "key_mapping_display_name": "Num Enter"
     },
     {
-      "key_mapping_key_code": "榩⫑ꦹ",
+      "key_mapping_key_code": "KeypadEquals",
       "key_mapping_display_name": "Num ="
     },
     {
@@ -421,8 +421,8 @@
       "key_mapping_display_name": "Ins"
     },
     {
-      "key_mapping_key_code": "褞",
-      "key_mapping_display_name": "褞"
+      "key_mapping_key_code": "Home",
+      "key_mapping_display_name": "Home"
     },
     {
       "key_mapping_key_code": "End",
@@ -430,11 +430,11 @@
     },
     {
       "key_mapping_key_code": "PageUp",
-      "key_mapping_display_name": "Ծ"
+      "key_mapping_display_name": "PgUp"
     },
     {
-      "key_mapping_key_code": "꠽พ➌",
-      "key_mapping_display_name": "\u003e"
+      "key_mapping_key_code": "PageDown",
+      "key_mapping_display_name": "PgDn"
     },
     {
       "key_mapping_key_code": "F1",
@@ -501,8 +501,8 @@
       "key_mapping_display_name": "NumLk"
     },
     {
-      "key_mapping_key_code": "ꨉ⹬⒇",
-      "key_mapping_display_name": "ꨉ"
+      "key_mapping_key_code": "CapsLock",
+      "key_mapping_display_name": "Caps"
     },
     {
       "key_mapping_key_code": "ScrollLock",
@@ -510,11 +510,11 @@
     },
     {
       "key_mapping_key_code": "RightApple",
-      "key_mapping_display_name": "⥄"
+      "key_mapping_display_name": "RCmd"
     },
     {
-      "key_mapping_key_code": "⡆됡☪ꦙ",
-      "key_mapping_display_name": "⥄"
+      "key_mapping_key_code": "RightCommand",
+      "key_mapping_display_name": "RCmd"
     },
     {
       "key_mapping_key_code": "RightMeta",
@@ -522,31 +522,31 @@
     },
     {
       "key_mapping_key_code": "LeftApple",
-      "key_mapping_display_name": "⤬"
+      "key_mapping_display_name": "LCmd"
     },
     {
       "key_mapping_key_code": "LeftCommand",
-      "key_mapping_display_name": "⤬"
+      "key_mapping_display_name": "LCmd"
     },
     {
-      "key_mapping_key_code": "㇭嫫",
+      "key_mapping_key_code": "LeftMeta",
       "key_mapping_display_name": "LMeta"
     },
     {
       "key_mapping_key_code": "LeftWindows",
-      "key_mapping_display_name": "栭"
+      "key_mapping_display_name": "LWin"
     },
     {
-      "key_mapping_key_code": "⡆딡Ꝩ豶",
-      "key_mapping_display_name": "桅"
+      "key_mapping_key_code": "RightWindows",
+      "key_mapping_display_name": "RWin"
     },
     {
       "key_mapping_key_code": "AltGr",
       "key_mapping_display_name": "AltGr"
     },
     {
-      "key_mapping_key_code": "",
-      "key_mapping_display_name": ""
+      "key_mapping_key_code": "Help",
+      "key_mapping_display_name": "Help"
     },
     {
       "key_mapping_key_code": "Print",
@@ -561,8 +561,8 @@
       "key_mapping_display_name": "Break"
     },
     {
-      "key_mapping_key_code": "",
-      "key_mapping_display_name": ""
+      "key_mapping_key_code": "Menu",
+      "key_mapping_display_name": "Menu"
     }
   ]
 }
