@@ -233617,6 +233617,438 @@
       ]
     },
     {
+      "character_voice_unique_id": 2006101,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4233706491,
+      "only_one": false,
+      "priority": 41,
+      "display_order": 540,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_CommonSkill",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_CommonSkill"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006102,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4146292030,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1010,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006103,
+      "character_voice_group_id": 20061,
+      "voice_hash": 3379910025,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1020,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006104,
+      "character_voice_group_id": 20061,
+      "voice_hash": 2612047747,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1030,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006105,
+      "character_voice_group_id": 20061,
+      "voice_hash": 2885403546,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1070,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_Level_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006106,
+      "character_voice_group_id": 20061,
+      "voice_hash": 210825593,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1080,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_Level_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006107,
+      "character_voice_group_id": 20061,
+      "voice_hash": 3888193453,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1090,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_ExSkill_Level_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006108,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4150713884,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 10,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_In_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Formation_In_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006109,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4256475579,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 20,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_In_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Formation_In_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006110,
+      "character_voice_group_id": 20061,
+      "voice_hash": 1684012410,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 30,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_Select",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Formation_Select"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006111,
+      "character_voice_group_id": 20061,
+      "voice_hash": 1033179744,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2510,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Growup_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006112,
+      "character_voice_group_id": 20061,
+      "voice_hash": 1906069564,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2520,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Growup_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006113,
+      "character_voice_group_id": 20061,
+      "voice_hash": 2472902199,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2530,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Growup_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006114,
+      "character_voice_group_id": 20061,
+      "voice_hash": 1307556246,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2540,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_4",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Growup_4"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006115,
+      "character_voice_group_id": 20061,
+      "voice_hash": 3594429235,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2010,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Relationship_Up_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006116,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4175693505,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2020,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Relationship_Up_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006117,
+      "character_voice_group_id": 20061,
+      "voice_hash": 3871306021,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2030,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Relationship_Up_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 2006118,
+      "character_voice_group_id": 20061,
+      "voice_hash": 4161944674,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2040,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_4",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0328/CH0328_Relationship_Up_4"
+      ]
+    },
+    {
       "character_voice_unique_id": 2300001,
       "character_voice_group_id": 23000,
       "voice_hash": 4233706491,
