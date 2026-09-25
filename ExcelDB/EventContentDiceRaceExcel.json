@@ -104,6 +104,27 @@
         "UIDiceRaceTrackFinish",
         "UIDiceSpecialReward"
       ]
+    },
+    {
+      "event_content_id": 10849,
+      "dice_cost_goods_id": 130040,
+      "skipable_lap": 30,
+      "dice_race_pawn_prefab": "DR0003",
+      "is_using_fixed_dice": true,
+      "fixed_dice_icon": [
+        "Img_DiceRace_ConfirmDice_01_849",
+        "Img_DiceRace_ConfirmDice_02_849",
+        "Img_DiceRace_ConfirmDice_03_849",
+        "Img_DiceRace_ConfirmDice_04_849",
+        "Img_DiceRace_ConfirmDice_05_849",
+        "Img_DiceRace_ConfirmDice_06_849"
+      ],
+      "dice_race_event_type": [
+        "UIDiceRaceResult",
+        "UIDiceRacePlus",
+        "UIDiceRaceTrackFinish",
+        "UIDiceRaceEvent"
+      ]
     }
   ]
 }

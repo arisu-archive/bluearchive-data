@@ -359,6 +359,26 @@
       "icon_offset_x": 0,
       "icon_offset_y": 0,
       "reddot_sprite_name": "Common_Icon_Reddot2"
+    },
+    {
+      "event_content_id": 862,
+      "event_content_type": 11,
+      "icon_sprite_name": "Event_Icon_Location_{0}",
+      "button_text": "Event_Button_Location_{0}",
+      "display_order": 30,
+      "icon_offset_x": 0,
+      "icon_offset_y": 0,
+      "reddot_sprite_name": "Common_Icon_Reddot2"
+    },
+    {
+      "event_content_id": 863,
+      "event_content_type": 43,
+      "icon_sprite_name": "Event_Icon_ClueSearch_857",
+      "button_text": "Event_Button_ClueSearch",
+      "display_order": 31,
+      "icon_offset_x": 0,
+      "icon_offset_y": 0,
+      "reddot_sprite_name": "Common_Icon_Reddot2"
     }
   ]
 }

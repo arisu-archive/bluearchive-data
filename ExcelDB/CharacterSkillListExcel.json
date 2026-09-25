@@ -27455,6 +27455,162 @@
       ]
     },
     {
+      "character_skill_list_group_id": 10125,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": true,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0304Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0304Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0304GearPublic01"
+      ],
+      "public_skill_time_line_index": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0304Passive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0304ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0304HiddenPassive01"
+      ]
+    },
+    {
+      "character_skill_list_group_id": 10125,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": true,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0304Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0304Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0304GearPublic01"
+      ],
+      "public_skill_time_line_index": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0304WeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0304ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0304HiddenPassive01"
+      ]
+    },
+    {
       "character_skill_list_group_id": 10126,
       "minimum_grade_character_weapon": 0,
       "minimum_tier_character_gear": 0,
@@ -33568,6 +33724,314 @@
       ],
       "hidden_passive_skill_group_id": [
         "CH0369HiddenPassive01"
+      ]
+    },
+    {
+      "character_skill_list_group_id": 10151,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0320Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0320Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0320Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0320Passive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0320ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 10151,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0320Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0320Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0320Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0320WeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0320ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 10152,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0252Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0252Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0252Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0252Passive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0252ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0252HiddenPassive01"
+      ]
+    },
+    {
+      "character_skill_list_group_id": 10152,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0252Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0252Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0252Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0252WeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0252ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0252HiddenPassive01"
       ]
     },
     {
@@ -44765,6 +45229,158 @@
       "hidden_passive_skill_group_id": []
     },
     {
+      "character_skill_list_group_id": 20001,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "KarinEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "KarinGearPublic01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "KarinPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "KarinExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "KarinHiddenPassive01"
+      ]
+    },
+    {
+      "character_skill_list_group_id": 20001,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "KarinEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "KarinGearPublic01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "KarinWeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "KarinExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "KarinHiddenPassive01"
+      ]
+    },
+    {
       "character_skill_list_group_id": 20002,
       "minimum_grade_character_weapon": 0,
       "minimum_tier_character_gear": 0,
@@ -55491,6 +56107,158 @@
       "hidden_passive_skill_group_id": []
     },
     {
+      "character_skill_list_group_id": 20062,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0321Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0321Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0321Passive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0321ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0321HiddenPassive01"
+      ]
+    },
+    {
+      "character_skill_list_group_id": 20062,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0321Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0321Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CH0321WeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "CH0321ExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": [
+        "CH0321HiddenPassive01"
+      ]
+    },
+    {
       "character_skill_list_group_id": 23000,
       "minimum_grade_character_weapon": 0,
       "minimum_tier_character_gear": 0,
@@ -58580,6 +59348,154 @@
       ],
       "public_skill_group_id": [
         "ShimikoPublic01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "ShimikoWeaponPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "ShimikoExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 26004,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "ShimikoEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "ShimikoGearPublic01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "ShimikoPassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "ShimikoExtraPassive01"
+      ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 26004,
+      "minimum_grade_character_weapon": 2,
+      "minimum_tier_character_gear": 2,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "ShimikoEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "ShimikoGearPublic01"
       ],
       "public_skill_time_line_index": [
         0,
@@ -105849,6 +106765,152 @@
       "hidden_passive_skill_group_id": []
     },
     {
+      "character_skill_list_group_id": 7100802,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": true,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "KaitoTrinityHG01Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "KaitoTrinityHG01WeekEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "KaitoTrinityHG01WeekPublic01",
+        "KaitoTrinityHG01WeekPublic02"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7100803,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": true,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "KaitoTrinityHG01Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "KaitoTrinityHG01Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "KaitoTrinityHG01Public01",
+        "KaitoTrinityHG01WeekPublic02"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
       "character_skill_list_group_id": 7100101,
       "minimum_grade_character_weapon": 0,
       "minimum_tier_character_gear": 0,
@@ -111536,6 +112598,78 @@
       ],
       "select_ex_skill_action_skill_slot": 0,
       "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7110901,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "ArmoredCarWakamoMGNormal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "ArmoredCarWakamoMGEx01",
+        "ArmoredCarWakamoMGEx02",
+        "ArmoredCarWakamoMGEx03"
+      ],
       "ex_skill_cut_in_time_line_index": [
         "0",
         "1",
@@ -193317,6 +194451,74 @@
       "extra_passive_skill_group_id": [
         "HanaeExtraPassive01"
       ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8000001,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "CommonPassive_Immediate_Kill_NormalAttackType"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
       "hidden_passive_skill_group_id": []
     },
     {
@@ -275309,6 +276511,781 @@
       "hidden_passive_skill_group_id": []
     },
     {
+      "character_skill_list_group_id": 8620101,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive07",
+        "862Challenge01Passive03",
+        "862Challenge01Passive08"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620102,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive01",
+        "862Challenge01Passive04",
+        "862Challenge01Passive08"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620103,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive06",
+        "862Challenge01Passive03",
+        "862Challenge01Passive08"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620104,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive02",
+        "862Challenge01Passive04",
+        "862Challenge01Passive08"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620105,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "CH0320Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "CH0320Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive05",
+        "862Challenge01Passive08"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [
+        "862Challenge01Passive05",
+        "862Challenge01Passive08"
+      ],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620106,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge01Passive09",
+        "862Challenge01Passive10"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620301,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": true,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "CH0119Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "862Challenge03CH0119Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge03Passive01",
+        "862Challenge03Passive02"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620302,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "AEVYohekiVulcan01Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "862Challenge03AEVYohekiVulcan01Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620303,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "862Challenge03Passive03",
+        "862Challenge03Passive04",
+        "862Challenge03Passive05"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620304,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 8620400,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "SM0164Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "SM0164Public01",
+        "SM016401Challenge04Public01"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
       "character_skill_list_group_id": 9010000,
       "minimum_grade_character_weapon": 0,
       "minimum_tier_character_gear": 0,
@@ -306067,6 +308044,743 @@
         "EN0022Original02SteelDrumPassive03",
         "EN0022Original02SteelDrumPassive04",
         "EN0022Original02SteelDrumPassive05"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740101,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "StoryEN0023CoreNormal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "StoryEN0023CoreEx01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "StoryEN0023CorePassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740102,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "StoryEN0023BrakeLeverPublic01",
+        "EmptySkill",
+        "EmptySkill",
+        "EmptySkill",
+        "EmptySkill",
+        "EmptySkill"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "StoryEN0023BrakeLeverPassive01",
+        "StoryEN0023BrakeLeverPassive02"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740102,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 1,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "EmptySkill",
+        "StoryEN0023BrakeLeverPublic02",
+        "EmptySkill",
+        "EmptySkill",
+        "EmptySkill",
+        "StoryEN0023BrakeLeverPublic06"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740102,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 2,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "EmptySkill",
+        "EmptySkill",
+        "StoryEN0023BrakeLeverPublic03",
+        "EmptySkill",
+        "StoryEN0023BrakeLeverPublic05",
+        "EmptySkill"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740102,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 3,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [
+        "EmptySkill",
+        "EmptySkill",
+        "EmptySkill",
+        "StoryEN0023BrakeLeverPublic04",
+        "EmptySkill",
+        "EmptySkill"
+      ],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740104,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "StoryEN0023EkibenDronePassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740105,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "StoryEN0023MonkeyA1Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "StoryEN0023MonkeyA1Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "EN0023MonkeyA1Passive01",
+        "EN0023MonkeyA1Passive02",
+        "EN0023MonkeyPassive03",
+        "EN0023MonkeyPassive04",
+        "StoryEN0023CorePassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740106,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "StoryEN0023MonkeyA2Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "StoryEN0023MonkeyA2Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "EN0023MonkeyA2Passive01",
+        "EN0023MonkeyA2Passive02",
+        "EN0023MonkeyPassive03",
+        "EN0023MonkeyPassive04"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740107,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "StoryEN0023MonkeyB1Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "StoryEN0023MonkeyB1Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "EN0023MonkeyB1Passive01",
+        "EN0023MonkeyB1Passive02",
+        "EN0023MonkeyPassive03",
+        "EN0023MonkeyPassive04",
+        "StoryEN0023CorePassive01"
+      ],
+      "leader_skill_group_id": [],
+      "extra_passive_skill_group_id": [],
+      "hidden_passive_skill_group_id": []
+    },
+    {
+      "character_skill_list_group_id": 7740108,
+      "minimum_grade_character_weapon": 0,
+      "minimum_tier_character_gear": 0,
+      "form_index": 0,
+      "is_root_motion": false,
+      "is_move_left_right": false,
+      "use_random_ex_skill_timeline": false,
+      "tsa_interaction_id": 0,
+      "normal_skill_group_id": [
+        "StoryEN0023MonkeyB2Normal01"
+      ],
+      "normal_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "select_ex_skill_action_skill_slot": 0,
+      "ex_skill_group_id": [
+        "StoryEN0023MonkeyB2Ex01"
+      ],
+      "ex_skill_cut_in_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "ex_skill_level_time_line_index": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "public_skill_group_id": [],
+      "public_skill_time_line_index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "passive_skill_group_id": [
+        "EN0023MonkeyB2Passive01",
+        "EN0023MonkeyB2Passive02",
+        "EN0023MonkeyPassive03",
+        "EN0023MonkeyPassive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -484953,11 +487667,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010NotInsanePassive02",
-        "EN0010NormalPassive03",
-        "EN0010NormalPassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -485313,11 +488023,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010NotInsanePassive02",
-        "EN0010HardPassive03",
-        "EN0010HardPassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -485673,11 +488379,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010NotInsanePassive02",
-        "EN0010VeryHardPassive03",
-        "EN0010VeryHardPassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -486033,11 +488735,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010NotInsanePassive02",
-        "EN0010HardCorePassive03",
-        "EN0010HardCorePassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -486393,11 +489091,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010NotInsanePassive02",
-        "EN0010ExtremePassive03",
-        "EN0010ExtremePassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -486753,11 +489447,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010InsanePassive02",
-        "EN0010InsanePassive03",
-        "EN0010InsanePassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -487113,11 +489803,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010InsanePassive02",
-        "EN0010TormentPassive03",
-        "EN0010TormentPassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -487473,11 +490159,7 @@
         "EN0010Passive01",
         "EN0010Passive02",
         "EN0010Passive03",
-        "EN0010Passive04",
-        "EN0010InsanePassive02",
-        "EN0010LunaticPassive03",
-        "EN0010LunaticPassive04",
-        "EN0010Passive05"
+        "EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -501507,11 +504189,7 @@
         "IAWorldraid_EN0010Passive01",
         "IAWorldraid_EN0010Passive02",
         "IAWorldraid_EN0010Passive03",
-        "IAWorldraid_EN0010Passive04",
-        "IAWorldraid_EN0010NotInsanePassive02",
-        "IAWorldraid_EN0010NormalPassive03",
-        "IAWorldraid_EN0010NormalPassive04",
-        "IAWorldraid_EN0010Passive05"
+        "IAWorldraid_EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -501867,11 +504545,7 @@
         "IAWorldraid_EN0010Passive01",
         "IAWorldraid_EN0010Passive02",
         "IAWorldraid_EN0010Passive03",
-        "IAWorldraid_EN0010Passive04",
-        "IAWorldraid_EN0010NotInsanePassive02",
-        "IAWorldraid_EN0010ExtremePassive03",
-        "IAWorldraid_EN0010ExtremePassive04",
-        "IAWorldraid_EN0010Passive05"
+        "IAWorldraid_EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -502227,11 +504901,7 @@
         "IAWorldraid_EN0010Passive01",
         "IAWorldraid_EN0010Passive02",
         "IAWorldraid_EN0010Passive03",
-        "IAWorldraid_EN0010Passive04",
-        "IAWorldraid_EN0010InsanePassive02",
-        "IAWorldraid_EN0010InsanePassive03",
-        "IAWorldraid_EN0010InsanePassive04",
-        "IAWorldraid_EN0010Passive05"
+        "IAWorldraid_EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],
@@ -502587,11 +505257,7 @@
         "IAWorldraid_EN0010Passive01",
         "IAWorldraid_EN0010Passive02",
         "IAWorldraid_EN0010Passive03",
-        "IAWorldraid_EN0010Passive04",
-        "IAWorldraid_EN0010InsanePassive02",
-        "IAWorldraid_EN0010TormentPassive03",
-        "IAWorldraid_EN0010TormentPassive04",
-        "IAWorldraid_EN0010Passive05"
+        "IAWorldraid_EN0010Passive04"
       ],
       "leader_skill_group_id": [],
       "extra_passive_skill_group_id": [],

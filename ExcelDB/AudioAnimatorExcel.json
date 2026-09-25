@@ -23969,6 +23969,108 @@
       "voice_hash": []
     },
     {
+      "controller_name_hash": 463954062,
+      "voice_name_prefix": "CH0320_Controller",
+      "state_name_hash": 1047306432,
+      "state_name": "Base Layer.VitalDyingIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 30,
+      "audio_clip_path": [],
+      "voice_hash": [
+        3436375298
+      ]
+    },
+    {
+      "controller_name_hash": 463954062,
+      "voice_name_prefix": "CH0320_Controller",
+      "state_name_hash": 4198288525,
+      "state_name": "Base Layer.Normal.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0.47,
+      "random_pitch_min": -1,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_Revolver_01",
+        "SFX_Common_Revolver_02",
+        "SFX_Common_Revolver_03",
+        "SFX_Common_Revolver_04",
+        "SFX_Common_Revolver_05",
+        "SFX_Common_Revolver_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 463954062,
+      "voice_name_prefix": "CH0320_Controller",
+      "state_name_hash": 2495071527,
+      "state_name": "Base Layer.Normal.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 0.65,
+      "delay": 0.28,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_Revolver_CH0320_Normal_Reload_01",
+        "SFX_Common_Revolver_CH0320_Normal_Reload_02"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 463954062,
+      "voice_name_prefix": "CH0320_Controller",
+      "state_name_hash": 199563541,
+      "state_name": "Base Layer.Kneel.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0.47,
+      "random_pitch_min": -1,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_Revolver_01",
+        "SFX_Common_Revolver_02",
+        "SFX_Common_Revolver_03",
+        "SFX_Common_Revolver_04",
+        "SFX_Common_Revolver_05",
+        "SFX_Common_Revolver_06"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 463954062,
+      "voice_name_prefix": "CH0320_Controller",
+      "state_name_hash": 3226339727,
+      "state_name": "Base Layer.Kneel.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0.28,
+      "random_pitch_min": 0,
+      "random_pitch_max": 1,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_Revolver_CH0320_Kneel_Reload_01",
+        "SFX_Common_Revolver_CH0320_Kneel_Reload_02"
+      ],
+      "voice_hash": []
+    },
+    {
       "controller_name_hash": 357191713,
       "voice_name_prefix": "CH0331_Controller",
       "state_name_hash": 1047306432,

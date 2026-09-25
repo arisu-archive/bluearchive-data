@@ -792,6 +792,13 @@
       "mail": false
     },
     {
+      "protocol": "Raid_Reset",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "SkipHistory_List",
       "open_condition_content": 21,
       "currency": false,
@@ -933,6 +940,13 @@
     },
     {
       "protocol": "Scenario_SkipMainStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Scenario_Collection",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -1632,6 +1646,20 @@
       "mail": false
     },
     {
+      "protocol": "Clan_KickHistoryCancel",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Clan_KickHistoryList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Billing_TransactionStartByYostar",
       "open_condition_content": 21,
       "currency": false,
@@ -2032,6 +2060,27 @@
     },
     {
       "protocol": "EventContent_ClueSearchRoundComplete",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchInvestigate",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchReveal",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchBatchSubmit",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -2906,6 +2955,13 @@
       "mail": false
     },
     {
+      "protocol": "EliminateRaid_Reset",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Attachment_Get",
       "open_condition_content": 21,
       "currency": false,
@@ -3268,6 +3324,34 @@
       "currency": false,
       "inventory": false,
       "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Sync",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Start",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_GrowthStep",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Receive",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
     }
   ]
 }

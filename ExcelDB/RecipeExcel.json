@@ -2857,6 +2857,42 @@
       ]
     },
     {
+      "id": 10151,
+      "recipe_type": 1,
+      "recipe_ingredient_id": 10151,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [
+        1
+      ],
+      "parcel_id": [
+        10151
+      ],
+      "result_amount_min": [
+        1
+      ],
+      "result_amount_max": [
+        1
+      ]
+    },
+    {
+      "id": 10152,
+      "recipe_type": 1,
+      "recipe_ingredient_id": 10152,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [
+        1
+      ],
+      "parcel_id": [
+        10152
+      ],
+      "result_amount_min": [
+        1
+      ],
+      "result_amount_max": [
+        1
+      ]
+    },
+    {
       "id": 13000,
       "recipe_type": 1,
       "recipe_ingredient_id": 13000,
@@ -4108,6 +4144,24 @@
       ],
       "parcel_id": [
         20061
+      ],
+      "result_amount_min": [
+        1
+      ],
+      "result_amount_max": [
+        1
+      ]
+    },
+    {
+      "id": 20062,
+      "recipe_type": 1,
+      "recipe_ingredient_id": 20062,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [
+        1
+      ],
+      "parcel_id": [
+        20062
       ],
       "result_amount_min": [
         1
@@ -30527,6 +30581,16 @@
       "result_amount_max": []
     },
     {
+      "id": 10125400,
+      "recipe_type": 4,
+      "recipe_ingredient_id": 10125400,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
       "id": 10126000,
       "recipe_type": 3,
       "recipe_ingredient_id": 10126000,
@@ -34920,6 +34984,406 @@
       "id": 10150303,
       "recipe_type": 7,
       "recipe_ingredient_id": 10150303,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151000,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10151000,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151001,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10151001,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151002,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10151002,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151003,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10151003,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151100,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151100,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151101,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151101,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151102,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151102,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151103,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151103,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151200,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151200,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151201,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151201,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151202,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151202,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151203,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151203,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151204,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151204,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151205,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151205,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151206,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151206,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151207,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10151207,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151300,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10151300,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151301,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10151301,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151302,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10151302,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10151303,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10151303,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152000,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10152000,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152001,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10152001,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152002,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10152002,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152003,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 10152003,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152100,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152100,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152101,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152101,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152102,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152102,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152103,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152103,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152200,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152200,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152201,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152201,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152202,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152202,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152203,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152203,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152204,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152204,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152205,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152205,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152206,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152206,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152207,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 10152207,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152300,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10152300,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152301,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10152301,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152302,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10152302,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 10152303,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 10152303,
       "recipe_selection_group_id": 0,
       "parcel_type": [],
       "parcel_id": [],
@@ -42660,6 +43124,16 @@
       "id": 20001303,
       "recipe_type": 7,
       "recipe_ingredient_id": 20001303,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20001400,
+      "recipe_type": 4,
+      "recipe_ingredient_id": 20001400,
       "recipe_selection_group_id": 0,
       "parcel_type": [],
       "parcel_id": [],
@@ -54767,6 +55241,206 @@
       "result_amount_max": []
     },
     {
+      "id": 20062000,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 20062000,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062001,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 20062001,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062002,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 20062002,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062003,
+      "recipe_type": 3,
+      "recipe_ingredient_id": 20062003,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062100,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062100,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062101,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062101,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062102,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062102,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062103,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062103,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062200,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062200,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062201,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062201,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062202,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062202,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062203,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062203,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062204,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062204,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062205,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062205,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062206,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062206,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062207,
+      "recipe_type": 2,
+      "recipe_ingredient_id": 20062207,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062300,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 20062300,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062301,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 20062301,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062302,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 20062302,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 20062303,
+      "recipe_type": 7,
+      "recipe_ingredient_id": 20062303,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
       "id": 10143000,
       "recipe_type": 3,
       "recipe_ingredient_id": 10143000,
@@ -58030,6 +58704,16 @@
       "id": 26004303,
       "recipe_type": 7,
       "recipe_ingredient_id": 26004303,
+      "recipe_selection_group_id": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "result_amount_min": [],
+      "result_amount_max": []
+    },
+    {
+      "id": 26004400,
+      "recipe_type": 4,
+      "recipe_ingredient_id": 26004400,
       "recipe_selection_group_id": 0,
       "parcel_type": [],
       "parcel_id": [],
@@ -75450,16 +76134,6 @@
       "id": 290300025,
       "recipe_type": 9,
       "recipe_ingredient_id": 290300025,
-      "recipe_selection_group_id": 0,
-      "parcel_type": [],
-      "parcel_id": [],
-      "result_amount_min": [],
-      "result_amount_max": []
-    },
-    {
-      "id": 300100001,
-      "recipe_type": 10,
-      "recipe_ingredient_id": 300100001,
       "recipe_selection_group_id": 0,
       "parcel_type": [],
       "parcel_id": [],

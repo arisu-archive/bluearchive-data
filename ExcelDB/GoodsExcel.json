@@ -46936,6 +46936,98 @@
       ]
     },
     {
+      "id": 20274,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0320",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        23
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "consume_extra_amount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        10151
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 20275,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0321",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        23
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "consume_extra_amount": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        20062
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
       "id": 30000,
       "type": 2,
       "rarity": 0,
@@ -99061,7 +99153,7 @@
         5
       ],
       "parcel_id": [
-        100010
+        20
       ],
       "parcel_amount": [
         1
@@ -99069,6 +99161,454 @@
     },
     {
       "id": 36331,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36332,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36333,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36334,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36335,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36336,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36337,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36338,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36339,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36340,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36341,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36342,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36343,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [],
+      "consume_parcel_id": [],
+      "consume_parcel_amount": [],
+      "consume_condition": [],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 101,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        20
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36350,
+      "type": 2,
+      "rarity": 0,
+      "icon_path": "",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        120
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [
+        5
+      ],
+      "consume_gacha_ticket_type_amount": [
+        1
+      ],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        5
+      ],
+      "parcel_id": [
+        100010
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 36351,
       "type": 2,
       "rarity": 0,
       "icon_path": "",
@@ -99097,7 +99637,7 @@
       ]
     },
     {
-      "id": 36332,
+      "id": 36352,
       "type": 2,
       "rarity": 0,
       "icon_path": "",
@@ -99135,7 +99675,7 @@
       ]
     },
     {
-      "id": 36333,
+      "id": 36353,
       "type": 2,
       "rarity": 0,
       "icon_path": "",
@@ -99157,341 +99697,6 @@
       "parcel_id": [
         100030,
         100039
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 36334,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [
-        2
-      ],
-      "consume_parcel_id": [
-        4
-      ],
-      "consume_parcel_amount": [
-        120
-      ],
-      "consume_condition": [
-        0
-      ],
-      "consume_gacha_ticket_type": [
-        5
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5
-      ],
-      "parcel_id": [
-        110010
-      ],
-      "parcel_amount": [
-        1
-      ]
-    },
-    {
-      "id": 36335,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [],
-      "consume_gacha_ticket_type_amount": [],
-      "combined_gacha_cost_id": 101,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        110010,
-        110019
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 36336,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [
-        2
-      ],
-      "consume_parcel_id": [
-        4
-      ],
-      "consume_parcel_amount": [
-        120
-      ],
-      "consume_condition": [
-        0
-      ],
-      "consume_gacha_ticket_type": [
-        5
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5
-      ],
-      "parcel_id": [
-        110030
-      ],
-      "parcel_amount": [
-        1
-      ]
-    },
-    {
-      "id": 36337,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [],
-      "consume_gacha_ticket_type_amount": [],
-      "combined_gacha_cost_id": 101,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        110030,
-        110039
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 36338,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [
-        2
-      ],
-      "consume_parcel_id": [
-        4
-      ],
-      "consume_parcel_amount": [
-        120
-      ],
-      "consume_condition": [
-        0
-      ],
-      "consume_gacha_ticket_type": [
-        5
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5
-      ],
-      "parcel_id": [
-        110050
-      ],
-      "parcel_amount": [
-        1
-      ]
-    },
-    {
-      "id": 36339,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [],
-      "consume_gacha_ticket_type_amount": [],
-      "combined_gacha_cost_id": 101,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        110050,
-        110059
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 36340,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [
-        2
-      ],
-      "consume_parcel_id": [
-        4
-      ],
-      "consume_parcel_amount": [
-        120
-      ],
-      "consume_condition": [
-        0
-      ],
-      "consume_gacha_ticket_type": [
-        5
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5
-      ],
-      "parcel_id": [
-        110070
-      ],
-      "parcel_amount": [
-        1
-      ]
-    },
-    {
-      "id": 36341,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [],
-      "consume_gacha_ticket_type_amount": [],
-      "combined_gacha_cost_id": 101,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        110070,
-        110079
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 36342,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [
-        2
-      ],
-      "consume_parcel_id": [
-        4
-      ],
-      "consume_parcel_amount": [
-        120
-      ],
-      "consume_condition": [
-        0
-      ],
-      "consume_gacha_ticket_type": [
-        5
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5
-      ],
-      "parcel_id": [
-        110090
-      ],
-      "parcel_amount": [
-        1
-      ]
-    },
-    {
-      "id": 36343,
-      "type": 2,
-      "rarity": 0,
-      "icon_path": "",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [],
-      "consume_gacha_ticket_type_amount": [],
-      "combined_gacha_cost_id": 101,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        110090,
-        110099
       ],
       "parcel_amount": [
         9,
@@ -183881,6 +184086,1638 @@
       ]
     },
     {
+      "id": 45800,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        10
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 45801,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        4
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        11
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 45802,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        12
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45803,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        40
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        13
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45804,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        10
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3010
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45805,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        30
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3011
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45806,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3012
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45807,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_RedWinter_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3013
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45808,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        110
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45809,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        111
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45810,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        112
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45811,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Phaistos_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        113
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45812,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_32",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5032
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45813,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_9",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5009
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45814,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5101
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45815,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event096_Mechanicbench",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        2000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        211316
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45816,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S65",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80881
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80882
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45817,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 45818,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        2
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45819,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45820,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        32
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        4
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45821,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4010
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45822,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4011
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45823,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4012
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45824,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_RedWinter_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4013
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45825,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        260
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45826,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        261
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45827,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        262
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45828,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_RomanDice_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        263
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45829,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_4",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5004
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45830,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_8",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5008
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45831,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5101
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45832,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event096_Chemicalbench",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        2000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        211317
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45833,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S65",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80882
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80883
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45834,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        1200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        1200
+      ]
+    },
+    {
+      "id": 45835,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Ultimate",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        1000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        9999
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45836,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        230
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45837,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        231
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45838,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        232
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45839,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Kikuko_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        233
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45840,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        130
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45841,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        131
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45842,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        132
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45843,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        133
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 45844,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        1000000
+      ]
+    },
+    {
+      "id": 45845,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        150
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        500000
+      ]
+    },
+    {
+      "id": 45846,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        75
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        250000
+      ]
+    },
+    {
+      "id": 45847,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80883
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        5000
+      ]
+    },
+    {
       "id": 50000,
       "type": 1,
       "rarity": 1,
@@ -245979,6 +247816,1434 @@
       ]
     },
     {
+      "id": 64000,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        10
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 64001,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        4
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        11
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 64002,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        12
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64003,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        40
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        13
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64004,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Wildhunt_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4100
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64005,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Wildhunt_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4101
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64006,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Wildhunt_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4102
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64007,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Wildhunt_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4103
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64008,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_17",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5017
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64009,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_19",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5019
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64010,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_29",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5029
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64011,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5103
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64012,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event083_Magiccarpet",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        2000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        210380
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64013,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S52",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85441
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        85442
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64014,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 64015,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        2
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64016,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64017,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        32
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        4
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64018,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Wildhunt_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        10
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3100
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64019,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Wildhunt_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        30
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3101
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64020,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Wildhunt_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3102
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64021,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Wildhunt_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3103
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64022,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5003
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64023,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_9",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5009
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64024,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_15",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5015
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64025,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5102
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64026,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_Lv2_10",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        5110
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64027,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event083_Weirdcauldron",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        2000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        210379
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64028,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S52",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85442
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        85443
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64029,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        1200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        600
+      ]
+    },
+    {
+      "id": 64030,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Ultimate",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        1000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        9999
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64031,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        500
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        23
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 64032,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        150
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64033,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        151
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64034,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        152
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64035,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        153
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64036,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        270
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64037,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        271
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64038,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        272
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64039,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        273
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64040,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event096_Metalstage",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        2000
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        211318
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 64041,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85443
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        5000
+      ]
+    },
+    {
       "id": 70000,
       "type": 1,
       "rarity": 3,
@@ -250597,6 +253862,40 @@
       ],
       "parcel_id": [
         20060
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 80085,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0262",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        18
+      ],
+      "consume_parcel_amount": [
+        1800
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26012
       ],
       "parcel_amount": [
         5
@@ -255224,6 +258523,686 @@
       ],
       "parcel_amount": [
         1
+      ]
+    },
+    {
+      "id": 90176,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Nodoka",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26006
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90177,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0060",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16005
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90178,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Izumi_swimsuit",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16006
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90179,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Tomoe",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16007
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90180,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0141",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16008
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90181,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0113",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16009
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90182,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0176",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26007
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90183,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0180",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26008
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90184,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0181",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16010
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90185,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0190",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16011
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90186,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0192",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16012
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90187,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0203",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26009
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90188,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0218",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26010
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90189,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0205",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16013
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90190,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_Ibuki",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16014
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90191,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0251",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16015
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90192,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0267",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26013
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90193,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0262",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        26012
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90194,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0333",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16019
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 90195,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0174",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        61
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        16020
+      ],
+      "parcel_amount": [
+        5
       ]
     },
     {
@@ -270730,72 +274709,6 @@
       ]
     },
     {
-      "id": 120002,
-      "type": 1,
-      "rarity": 0,
-      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_3Star_10",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [
-        1
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "com.yostarjp.bluearchive.r87_newyear2025",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        700030,
-        700041
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
-      "id": 120003,
-      "type": 1,
-      "rarity": 0,
-      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_3Star_10",
-      "consume_parcel_type": [],
-      "consume_parcel_id": [],
-      "consume_parcel_amount": [],
-      "consume_condition": [],
-      "consume_gacha_ticket_type": [
-        2
-      ],
-      "consume_gacha_ticket_type_amount": [
-        1
-      ],
-      "combined_gacha_cost_id": 0,
-      "product_id": "",
-      "consume_extra_step": [],
-      "consume_extra_amount": [],
-      "state": 1,
-      "parcel_type": [
-        5,
-        5
-      ],
-      "parcel_id": [
-        700030,
-        700041
-      ],
-      "parcel_amount": [
-        9,
-        1
-      ]
-    },
-    {
       "id": 130000,
       "type": 1,
       "rarity": 0,
@@ -271952,6 +275865,62 @@
       ],
       "consume_parcel_amount": [
         55
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 130039,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S64",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80890
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 0,
+      "parcel_type": [],
+      "parcel_id": [],
+      "parcel_amount": []
+    },
+    {
+      "id": 130040,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S52",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        85440
+      ],
+      "consume_parcel_amount": [
+        500
       ],
       "consume_condition": [
         0
@@ -313944,6 +317913,74 @@
       ]
     },
     {
+      "id": 172255,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event089_Multitable",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        500
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        210397
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 172256,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/16_CafeItem/My_Event089_Boardgamespace",
+      "consume_parcel_type": [
+        2
+      ],
+      "consume_parcel_id": [
+        4
+      ],
+      "consume_parcel_amount": [
+        500
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        13
+      ],
+      "parcel_id": [
+        210398
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
       "id": 200000,
       "type": 1,
       "rarity": 0,
@@ -343445,6 +347482,1876 @@
       ],
       "parcel_amount": [
         1000
+      ]
+    },
+    {
+      "id": 310900,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        10
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 310901,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        4
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        11
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 310902,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        12
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310903,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_ExpItem_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        40
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        13
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310904,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        10
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3080
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310905,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        30
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3081
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310906,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        100
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3082
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310907,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_ExSkill_Valkyrie_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        300
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        3083
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310908,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        130
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310909,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        131
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310910,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        132
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310911,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Nimrud_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        133
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310912,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        270
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310913,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        271
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310914,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        272
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310915,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Quimbaya_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        273
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310916,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80891
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80892
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310917,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        2
+      ]
+    },
+    {
+      "id": 310918,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        2
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        2
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310919,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        8
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310920,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/02_Equipment/Equipment_Icon_Exp_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        32
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        3
+      ],
+      "parcel_id": [
+        4
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310921,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4080
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310922,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4081
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310923,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4082
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310924,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Valkyrie_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        4083
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310925,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        150
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310926,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        151
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310927,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        152
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310928,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_Rohonc_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        153
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310929,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_0",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        220
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310930,
+      "type": 1,
+      "rarity": 1,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_1",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        15
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        221
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310931,
+      "type": 1,
+      "rarity": 2,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_2",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        50
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        222
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310932,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Material_GoldenFleece_3",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        200
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        223
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310933,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80892
+      ],
+      "consume_parcel_amount": [
+        5
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        5000
+      ]
+    },
+    {
+      "id": 310934,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gem",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        4
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        3
+      ],
+      "parcel_amount": [
+        120
+      ]
+    },
+    {
+      "id": 310935,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        2
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        23
+      ],
+      "parcel_amount": [
+        5
+      ]
+    },
+    {
+      "id": 310936,
+      "type": 1,
+      "rarity": 3,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_SkillBook_Ultimate",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        12
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        9999
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310937,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        6
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        1000000
+      ]
+    },
+    {
+      "id": 310938,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        3
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        500000
+      ]
+    },
+    {
+      "id": 310939,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        2
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        300000
+      ]
+    },
+    {
+      "id": 310940,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Currency_Icon_Gold",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80893
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        2
+      ],
+      "parcel_id": [
+        1
+      ],
+      "parcel_amount": [
+        50000
+      ]
+    },
+    {
+      "id": 310941,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_0_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80894
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310942,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_1_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80895
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310943,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_2_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80896
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310944,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_3_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80897
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310945,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80898
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310946,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_5_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80899
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310947,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Object_6_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80902
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80900
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310948,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80894
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310949,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80895
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310950,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80896
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310951,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80897
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310952,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80898
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310953,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80899
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
+      ]
+    },
+    {
+      "id": 310954,
+      "type": 1,
+      "rarity": 0,
+      "icon_path": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_4_S60",
+      "consume_parcel_type": [
+        4
+      ],
+      "consume_parcel_id": [
+        80900
+      ],
+      "consume_parcel_amount": [
+        1
+      ],
+      "consume_condition": [
+        0
+      ],
+      "consume_gacha_ticket_type": [],
+      "consume_gacha_ticket_type_amount": [],
+      "combined_gacha_cost_id": 0,
+      "product_id": "",
+      "consume_extra_step": [],
+      "consume_extra_amount": [],
+      "state": 1,
+      "parcel_type": [
+        4
+      ],
+      "parcel_id": [
+        80902
+      ],
+      "parcel_amount": [
+        1
       ]
     },
     {

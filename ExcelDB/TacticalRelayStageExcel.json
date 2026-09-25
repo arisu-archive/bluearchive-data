@@ -8,10 +8,10 @@
       "stage_number": "1",
       "stage_difficulty": 0,
       "waves_per_sections": [
-        4,
-        4
+        3,
+        3
       ],
-      "battle_duration": 300000,
+      "battle_duration": 120000,
       "recommand_level": 25,
       "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
@@ -27,11 +27,13 @@
       ],
       "prev_stage_id": 0,
       "ground_id": 140010101,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -55,31 +57,33 @@
       "stage_number": "1",
       "stage_difficulty": 1,
       "waves_per_sections": [
-        4,
-        4,
-        4
-      ],
-      "battle_duration": 450000,
-      "recommand_level": 50,
-      "recommand_level_gap_for_guide": 8,
-      "min_equipment_tier_for_guide": [
         3,
         3,
         3
+      ],
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
+      "min_equipment_tier_for_guide": [
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
         1,
-        3,
-        3,
-        3
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010101,
       "ground_id": 140010102,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -109,27 +113,29 @@
         3,
         3
       ],
-      "battle_duration": 600000,
-      "recommand_level": 90,
-      "recommand_level_gap_for_guide": 15,
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
-        7,
-        7,
-        7
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
-        5,
-        10,
-        10,
-        10
+        1,
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010102,
       "ground_id": 140010103,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -153,10 +159,10 @@
       "stage_number": "2",
       "stage_difficulty": 0,
       "waves_per_sections": [
-        4,
-        4
+        3,
+        3
       ],
-      "battle_duration": 300000,
+      "battle_duration": 120000,
       "recommand_level": 25,
       "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
@@ -172,11 +178,13 @@
       ],
       "prev_stage_id": 0,
       "ground_id": 140010201,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -200,31 +208,33 @@
       "stage_number": "2",
       "stage_difficulty": 1,
       "waves_per_sections": [
-        4,
-        4,
-        4
-      ],
-      "battle_duration": 450000,
-      "recommand_level": 50,
-      "recommand_level_gap_for_guide": 8,
-      "min_equipment_tier_for_guide": [
         3,
         3,
         3
+      ],
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
+      "min_equipment_tier_for_guide": [
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
         1,
-        3,
-        3,
-        3
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010201,
       "ground_id": 140010202,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -254,27 +264,29 @@
         3,
         3
       ],
-      "battle_duration": 600000,
-      "recommand_level": 90,
-      "recommand_level_gap_for_guide": 15,
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
-        7,
-        7,
-        7
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
-        5,
-        10,
-        10,
-        10
+        1,
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010202,
       "ground_id": 140010203,
-      "stage_topography": 1,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -298,10 +310,10 @@
       "stage_number": "3",
       "stage_difficulty": 0,
       "waves_per_sections": [
-        4,
-        4
+        3,
+        3
       ],
-      "battle_duration": 300000,
+      "battle_duration": 120000,
       "recommand_level": 25,
       "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
@@ -317,11 +329,13 @@
       ],
       "prev_stage_id": 0,
       "ground_id": 140010301,
-      "stage_topography": 2,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -345,31 +359,33 @@
       "stage_number": "3",
       "stage_difficulty": 1,
       "waves_per_sections": [
-        4,
-        4,
-        4
-      ],
-      "battle_duration": 450000,
-      "recommand_level": 50,
-      "recommand_level_gap_for_guide": 8,
-      "min_equipment_tier_for_guide": [
         3,
         3,
         3
+      ],
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
+      "min_equipment_tier_for_guide": [
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
         1,
-        3,
-        3,
-        3
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010301,
       "ground_id": 140010302,
-      "stage_topography": 2,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -399,27 +415,29 @@
         3,
         3
       ],
-      "battle_duration": 600000,
-      "recommand_level": 90,
-      "recommand_level_gap_for_guide": 15,
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
-        7,
-        7,
-        7
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
-        5,
-        10,
-        10,
-        10
+        1,
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010302,
       "ground_id": 140010303,
-      "stage_topography": 2,
+      "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -443,10 +461,10 @@
       "stage_number": "4",
       "stage_difficulty": 0,
       "waves_per_sections": [
-        4,
-        4
+        3,
+        3
       ],
-      "battle_duration": 300000,
+      "battle_duration": 120000,
       "recommand_level": 25,
       "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
@@ -463,10 +481,12 @@
       "prev_stage_id": 0,
       "ground_id": 140010401,
       "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -490,31 +510,33 @@
       "stage_number": "4",
       "stage_difficulty": 1,
       "waves_per_sections": [
-        4,
-        4,
-        4
-      ],
-      "battle_duration": 450000,
-      "recommand_level": 50,
-      "recommand_level_gap_for_guide": 8,
-      "min_equipment_tier_for_guide": [
         3,
         3,
         3
+      ],
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
+      "min_equipment_tier_for_guide": [
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
         1,
-        3,
-        3,
-        3
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010401,
       "ground_id": 140010402,
       "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,
@@ -544,27 +566,29 @@
         3,
         3
       ],
-      "battle_duration": 600000,
-      "recommand_level": 90,
-      "recommand_level_gap_for_guide": 15,
+      "battle_duration": 120000,
+      "recommand_level": 25,
+      "recommand_level_gap_for_guide": 5,
       "min_equipment_tier_for_guide": [
-        7,
-        7,
-        7
+        1,
+        0,
+        0
       ],
       "min_skill_level_for_guide": [
-        5,
-        10,
-        10,
-        10
+        1,
+        1,
+        1,
+        1
       ],
       "prev_stage_id": 140010402,
       "ground_id": 140010403,
       "stage_topography": 0,
+      "enemy_armor_type": 0,
+      "enemy_sub_armor_type": 0,
       "stage_enter_cost_type": 2,
-      "stage_enter_cost_id": 5,
+      "stage_enter_cost_id": 4,
       "stage_enter_cost_amount": 10,
-      "tactic_reward_exp": 3,
+      "tactic_reward_exp": 0,
       "stage_reward_id_ego": 140010101,
       "stage_reward_id_conscious": 140010101,
       "stage_reward_id_unconscious": 140010101,

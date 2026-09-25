@@ -3,7 +3,21 @@
     {
       "event_content_id": 857,
       "title_localize": 106700853,
+      "search_cost_goods_id": 0,
+      "deduction_point_item_id": 0,
+      "inspiration_convert_count": 0,
+      "max_search_count": 0,
       "use_prefab_name": "UIEventClueSearch_857",
+      "clue_bg_image_path": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_Board_857"
+    },
+    {
+      "event_content_id": 863,
+      "title_localize": 106700853,
+      "search_cost_goods_id": 130039,
+      "deduction_point_item_id": 80901,
+      "inspiration_convert_count": 4,
+      "max_search_count": 10,
+      "use_prefab_name": "UIEventClueSearch_863",
       "clue_bg_image_path": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_Board_857"
     }
   ]
