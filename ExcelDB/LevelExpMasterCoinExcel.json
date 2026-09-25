@@ -4,13 +4,37 @@
       "id": 1,
       "min_level": 1,
       "max_level": 89,
-      "ratio": 0
+      "ratio": 0,
+      "product_monthly_id1": [],
+      "plus_master_coin_ratio1": 0,
+      "plus_master_coin_icon_name1": "",
+      "product_monthly_id2": [],
+      "plus_master_coin_ratio2": 0,
+      "plus_master_coin_icon_name2": "",
+      "plus_master_coin_icon_name3": ""
     },
     {
       "id": 2,
       "min_level": 90,
       "max_level": 0,
-      "ratio": 10000
+      "ratio": 10000,
+      "product_monthly_id1": [
+        103,
+        503,
+        100103,
+        100503
+      ],
+      "plus_master_coin_ratio1": 3000,
+      "plus_master_coin_icon_name1": "Common_Icon_MasterCoin_Monthly",
+      "product_monthly_id2": [
+        104,
+        504,
+        100104,
+        100504
+      ],
+      "plus_master_coin_ratio2": 2000,
+      "plus_master_coin_icon_name2": "Common_Icon_MasterCoin_Monthly_Half",
+      "plus_master_coin_icon_name3": "Common_Icon_MasterCoin_Monthly_All"
     }
   ]
 }

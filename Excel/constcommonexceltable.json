@@ -66,6 +66,7 @@
       "clan_max_member": 50,
       "clan_search_result_count": 30,
       "clan_max_applicant": 100,
+      "clan_kick_history_max": 50,
       "clan_rejoin_cool_time_from_second": 1000,
       "clan_word_balloon_max_character": 52,
       "call_name_rename_cool_time_from_hour": 24,
@@ -233,7 +234,8 @@
       "engrave_contents_is_open": false,
       "tactical_relay_contents_is_open": false,
       "ex_skill_level_max_by_engrave": 0,
-      "ex_skill_upgrade_level_max": 5
+      "ex_skill_upgrade_level_max": 5,
+      "raid_reset_count": 1
     }
   ]
 }

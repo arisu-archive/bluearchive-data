@@ -720,6 +720,46 @@
       "ui_name": []
     },
     {
+      "group_id": 112002,
+      "page_name": "UIInformationPopup_Chaser04",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 112002,
+      "page_name": "UIInformationPopup_Chaser01",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 112002,
+      "page_name": "UIInformationPopup_Chaser02",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 112002,
+      "page_name": "UIInformationPopup_Chaser03",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 112002,
+      "page_name": "UIInformationPopup_Chaser06",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
       "group_id": 113001,
       "page_name": "UIInformationPopup_Equipment01",
       "is_pc_build": false,
@@ -2128,6 +2168,14 @@
       "ui_name": []
     },
     {
+      "group_id": 141001,
+      "page_name": "UIInformationPopup_ClueSearch05",
+      "is_pc_build": false,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
       "group_id": 150001,
       "page_name": "UIInformationPopup_CharacterDetail04",
       "is_pc_build": false,
@@ -2192,8 +2240,16 @@
       "ui_name": []
     },
     {
-      "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller01",
+      "group_id": 1000001,
+      "page_name": "UIInformationPopup_PCbuild_Keyboard_08",
+      "is_pc_build": true,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 1000001,
+      "page_name": "UIInformationPopup_PCbuild_Keyboard_09",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2201,7 +2257,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller02",
+      "page_name": "UIInformationPopup_PCbuild_Controller_01",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2209,7 +2265,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller03",
+      "page_name": "UIInformationPopup_PCbuild_Controller_02",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2217,7 +2273,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller04",
+      "page_name": "UIInformationPopup_PCbuild_Controller_03",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2225,7 +2281,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller05",
+      "page_name": "UIInformationPopup_PCbuild_Controller_04",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2233,7 +2289,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller06",
+      "page_name": "UIInformationPopup_PCbuild_Controller_05",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2241,7 +2297,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller07",
+      "page_name": "UIInformationPopup_PCbuild_Controller_06",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2249,7 +2305,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller08",
+      "page_name": "UIInformationPopup_PCbuild_Controller_07",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2257,7 +2313,7 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller09",
+      "page_name": "UIInformationPopup_PCbuild_Controller_08",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],
@@ -2265,7 +2321,15 @@
     },
     {
       "group_id": 900000002,
-      "page_name": "GLPC_UIInformation/Information_PCbuild_Controller10",
+      "page_name": "UIInformationPopup_PCbuild_Controller_09",
+      "is_pc_build": true,
+      "localize_code_id": "UI_Description_Warning_Sample_Image",
+      "tutorial_parent_name": [],
+      "ui_name": []
+    },
+    {
+      "group_id": 900000002,
+      "page_name": "UIInformationPopup_PCbuild_Controller_10",
       "is_pc_build": true,
       "localize_code_id": "UI_Description_Warning_Sample_Image",
       "tutorial_parent_name": [],

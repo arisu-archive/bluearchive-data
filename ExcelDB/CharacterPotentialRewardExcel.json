@@ -2417,6 +2417,38 @@
       "reward_amount": 1
     },
     {
+      "id": 10151,
+      "require_potential_stat_type": [
+        1,
+        2,
+        3
+      ],
+      "require_potential_stat_level": [
+        25,
+        25,
+        25
+      ],
+      "reward_parcel_type": 20,
+      "reward_id": 8101511,
+      "reward_amount": 1
+    },
+    {
+      "id": 10152,
+      "require_potential_stat_type": [
+        1,
+        2,
+        3
+      ],
+      "require_potential_stat_level": [
+        25,
+        25,
+        25
+      ],
+      "reward_parcel_type": 20,
+      "reward_id": 8101521,
+      "reward_amount": 1
+    },
+    {
       "id": 13000,
       "require_potential_stat_type": [
         1,
@@ -3982,6 +4014,22 @@
       ],
       "reward_parcel_type": 20,
       "reward_id": 8200611,
+      "reward_amount": 1
+    },
+    {
+      "id": 20062,
+      "require_potential_stat_type": [
+        1,
+        2,
+        3
+      ],
+      "require_potential_stat_level": [
+        25,
+        25,
+        25
+      ],
+      "reward_parcel_type": 20,
+      "reward_id": 8200621,
       "reward_amount": 1
     },
     {
