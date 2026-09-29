@@ -831,6 +831,22 @@
       ],
       "time_attack_dungeon_reward_id": 1,
       "room_life_time_in_seconds": 3600
+    },
+    {
+      "id": 56,
+      "start_date": "2026-10-27 11:00:00",
+      "end_note_label_start_date": "2026-10-30 03:59:59",
+      "end_date": "2026-11-03 03:59:59",
+      "ui_slot": 3,
+      "dungeon_id": 3000,
+      "difficulty_geas": [
+        53001,
+        53101,
+        53201,
+        53301
+      ],
+      "time_attack_dungeon_reward_id": 1,
+      "room_life_time_in_seconds": 3600
     }
   ]
 }
