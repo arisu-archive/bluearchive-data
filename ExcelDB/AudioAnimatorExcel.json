@@ -22786,6 +22786,106 @@
       "voice_hash": []
     },
     {
+      "controller_name_hash": 2152096738,
+      "voice_name_prefix": "CH0252_Controller",
+      "state_name_hash": 1047306432,
+      "state_name": "Base Layer.VitalDyingIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 30,
+      "audio_clip_path": [],
+      "voice_hash": [
+        3436375298
+      ]
+    },
+    {
+      "controller_name_hash": 2152096738,
+      "voice_name_prefix": "CH0252_Controller",
+      "state_name_hash": 4198288525,
+      "state_name": "Base Layer.Normal.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SMG_Triple_Short_01",
+        "SFX_Common_SMG_Triple_Short_02",
+        "SFX_Common_SMG_Triple_Short_03",
+        "SFX_Common_SMG_Triple_Short_04"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2152096738,
+      "voice_name_prefix": "CH0252_Controller",
+      "state_name_hash": 2495071527,
+      "state_name": "Base Layer.Normal.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SMG_CH0252_Reload_01",
+        "SFX_Common_SMG_CH0252_Reload_02",
+        "SFX_Common_SMG_CH0252_Reload_03"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2152096738,
+      "voice_name_prefix": "CH0252_Controller",
+      "state_name_hash": 199563541,
+      "state_name": "Base Layer.Kneel.AttackIng",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SMG_Triple_Short_01",
+        "SFX_Common_SMG_Triple_Short_02",
+        "SFX_Common_SMG_Triple_Short_03",
+        "SFX_Common_SMG_Triple_Short_04"
+      ],
+      "voice_hash": []
+    },
+    {
+      "controller_name_hash": 2152096738,
+      "voice_name_prefix": "CH0252_Controller",
+      "state_name_hash": 3226339727,
+      "state_name": "Base Layer.Kneel.Reload",
+      "ignore_interrupt_delay": false,
+      "ignore_interrupt_play": false,
+      "ignore_velocity": false,
+      "volume": 1,
+      "delay": 0,
+      "random_pitch_min": 0,
+      "random_pitch_max": 0,
+      "audio_priority": 100,
+      "audio_clip_path": [
+        "SFX_Common_SMG_CH0252_Reload_01",
+        "SFX_Common_SMG_CH0252_Reload_02",
+        "SFX_Common_SMG_CH0252_Reload_03"
+      ],
+      "voice_hash": []
+    },
+    {
       "controller_name_hash": 1200975291,
       "voice_name_prefix": "CH0288_Controller",
       "state_name_hash": 1047306432,

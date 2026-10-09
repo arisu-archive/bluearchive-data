@@ -167929,6 +167929,1110 @@
       ]
     },
     {
+      "character_voice_unique_id": 1015201,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2912289258,
+      "only_one": true,
+      "priority": 43,
+      "display_order": 740,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Buffed_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Buffed_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015202,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1032352613,
+      "only_one": false,
+      "priority": 43,
+      "display_order": 750,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_BuffSelf_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_BuffSelf_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015203,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3089029645,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 790,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Covered_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Covered_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015204,
+      "character_voice_group_id": 10152,
+      "voice_hash": 623303106,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 560,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015205,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2787746610,
+      "only_one": true,
+      "priority": 45,
+      "display_order": 670,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015206,
+      "character_voice_group_id": 10152,
+      "voice_hash": 123827363,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 570,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015207,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3464738451,
+      "only_one": true,
+      "priority": 45,
+      "display_order": 680,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015208,
+      "character_voice_group_id": 10152,
+      "voice_hash": 247975840,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 580,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015209,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1557567302,
+      "only_one": true,
+      "priority": 45,
+      "display_order": 690,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Damage_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Damage_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015210,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1205704054,
+      "only_one": false,
+      "priority": 43,
+      "display_order": 730,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Defense_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Defense_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015211,
+      "character_voice_group_id": 10152,
+      "voice_hash": 595815669,
+      "only_one": true,
+      "priority": 41,
+      "display_order": 100,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Battle_In_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_In_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015212,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2303280336,
+      "only_one": true,
+      "priority": 41,
+      "display_order": 110,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Battle_In_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_In_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015213,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2431507093,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 770,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Move_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Move_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015214,
+      "character_voice_group_id": 10152,
+      "voice_hash": 526540864,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 780,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Move_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Move_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015215,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1357528757,
+      "only_one": true,
+      "priority": 43,
+      "display_order": 510,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Recovery_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Recovery_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015216,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3436375298,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 600,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Retire",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Retire"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015217,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2301418707,
+      "only_one": false,
+      "priority": 44,
+      "display_order": 610,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Shout_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Shout_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015218,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1176449976,
+      "only_one": false,
+      "priority": 44,
+      "display_order": 620,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Shout_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Shout_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015219,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1214175215,
+      "only_one": false,
+      "priority": 44,
+      "display_order": 630,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Battle_Shout_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Shout_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015220,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3028719901,
+      "only_one": false,
+      "priority": 43,
+      "display_order": 760,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_TacticalAction_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_TacticalAction_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015221,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3858814123,
+      "only_one": true,
+      "priority": 45,
+      "display_order": 520,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Victory_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Victory_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015222,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1845013977,
+      "only_one": true,
+      "priority": 45,
+      "display_order": 530,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_Battle_Victory_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Battle_Victory_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015223,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4233706491,
+      "only_one": false,
+      "priority": 41,
+      "display_order": 540,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 5,
+      "localize_cv_group": "CVGroup_CommonSkill",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_CommonSkill"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015224,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4146292030,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1010,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015225,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3379910025,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1020,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015226,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2612047747,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1030,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015227,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2885403546,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1070,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_Level_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015228,
+      "character_voice_group_id": 10152,
+      "voice_hash": 210825593,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1080,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_Level_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015229,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3888193453,
+      "only_one": false,
+      "priority": 0,
+      "display_order": 1090,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 10,
+      "localize_cv_group": "CVGroup_ExSkill_Level_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_ExSkill_Level_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015230,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4150713884,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 10,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_In_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Formation_In_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015231,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4256475579,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 20,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_In_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Formation_In_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015232,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1684012410,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 30,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Formation_Select",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Formation_Select"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015233,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1033179744,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2510,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Growup_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015234,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1906069564,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2520,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Growup_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015235,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2472902199,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2530,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Growup_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015236,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1307556246,
+      "only_one": false,
+      "priority": 45,
+      "display_order": 2540,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 25,
+      "localize_cv_group": "CVGroup_Growup_4",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Growup_4"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015237,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3594429235,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2010,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Relationship_Up_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015238,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4175693505,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2020,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Relationship_Up_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015239,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3871306021,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2030,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_3",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Relationship_Up_3"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015240,
+      "character_voice_group_id": 10152,
+      "voice_hash": 4161944674,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 2040,
+      "collection_visible": true,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 20,
+      "localize_cv_group": "CVGroup_Relationship_Up_4",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Relationship_Up_4"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015241,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2755408174,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 80,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Tactic_Defeat_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_Defeat_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015242,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1802513090,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 90,
+      "collection_visible": false,
+      "cv_collection_type": 0,
+      "unlock_favor_rank": 0,
+      "localize_cv_group": "CVGroup_Tactic_Defeat_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_Defeat_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015243,
+      "character_voice_group_id": 10152,
+      "voice_hash": 3918369306,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 40,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Tactic_In_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_In_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015244,
+      "character_voice_group_id": 10152,
+      "voice_hash": 538263194,
+      "only_one": false,
+      "priority": 40,
+      "display_order": 50,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Tactic_In_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_In_2"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015245,
+      "character_voice_group_id": 10152,
+      "voice_hash": 1167879195,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 60,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Tactic_Victory_1",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_Victory_1"
+      ]
+    },
+    {
+      "character_voice_unique_id": 1015246,
+      "character_voice_group_id": 10152,
+      "voice_hash": 2147520578,
+      "only_one": true,
+      "priority": 40,
+      "display_order": 70,
+      "collection_visible": true,
+      "cv_collection_type": 2,
+      "unlock_favor_rank": 1,
+      "localize_cv_group": "CVGroup_Tactic_Victory_2",
+      "nation": [
+        1
+      ],
+      "volume": [
+        1
+      ],
+      "delay": [
+        0
+      ],
+      "path": [
+        "Audio/VOC_JP/JP_CH0252/CH0252_Tactic_Victory_2"
+      ]
+    },
+    {
       "character_voice_unique_id": 1300001,
       "character_voice_group_id": 13000,
       "voice_hash": 2912289258,
