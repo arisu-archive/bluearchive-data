@@ -6560,6 +6560,46 @@
       "shop_update_group_id": 0
     },
     {
+      "id": 20264,
+      "localize_etc_id": 4161546442,
+      "category_type": 1,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        20264
+      ],
+      "display_order": 999,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 900,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 20265,
+      "localize_etc_id": 211216920,
+      "category_type": 1,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        20265
+      ],
+      "display_order": 999,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 900,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
       "id": 50000,
       "localize_etc_id": 753025034,
       "category_type": 21,
@@ -130165,6 +130205,49 @@
         90010559,
         90010560,
         90010561
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 90010281,
+      "localize_etc_id": 3308377822,
+      "category_type": 12,
+      "is_legacy": false,
+      "use_big_popup": false,
+      "goods_id": [
+        90010562,
+        90010563
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false,
+      "display_tag": 0,
+      "shop_update_group_id": 0
+    },
+    {
+      "id": 90016000,
+      "localize_etc_id": 1336178018,
+      "category_type": 12,
+      "is_legacy": false,
+      "use_big_popup": true,
+      "goods_id": [
+        900101900,
+        900101901,
+        900101902
       ],
       "display_order": 1,
       "sale_period_from": "",
