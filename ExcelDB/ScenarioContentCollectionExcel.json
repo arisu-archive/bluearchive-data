@@ -239,6 +239,26 @@
       "full_resource_scale": 0.85,
       "localize_etc_id": 16626884,
       "sub_name_localize_code_id": ""
+    },
+    {
+      "id": 20002,
+      "group_id": 2,
+      "unlock_condition_type": 10,
+      "unlock_condition_parameter": [
+        90102110
+      ],
+      "multiple_condition_check_type": 1,
+      "unlock_condition_count": 1,
+      "is_object": true,
+      "is_horizon": false,
+      "emblem_resource": "",
+      "thumb_resource": "UIs/01_Common/56_SpecialOperation_Series2/portrait/Portrait_Lore_03",
+      "full_resource": "UIs/01_Common/56_SpecialOperation_Series2/Collection_Portrait_Lore_03",
+      "full_resource_pos_x": -370,
+      "full_resource_pos_y": -28,
+      "full_resource_scale": 1.4,
+      "localize_etc_id": 3959110177,
+      "sub_name_localize_code_id": ""
     }
   ]
 }
