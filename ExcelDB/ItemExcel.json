@@ -13057,6 +13057,47 @@
       "shifting_craft_recipe": 0
     },
     {
+      "id": 91000055,
+      "group_id": 91000055,
+      "rarity": 3,
+      "production_step": 3,
+      "localize_etc_id": 3969505158,
+      "item_category": 6,
+      "quality": 4,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_SSR_GL_22",
+      "sprite_name": "",
+      "stackable_max": 999999,
+      "stackable_function": 20,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 0,
+      "expiry_change_parcel_type": 0,
+      "expiry_change_id": 0,
+      "expiry_change_amount": 0,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [
+        108,
+        109
+      ],
+      "is_collaboration": true,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 3,
+      "shop_category": [],
+      "expiration_date_time": "",
+      "expiration_notify_date_in": 0,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
       "id": 6000,
       "group_id": 6000,
       "rarity": 3,
@@ -23151,7 +23192,8 @@
       "shifting_craft_quality": 0,
       "max_gift_tags": 0,
       "shop_category": [
-        1
+        1,
+        20
       ],
       "expiration_date_time": "",
       "expiration_notify_date_in": 0,
@@ -45427,6 +45469,82 @@
       "shifting_craft_recipe": 0
     },
     {
+      "id": 90070176,
+      "group_id": 90070176,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 3308377822,
+      "item_category": 7,
+      "quality": 2,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+      "sprite_name": "",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 4,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-03 11:00:00",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 90070177,
+      "group_id": 90070177,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 3308377822,
+      "item_category": 7,
+      "quality": 2,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+      "sprite_name": "",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 4,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-10 11:00:00",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
       "id": 90076000,
       "group_id": 90076000,
       "rarity": 0,
@@ -45533,6 +45651,44 @@
       "max_gift_tags": 0,
       "shop_category": [],
       "expiration_date_time": "2026-05-12 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 90078001,
+      "group_id": 90078001,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 2814968857,
+      "item_category": 7,
+      "quality": 2,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_2",
+      "sprite_name": "",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 4,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-03 10:59:59",
       "expiration_notify_date_in": 1,
       "is_override_expiration": false,
       "shortcut_type_id": 0,
@@ -57357,6 +57513,44 @@
       "shifting_craft_recipe": 0
     },
     {
+      "id": 80850,
+      "group_id": 80850,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 4287098248,
+      "item_category": 0,
+      "quality": 1,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_60000",
+      "sprite_name": "Common_Icon_Event_Token_0_60000",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 2,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-17 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
       "id": 85000,
       "group_id": 85000,
       "rarity": 0,
@@ -63871,6 +64065,158 @@
       "max_gift_tags": 0,
       "shop_category": [],
       "expiration_date_time": "2026-10-20 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 85410,
+      "group_id": 85410,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 2663393436,
+      "item_category": 0,
+      "quality": 1,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S48",
+      "sprite_name": "Common_Icon_Event_Token_0_S48",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 2,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-17 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 85411,
+      "group_id": 85411,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 2161564079,
+      "item_category": 0,
+      "quality": 2,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S48",
+      "sprite_name": "Common_Icon_Event_Token_1_S48",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 2,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-17 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 85412,
+      "group_id": 85412,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 926350146,
+      "item_category": 0,
+      "quality": 3,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S48",
+      "sprite_name": "Common_Icon_Event_Token_2_S48",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 2,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-17 10:59:59",
+      "expiration_notify_date_in": 1,
+      "is_override_expiration": false,
+      "shortcut_type_id": 0,
+      "gacha_ticket": 0,
+      "alert_popup_id": 0,
+      "shifting_craft_recipe": 0
+    },
+    {
+      "id": 85413,
+      "group_id": 85413,
+      "rarity": 0,
+      "production_step": 3,
+      "localize_etc_id": 3050818841,
+      "item_category": 0,
+      "quality": 4,
+      "icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S48",
+      "sprite_name": "Common_Icon_Event_Token_3_S48",
+      "stackable_max": 999999,
+      "stackable_function": 0,
+      "immediate_use": false,
+      "using_result_parcel_type": 0,
+      "using_result_id": 0,
+      "using_result_amount": 0,
+      "mail_type": 10,
+      "expiry_change_parcel_type": 2,
+      "expiry_change_id": 1,
+      "expiry_change_amount": 1,
+      "can_tier_upgrade": false,
+      "tier_upgrade_recipe_craft_id": 0,
+      "tags": [],
+      "is_collaboration": false,
+      "craft_quality_tier0": 0,
+      "craft_quality_tier1": 0,
+      "craft_quality_tier2": 0,
+      "shifting_craft_quality": 0,
+      "max_gift_tags": 0,
+      "shop_category": [],
+      "expiration_date_time": "2026-11-17 10:59:59",
       "expiration_notify_date_in": 1,
       "is_override_expiration": false,
       "shortcut_type_id": 0,
@@ -81156,7 +81502,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81194,7 +81542,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81232,7 +81582,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81270,7 +81622,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81308,7 +81662,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81346,7 +81702,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81384,7 +81742,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81422,7 +81782,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81460,7 +81822,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81498,7 +81862,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81536,7 +81902,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81574,7 +81942,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81612,7 +81982,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81730,7 +82102,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81768,7 +82142,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81806,7 +82182,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81844,7 +82222,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81882,7 +82262,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81920,7 +82302,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81958,7 +82342,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -81996,7 +82382,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82034,7 +82422,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82072,7 +82462,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82110,7 +82502,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82148,7 +82542,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82186,7 +82582,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82224,7 +82622,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82262,7 +82662,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82300,7 +82702,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82338,7 +82742,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82376,7 +82782,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82414,7 +82822,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82452,7 +82862,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82490,7 +82902,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82528,7 +82942,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82566,7 +82982,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82604,7 +83022,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82642,7 +83062,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82680,7 +83102,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82718,7 +83142,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82756,7 +83182,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82794,7 +83222,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82832,7 +83262,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82870,7 +83302,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82908,7 +83342,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82946,7 +83382,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -82984,7 +83422,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83022,7 +83462,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83060,7 +83502,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83098,7 +83542,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83136,7 +83582,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83174,7 +83622,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83212,7 +83662,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83250,7 +83702,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83288,7 +83742,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83446,7 +83902,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83484,7 +83942,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83682,7 +84142,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83720,7 +84182,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83758,7 +84222,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83796,7 +84262,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83834,7 +84302,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83872,7 +84342,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83910,7 +84382,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83948,7 +84422,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -83986,7 +84462,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -84024,7 +84502,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -84062,7 +84542,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -84100,7 +84582,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -84138,7 +84622,9 @@
       "expiry_change_amount": 0,
       "can_tier_upgrade": false,
       "tier_upgrade_recipe_craft_id": 0,
-      "tags": [],
+      "tags": [
+        775
+      ],
       "is_collaboration": false,
       "craft_quality_tier0": 0,
       "craft_quality_tier1": 0,
@@ -84187,7 +84673,7 @@
       "max_gift_tags": 0,
       "shop_category": [],
       "expiration_date_time": "2026-08-31 23:59:59",
-      "expiration_notify_date_in": 0,
+      "expiration_notify_date_in": 3,
       "is_override_expiration": false,
       "shortcut_type_id": 0,
       "gacha_ticket": 4,
@@ -84227,7 +84713,7 @@
       "max_gift_tags": 0,
       "shop_category": [],
       "expiration_date_time": "2026-09-30 23:59:59",
-      "expiration_notify_date_in": 0,
+      "expiration_notify_date_in": 3,
       "is_override_expiration": false,
       "shortcut_type_id": 0,
       "gacha_ticket": 4,
@@ -84267,7 +84753,7 @@
       "max_gift_tags": 0,
       "shop_category": [],
       "expiration_date_time": "2026-11-10 04:00:00",
-      "expiration_notify_date_in": 0,
+      "expiration_notify_date_in": 3,
       "is_override_expiration": false,
       "shortcut_type_id": 0,
       "gacha_ticket": 4,
