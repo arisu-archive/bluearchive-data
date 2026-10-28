@@ -1,0 +1,235 @@
+{
+  "data_list": [
+    {
+      "event_content_id": 864,
+      "stage_id": 1,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage1",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 400000,
+      "rival_rush_distance": 100000,
+      "rival_character_id": [],
+      "rival_vanish_time": 15000,
+      "rival_interval": 200000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        1,
+        3
+      ],
+      "item_create_distance": [
+        100000,
+        200000
+      ],
+      "item_interval": [
+        40000,
+        200000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 2,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage2",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 550000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        16
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 190000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        1,
+        2
+      ],
+      "item_create_distance": [
+        100000,
+        200000
+      ],
+      "item_interval": [
+        40000,
+        190000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 3,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage3",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 660000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        16
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 190000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        6,
+        2
+      ],
+      "item_create_distance": [
+        100000,
+        200000
+      ],
+      "item_interval": [
+        60000,
+        170000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 4,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage4",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 750000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        16
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 150000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        1,
+        2
+      ],
+      "item_create_distance": [
+        20000,
+        200000
+      ],
+      "item_interval": [
+        60000,
+        180000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 5,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage5",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 650000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        17
+      ],
+      "rival_vanish_time": 10000,
+      "rival_interval": 150000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        4,
+        5,
+        3
+      ],
+      "item_create_distance": [
+        100000,
+        91000,
+        123000
+      ],
+      "item_interval": [
+        60000,
+        150000,
+        150000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 6,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage6",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 665000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        17,
+        18
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 180000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        6,
+        7
+      ],
+      "item_create_distance": [
+        100000,
+        200000
+      ],
+      "item_interval": [
+        60000,
+        180000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 7,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage7",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 750000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        17,
+        18
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 180000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        1,
+        2
+      ],
+      "item_create_distance": [
+        20000,
+        200000
+      ],
+      "item_interval": [
+        60000,
+        180000
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "stage_id": 8,
+      "art_level": "Minigame/TankRacing/ArtLevel/stage8",
+      "bgm_id": 260,
+      "first_pattern_distance": 10000,
+      "goal_create_distance": 650000,
+      "rival_rush_distance": 60000,
+      "rival_character_id": [
+        18,
+        17
+      ],
+      "rival_vanish_time": 15000,
+      "rival_interval": 150000,
+      "min_vertical_spacing": 2500,
+      "max_vertical_spacing": 5000,
+      "item_id": [
+        6,
+        7,
+        3
+      ],
+      "item_create_distance": [
+        100000,
+        160000,
+        192000
+      ],
+      "item_interval": [
+        60000,
+        135000,
+        9999999999
+      ]
+    }
+  ]
+}

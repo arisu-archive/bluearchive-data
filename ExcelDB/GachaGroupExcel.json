@@ -691,6 +691,12 @@
       "group_type": 1
     },
     {
+      "id": 2125,
+      "name_kr": "오디세이아 여객선 - 가구 컨셉",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 3000,
       "name_kr": "3차 노드용 백귀야행",
       "is_recursive": false,
@@ -1832,7 +1838,7 @@
     },
     {
       "id": 100023,
-      "name_kr": "1_1차 픽업 SSR 안나",
+      "name_kr": "1_1차 픽업 SSR 한정_히후미(레이싱)",
       "is_recursive": false,
       "group_type": 1
     },
@@ -1880,445 +1886,13 @@
     },
     {
       "id": 100043,
-      "name_kr": "1_2차 픽업 SSR 에리나",
+      "name_kr": "1_2차 픽업 SSR 아즈사(레이싱)",
       "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 100044,
       "name_kr": "1_2차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110010,
-      "name_kr": "2_1차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110011,
-      "name_kr": "2_1차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110012,
-      "name_kr": "2_1차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110013,
-      "name_kr": "2_1차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110019,
-      "name_kr": "2_1차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110022,
-      "name_kr": "2_1차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110023,
-      "name_kr": "2_1차 픽업 SSR 츠무기",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110024,
-      "name_kr": "2_1차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110030,
-      "name_kr": "2_2차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110031,
-      "name_kr": "2_2차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110032,
-      "name_kr": "2_2차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110033,
-      "name_kr": "2_2차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110039,
-      "name_kr": "2_2차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110042,
-      "name_kr": "2_2차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110043,
-      "name_kr": "2_2차 픽업 SSR 에리",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110044,
-      "name_kr": "2_2차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110050,
-      "name_kr": "2_3차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110051,
-      "name_kr": "2_3차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110052,
-      "name_kr": "2_3차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110053,
-      "name_kr": "2_3차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110059,
-      "name_kr": "2_3차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110062,
-      "name_kr": "2_3차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110063,
-      "name_kr": "2_3차 픽업 SSR 카노에",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110064,
-      "name_kr": "2_3차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110070,
-      "name_kr": "2_4차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110071,
-      "name_kr": "2_4차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110072,
-      "name_kr": "2_4차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110073,
-      "name_kr": "2_4차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110079,
-      "name_kr": "2_4차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110082,
-      "name_kr": "2_4차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110083,
-      "name_kr": "2_4차 픽업 SSR 미야코(수영복)",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110084,
-      "name_kr": "2_4차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110090,
-      "name_kr": "2_5차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110091,
-      "name_kr": "2_5차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110092,
-      "name_kr": "2_5차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110093,
-      "name_kr": "2_5차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110099,
-      "name_kr": "2_5차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 110102,
-      "name_kr": "2_5차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110103,
-      "name_kr": "2_5차 픽업 SSR 사키(수영복)",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 110104,
-      "name_kr": "2_5차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120010,
-      "name_kr": "3_1차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120011,
-      "name_kr": "3_1차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120012,
-      "name_kr": "3_1차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120013,
-      "name_kr": "3_1차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120019,
-      "name_kr": "3_1차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120022,
-      "name_kr": "3_1차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120023,
-      "name_kr": "3_1차 픽업 SSR 마리나(치파오)",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120024,
-      "name_kr": "3_1차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120030,
-      "name_kr": "3_2차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120031,
-      "name_kr": "3_2차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120032,
-      "name_kr": "3_2차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120033,
-      "name_kr": "3_2차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120039,
-      "name_kr": "3_2차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120042,
-      "name_kr": "3_2차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120043,
-      "name_kr": "3_2차 픽업 SSR 토모에(치파오)",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120044,
-      "name_kr": "3_2차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120050,
-      "name_kr": "3_3차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120051,
-      "name_kr": "3_3차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120052,
-      "name_kr": "3_3차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120053,
-      "name_kr": "3_3차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120059,
-      "name_kr": "3_3차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120062,
-      "name_kr": "3_3차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120063,
-      "name_kr": "3_3차 픽업 SSR 칸나",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120064,
-      "name_kr": "3_3차 픽업 반천장",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120070,
-      "name_kr": "3_4차 픽업",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120071,
-      "name_kr": "3_4차 픽업 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120072,
-      "name_kr": "3_4차 픽업 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120073,
-      "name_kr": "3_4차 픽업 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120079,
-      "name_kr": "3_4차 픽업 SR + SSR (10번째)",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 120082,
-      "name_kr": "3_4차 픽업 SR 더미",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120083,
-      "name_kr": "3_4차 픽업 SSR 노아",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 120084,
-      "name_kr": "3_4차 픽업 반천장",
       "is_recursive": true,
       "group_type": 1
     },
@@ -8047,6 +7621,12 @@
       "group_type": 1
     },
     {
+      "id": 360260,
+      "name_kr": "R97_복각_와일드헌트특수교역부_이벤트_카드상점_만능설계도랜덤상자",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 400001,
       "name_kr": "R56_미니이벤트_장비랜덤상자 - 랜덤 장비 상자 2티어",
       "is_recursive": false,
@@ -8367,6 +7947,84 @@
     {
       "id": 500200,
       "name_kr": "스테이지 통합 가챠 박스 - 만능 설계도",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500310,
+      "name_kr": "택티컬릴레이BETA상점 - 하급 전술교육BD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500311,
+      "name_kr": "택티컬릴레이BETA상점 - 일반 전술교육BD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500312,
+      "name_kr": "택티컬릴레이BETA상점 - 상급 전술교육BD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500313,
+      "name_kr": "택티컬릴레이BETA상점 - 최상급 전술교육BD 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500320,
+      "name_kr": "택티컬릴레이BETA상점 - 하급 기술노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500321,
+      "name_kr": "택티컬릴레이BETA상점 - 일반 기술노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500322,
+      "name_kr": "택티컬릴레이BETA상점 - 상급 기술노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500323,
+      "name_kr": "택티컬릴레이BETA상점 - 최상급 기술노트 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500330,
+      "name_kr": "택티컬릴레이BETA상점 - 하급 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500331,
+      "name_kr": "택티컬릴레이BETA상점 - 일반 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500332,
+      "name_kr": "택티컬릴레이BETA상점 - 상급 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500333,
+      "name_kr": "택티컬릴레이BETA상점 - 최상급 오파츠 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
+      "id": 500340,
+      "name_kr": "택티컬릴레이BETA상점 - 랜덤 만능 설계도 상자",
       "is_recursive": false,
       "group_type": 1
     },
@@ -8851,66 +8509,6 @@
       "group_type": 1
     },
     {
-      "id": 700030,
-      "name_kr": "2차_3성 모집 상점 기본",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 700031,
-      "name_kr": "2차_3성 모집 상점 기본 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700032,
-      "name_kr": "2차_3성 모집 상점 기본 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700033,
-      "name_kr": "2차_3성 모집 상점 기본 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700041,
-      "name_kr": "2차_3성 모집 상점 확정 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700050,
-      "name_kr": "3차_3성 모집 상점 기본",
-      "is_recursive": true,
-      "group_type": 1
-    },
-    {
-      "id": 700051,
-      "name_kr": "3차_3성 모집 상점 기본 R",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700052,
-      "name_kr": "3차_3성 모집 상점 기본 SR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700053,
-      "name_kr": "3차_3성 모집 상점 기본 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
-      "id": 700061,
-      "name_kr": "3차_3성 모집 상점 확정 SSR",
-      "is_recursive": false,
-      "group_type": 1
-    },
-    {
       "id": 800000,
       "name_kr": "제조2호기 투입용 - 기초 기술 노트 랜덤권",
       "is_recursive": false,
@@ -9139,6 +8737,12 @@
       "group_type": 1
     },
     {
+      "id": 801026,
+      "name_kr": "제조2호기 투입용 - 가구 (오디세이아 여객선) 랜덤권",
+      "is_recursive": false,
+      "group_type": 1
+    },
+    {
       "id": 801991,
       "name_kr": "제조2호기 투입용 - 가구 1성 랜덤권",
       "is_recursive": false,
@@ -9169,27 +8773,33 @@
       "group_type": 3
     },
     {
+      "id": 850001,
+      "name_kr": "가구 프리셋 패키지 - 오디세이아 여객선 가구 상자",
+      "is_recursive": false,
+      "group_type": 3
+    },
+    {
       "id": 900022,
       "name_kr": "3성 확정 속성 1회 모집 - 폭발 SSR 확정",
-      "is_recursive": true,
+      "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 900042,
       "name_kr": "3성 확정 속성 1회 모집 - 관통 SSR 확정",
-      "is_recursive": true,
+      "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 900062,
       "name_kr": "3성 확정 속성 1회 모집 - 신비 SSR 확정",
-      "is_recursive": true,
+      "is_recursive": false,
       "group_type": 1
     },
     {
       "id": 900070,
       "name_kr": "3성 확정 속성 1회 모집 - 진동 SSR 확정",
-      "is_recursive": true,
+      "is_recursive": false,
       "group_type": 1
     },
     {
@@ -9203,6 +8813,12 @@
       "name_kr": "제작된 어른의 카드 보상용 꾸러미 보상",
       "is_recursive": false,
       "group_type": 3
+    },
+    {
+      "id": 1300010,
+      "name_kr": "3성 미보유 학생 확정 모집",
+      "is_recursive": false,
+      "group_type": 1
     },
     {
       "id": 6000090,

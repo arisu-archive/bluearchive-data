@@ -204,27 +204,6 @@
       "mail": false
     },
     {
-      "protocol": "Echelon_PresetList",
-      "open_condition_content": 21,
-      "currency": false,
-      "inventory": false,
-      "mail": false
-    },
-    {
-      "protocol": "Echelon_PresetSave",
-      "open_condition_content": 21,
-      "currency": false,
-      "inventory": false,
-      "mail": false
-    },
-    {
-      "protocol": "Echelon_PresetGroupRename",
-      "open_condition_content": 21,
-      "currency": false,
-      "inventory": false,
-      "mail": false
-    },
-    {
       "protocol": "Campaign_EnterMainStage",
       "open_condition_content": 28,
       "currency": false,
@@ -583,6 +562,13 @@
     },
     {
       "protocol": "Shop_GachaWishListBuy",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "Shop_UnownedStudentTicketGachaBuy",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -2470,6 +2456,41 @@
       "currency": false,
       "inventory": false,
       "mail": true
+    },
+    {
+      "protocol": "MiniGame_TankRaceLobby",
+      "open_condition_content": 29,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_TankRaceEndStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_TankRaceLevelUp",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_TankRaceSweep",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_TankRaceEndFreeStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
     },
     {
       "protocol": "Notification_LobbyCheck",

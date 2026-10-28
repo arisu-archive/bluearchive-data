@@ -1,0 +1,212 @@
+{
+  "data_list": [
+    {
+      "event_content_id": 864,
+      "unique_id": 1,
+      "stage_number": 1,
+      "name": 2335774350,
+      "stage_type": 1,
+      "prev_stage_id": 0,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864201,
+      "star_goal": [
+        2,
+        4,
+        8
+      ],
+      "star_goal_amount": [
+        1,
+        120,
+        400000
+      ],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 2,
+      "stage_number": 2,
+      "name": 3252177733,
+      "stage_type": 1,
+      "prev_stage_id": 1,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864202,
+      "star_goal": [
+        2,
+        4,
+        8
+      ],
+      "star_goal_amount": [
+        1,
+        120,
+        800000
+      ],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 3,
+      "stage_number": 3,
+      "name": 2010937817,
+      "stage_type": 1,
+      "prev_stage_id": 2,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864203,
+      "star_goal": [
+        2,
+        4,
+        8
+      ],
+      "star_goal_amount": [
+        1,
+        120,
+        1000000
+      ],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 4,
+      "stage_number": 4,
+      "name": 1017357554,
+      "stage_type": 2,
+      "prev_stage_id": 3,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864204,
+      "star_goal": [
+        2,
+        4,
+        9
+      ],
+      "star_goal_amount": [
+        1,
+        100,
+        4
+      ],
+      "boss_entry_player_tank_group_ids": [
+        1,
+        2,
+        3
+      ],
+      "boss_entry_boss_group_ids": [
+        6,
+        4,
+        6
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 5,
+      "stage_number": 5,
+      "name": 4040681622,
+      "stage_type": 1,
+      "prev_stage_id": 4,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864205,
+      "star_goal": [
+        2,
+        4,
+        8
+      ],
+      "star_goal_amount": [
+        1,
+        120,
+        1000000
+      ],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 6,
+      "stage_number": 6,
+      "name": 1601675571,
+      "stage_type": 1,
+      "prev_stage_id": 5,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864206,
+      "star_goal": [
+        2,
+        4,
+        8
+      ],
+      "star_goal_amount": [
+        1,
+        120,
+        1000000
+      ],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 7,
+      "stage_number": 7,
+      "name": 970873449,
+      "stage_type": 2,
+      "prev_stage_id": 6,
+      "stage_duration": 180000,
+      "cost_parcel_type": 4,
+      "cost_parcel_id": 80910,
+      "cost_parcel_amount": 400,
+      "reward_group_id": 100864207,
+      "star_goal": [
+        2,
+        4,
+        9
+      ],
+      "star_goal_amount": [
+        1,
+        100,
+        4
+      ],
+      "boss_entry_player_tank_group_ids": [
+        1,
+        2,
+        3
+      ],
+      "boss_entry_boss_group_ids": [
+        9,
+        9,
+        5
+      ]
+    },
+    {
+      "event_content_id": 864,
+      "unique_id": 8,
+      "stage_number": 8,
+      "name": 608350469,
+      "stage_type": 3,
+      "prev_stage_id": 7,
+      "stage_duration": 180000,
+      "cost_parcel_type": 0,
+      "cost_parcel_id": 0,
+      "cost_parcel_amount": 0,
+      "reward_group_id": 0,
+      "star_goal": [],
+      "star_goal_amount": [],
+      "boss_entry_player_tank_group_ids": [],
+      "boss_entry_boss_group_ids": []
+    }
+  ]
+}

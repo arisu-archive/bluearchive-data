@@ -4,7 +4,13 @@
       "use_search_field_optimize": true,
       "search_update_time": 0.1,
       "lobby_day_time_from": 7,
-      "lobby_night_time_from": 19
+      "lobby_night_time_from": 19,
+      "character_usage_raid_recent_season": 0,
+      "character_usage_eliminate_raid_recent_season": 0,
+      "character_usage_min_sample_difficulty": 0,
+      "character_usage_min_account_sample_count": 0,
+      "character_usage_raw_data_retention_in_days": 0,
+      "character_usage_aggregate_cycle_in_hours": 0
     }
   ]
 }

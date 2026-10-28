@@ -232,10 +232,13 @@
       "expiry_streak_record_item_receive_day": 7,
       "expiry_season_record_item_receive_day": 7,
       "engrave_contents_is_open": false,
-      "tactical_relay_contents_is_open": false,
+      "tactical_relay_contents_is_open": true,
       "ex_skill_level_max_by_engrave": 0,
       "ex_skill_upgrade_level_max": 5,
-      "raid_reset_count": 1
+      "raid_reset_count": 1,
+      "gacha_history_count": 1000,
+      "gacha_history_time_to_live_in_days": 1,
+      "product_monthly_extension_lookback_days": 7
     }
   ]
 }

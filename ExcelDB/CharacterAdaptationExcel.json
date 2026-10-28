@@ -1,3 +1,36 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "season_id": 1,
+      "adaptation_character_id": 10006,
+      "choose_btn_path": "UIs/01_Common/01_Character/CharacterAdaptation_ChooseBtn_Iori",
+      "progress_order": 1,
+      "adaptation_mission_step_count": 6,
+      "character_step_growth_group_id": 1
+    },
+    {
+      "season_id": 1,
+      "adaptation_character_id": 10000,
+      "choose_btn_path": "UIs/01_Common/01_Character/CharacterAdaptation_ChooseBtn_Aru",
+      "progress_order": 2,
+      "adaptation_mission_step_count": 6,
+      "character_step_growth_group_id": 2
+    },
+    {
+      "season_id": 1,
+      "adaptation_character_id": 20000,
+      "choose_btn_path": "UIs/01_Common/01_Character/CharacterAdaptation_ChooseBtn_Hibiki",
+      "progress_order": 3,
+      "adaptation_mission_step_count": 6,
+      "character_step_growth_group_id": 3
+    },
+    {
+      "season_id": 1,
+      "adaptation_character_id": 10024,
+      "choose_btn_path": "UIs/01_Common/01_Character/CharacterAdaptation_ChooseBtn_Shiroko_RidingSuit",
+      "progress_order": 4,
+      "adaptation_mission_step_count": 6,
+      "character_step_growth_group_id": 4
+    }
+  ]
 }
