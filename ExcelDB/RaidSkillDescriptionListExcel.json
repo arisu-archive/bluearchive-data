@@ -6610,18 +6610,373 @@
     },
     {
       "boss_group": "EN0023",
-      "difficulty": "Lunatic",
-      "phase_name_override_key": "",
+      "difficulty": "Normal",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
       "skill_group_id": [
-        "EN0022MainHPPassive01_Insane"
+        "EN0023NormalCorePassive02",
+        "EN0023NormalPassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023NormalMonkeyA1Ex01",
+        "EN0023NormalMonkeyA1Ex02",
+        "EN0023NormalCoreEx01",
+        "EN0023NormalCoreEx02",
+        "EN0023NormalBrakeLeverPublic03"
       ],
       "skill_use_phase": [
-        0
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
       ],
       "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
         3
       ],
       "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Hard",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023NormalCorePassive02",
+        "EN0023NormalPassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023NormalMonkeyA1Ex01",
+        "EN0023NormalMonkeyA1Ex02",
+        "EN0023NormalCoreEx01",
+        "EN0023NormalCoreEx02",
+        "EN0023HardBrakeLeverPublic03"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "VeryHard",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023NormalCorePassive02",
+        "EN0023NormalPassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023NormalMonkeyA1Ex01",
+        "EN0023NormalMonkeyA1Ex02",
+        "EN0023NormalCoreEx01",
+        "EN0023NormalCoreEx02",
+        "EN0023VeryHardBrakeLeverPublic03"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Hardcore",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023NormalCorePassive02",
+        "EN0023NormalPassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023NormalMonkeyA1Ex01",
+        "EN0023NormalMonkeyA1Ex02",
+        "EN0023NormalCoreEx01",
+        "EN0023NormalCoreEx02",
+        "EN0023HardcoreBrakeLeverPublic03"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Extreme",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023NormalCorePassive02",
+        "EN0023NormalPassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023NormalMonkeyA1Ex01",
+        "EN0023NormalMonkeyA1Ex02",
+        "EN0023NormalCoreEx01",
+        "EN0023NormalCoreEx02",
+        "EN0023ExtremeBrakeLeverPublic03"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Insane",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023InsaneCorePassive02",
+        "EN0023InsanePassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023InsaneMonkeyA1Ex01",
+        "EN0023InsaneMonkeyA1Ex02",
+        "EN0023InsaneCoreEx01",
+        "EN0023InsaneCoreEx02",
+        "EN0023InsaneBrakeLeverPublic03",
+        "EN0023InsaneCorePassive01"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Torment",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023InsaneCorePassive02",
+        "EN0023InsanePassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023InsaneMonkeyA1Ex01",
+        "EN0023InsaneMonkeyA1Ex02",
+        "EN0023InsaneCoreEx01",
+        "EN0023TormentCoreEx02",
+        "EN0023TormentBrakeLeverPublic03",
+        "EN0023TormentCorePassive01"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "boss_group": "EN0023",
+      "difficulty": "Lunatic",
+      "phase_name_override_key": "0:Boss_PhaseLabel_Common, 1:PhaseLabel_Monkey, 2:PhaseLabel_Core",
+      "skill_group_id": [
+        "EN0023LunaticCorePassive02",
+        "EN0023InsanePassive03",
+        "EN0023MonkeyTotalHPPassive01",
+        "EN0023LunaticMonkeyA1Ex01",
+        "EN0023LunaticMonkeyA1Ex02",
+        "EN0023LunaticCoreEx01",
+        "EN0023LunaticCoreEx02",
+        "EN0023LunaticBrakeLeverPublic03",
+        "EN0023LunaticCorePassive01"
+      ],
+      "skill_use_phase": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "show_skill_slot": [
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3
+      ],
+      "highlight_resource": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0
       ]
     },

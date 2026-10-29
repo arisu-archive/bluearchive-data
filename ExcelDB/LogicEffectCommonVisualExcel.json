@@ -4558,6 +4558,44 @@
       "particle_apply_socket": 0,
       "particle_removed_path": "",
       "particle_removed_socket": 0
+    },
+    {
+      "string_id": 3631912299,
+      "icon_sprite_name": "Combat_Icon_Special_EN0023",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
+    },
+    {
+      "string_id": 2646412439,
+      "icon_sprite_name": "Combat_Icon_Special_CH0379_ExtraPassive",
+      "icon_dispel_color": [
+        1,
+        0.784,
+        0.196
+      ],
+      "particle_enter_path": "",
+      "particle_enter_socket": 0,
+      "particle_loop_path": "",
+      "particle_loop_socket": 0,
+      "particle_end_path": "",
+      "particle_end_socket": 0,
+      "particle_apply_path": "",
+      "particle_apply_socket": 0,
+      "particle_removed_path": "",
+      "particle_removed_socket": 0
     }
   ]
 }

@@ -26813,6 +26813,434 @@
       "reward_amount": [
         10
       ]
+    },
+    {
+      "id": 955,
+      "event_content_id": 864,
+      "return_scenario_play": true,
+      "replay_display_group": 63,
+      "order": 1,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058005
+      ],
+      "scenario_condition_type": 1,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 956,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 2,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058010
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 957,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 3,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058020
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 958,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 4,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058025
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 959,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 5,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058030
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 960,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 6,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058040
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 961,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 7,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058050
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 962,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 8,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058060
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 963,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 9,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058070
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 964,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 10,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058080
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 965,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 11,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058090
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 966,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 12,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058100,
+        10058105
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 967,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 13,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058110
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 968,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 14,
+      "recollection_number": 0,
+      "is_recollection": false,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058120
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 0,
+      "cleared_scenario_group_id": 0,
+      "recollection_summary_localize_scenario_id": 0,
+      "recollection_resource": "",
+      "is_recollection_horizon": false,
+      "reward_parcel_type": [],
+      "reward_id": [],
+      "reward_amount": []
+    },
+    {
+      "id": 969,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 15,
+      "recollection_number": 1,
+      "is_recollection": true,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058130
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 864,
+      "cleared_scenario_group_id": 10058120,
+      "recollection_summary_localize_scenario_id": 3958571189,
+      "recollection_resource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_864_01",
+      "is_recollection_horizon": true,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_id": [
+        3
+      ],
+      "reward_amount": [
+        10
+      ]
+    },
+    {
+      "id": 970,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 16,
+      "recollection_number": 2,
+      "is_recollection": true,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058140
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 864,
+      "cleared_scenario_group_id": 10058130,
+      "recollection_summary_localize_scenario_id": 2682898429,
+      "recollection_resource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_864_02",
+      "is_recollection_horizon": true,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_id": [
+        3
+      ],
+      "reward_amount": [
+        10
+      ]
+    },
+    {
+      "id": 971,
+      "event_content_id": 864,
+      "return_scenario_play": false,
+      "replay_display_group": 63,
+      "order": 17,
+      "recollection_number": 3,
+      "is_recollection": true,
+      "is_meetup": false,
+      "is_omnibus": false,
+      "scenario_group_id": [
+        10058150,
+        10058155
+      ],
+      "scenario_condition_type": 0,
+      "condition_amount": 0,
+      "condition_event_content_id": 864,
+      "cleared_scenario_group_id": 10058140,
+      "recollection_summary_localize_scenario_id": 2506146639,
+      "recollection_resource": "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_864_03",
+      "is_recollection_horizon": true,
+      "reward_parcel_type": [
+        2
+      ],
+      "reward_id": [
+        3
+      ],
+      "reward_amount": [
+        10
+      ]
     }
   ]
 }

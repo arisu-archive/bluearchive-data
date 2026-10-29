@@ -1,3 +1,2402 @@
 {
-  "data_list": null
+  "data_list": [
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001001,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1011103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1011103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001002,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001003,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 3394971269,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 25,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [
+        1
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001004,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1011105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1011105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001005,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4187819492,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 43,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        32101
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001006,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 1137439444,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 42,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001007,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1021101"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1021101
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001008,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1021103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1021103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001009,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 2520548018,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UICharacterCollection",
+        "UIGacha"
+      ],
+      "complete_condition_type": 26,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [
+        10
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001010,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1021105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1021105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001011,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001012,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 383264321,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIAcademyLobby"
+      ],
+      "complete_condition_type": 30,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001013,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1031103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1031103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001014,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 1859421411,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIWeekDungeonStageSelect|30101"
+      ],
+      "complete_condition_type": 70,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        30101
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001015,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 1907666802,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 69,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001016,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UIStageSelect|1031105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1031105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001017,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1563397754,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "complete_condition_type": 71,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001018,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 2400906688,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UISchoolDungeonStageSelect|60101"
+      ],
+      "complete_condition_type": 99,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        60101
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10006,
+      "id": 4001019,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 2612224247,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Iori",
+      "shortcut_ui": [
+        "UISchoolDungeonLobby"
+      ],
+      "complete_condition_type": 97,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002001,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1041103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1041103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002002,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002003,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4187819492,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 43,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        31102
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002004,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 1137439444,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 42,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002005,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1041105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1041105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002006,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 2400906688,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UISchoolDungeonStageSelect|60201"
+      ],
+      "complete_condition_type": 99,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        60201
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002007,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 2612224247,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UISchoolDungeonLobby"
+      ],
+      "complete_condition_type": 97,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002008,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 3815963787,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "complete_condition_type": 38,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002009,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1051103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1051103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002010,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 3394971269,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 25,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        2
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002011,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 2520548018,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UICharacterCollection",
+        "UIGacha"
+      ],
+      "complete_condition_type": 26,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [
+        20
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002012,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 3451597675,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 201,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [
+        2
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002013,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1051105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1051105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002014,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002015,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2400906688,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UISchoolDungeonStageSelect|60301"
+      ],
+      "complete_condition_type": 99,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        60301
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002016,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2612224247,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UISchoolDungeonLobby"
+      ],
+      "complete_condition_type": 97,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002017,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1061101"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1061101
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002018,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1061103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1061103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002019,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 254740587,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIArena"
+      ],
+      "complete_condition_type": 46,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002021,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIStageSelect|1061105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1061105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002022,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1563397754,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "complete_condition_type": 71,
+      "complete_condition_count": 3,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002023,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1859421411,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIWeekDungeonStageSelect|30202"
+      ],
+      "complete_condition_type": 70,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        30202
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10000,
+      "id": 4002024,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1907666802,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Aru",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 69,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003001,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1071103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1071103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003002,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1071105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1071105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003003,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003004,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1081103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1081103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003005,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1081105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1081105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003006,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 3394971269,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 25,
+      "complete_condition_count": 8,
+      "complete_condition_parameter": [
+        3
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003007,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 2520548018,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UICharacterCollection",
+        "UIGacha"
+      ],
+      "complete_condition_type": 26,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [
+        30
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003008,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 3451597675,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 201,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [
+        3
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003009,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1091103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1091103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003010,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4187819492,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 43,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        32103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003011,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 1137439444,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 42,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003012,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1091105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1091105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003013,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 1563397754,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "complete_condition_type": 71,
+      "complete_condition_count": 4,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003014,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 6,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003015,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1101103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1101103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003016,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 1859421411,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonStageSelect|30303"
+      ],
+      "complete_condition_type": 70,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        30303
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003017,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 1907666802,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 69,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003018,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIStageSelect|1101105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1101105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003019,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 4187819492,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 43,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        31104
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 20000,
+      "id": 4003020,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1137439444,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Hibiki",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 42,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004001,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1111103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1111103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004002,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1111105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1111105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004003,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 7,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004004,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 3394971269,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 25,
+      "complete_condition_count": 11,
+      "complete_condition_parameter": [
+        4
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004005,
+      "category": 13,
+      "is_legacy": false,
+      "step": 1,
+      "description": 2520548018,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICharacterCollection",
+        "UIGacha"
+      ],
+      "complete_condition_type": 26,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        35
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004006,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1121103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1121103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004007,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1121105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1121105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004008,
+      "category": 13,
+      "is_legacy": false,
+      "step": 2,
+      "description": 1563397754,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICafe"
+      ],
+      "complete_condition_type": 71,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004009,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1131103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004010,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 1859421411,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonStageSelect|30404"
+      ],
+      "complete_condition_type": 70,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        30404
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004011,
+      "category": 13,
+      "is_legacy": false,
+      "step": 3,
+      "description": 1907666802,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 69,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004012,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1131105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1131105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004013,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 2893671424,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [],
+      "complete_condition_type": 2,
+      "complete_condition_count": 8,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004014,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 4187819492,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 43,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        32105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004015,
+      "category": 13,
+      "is_legacy": false,
+      "step": 4,
+      "description": 1137439444,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|WeekDungeon"
+      ],
+      "complete_condition_type": 42,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004016,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1141103"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1141103
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004017,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 3394971269,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 25,
+      "complete_condition_count": 11,
+      "complete_condition_parameter": [
+        5
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004018,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 2520548018,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICharacterCollection",
+        "UIGacha"
+      ],
+      "complete_condition_type": 26,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        40
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004019,
+      "category": 13,
+      "is_legacy": false,
+      "step": 5,
+      "description": 3451597675,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UICharacterCollection"
+      ],
+      "complete_condition_type": 201,
+      "complete_condition_count": 5,
+      "complete_condition_parameter": [
+        4
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004020,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 4194295286,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIStageSelect|1141105"
+      ],
+      "complete_condition_type": 199,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1141105
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        5
+      ],
+      "mission_reward_amount": [
+        10
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004021,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1859421411,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonStageSelect|30504"
+      ],
+      "complete_condition_type": 70,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        30504
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004022,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1907666802,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIWeekDungeonLobby|Chaser"
+      ],
+      "complete_condition_type": 69,
+      "complete_condition_count": 2,
+      "complete_condition_parameter": [],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    },
+    {
+      "season_id": 1,
+      "character_id": 10024,
+      "id": 4004023,
+      "category": 13,
+      "is_legacy": false,
+      "step": 6,
+      "description": 1900656676,
+      "toast_display_type": 1,
+      "toast_image_path": "UIs/01_Common/01_Character/Student_Portrait_Shiroko_ridingsuit",
+      "shortcut_ui": [
+        "UIRaidLobby"
+      ],
+      "complete_condition_type": 200,
+      "complete_condition_count": 1,
+      "complete_condition_parameter": [
+        1
+      ],
+      "complete_condition_parameter_tag": [],
+      "mission_reward_parcel_type": [
+        2
+      ],
+      "mission_reward_parcel_id": [
+        1
+      ],
+      "mission_reward_amount": [
+        10000
+      ]
+    }
+  ]
 }

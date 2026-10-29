@@ -1,0 +1,24 @@
+{
+  "data_list": [
+    {
+      "start_count_duration": 4000,
+      "perfect_start_duration": 5000,
+      "first_pattern_trigger_offset": -4000,
+      "rival_spawn_offset": -2000,
+      "boss_spawn_offset": 3000,
+      "appear_surplus_speed": 3000,
+      "distance_to_player": 2000,
+      "disappear_accelerate_value": 3500,
+      "disappear_duration": 2750,
+      "adjust_accelerate_time": 800,
+      "obstacle_check_interval": 200,
+      "projectile_speed": 7000,
+      "projectile_extinct_time": 1000,
+      "boss_stage_speed": 2990,
+      "combo_voice_play_interval": 50,
+      "speed_effect_threshold1": 3000,
+      "speed_effect_threshold2": 5000,
+      "speed_visual_multiplier": 2
+    }
+  ]
+}
