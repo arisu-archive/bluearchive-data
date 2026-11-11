@@ -1,0 +1,21 @@
+{
+  "data_list": [
+    {
+      "time_limit_per_turn": 20,
+      "max_damage_rate": 10,
+      "damage_curve_coefficient": 2.5,
+      "draw_constant_attack": 6,
+      "draw_constant_block": 5,
+      "win_scene_rate": 3500,
+      "lose_scene_rate": 6500,
+      "enemy_appear_rate": 4000,
+      "player_sp_atk_condition_rate": 4601,
+      "enemy_sp_atk_condition_rate": 4000,
+      "atg_groggy_fixed_damage": 40000,
+      "max_skill_cost": 5,
+      "time_limit_qte": 3,
+      "stage_outro_time_offset": 1500,
+      "ui_boss_hp_bar_count": 320
+    }
+  ]
+}

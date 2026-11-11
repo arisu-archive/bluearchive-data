@@ -4450,6 +4450,51 @@
       "echelon_extension_type": 0
     },
     {
+      "id": 1038,
+      "use_boss_index": false,
+      "use_boss_ai_phase_sync": false,
+      "raid_boss_group": "Hieronymus_Street",
+      "portrait_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_Insane_Lobby",
+      "bg_path": "UIs/02_Tactics/06_Raid/Boss_Portrait_Hieronymus_LobbyBG_Street",
+      "raid_character_id": 7403800,
+      "boss_character_id": [
+        7403800
+      ],
+      "difficulty": 7,
+      "difficulty_open_condition": false,
+      "max_player_count": 1,
+      "raid_room_life_time": 3600000,
+      "battle_duration": 240000,
+      "ground_id": 204100008,
+      "raid_boss_group_type": 4,
+      "enter_time_line": "",
+      "tactic_environment": 0,
+      "default_clear_score": 17710000,
+      "maximum_score": 10368000,
+      "per_second_minus_score": 28800,
+      "hp_percent_score": 26315000,
+      "minimum_acquisition_score": 44025000,
+      "maximum_acquisition_score": 54393000,
+      "raid_reward_group_id": 407,
+      "battle_ready_timeline_path": [
+        "Timeline/Timeline_Hieronymus_Street_Insane_OP"
+      ],
+      "battle_ready_timeline_phase_start": [
+        0
+      ],
+      "battle_ready_timeline_phase_end": [
+        100
+      ],
+      "victory_timeline_path": "Timeline/Timeline_Victory",
+      "phase_change_timeline_path": "-1",
+      "time_line_phase": 1,
+      "enter_scenario_key": 0,
+      "clear_scenario_key": 0,
+      "show_skill_card": false,
+      "boss_bg_info_key": 3550217605,
+      "echelon_extension_type": 0
+    },
+    {
       "id": 1041,
       "use_boss_index": true,
       "use_boss_ai_phase_sync": false,

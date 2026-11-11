@@ -5,12 +5,14 @@
       "button_name": [
         "Btn_1",
         "Btn_Ok",
-        "Btn_Cancel"
+        "Btn_Cancel",
+        "Btn_Enable"
       ],
       "key_mapping_id": [
         "UI_KeyMapping_Common_BtnOK01",
         "UI_KeyMapping_Common_BtnOK01",
-        "UI_KeyMapping_Common_BtnCancel01"
+        "UI_KeyMapping_Common_BtnCancel01",
+        "UI_KeyMapping_Common_BtnOK01"
       ]
     },
     {
@@ -150,11 +152,13 @@
       "prefab_name": "UIDefeat",
       "button_name": [
         "Btn_ShowResult",
-        "Btn_Ok"
+        "Btn_Ok",
+        "BtnGrid/Btn_Retry"
       ],
       "key_mapping_id": [
         "UI_KeyMapping_Common_BtnOK01",
-        "UI_KeyMapping_Common_BtnOK01"
+        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_UIDefeat_Btn_Retry"
       ]
     },
     {
@@ -204,17 +208,6 @@
       "key_mapping_id": [
         "UI_KeyMapping_Common_BtnOK01",
         "UI_KeyMapping_Common_BtnCancel01"
-      ]
-    },
-    {
-      "prefab_name": "UIEventBoxGacha",
-      "button_name": [
-        "Btn_Ok",
-        "Btn_Retry"
-      ],
-      "key_mapping_id": [
-        "UI_KeyMapping_Common_BtnOK01",
-        "UI_KeyMapping_Common_BtnOK01_OnlyController"
       ]
     },
     {
@@ -2117,7 +2110,7 @@
       ],
       "key_mapping_id": [
         "UI_KeyMapping_Common_BtnOK02",
-        "UI_KeyMapping_Common_BtnOK01",
+        "UI_KeyMapping_Common_BtnOK01_Unfocused",
         "UI_KeyMapping_Common_BtnOK_IgnorePosCheck"
       ]
     },
@@ -3696,6 +3689,272 @@
       ],
       "key_mapping_id": [
         "UI_KeyMapping_CardGame_Btn_Rest_Pass"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal",
+      "button_name": [
+        "Arrow_R",
+        "Arrow_L",
+        "UIAttendanceTotal/Front/Contents/UIAttendanceTotal_Basic/ReplaySet",
+        "UIAttendanceTotal/Front/Contents/UIAttendanceTotal_Basic/ReplaySet"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_ArrowRight",
+        "UI_KeyMapping_Common_ArrowLeft",
+        "UI_KeyMapping_UIAttendanceTotal_Btn_Left",
+        "UI_KeyMapping_UIAttendanceTotal_Btn_Right"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal_ProductDailyRecordReward",
+      "button_name": [
+        "Btn/Btn_Reward"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Attendance_Btn_Reward"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal_SeasonRecord",
+      "button_name": [
+        "Btn/Btn_Cancel",
+        "Right/Btn/Btn_Buy",
+        "Right/Btn/Btn_Cancel",
+        "RightBottom/Btn/Btn_Reward"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Attendance_Btn_Cancel",
+        "UI_KeyMapping_Attendance_Btn_Buy",
+        "UI_KeyMapping_Attendance_Btn_Cancel",
+        "UI_KeyMapping_Attendance_Btn_Reward"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal",
+      "button_name": [
+        "Reward_Main/Arrow/Btn_Arrow_L",
+        "Reward_Main/Arrow/Btn_Arrow_R"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_SeasonRecord_Btn_Left",
+        "UI_KeyMapping_SeasonRecord_Btn_Right"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal_StreakRecord",
+      "button_name": [
+        "Btn/Btn_Reward"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Attendance_Btn_Reward"
+      ]
+    },
+    {
+      "prefab_name": "UIAttendanceTotal",
+      "button_name": [
+        "Contents/Tab"
+      ],
+      "key_mapping_id": [
+        "Tab_UIAttendanceTotal"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_StreakRecord_Notice",
+      "button_name": [
+        "Btn_Ok"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK01"
+      ]
+    },
+    {
+      "prefab_name": "UIEngrave",
+      "button_name": [
+        "Btn_NodeOpen/Btn_Enable"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Engrave_Btn"
+      ]
+    },
+    {
+      "prefab_name": "UIFormation_TacticalRelay",
+      "button_name": [
+        "UI/UIEdit/PositionChange"
+      ],
+      "key_mapping_id": [
+        "UIFormation_KeyMapping_PositionChange"
+      ]
+    },
+    {
+      "prefab_name": "UITacticalRelay_Lobby",
+      "button_name": [
+        "Right/Right_Widget/Tab"
+      ],
+      "key_mapping_id": [
+        "Tab_UITacticalRelay_Lobby"
+      ]
+    },
+    {
+      "prefab_name": "UIWeekTacticalRelayEnterPopup",
+      "button_name": [
+        "SweepButtons/Btn_Sweep",
+        "UIPopup_Default/Btn_Start"
+      ],
+      "key_mapping_id": [
+        "UIPopup_StageInfo_KeyMapping_Btn_Sweep",
+        "UI_KeyMapping_Common_BtnOK04_Controller"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken",
+      "button_name": [
+        "Bottom_Cost/UIIngame_Janken_SkillCard",
+        "Btn/Btn_Close",
+        "Btn/Btn_Disable",
+        "Btn/Btn_Ok",
+        "Top_Btn/Pause",
+        "Top_Btn/x1Speed",
+        "Top_Btn/x2Speed",
+        "Top_Btn/x3Speed"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Battle_Skill",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Close",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_OK",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_OK",
+        "UI_KeyMapping_Janken_Btn_Battle_Pause",
+        "UI_KeyMapping_Janken_Btn_Battle_Speed",
+        "UI_KeyMapping_Janken_Btn_Battle_Speed",
+        "UI_KeyMapping_Janken_Btn_Battle_Speed"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken",
+      "button_name": [
+        "Btn_Machine/Btn_Machine_Paper",
+        "Paper/Btn_Machine",
+        "Paper_1/Btn_Machine"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Paper",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Paper",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Paper"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken",
+      "button_name": [
+        "Btn_Machine/Btn_Machine_Rock",
+        "Rock/Btn_Machine",
+        "Rock_1/Btn_Machine"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Rock",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Rock",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Rock"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken",
+      "button_name": [
+        "Btn_Machine/Btn_Machine_Scissors",
+        "Scissors/Btn_Machine",
+        "Scissors_1/Btn_Machine"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Scissors",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Scissors",
+        "UI_KeyMapping_Janken_Btn_Battle_Skill_Scissors"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken_Formation",
+      "button_name": [
+        "Right_Bottom/Btn_Ok",
+        "UIJanken_Formation/Front/Right/Info/Btn_Menu/Btn_StudentInfo",
+        "UIJanken_Formation/Front/Right/Info/Btn_Menu/Btn_Equip"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Formation_BattleEnter",
+        "UI_KeyMapping_Janken_Formation_Btn_LeftTab",
+        "UI_KeyMapping_Janken_Formation_Btn_RightTab"
+      ]
+    },
+    {
+      "prefab_name": "UIJanken_Result",
+      "button_name": [
+        "Group/Btn_Ok"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Result_BtnOk"
+      ]
+    },
+    {
+      "prefab_name": "UIJankenStageLobby",
+      "button_name": [
+        "UIJankenStageLobby/Front/Right_Bottom/DifficultBtn"
+      ],
+      "key_mapping_id": [
+        "Tab_UIJankenStageLobby"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_JankenStageChallenge",
+      "button_name": [
+        "Btn/Btn_Enter"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Stage_Challange_Ok"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_JankenStageNormal",
+      "button_name": [
+        "Btn/Btn_Ok"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Stage_Normal_Ok"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_JankenStageStory",
+      "button_name": [
+        "Btn/Btn_Ok"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Janken_Btn_Stage_Story_Ok"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_AttendanceTotal_StreakRecordRestore",
+      "button_name": [
+        "Btn/Btn_Cancel",
+        "Btn/Btn_Ok"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnCancel01",
+        "UI_KeyMapping_Common_BtnOK01"
+      ]
+    },
+    {
+      "prefab_name": "UIPopup_WelcomeCampaignItem",
+      "button_name": [
+        "Btn_1"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_Common_BtnOK01"
+      ]
+    },
+    {
+      "prefab_name": "UICashShop",
+      "button_name": [
+        "Center/Arrow_L",
+        "Center/Arrow_R"
+      ],
+      "key_mapping_id": [
+        "UI_KeyMapping_RecommendPage_Btn_Left",
+        "UI_KeyMapping_RecommendPage_Btn_Right"
       ]
     }
   ]

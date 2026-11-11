@@ -246,6 +246,13 @@
       "mail": false
     },
     {
+      "protocol": "Character_AllocateEngraveNode",
+      "open_condition_content": 63,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Equipment_List",
       "open_condition_content": 21,
       "currency": false,
@@ -729,6 +736,27 @@
       "mail": true
     },
     {
+      "protocol": "Shop_GachaWishListGet",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Shop_GachaWishListSet",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Shop_GachaWishListBuy",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
       "protocol": "Recipe_Craft",
       "open_condition_content": 21,
       "currency": false,
@@ -960,6 +988,13 @@
       "mail": false
     },
     {
+      "protocol": "Raid_Reset",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "SkipHistory_List",
       "open_condition_content": 21,
       "currency": false,
@@ -1115,6 +1150,13 @@
     },
     {
       "protocol": "Scenario_SkipMainStage",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Scenario_Collection",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -1758,6 +1800,20 @@
       "mail": false
     },
     {
+      "protocol": "Clan_KickHistoryCancel",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Clan_KickHistoryList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Billing_TransactionStartByYostar",
       "open_condition_content": 21,
       "currency": false,
@@ -2178,6 +2234,27 @@
       "mail": true
     },
     {
+      "protocol": "EventContent_ClueSearchInvestigate",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchReveal",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "EventContent_ClueSearchBatchSubmit",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
       "protocol": "TTS_GetFile",
       "open_condition_content": 21,
       "currency": false,
@@ -2575,6 +2652,48 @@
       "currency": false,
       "inventory": false,
       "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenLobby",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenSetEchelon",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEquipmentLevelUp",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEnterBattle",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "MiniGame_JankenEndBattle",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": true
+    },
+    {
+      "protocol": "MiniGame_JankenScoreReward",
+      "open_condition_content": 61,
+      "currency": false,
+      "inventory": false,
+      "mail": true
     },
     {
       "protocol": "Notification_LobbyCheck",
@@ -3067,6 +3186,13 @@
       "mail": false
     },
     {
+      "protocol": "EliminateRaid_Reset",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
       "protocol": "Attachment_Get",
       "open_condition_content": 21,
       "currency": false,
@@ -3089,6 +3215,27 @@
     },
     {
       "protocol": "Attachment_EmblemAttach",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Attachment_StudentFrameList",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Attachment_StudentFrameAcquire",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "Attachment_StudentFrameAttach",
       "open_condition_content": 21,
       "currency": false,
       "inventory": false,
@@ -3249,6 +3396,34 @@
       "mail": false
     },
     {
+      "protocol": "DailyRecord_ClaimStreakReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_SupplementSeasonAttendance",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_ClaimSeasonReward",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "DailyRecord_RestoreStreakAttendance",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
+    },
+    {
       "protocol": "Option_Save",
       "open_condition_content": 21,
       "currency": true,
@@ -3338,6 +3513,69 @@
       "currency": false,
       "inventory": false,
       "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_Lobby",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_RankingInfo",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_EnterBattle",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": true,
+      "mail": true
+    },
+    {
+      "protocol": "TacticalRelay_EndBattle",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "TacticalRelay_GiveUp",
+      "open_condition_content": 62,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Sync",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Start",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_GrowthStep",
+      "open_condition_content": 21,
+      "currency": false,
+      "inventory": false,
+      "mail": false
+    },
+    {
+      "protocol": "CharacterAdaptation_Receive",
+      "open_condition_content": 21,
+      "currency": true,
+      "inventory": true,
+      "mail": true
     }
   ]
 }

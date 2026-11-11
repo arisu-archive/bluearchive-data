@@ -43039,6 +43039,960 @@
       "restrict_buy_when_inventory_full": false
     },
     {
+      "event_content_id": 860,
+      "id": 8600000,
+      "localize_etc_id": 1688668283,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45600
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 90,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600001,
+      "localize_etc_id": 2952503379,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45601
+      ],
+      "display_order": 2,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 70,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600002,
+      "localize_etc_id": 2949797158,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45602
+      ],
+      "display_order": 3,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 60,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600003,
+      "localize_etc_id": 2795379965,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45603
+      ],
+      "display_order": 4,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 25,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600004,
+      "localize_etc_id": 3845598785,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45604
+      ],
+      "display_order": 5,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 30,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600005,
+      "localize_etc_id": 900390661,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45605
+      ],
+      "display_order": 6,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 18,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600006,
+      "localize_etc_id": 3502659760,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45606
+      ],
+      "display_order": 7,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 12,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600007,
+      "localize_etc_id": 306884790,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45607
+      ],
+      "display_order": 8,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 4,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600008,
+      "localize_etc_id": 3541905306,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45608
+      ],
+      "display_order": 9,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 30,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600009,
+      "localize_etc_id": 2136120808,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45609
+      ],
+      "display_order": 10,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 60,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600010,
+      "localize_etc_id": 788318352,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45610
+      ],
+      "display_order": 11,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600011,
+      "localize_etc_id": 2893958235,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45611
+      ],
+      "display_order": 12,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 6,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600012,
+      "localize_etc_id": 1569225040,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45612
+      ],
+      "display_order": 13,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600013,
+      "localize_etc_id": 4077917950,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45613
+      ],
+      "display_order": 14,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600014,
+      "localize_etc_id": 493877113,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45614
+      ],
+      "display_order": 15,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600015,
+      "localize_etc_id": 3618294141,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45615
+      ],
+      "display_order": 16,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600016,
+      "localize_etc_id": 4055095110,
+      "category_type": 13,
+      "is_legacy": false,
+      "goods_id": [
+        45616
+      ],
+      "display_order": 17,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600100,
+      "localize_etc_id": 3433802547,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45617
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 180,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600101,
+      "localize_etc_id": 1229651923,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45618
+      ],
+      "display_order": 2,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 95,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600102,
+      "localize_etc_id": 596368071,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45619
+      ],
+      "display_order": 3,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 70,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600103,
+      "localize_etc_id": 2336304110,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45620
+      ],
+      "display_order": 4,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 25,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600104,
+      "localize_etc_id": 3462709848,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45621
+      ],
+      "display_order": 5,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 50,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600105,
+      "localize_etc_id": 1087187983,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45622
+      ],
+      "display_order": 6,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 38,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600106,
+      "localize_etc_id": 574779445,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45623
+      ],
+      "display_order": 7,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 25,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600107,
+      "localize_etc_id": 4146364185,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45624
+      ],
+      "display_order": 8,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 15,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600108,
+      "localize_etc_id": 1475262601,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45625
+      ],
+      "display_order": 9,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 30,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600109,
+      "localize_etc_id": 3050372668,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45626
+      ],
+      "display_order": 10,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 60,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600110,
+      "localize_etc_id": 3846626706,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45627
+      ],
+      "display_order": 11,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600111,
+      "localize_etc_id": 675535925,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45628
+      ],
+      "display_order": 12,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 6,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600112,
+      "localize_etc_id": 3408710330,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45629
+      ],
+      "display_order": 13,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600113,
+      "localize_etc_id": 2665872474,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45630
+      ],
+      "display_order": 14,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 10,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600114,
+      "localize_etc_id": 2122048137,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45631
+      ],
+      "display_order": 15,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600115,
+      "localize_etc_id": 2023463617,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45632
+      ],
+      "display_order": 16,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600116,
+      "localize_etc_id": 2683341399,
+      "category_type": 14,
+      "is_legacy": false,
+      "goods_id": [
+        45633
+      ],
+      "display_order": 17,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600200,
+      "localize_etc_id": 3756781228,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45634
+      ],
+      "display_order": 1,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600201,
+      "localize_etc_id": 2930254365,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45635
+      ],
+      "display_order": 2,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 20,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600202,
+      "localize_etc_id": 753025034,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45636
+      ],
+      "display_order": 3,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600203,
+      "localize_etc_id": 4008312686,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45637
+      ],
+      "display_order": 4,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600204,
+      "localize_etc_id": 2742210412,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45638
+      ],
+      "display_order": 5,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 6,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600205,
+      "localize_etc_id": 2742161069,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45639
+      ],
+      "display_order": 6,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600206,
+      "localize_etc_id": 933585740,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45640
+      ],
+      "display_order": 7,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600207,
+      "localize_etc_id": 1066886482,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45641
+      ],
+      "display_order": 8,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600208,
+      "localize_etc_id": 4263181528,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45642
+      ],
+      "display_order": 9,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 6,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600209,
+      "localize_etc_id": 1731163637,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45643
+      ],
+      "display_order": 10,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600210,
+      "localize_etc_id": 2042390877,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45644
+      ],
+      "display_order": 11,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 2,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600211,
+      "localize_etc_id": 535298119,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45645
+      ],
+      "display_order": 12,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600212,
+      "localize_etc_id": 1773086852,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45646
+      ],
+      "display_order": 13,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600213,
+      "localize_etc_id": 1575353856,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45647
+      ],
+      "display_order": 14,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600214,
+      "localize_etc_id": 3531188161,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45648
+      ],
+      "display_order": 15,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600215,
+      "localize_etc_id": 991149378,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45649
+      ],
+      "display_order": 16,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600216,
+      "localize_etc_id": 1058688122,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45650
+      ],
+      "display_order": 17,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600217,
+      "localize_etc_id": 1642565089,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45651
+      ],
+      "display_order": 18,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 1,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
+      "event_content_id": 860,
+      "id": 8600218,
+      "localize_etc_id": 2683341399,
+      "category_type": 15,
+      "is_legacy": false,
+      "goods_id": [
+        45652
+      ],
+      "display_order": 19,
+      "sale_period_from": "",
+      "sale_period_to": "",
+      "purchase_cooltime_min": 0,
+      "purchase_count_limit": 0,
+      "purchase_count_reset_type": 0,
+      "buy_report_event_name": "",
+      "restrict_buy_when_inventory_full": false
+    },
+    {
       "event_content_id": 10801,
       "id": 18010001,
       "localize_etc_id": 4230958326,

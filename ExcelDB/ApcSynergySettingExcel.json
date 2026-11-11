@@ -1,0 +1,61 @@
+{
+  "data_list": [
+    {
+      "id": 1,
+      "apc_synergy_group_id": 10001,
+      "trigger_type": 4,
+      "trigger_value": [
+        "10020",
+        "20052"
+      ],
+      "trigger_value_count": [
+        1,
+        1
+      ],
+      "passive_skill_group_id": [
+        "Ally_Debuff_StatChange_DefensePower_PassiveSkill01"
+      ],
+      "passive_skill_level": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "apc_synergy_group_id": 10001,
+      "trigger_type": 2,
+      "trigger_value": [
+        "Gehenna"
+      ],
+      "trigger_value_count": [
+        2
+      ],
+      "passive_skill_group_id": [
+        "Ally_Buff_StatChange_CriticalPoint_PassiveSkill01",
+        "Ally_Debuff_StatChange_WeaponSRMG_AttackPower_PassiveSkill01"
+      ],
+      "passive_skill_level": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "apc_synergy_group_id": 10001,
+      "trigger_type": 4,
+      "trigger_value": [
+        "10005",
+        "10004"
+      ],
+      "trigger_value_count": [
+        2,
+        2
+      ],
+      "passive_skill_group_id": [
+        "Ally_Debuff_StatChange_DefensePower_PassiveSkill01"
+      ],
+      "passive_skill_level": [
+        1
+      ]
+    }
+  ]
+}

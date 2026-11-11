@@ -49,6 +49,12 @@
       "stat_trans_type": 1
     },
     {
+      "trans_support_stats": 93,
+      "echelon_extension_type": 0,
+      "trans_support_stats_factor": 10000,
+      "stat_trans_type": 2
+    },
+    {
       "trans_support_stats": 1,
       "echelon_extension_type": 1,
       "trans_support_stats_factor": 500,
@@ -95,6 +101,12 @@
       "echelon_extension_type": 1,
       "trans_support_stats_factor": 1000,
       "stat_trans_type": 1
+    },
+    {
+      "trans_support_stats": 93,
+      "echelon_extension_type": 1,
+      "trans_support_stats_factor": 10000,
+      "stat_trans_type": 2
     }
   ]
 }
