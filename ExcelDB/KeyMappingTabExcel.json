@@ -727,6 +727,45 @@
       "right_icon_position_y": -60,
       "right_icon_scale_x": 1,
       "right_icon_scale_y": 1
+    },
+    {
+      "id": "Tab_UITacticalRelay_Lobby",
+      "left_arrow_key": "leftShoulder",
+      "right_arrow_key": "rightShoulder",
+      "left_icon_position_x": -550,
+      "left_icon_position_y": -60,
+      "left_icon_scale_x": 1,
+      "left_icon_scale_y": 1,
+      "right_icon_position_x": 512,
+      "right_icon_position_y": -60,
+      "right_icon_scale_x": 1,
+      "right_icon_scale_y": 1
+    },
+    {
+      "id": "Tab_UIJankenStageLobby",
+      "left_arrow_key": "leftShoulder",
+      "right_arrow_key": "rightShoulder",
+      "left_icon_position_x": -550,
+      "left_icon_position_y": -60,
+      "left_icon_scale_x": 1,
+      "left_icon_scale_y": 1,
+      "right_icon_position_x": 512,
+      "right_icon_position_y": -60,
+      "right_icon_scale_x": 1,
+      "right_icon_scale_y": 1
+    },
+    {
+      "id": "Tab_UIAttendanceTotal",
+      "left_arrow_key": "leftShoulder",
+      "right_arrow_key": "rightShoulder",
+      "left_icon_position_x": 175,
+      "left_icon_position_y": 265,
+      "left_icon_scale_x": 1,
+      "left_icon_scale_y": 1,
+      "right_icon_position_x": 1410,
+      "right_icon_position_y": 265,
+      "right_icon_scale_x": 1,
+      "right_icon_scale_y": 1
     }
   ]
 }
