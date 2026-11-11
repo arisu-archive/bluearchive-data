@@ -161389,21 +161389,21 @@
     {
       "id": 530400011,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 5,
+      "level_minion": 5,
+      "level_elite": 5,
+      "level_champion": 5,
+      "level_boss": 5,
       "obstacle_level": 10,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161447,29 +161447,41 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 530400012,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 15,
+      "level_minion": 15,
+      "level_elite": 15,
+      "level_champion": 15,
+      "level_boss": 15,
       "obstacle_level": 15,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161513,29 +161525,41 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 530400013,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 30,
+      "level_minion": 30,
+      "level_elite": 30,
+      "level_champion": 30,
+      "level_boss": 30,
       "obstacle_level": 20,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161579,29 +161603,41 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 530400014,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 70,
+      "level_minion": 70,
+      "level_elite": 70,
+      "level_champion": 70,
+      "level_boss": 70,
       "obstacle_level": 30,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161645,29 +161681,41 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 530400015,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 80,
+      "level_minion": 80,
+      "level_elite": 80,
+      "level_champion": 80,
+      "level_boss": 80,
       "obstacle_level": 40,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161711,29 +161759,41 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 530400016,
       "stage_file_name": [
-        "520701_arena_outdoor_stage01"
+        "530401_arena_indoor_stage01"
       ],
-      "ground_scene_name": "ArtLevel/sb_02_cargostation_p02_n",
-      "formation_group_id": 5104,
+      "ground_scene_name": "ArtLevel/sb_03_oldmansion_p01_n",
+      "formation_group_id": 5304,
       "stage_topography": [
         2
       ],
       "enemy_bullet_type": 0,
       "enemy_armor_type": 0,
       "enemy_sub_armor_type": 0,
-      "level_npc": 0,
-      "level_minion": 0,
-      "level_elite": 0,
-      "level_champion": 0,
-      "level_boss": 0,
+      "level_npc": 90,
+      "level_minion": 90,
+      "level_elite": 90,
+      "level_champion": 90,
+      "level_boss": 90,
       "obstacle_level": 50,
       "grade_npc": 0,
       "grade_minion": 0,
@@ -161777,10 +161837,22 @@
       "ui_skill_main_log_scale": 0,
       "effect_count_limit": 0,
       "carrier_skill_group_id": 0,
-      "ally_passive_skill_id": [],
-      "ally_passive_skill_level": [],
-      "enemy_passive_skill_id": [],
-      "enemy_passive_skill_level": []
+      "ally_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "ally_passive_skill_level": [
+        1,
+        1
+      ],
+      "enemy_passive_skill_id": [
+        "Arena12Passive01",
+        "Arena12Passive02"
+      ],
+      "enemy_passive_skill_level": [
+        1,
+        1
+      ]
     },
     {
       "id": 601000001,
