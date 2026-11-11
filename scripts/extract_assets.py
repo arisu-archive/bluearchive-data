@@ -89,7 +89,7 @@ def main() -> None:
     with tempfile.TemporaryDirectory(prefix="sqlcipher-key-", dir=runner_temp) as temporary:
         key_path = Path(temporary, "key.pem")
         url = (
-            f"https://ba.pokeguy.dev/{config['package']}/decompiled/"
+            f"https://ba.pokeguy.dev/{config['package']}/"
             f"{args.version}/key.pem"
         )
         request = urllib.request.Request(url, headers={"User-Agent": "bluearchive-data-ci"})
